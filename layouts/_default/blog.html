@@ -1,0 +1,92 @@
+{{ define "main" }}
+  {{ $mainSections := .Site.Params.mainSections | default (slice "posts") }}
+  {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+  {{ $section_count := len $section }}
+  {{ range first 1 (where $section ".Params.featured" "=" true) }}
+    {{- $bg := resources.Get "images/bg-blog.png" -}}
+    <section class="uk-section-default uk-position-relative">
+      <div class="uk-child-width-1-2@l uk-grid-collapse uk-visible@l" data-uk-grid>
+        <div></div>
+        <div class="uk-background-cover" style="background-image: url({{ $bg.Permalink }})">
+          {{ if .Params.image }}
+            <div class="uk-blog-featured-image"><img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" width="640" height="640"></div>
+          {{ end }}
+        </div>
+      </div>
+      <div class="uk-container uk-position-cover@l uk-flex uk-flex-middle">
+        <div class="uk-child-width-1-2@l uk-grid-large" data-uk-grid>
+          <div>
+            <div class="uk-blog-featured-content">
+              {{ range first 1 .Params.categories }}
+                <div class="uk-text-primary uk-text-uppercase uk-text-medium uk-margin-xxs-bottom">{{ . }}</div>
+              {{ end }}
+                <h2 class="uk-heading-medium uk-margin-remove uk-text-semi-bold">{{ .Title }}</h2>
+                <div class="uk-text-large uk-margin-xs-top">{{ .Summary }}</div>
+                {{if isset .Params "author"}}  
+                  {{ $user := where .Site.Data.authors "username" .Params.author }}
+                  <div class="uk-margin-xxs-top">{{ index $user 0 "name" }}</div>
+                {{end}}
+                <div class="uk-margin-s-top"><a class="uk-button uk-button-link" href="{{ .Permalink }}">Read Article</a></div>
+            </div>
+          </div>
+          <div>
+            {{ if .Params.image }}
+              <div class="uk-blog-featured-image uk-hidden@l"><img src="{{ .Params.image | absURL }}" alt="{{ .Title }}"></div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  {{ if ge $section_count 1 }}
+    <section class="uk-section-secondary uk-section bg-dark text-light position-relative bg-content" style="background-image: url('');">
+      <div class="overlay overlay-news" style="background-image: url('');"></div>
+      <div class="container position-relative">
+        <div class="row gy-5">
+          {{ range (first 1 $section) }}
+            <div class="col-12">
+              <div class="card-post featured">
+                <div class="position-relative">
+                  <span class="badge bg-primary position-absolute top-0 start-0">FEATURED</span>
+                  <a class="" href="{{.Permalink}}">
+                    <img src="{{ .Params.feature_image | absURL }}" class="img-fluid" alt="{{ .Title }}">
+                  </a>
+                  <div class="meta">{{ .PublishDate.Format "January 2006" }}
+                    <span class="ms-3">Categories: </span>
+                    {{ range .Params.categories }}
+                      <span class="ms-1">{{ . }}</span>
+                    {{ end }}
+                  </div>
+                  <div class="row g-3">
+                    <div class="col-xl"><h4><a href="{{.Permalink}}">{{ .Title }}</a></h4></div>
+                    <div class="col-xl-auto">
+                      <a class="btn btn-primary" href="{{ .Permalink }}" role="button">Read more<span></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {{ end }}
+
+          {{ if ge $section_count 2 }}
+            {{ range (first 3 (after 1 $section)) }}
+              {{ partial "card-post.html" . }}
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+    <section class="uk-section-muted">
+      <div class="container">
+        <div class="row gy-5">
+          {{ if ge $section_count 5 }}
+            {{ range (after 4 $section)  }}
+              {{ partial "card-post.html" . }}
+            {{ end }}
+          {{ end }}      
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}

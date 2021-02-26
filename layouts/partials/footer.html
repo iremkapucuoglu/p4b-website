@@ -1,0 +1,91 @@
+{{- $data := .Site.Data.footer -}}
+<section class="uk-section-xxl uk-section-muted">
+  <div class="uk-container uk-container-small uk-text-center">
+    {{ with $data.cta.heading }}
+      <h2 class="uk-heading-small uk-margin-remove uk-text-semi-bold">{{ . }}</h2>
+    {{ end }}
+    <div class="uk-child-width-auto@m uk-flex uk-flex-center uk-flex-middle uk-margin-s-top" data-uk-grid>
+      {{ if $data.cta.button_primary.url }}
+        <div><a class="uk-button uk-button-secondary" href="{{ $data.cta.button_primary.url | relURL }}">{{ $data.cta.button_primary.text }}</a></div>
+      {{ end }}
+      {{ if $data.cta.button_secondary.url }}
+        <div><a class="uk-button uk-button-link" href="{{ $data.cta.button_secondary.url | relURL }}">{{ $data.cta.button_secondary.text }}</a></div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<footer class="uk-section-xxl uk-padding-remove-bottom uk-section-secondary">
+  <div class="uk-container">
+    <div class="uk-data-grid" data-uk-grid>
+      <div class="uk-width-2-3@m">
+        <div class="uk-background-bottom-right uk-background-norepeat" style="background-image: url();">
+          <h3 class="uk-heading-medium uk-width-3-4@m uk-padding-remove-horizontal">{{ $data.heading }}</h3>
+        </div>
+      </div>
+      <div class="uk-width-1-3@m">
+        <form>
+          <label class="uk-form-label" for="signup-email">{{ $data.signup.label }}</label>
+          <div class="uk-grid-collapse" data-uk-grid>
+            <div class="uk-width-expand">
+              <input id="email-931017ff-7968-494c-92cc-7aa6251b843e" class="uk-input" type="email" name="email" placeholder="{{ $data.signup.placeholder }}" required>
+            </div>
+            <div class="uk-width-auto uk-flex uk-flex-middle">
+              <button class="uk-button" type="submit"><img src=""></button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="uk-margin-large-top" data-uk-grid>
+      <div class="uk-width-1-2 uk-width-expand@m">
+        <ul class="uk-nav uk-text-size-m">
+          {{ range .Site.Menus.footer_col_1 }}
+          <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="uk-width-1-2 uk-width-expand@m">
+        <ul class="uk-nav uk-text-size-m">
+          {{ range .Site.Menus.footer_col_2 }}
+          <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="uk-width-expand@m">
+        <ul class="uk-nav uk-text-size-m">
+          {{ range .Site.Menus.footer_col_3 }}
+          <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="uk-width-1-3@m">
+        <div class="uk-child-width-auto uk-flex uk-flex-left uk-flex-right@m uk-margin-small-top" data-uk-grid>
+          {{ range .Site.Data.social }}
+            <div><a href="{{ .url | absURL }}" target="_blank"><img src=""></a></div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    <hr class="uk-margin-xlarge-top">
+    <div class="uk-child-width-1-2@m uk-subfooter" data-uk-grid>
+      <div class="uk-flex uk-flex-center uk-flex-middle uk-flex-left@m uk-copyright">
+        {{ $data.copyright }}
+      </div>
+      <div class="uk-flex uk-flex-center uk-flex-middle uk-flex-right@m">
+        <ul class="uk-subnav">
+          {{ $.Scratch.Set "counter" 0 }}
+          {{ range .Site.Menus.subfooter }}
+            {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+            {{ $count := $.Scratch.Get "counter" }}
+            {{ if gt $count 1 }}
+              <li class="uk-text-muted">|</li>
+            {{ end }}
+            <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>        
+      </div>
+    </div>
+    
+  </div>
+</footer>

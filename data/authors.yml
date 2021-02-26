@@ -1,0 +1,11 @@
+---
+- username: mikaela
+  name: Mikaela Barnes
+  image: https://via.placeholder.com/48
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  linkedin: https://linkedin.com/username
+- username: john
+  name: John Smith
+  image: https://via.placeholder.com/48
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  linkedin: https://linkedin.com/username

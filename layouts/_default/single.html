@@ -1,0 +1,49 @@
+{{ define "main" }}
+  <section id="section-article" class="section-article">
+    <div class="container article-container">
+      {{ $section := .Site.GetPage "section" .Section }}
+      <article>
+        {{- .Content -}}
+      </article>    
+    </div>
+    <div class="container">
+      <div class="news-paginate position-relative">
+        {{ if or .Prev .Next -}}
+          <div class="d-flex">
+            {{ $pages := where site.RegularPages "Section" .Section -}}
+            <div class="w-50 pe-5">
+            {{ with $pages.Next . -}}
+              <div class="label">Previous article</div>
+              <h5>{{ .Title }}</h5>
+              <div class="meta">{{ .PublishDate.Format "January 2006" }}
+                <span class="ms-3">Categories: </span>
+                {{ range .Params.categories }}
+                  <span class="ms-1">{{ . }}</span>
+                {{ end }}
+              </div>
+              <div class="intro">{{ .Params.intro_paragraph }}</div>
+              <a class="btn btn-primary text-end me-4" href="{{ .Permalink }}"><span class="left"><img src="" alt="Arrow" height="10" width="11" /></span>Read more</a>
+            {{ end -}}
+            </div>
+            <div class="w-50 ps-5">
+            {{ with $pages.Prev . -}}
+              <div class="label text-end">Next article</div>
+              <h5 class=" text-end">{{ .Title }}</h5>
+              <div class="meta  text-end">{{ .PublishDate.Format "January 2006" }}
+                <span class="ms-3">Categories: </span>
+                {{ range .Params.categories }}
+                  <span class="ms-1">{{ . }}</span>
+                {{ end }}
+              </div>
+              <div class="intro text-end">{{ .Params.intro_paragraph }}</div>
+              <div class="text-end">            
+                <a class="btn btn-primary text-start " href="{{ .Permalink }}"><span class="right"><img src="" alt="Arrow" height="10" width="11" /></span>Read more</a>
+              </div>
+            {{ end -}}
+            </div>
+          </div>
+        {{ end -}}
+      </div>
+    </div>
+  </section>
+{{ end }}

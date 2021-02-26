@@ -1,0 +1,49 @@
+<div id="mobile" class="uk-modal-full uk-background-default uk-nav-mobile" uk-modal>
+  <div class="uk-modal-dialog">
+    <div class="uk-container uk-container-expand uk-margin-xs-top">
+      <a class="uk-logo" href="{{ "/" | absURL }}">
+        {{ if .Site.Params.site_logo }}
+          {{- $logo := resources.Get .Site.Params.site_logo -}}
+          <img src="{{ $logo.RelPermalink }}" alt="{{ $.Site.Title }}">
+        {{ else }}
+          {{ $.Site.Title }}
+        {{ end }}
+      </a>
+      <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+    </div>
+    
+    <div class="uk-margin-s-top">
+      <ul class="uk-nav-primary uk-nav-parent-icon uk-nav-center" data-uk-nav>
+        {{- $current := . -}}
+        {{ range .Site.Menus.main -}}
+          {{ $active := in $current.RelPermalink .URL }}
+          {{ if .HasChildren }}
+            {{ $active := in $current.RelPermalink .URL }}
+            <li class="uk-parent">
+              {{- $dropdown := resources.Get "images/dropdown.svg" -}}
+              <a href="#">{{ .Name }}</a>
+              <ul class="uk-nav-sub">
+                {{ range .Children }}
+                  {{ if eq .Name "divider" }}
+                    <li class="uk-nav-divider"></li>
+                  {{ else }}
+                    <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                  {{ end }}
+                {{ end }}
+              </ul>
+            </li>
+          {{ else }}
+            {{ if .Params.button }}
+              <li>
+                <a class="uk-mobile-button-{{ .Params.button }}" href="{{ .URL | absURL }}">{{ .Name }}</a>
+              </li>
+            {{ else }}
+              <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </ul>              
+    </div>
+    
+  </div>
+</div>

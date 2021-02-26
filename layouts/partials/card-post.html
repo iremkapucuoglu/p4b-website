@@ -1,0 +1,17 @@
+{{- $arrow := resources.Get "images/arrow-button.svg" -}}
+<div class="col-lg-6 col-xl-4">
+  <div class="card-news">
+    <div class="position-relative bg-image square" style="background-image: url('{{ .Params.feature_image | absURL }}');">
+      <a class="overlay" href="{{.Permalink}}"></a>
+    </div>
+    <div class="meta">{{ .PublishDate.Format "January 2006" }}
+      <span class="ms-3">Categories: </span>
+      {{ range .Params.categories }}
+        <span class="ms-1">{{ . }}</span>
+      {{ end }}
+    </div>
+    <h4><a href="{{.Permalink}}">{{ .Title }}</a></h4>
+    <div class="card-intro">{{ .Params.intro_paragraph | truncate 135 }}</div>
+    <a class="btn btn-primary" href="{{ .Permalink }}" role="button">Read more<span></span></a>
+  </div>
+</div>       

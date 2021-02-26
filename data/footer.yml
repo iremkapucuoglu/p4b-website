@@ -1,0 +1,14 @@
+---
+heading: Latest updates straight to your inbox
+signup:
+  label: Enter your email
+  placeholder: Special spot for you
+copyright: "© 2021 Blorem"
+cta:
+  heading: The exceptional employee experience starts with
+  button_primary:
+    text: Request a demo
+    url: "/"
+  button_secondary:
+    text: Get started
+    url: "/"

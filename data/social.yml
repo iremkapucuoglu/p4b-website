@@ -1,0 +1,9 @@
+---
+- url: "/"
+  icon: "/images/icon-instagram.svg"
+- url: "/"
+  icon: "/images/icon-dribbble.svg"
+- url: "/"
+  icon: "/images/icon-medium.svg"
+- url: "/"
+  icon: "/images/icon-linkedin.svg"

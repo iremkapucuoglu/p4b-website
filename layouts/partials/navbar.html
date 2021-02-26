@@ -1,0 +1,68 @@
+<nav class="uk-navbar-container">
+  <div class="uk-container">
+    <div data-uk-navbar>
+      <div class="uk-navbar-left">
+
+        <a class="uk-navbar-item uk-logo" href="{{ "/" | absURL }}">
+          {{ if .Site.Params.site_logo }}
+            {{- $logo := resources.Get .Site.Params.site_logo -}}
+            <img src="{{ $logo.RelPermalink }}" alt="{{ $.Site.Title }}">
+            {{- $logo_light := resources.Get .Site.Params.site_logo_light -}}
+            <img src="{{ $logo_light.RelPermalink }}" class="uk-logo-inverse" alt="{{ $.Site.Title }}">        
+          {{ else }}
+            {{ .Site.Title }}
+          {{ end }}
+        </a>
+
+      </div>
+
+      <div class="uk-navbar-right">
+
+        <ul class="uk-navbar-nav uk-visible@l">
+          {{- $current := . -}}
+          {{ range .Site.Menus.main -}}
+            {{ $active := in $current.RelPermalink .URL }}
+            {{ if .HasChildren }}
+              {{ $active := in $current.RelPermalink .URL }}
+              <li>
+                {{- $dropdown := resources.Get "images/dropdown.svg" -}}
+                <a href="#">{{ .Name }}<span><img src="{{ $dropdown.Permalink }}" alt="Arrow" height="5" width="8" /></span></a>
+                <div class="uk-navbar-dropdown" data-uk-dropdown="mode: click">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                    {{ range .Children }}
+                      {{ if eq .Name "divider" }}
+                        <li class="uk-nav-divider"></li>
+                      {{ else }}
+                        <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                      {{ end }}
+                    {{ end }}
+                  </ul>
+                </div>
+              </li>
+            {{ else }}
+              {{ if .Params.button }}
+                <li>
+                  <div class="uk-navbar-item">
+                    <a class="uk-button uk-button-{{ .Params.button }}" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                  </div>
+                </li>
+              {{ else }}
+                <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </ul>
+
+        <a class="uk-navbar-toggle uk-hidden@l" href="#mobile" aria-label="Mobile Navigation" data-uk-toggle>
+          <svg id="Menu" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <path id="Path_7844" data-name="Path 7844" d="M0,0H24V24H0Z" fill="none"/>
+            <rect id="Rectangle_5045" data-name="Rectangle 5045" width="24" height="2" transform="translate(0 5)"/>
+            <rect id="Rectangle_5046" data-name="Rectangle 5046" width="24" height="2" transform="translate(0 11)"/>
+            <rect id="Rectangle_5047" data-name="Rectangle 5047" width="24" height="2" transform="translate(0 17)"/>
+          </svg>
+        </a>
+
+      </div>
+    </div>
+  </div>
+</nav>

@@ -3,3 +3,7 @@ languageCode = "en-us"
 title = "Lorem"
 site_logo = "images/logo.svg"
 site_logo_light = "images/logo.svg"
+[[menu.navbar]]
+name = "For executives"
+url = "/"
+weight = 1

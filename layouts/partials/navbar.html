@@ -3,12 +3,10 @@
     <div data-uk-navbar>
       <div class="uk-navbar-left">
 
-        <a class="uk-navbar-item uk-logo" href="{{ "/" | absURL }}">
+        <a class="uk-navbar-item uk-logo" href="{{ "/" | relLangURL }}">
           {{ if .Site.Params.site_logo }}
-            {{- $logo := resources.Get .Site.Params.site_logo -}}
-            <img src="{{ $logo.RelPermalink }}" alt="{{ $.Site.Title }}">
-            {{- $logo_light := resources.Get .Site.Params.site_logo_light -}}
-            <img src="{{ $logo_light.RelPermalink }}" class="uk-logo-inverse" alt="{{ $.Site.Title }}">        
+            <img src="{{ .Site.Params.site_logo | absURL }}" alt="{{ $.Site.Title }}" width="170">
+            <img src="{{ .Site.Params.site_logo_light | absURL }}" class="uk-logo-inverse" alt="{{ $.Site.Title }}" width="170">        
           {{ else }}
             {{ .Site.Title }}
           {{ end }}
@@ -16,11 +14,11 @@
 
       </div>
 
-      <div class="uk-navbar-right">
+      <div class="uk-navbar-center">
 
         <ul class="uk-navbar-nav uk-visible@l">
           {{- $current := . -}}
-          {{ range .Site.Menus.navbar -}}
+          {{ range .Site.Menus.center -}}
             {{ $active := in $current.RelPermalink .URL }}
             {{ if .HasChildren }}
               {{ $active := in $current.RelPermalink .URL }}
@@ -52,17 +50,54 @@
             {{ end }}
           {{ end }}
         </ul>
+      
+      </div>
+      <div class="uk-navbar-right">
         
         {{ if .IsTranslated }}
-        <h4>{{ i18n "translations" }}</h4>
-        <ul class="pl0 mr3">
+          <ul class="uk-navbar-nav">
             {{ range .Translations }}
-            <li class="list f5 f4-ns fw4 dib pr3">
-                <a class="hover-white no-underline white-90" href="{{ .RelPermalink }}">{{ .Lang }}</a>
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .Lang }}</a>
             </li>
             {{ end}}
-        </ul>
+            </ul>
         {{ end }}
+        
+        <ul class="uk-navbar-nav uk-visible@l">
+          {{- $current := . -}}
+          {{ range .Site.Menus.right -}}
+            {{ $active := in $current.RelPermalink .URL }}
+            {{ if .HasChildren }}
+              {{ $active := in $current.RelPermalink .URL }}
+              <li>
+                {{- $dropdown := resources.Get "images/dropdown.svg" -}}
+                <a href="#">{{ .Name }}<span><img src="{{ $dropdown.Permalink }}" alt="Arrow" height="5" width="8" /></span></a>
+                <div class="uk-navbar-dropdown" data-uk-dropdown="mode: click">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                    {{ range .Children }}
+                      {{ if eq .Name "divider" }}
+                        <li class="uk-nav-divider"></li>
+                      {{ else }}
+                        <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                      {{ end }}
+                    {{ end }}
+                  </ul>
+                </div>
+              </li>
+            {{ else }}
+              {{ if .Params.button }}
+                <li>
+                  <div class="uk-navbar-item">
+                    <a class="uk-button uk-button-{{ .Params.button }}" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                  </div>
+                </li>
+              {{ else }}
+                <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </ul>
 
         <a class="uk-navbar-toggle uk-hidden@l" href="#mobile" aria-label="Mobile Navigation" data-uk-toggle>
           <svg id="Menu" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">

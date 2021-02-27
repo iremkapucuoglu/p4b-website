@@ -1,136 +1,193 @@
 baseURL = ""
 languageCode = "en-us"
-site_logo = "images/logo.svg"
-site_logo_light = "images/logo.svg"
 title = "Lorem"
 
-
+[params]
+site_logo = "images/logo.png"
+site_logo_light = "images/logo-light.png"
+copyright = "Open Accessibility 2020 | All Rights Reserved"
+email = "info@plab4better.de"
+phone = "+49  1923 000 000"
+address = "Arcisstraße 21 80333 München Germany"
 
 [languages]
 [languages.en]
 title = "My blog"
 weight = 1
 contentDir = "content/en"
-[[languages.en.menu.navbar]]
+
+[[languages.en.menu.right]]
+name = "Try GOAT"
+url = "/try-goat/"
+weight = 1
+[languages.en.menu.right.params]
+button= "primary"
+
+[[languages.en.menu.center]]
 name = "Contact"
 url = "/contact/"
 weight = 5
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "Team"
 url = "/team/"
 weight = 4
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "Blog"
 url = "/blog/"
 weight = 3
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "Consultancy"
 parent = "Competences"
 url = "/consultancy/"
 weight = 3
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "Trainings"
 parent = "Competences"
 url = "/trainings/"
 weight = 2
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "Web-GIS"
 parent = "Competences"
 url = "/webgis/"
 weight = 1
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "Competences"
 weight = 2
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "Docs"
 parent = "GOAT"
 url = "/docs/"
 weight = 5
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
 url = "/tutorials/"
 weight = 4
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "Videos"
 parent = "GOAT"
 url = "/videos/"
 weight = 3
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "GOATlive"
 parent = "GOAT"
 url = "/goatlive/"
 weight = 2
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
 url = "/what-is-goat/"
 weight = 1
-[[languages.en.menu.navbar]]
+[[languages.en.menu.center]]
 name = "GOAT"
 url = "/"
 weight = 1
+
+[[languages.en.menu.footer]]
+name = "Home"
+url = "/"
+weight = 1
+[[languages.en.menu.footer]]
+name = "Services"
+url = "/"
+weight = 3
+[[languages.en.menu.footer]]
+name = "Work"
+url = "/"
+weight = 2
+
+
+
+[[languages.en.menu.social]]
+name = "Twitter"
+url = "#"
+weight = 1
+[languages.en.menu.social.params]
+icon = "twitter"
+[[languages.en.menu.social]]
+name = "Linkedin"
+url = "#"
+weight = 2
+[languages.en.menu.social.params]
+icon = "linkedin"
+[[languages.en.menu.social]]
+name = "GitHub"
+url = "#"
+weight = 3
+[languages.en.menu.social.params]
+icon = "github"
 
 [languages.de]
 title = "Mon blogue"
 weight = 2
 contentDir = "content/de"
-[[languages.de.menu.navbar]]
+
+[[languages.de.menu.right]]
+name = "Versuchen GOAT"
+url = "/try-goat/"
+weight = 1
+[languages.de.menu.right.params]
+button= "primary"
+
+[[languages.de.menu.center]]
 name = "Contact DE"
 url = "/contact/"
 weight = 5
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "Team"
 url = "/team/"
 weight = 4
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "Blog"
 url = "/blog/"
 weight = 3
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "Consultancy"
 parent = "Competences"
 url = "/consultancy/"
 weight = 3
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "Trainings"
 parent = "Competences"
 url = "/trainings/"
 weight = 2
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "Web-GIS"
 parent = "Competences"
 url = "/webgis/"
 weight = 1
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "Competences"
 weight = 2
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "Docs"
 parent = "GOAT"
 url = "/docs/"
 weight = 5
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
 url = "/tutorials/"
 weight = 4
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "Videos"
 parent = "GOAT"
 url = "/videos/"
 weight = 3
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "GOATlive"
 parent = "GOAT"
 url = "/goatlive/"
 weight = 2
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
 url = "/what-is-goat/"
 weight = 1
-[[languages.de.menu.navbar]]
+[[languages.de.menu.center]]
 name = "GOAT"
 url = "/"
 weight = 1
+
+
+

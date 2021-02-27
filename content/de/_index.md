@@ -1,6 +1,6 @@
 ---
 title: Home
-heading: Latest updates straight to your inbox
+heading: Latest updates straight to your inbox in German
 signup:
   label: Enter your email
   placeholder: Special spot for you

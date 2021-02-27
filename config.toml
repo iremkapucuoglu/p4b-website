@@ -76,7 +76,7 @@ title = "Mon blogue"
 weight = 2
 contentDir = "content/de"
 [[languages.de.menu.navbar]]
-name = "Contact"
+name = "Contact DE"
 url = "/contact/"
 weight = 5
 [[languages.de.menu.navbar]]

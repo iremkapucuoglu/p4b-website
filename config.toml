@@ -3,62 +3,134 @@ languageCode = "en-us"
 site_logo = "images/logo.svg"
 site_logo_light = "images/logo.svg"
 title = "Lorem"
-[[menu.navbar]]
+
+
+
+[languages]
+[languages.en]
+title = "My blog"
+weight = 1
+contentDir = "content/en"
+[[languages.en.menu.navbar]]
 name = "Contact"
 url = "/contact/"
 weight = 5
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "Team"
 url = "/team/"
 weight = 4
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "Blog"
 url = "/blog/"
 weight = 3
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "Consultancy"
 parent = "Competences"
 url = "/consultancy/"
 weight = 3
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "Trainings"
 parent = "Competences"
 url = "/trainings/"
 weight = 2
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "Web-GIS"
 parent = "Competences"
 url = "/webgis/"
 weight = 1
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "Competences"
 weight = 2
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "Docs"
 parent = "GOAT"
 url = "/docs/"
 weight = 5
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "Tutorials"
 parent = "GOAT"
 url = "/tutorials/"
 weight = 4
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "Videos"
 parent = "GOAT"
 url = "/videos/"
 weight = 3
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "GOATlive"
 parent = "GOAT"
 url = "/goatlive/"
 weight = 2
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
 name = "What is GOAT?"
 parent = "GOAT"
 url = "/what-is-goat/"
 weight = 1
-[[menu.navbar]]
+[[languages.en.menu.navbar]]
+name = "GOAT"
+url = "/"
+weight = 1
+
+[languages.de]
+title = "Mon blogue"
+weight = 2
+contentDir = "content/de"
+[[languages.de.menu.navbar]]
+name = "Contact"
+url = "/contact/"
+weight = 5
+[[languages.de.menu.navbar]]
+name = "Team"
+url = "/team/"
+weight = 4
+[[languages.de.menu.navbar]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+[[languages.de.menu.navbar]]
+name = "Consultancy"
+parent = "Competences"
+url = "/consultancy/"
+weight = 3
+[[languages.de.menu.navbar]]
+name = "Trainings"
+parent = "Competences"
+url = "/trainings/"
+weight = 2
+[[languages.de.menu.navbar]]
+name = "Web-GIS"
+parent = "Competences"
+url = "/webgis/"
+weight = 1
+[[languages.de.menu.navbar]]
+name = "Competences"
+weight = 2
+[[languages.de.menu.navbar]]
+name = "Docs"
+parent = "GOAT"
+url = "/docs/"
+weight = 5
+[[languages.de.menu.navbar]]
+name = "Tutorials"
+parent = "GOAT"
+url = "/tutorials/"
+weight = 4
+[[languages.de.menu.navbar]]
+name = "Videos"
+parent = "GOAT"
+url = "/videos/"
+weight = 3
+[[languages.de.menu.navbar]]
+name = "GOATlive"
+parent = "GOAT"
+url = "/goatlive/"
+weight = 2
+[[languages.de.menu.navbar]]
+name = "What is GOAT?"
+parent = "GOAT"
+url = "/what-is-goat/"
+weight = 1
+[[languages.de.menu.navbar]]
 name = "GOAT"
 url = "/"
 weight = 1

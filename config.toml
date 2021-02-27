@@ -1,9 +1,34 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Lorem"
 site_logo = "images/logo.svg"
 site_logo_light = "images/logo.svg"
+title = "Lorem"
 [[menu.navbar]]
-name = "For executives"
+name = "Docs"
+parent = "GOAT"
+url = "/"
+weight = 5
+[[menu.navbar]]
+name = "Tutorials"
+parent = "GOAT"
+url = "/"
+weight = 4
+[[menu.navbar]]
+name = "Videos"
+parent = "GOAT"
+url = "/"
+weight = 3
+[[menu.navbar]]
+name = "GOATlive"
+parent = "GOAT"
+url = "/"
+weight = 2
+[[menu.navbar]]
+name = "What is GOAT?"
+parent = "GOAT"
+url = "/"
+weight = 1
+[[menu.navbar]]
+name = "GOAT"
 url = "/"
 weight = 1

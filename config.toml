@@ -4,29 +4,47 @@ site_logo = "images/logo.svg"
 site_logo_light = "images/logo.svg"
 title = "Lorem"
 [[menu.navbar]]
+name = "Consultancy"
+parent = "Competences"
+url = "/consultancy/"
+weight = 3
+[[menu.navbar]]
+name = "Trainings"
+parent = "Competences"
+url = "/trainings/"
+weight = 2
+[[menu.navbar]]
+name = "Web-GIS"
+parent = "Competences"
+url = "/webgis/"
+weight = 1
+[[menu.navbar]]
+name = "Competences"
+weight = 2
+[[menu.navbar]]
 name = "Docs"
 parent = "GOAT"
-url = "/"
+url = "/docs/"
 weight = 5
 [[menu.navbar]]
 name = "Tutorials"
 parent = "GOAT"
-url = "/"
+url = "/tutorials/"
 weight = 4
 [[menu.navbar]]
 name = "Videos"
 parent = "GOAT"
-url = "/"
+url = "/videos/"
 weight = 3
 [[menu.navbar]]
 name = "GOATlive"
 parent = "GOAT"
-url = "/"
+url = "/goatlive/"
 weight = 2
 [[menu.navbar]]
 name = "What is GOAT?"
 parent = "GOAT"
-url = "/"
+url = "/what-is-goat/"
 weight = 1
 [[menu.navbar]]
 name = "GOAT"

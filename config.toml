@@ -4,6 +4,18 @@ site_logo = "images/logo.svg"
 site_logo_light = "images/logo.svg"
 title = "Lorem"
 [[menu.navbar]]
+name = "Contact"
+url = "/contact/"
+weight = 5
+[[menu.navbar]]
+name = "Team"
+url = "/team/"
+weight = 4
+[[menu.navbar]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+[[menu.navbar]]
 name = "Consultancy"
 parent = "Competences"
 url = "/consultancy/"

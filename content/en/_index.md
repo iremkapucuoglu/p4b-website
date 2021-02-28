@@ -25,7 +25,7 @@ blocks:
     are transforming spatial and transport planning towards a more open, joyful and
     efficient reality.  
   heading: Playground for shaping livable spaces
-  image: "/uploads/charles-deluvio-lks7vei-eag-unsplash.jpg"
+  image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
   video: YdAIBlPVe9s
 - template: features-block
   block: features

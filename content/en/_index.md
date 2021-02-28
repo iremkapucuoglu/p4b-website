@@ -29,7 +29,20 @@ blocks:
   video: YdAIBlPVe9s
 - template: features-block
   block: features
-  background: default
+  background: muted
+  features:
+  - icon: "/uploads/icon-circle.svg"
+    heading: Innovation
+    text: 'Always driving for cutting-edge technology. '
+  - icon: "/uploads/icon-square-yellow.svg"
+    heading: Joy
+    text: Make urban and transport planning fun.
+  - icon: "/uploads/icon-triangle-primary.svg"
+    heading: Balance
+    text: Evidence-based planning decisions.
+  text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+    eu fugiat nulla pariatur. '
+  heading: Dolor in reprehenderit
 - template: card-block
   block: card
   layout: left

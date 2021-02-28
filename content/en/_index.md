@@ -15,5 +15,30 @@ header:
   button:
     text: Try Goat
     url: "/try-goat/"
+blocks:
+- template: card-block
+  block: card
+  layout: left
+  background: default
+  text: Our aim is to help planners and decision-makers to promote active mobility
+    and plan for a balanced future. By providing understandable planning tools, we
+    are transforming spatial and transport planning towards a more open, joyful and
+    efficient reality.  
+  heading: Playground for shaping livable spaces
+  image: "/uploads/charles-deluvio-lks7vei-eag-unsplash.jpg"
+  video: YdAIBlPVe9s
+- template: features-block
+  block: features
+  background: default
+- template: card-block
+  block: card
+  layout: left
+  background: default
+- template: recent-posts-block
+  block: recent-posts
+  background: default
+- template: logos-block
+  block: logos
+  background: default
 
 ---

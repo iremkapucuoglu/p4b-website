@@ -10,7 +10,7 @@ header:
   layout: left
   heading: Let's balance the future together!
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur. '
+    eu fugiat nulla. '
   image: "/images/isochrone_amenities.png"
   button:
     text: Try Goat
@@ -23,8 +23,7 @@ blocks:
   background: default
   text: Our aim is to help planners and decision-makers to promote active mobility
     and plan for a balanced future. By providing understandable planning tools, we
-    are transforming spatial and transport planning towards a more open, joyful and
-    efficient reality.  
+    are transforming transport.
   heading: Playground for shaping livable spaces
   image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
   video: YdAIBlPVe9s

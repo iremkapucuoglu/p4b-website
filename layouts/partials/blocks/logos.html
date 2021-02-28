@@ -1,10 +1,16 @@
 <section class="uk-section-large uk-section-{{ .background }}">
-  <div class="uk-container">
-    {{ with .heading }}
-      <h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
-    {{ end }}
-    {{ with .text }}
-      <div class="uk-text-lead uk-margin-top">{{ . }}</div>
+  <div class="uk-container uk-text-center">
+    {{ if or .heading .text }}
+      <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex">
+        <div class="uk-width-3-4@m uk-width-1-2@l">
+          {{ with .heading }}
+            <h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
+          {{ end }}
+          {{ with .text }}
+            <div class="uk-text-lead uk-margin-top">{{ . }}</div>
+          {{ end }}
+        </div>
+      </div>
     {{ end }}
     <div class="uk-child-width-1-2 uk-child-width-1-4@m uk-flex uk-flex-center uk-flex-middle uk-grid-large uk-margin-medium-top" data-uk-grid>
       {{ range .logos }}

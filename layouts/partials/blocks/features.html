@@ -1,10 +1,10 @@
 <section class="uk-section-large uk-section-{{ .background }}">
   <div class="uk-container">
     {{ if or .heading .text }}
-      <div class="uk-text-center uk-text-left@m uk-margin-medium-bottom">
+      <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex">
         <div class="uk-width-3-4@m uk-width-1-2@l">
           {{ with .heading }}
-            <h2 class="uk-h1 uk-margin-remove uk-text-semi-bold">{{ . }}</h2>
+            <h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
           {{ end }}
           {{ with .text }}
             <div class="uk-text-lead uk-margin-top">{{ . }}</div>

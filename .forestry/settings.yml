@@ -9,11 +9,15 @@ sections:
   label: Pages EN
   create: all
   match: "*"
+  templates:
+  - blocks
 - type: directory
   path: content/de
   label: Pages DE
   create: all
   match: "*"
+  templates:
+  - blocks
 - type: directory
   path: content/en/posts
   label: Posts EN

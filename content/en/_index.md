@@ -11,7 +11,7 @@ header:
   heading: Let's balance the future together!
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
     eu fugiat nulla pariatur. '
-  image: "/images/goat.png"
+  image: "/images/isochrone_amenities.png"
   button:
     text: Try Goat
     url: "/try-goat/"

@@ -261,7 +261,7 @@ h6, .uk-h6,
  * Sizes
  */
 h1, .uk-h1 {
-  font-size: 2.23125rem;
+  font-size: 1.9125rem;
   line-height: 1.2; }
 
 h2, .uk-h2 {
@@ -287,7 +287,7 @@ h6, .uk-h6 {
 /* Tablet landscape and bigger */
 @media (min-width: 960px) {
   h1, .uk-h1 {
-    font-size: 2.625rem; }
+    font-size: 2.25rem; }
   h2, .uk-h2 {
     font-size: 2rem; } }
 
@@ -3110,13 +3110,13 @@ select.uk-form-width-xsmall {
 /* Title
  ========================================================================== */
 .uk-article-title {
-  font-size: 2.23125rem;
+  font-size: 1.9125rem;
   line-height: 1.2; }
 
 /* Tablet landscape and bigger */
 @media (min-width: 960px) {
   .uk-article-title {
-    font-size: 2.625rem; } }
+    font-size: 2.25rem; } }
 
 /* Meta
  ========================================================================== */
@@ -3389,7 +3389,7 @@ select.uk-form-width-xsmall {
 .uk-search-large .uk-search-input {
   height: 80px;
   background: transparent;
-  font-size: 2.625rem; }
+  font-size: 2.25rem; }
 
 /*
  * Icon

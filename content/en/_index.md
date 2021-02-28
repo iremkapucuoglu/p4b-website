@@ -68,11 +68,11 @@ blocks:
   logos:
   - "/images/logo-tum-1.png"
   - "/images/logo-mfund-1.png"
-  - "/images/logo-bmvi-1.png"
+  - "/images/1-1.png"
   - "/images/5-1.png"
   - "/images/4-1.png"
   - "/images/3-1.png"
+  - "/images/logo-bmvi-1.png"
   - "/images/2-1.png"
-  - "/images/1-1.png"
 
 ---

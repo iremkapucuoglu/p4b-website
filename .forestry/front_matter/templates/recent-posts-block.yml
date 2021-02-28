@@ -1,4 +1,30 @@
 ---
 label: Recent posts block
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: Block
+  hidden: true
+  default: recent-posts
+- name: background
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    - muted
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading

@@ -64,6 +64,14 @@ blocks:
   block: logos
   background: default
   heading: Partners
-  logos: []
+  logos:
+  - "/uploads/logo-tum-1.png"
+  - "/uploads/logo-mfund-1.png"
+  - "/uploads/logo-bmvi-1.png"
+  - "/uploads/5-1.png"
+  - "/uploads/4-1.png"
+  - "/uploads/3-1.png"
+  - "/uploads/2-1.png"
+  - "/uploads/1-1.png"
 
 ---

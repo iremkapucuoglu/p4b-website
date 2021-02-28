@@ -1,6 +1,6 @@
 $global-primary-background:               #2BB381;         
 $global-secondary-background:             #283648;
-// $global-muted-background:                 #fafafa;
+$global-muted-background:                 #fafafa;
 // $global-danger-background:                #f66470; 
 // $global-warning-background:               #facd04;
 
@@ -20,6 +20,16 @@ $base-link-color:                         $global-primary-background;
 $button-text-transform: 									none;
 
 $navbar-background:                       transparent;
+$navbar-nav-item-color:                   $global-color;
+$navbar-nav-item-font-size:               0.9375rem;
+// $navbar-nav-item-font-family:                    $global-font-family !default;
+$navbar-nav-item-hover-color:             $global-primary-background;
+// $navbar-nav-item-onclick-color:                  $global-emphasis-color !default;
+$navbar-nav-item-active-color:            $global-color;
+$navbar-dropdown-nav-item-color:          $global-color;
+$navbar-dropdown-nav-item-hover-color:    $global-primary-background;
+
+
 
 $text-lead-font-size:                     1.25rem;
 $text-lead-line-height:                   1.65;
@@ -35,4 +45,5 @@ $text-lead-line-height:                   1.65;
 // $text-large-font-size:                           $global-large-font-size !default;
 // $text-large-line-height:                         1.5 !default;
 
+$border-rounded-medium:										8px;
 $border-rounded-large:										16px;

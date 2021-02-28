@@ -23,21 +23,21 @@
             {{ if .HasChildren }}
               {{ $active := in $current.RelPermalink .URL }}
               <li>
-                {{- $dropdown := resources.Get "images/dropdown.svg" -}}
-                <a href="#">{{ .Name }}<span><img src="{{ $dropdown.Permalink }}" alt="Arrow" height="5" width="8" /></span></a>
+                <a href="#">{{ .Name }}<span>{{ readFile "assets/images/dropdown.svg" | safeHTML }}</span></a>
                 <div class="uk-navbar-dropdown uk-navbar-dropdown-width-2 uk-padding-remove-horizontal" data-uk-drop="boundary: .parent; boundary-align: true; pos: bottom-justify; mode: click">
                   <div class="uk-navbar-dropdown-grid uk-child-width-1-2 uk-margin-top uk-margin-bottom" uk-grid>
                     <div>
-                      <h3>{{ .Params.heading }}</h3>
-                      <div>{{ .Params.text }}</div>
+                      <h4>{{ .Params.heading }}</h4>
+                      <div class="uk-text-muted">{{ .Params.text }}</div>
                     </div>
                     <div>
-                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                      <ul class="uk-nav uk-navbar-dropdown-nav uk-text-bold">
                         {{ range .Children }}
+                          {{ $active_child := in $current.RelPermalink .URL }}
                           {{ if eq .Name "divider" }}
                             <li class="uk-nav-divider"></li>
                           {{ else }}
-                            <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                            <li{{ if $active_child }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
                           {{ end }}
                         {{ end }}
                       </ul>
@@ -63,7 +63,7 @@
       <div class="uk-navbar-right">
         
         {{ if .IsTranslated }}
-          <ul class="uk-navbar-nav">
+          <ul class="uk-navbar-nav uk-text-uppercase">
             {{ range .Translations }}
             <li>
                 <a href="{{ .RelPermalink }}">{{ .Lang }}</a>

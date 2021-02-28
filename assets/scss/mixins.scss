@@ -12,6 +12,17 @@
 //   box-shadow: 0 14px 25px rgba($color: $global-primary-background, $alpha: 0.2);
 // } 
 
+@mixin hook-navbar-nav-item(){
+  font-weight: 600;
+  span {
+    margin-left: 3px;
+    margin-top: -2px;
+  }
+}
+
+
+
+
 @mixin hook-utility-misc(){
   .uk-text-xsmall {
     font-size: 0.75rem;
@@ -19,9 +30,44 @@
   .uk-text-spacing-small {
     letter-spacing: 0.03em;
   }
+  // header.uk-section-muted {
+  //   .uk-navbar-dropbar, .uk-navbar-dropdown {
+  //     background: $global-muted-background;
+  //   }
+  // }
+  
+  // .uk-section-default {
+  //   position: relative;
+  //   z-index: 1;
+  // }
+  // 
+  // .uk-section-muted {
+  //   background-image: url(/images/section-shape-top.svg),url(/images/section-shape-bottom.svg);
+  //   position: relative;
+  //   z-index: 0;
+  //   background-size: 1200px;
+  //   background-repeat: repeat-x;
+  //   background-position: center top, center bottom;
+  //   margin: -1px 0;
+  // }
+  // 
+  // footer.uk-section-secondary {
+  //   background-image: url(/images/section-shape-top.svg);
+  //   position: relative;
+  //   z-index: 0;
+  //   background-size: 1200px;
+  //   background-repeat: repeat-x;
+  //   background-position: center top, center bottom;
+  //   margin-top: -1px;
+  // }
+  
+  // has-shapes bg-light-gray has-bg-brash bg-brash-y
   
   .uk-text-semi-bold {
     font-weight: 600;
+  }
+  .uk-border-rounded-medium {
+    border-radius: $border-rounded-medium;
   }
   .uk-border-rounded-large {
     border-radius: $border-rounded-large;
@@ -33,11 +79,18 @@
     padding-right: 40px;
   }
   .uk-navbar-dropdown-grid>div:not(.uk-first-column)::before {
-  //   content: "";
-  //   position: absolute;
-  //   top: 0;
-  //   bottom: 0;
     left: 0;
-  //   border-left: 1px solid $global-border;
+  } 
+  .uk-navbar-nav li a[aria-expanded="true"] svg {
+    transform: rotate(-180deg);
+  }
+  .uk-navbar-nav li:hover svg {
+    fill: $navbar-nav-item-hover-color;
+  }
+  .uk-navbar-nav li a[aria-expanded="true"] {}
+  .uk-navbar-nav li a svg {
+    transition: transform .3s;
+    transform: rotate(0deg);
+    transform-origin: center;
   } 
 }

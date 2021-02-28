@@ -49,9 +49,7 @@ blocks:
   background: default
   image: "/images/goat.png"
   text: Walking and cycling require attractive transport infrastructure and destinations
-    at close distance. GOAT offers interactive map-based analysis to plan active mobility,
-    boost local accessibility and operationalize the 15-minute neighborhood in your
-    community. 
+    at close distance. GOAT offers interactive map-based analysis.
   heading: Ipsum dolor sit amet
   button:
     url: "/"

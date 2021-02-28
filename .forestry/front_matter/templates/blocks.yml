@@ -73,3 +73,14 @@ fields:
       label: URL
     label: Button
   label: Header
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types:
+  - card-block
+  - features-block
+  - logos-block
+  - recent-posts-block
+  config:
+    min: 
+    max: 

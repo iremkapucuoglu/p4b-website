@@ -25,7 +25,6 @@ fields:
       required: false
       options:
       - left
-      - full
       - center
       - none
       source:

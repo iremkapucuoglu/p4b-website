@@ -1,0 +1,30 @@
+<section class="uk-section-xxl uk-section-muted">
+  <div class="uk-container uk-container-xsmall uk-text-center">
+    {{ with .subheading }}
+      <div class="uk-text-primary uk-text-uppercase uk-text-medium uk-margin-xxs-bottom">{{ . }}</div>
+    {{ end }}
+    {{ with .heading }}
+      <h2 class="uk-h1 uk-margin-remove uk-text-semi-bold">{{ . }}</h2>
+    {{ end }}
+    {{ with .text }}
+      <div class="uk-text-size-m uk-margin-xxs-top">{{ . }}</div>
+    {{ end }}
+    {{- $icon := resources.Get "images/icon-play.svg" -}}
+  </div>
+  <div class="uk-container uk-text-center">
+    <div class="uk-inline uk-margin-xl-top">
+      <img src="{{ .image | absURL }}" alt="{{ .heading }}">
+      <div class="uk-position-cover uk-overlay uk-overlay-primary"></div>
+      <div class="uk-position-center">
+        <a class="uk-play-icon" href="#modal-video" data-uk-toggle><img src="{{ $icon.Permalink }}" alt="play" height="216" width="216"></a>
+      </div>
+    </div>
+  </div>
+</section>
+<div id="modal-video" class="uk-flex-top" data-uk-modal>
+  <div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical">
+    <button class="uk-modal-close-outside" type="button" data-uk-close></button>
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ .video }}" width="1120" height="630" frameborder="0" data-uk-video
+      data-uk-responsive></iframe>
+  </div>
+</div>

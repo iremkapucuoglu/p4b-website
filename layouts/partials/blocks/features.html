@@ -1,0 +1,27 @@
+<section class="uk-section-large uk-section-{{ .background }}">
+  <div class="uk-container">
+    <div class="uk-text-center uk-text-left@m">
+      {{ with .heading }}
+        <h2 class="uk-h1 uk-margin-remove uk-text-semi-bold">{{ . }}</h2>
+      {{ end }}
+      {{ with .text }}
+        <div class="uk-text-size-m uk-margin-xxs-top">{{ . }}</div>
+      {{ end }}
+    </div>
+    <div class="uk-child-width-1-2@s uk-child-width-1-3@m uk-grid-large" data-uk-grid>
+      {{ range .features }}
+        <div>
+          {{ if .icon }}
+          <img src="{{ .icon | absURL }}" alt="{{ .heading }}" width="48" height="48">
+          {{ end }}
+          {{ with .heading }}
+          <h3 class="uk-margin-s-top uk-text-semi-bold uk-text-uppercase uk-text-size-m">{{ . }}</h3>
+          {{ end }}
+          {{ with .text }}
+          <div class="uk-text-size-m uk-margin-xl-bottom">{{ . }}</div>
+          {{ end }} 
+        </div>    
+      {{ end }}       
+    </div>
+  </div>
+</section>

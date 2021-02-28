@@ -11,10 +11,10 @@ header:
   heading: Let's balance the future together!
   text: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
     eu fugiat nulla pariatur.
-  image: "/uploads/goat.png"
+  image: "/images/goat.png"
   button:
     text: Try GOAT
     url: "/try-goat/"
-  background_image: "/uploads/bastien-nvs-qysbqek0bts-unsplash.jpg"
+  background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
 
 ---

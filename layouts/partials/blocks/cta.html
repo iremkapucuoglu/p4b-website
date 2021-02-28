@@ -1,0 +1,21 @@
+<section class="uk-section-xxxl uk-section-{{ .background }} uk-background-cover uk-background-norepeat"{{ if .background_image }} style="background-image: url({{ .background_image | absURL }})"{{ end }}>
+  <div class="uk-container uk-container-small uk-text-center">
+    {{ with .subheading }}
+      <div class="uk-text-primary uk-text-uppercase uk-text-medium uk-margin-xxs-bottom">{{ . }}</div>
+    {{ end }}
+    {{ with .heading }}
+      <h2 class="uk-heading-small uk-margin-remove uk-text-semi-bold">{{ . }}</h2>
+    {{ end }}
+    {{ with .text }}
+      <div class="uk-text-size-m uk-margin-xxs-top">{{ . }}</div>
+    {{ end }}
+    <div class="uk-child-width-auto@m uk-flex uk-flex-center uk-flex-middle uk-margin-s-top" data-uk-grid>
+      {{ if .button_primary.url }}
+        <div><a class="uk-button uk-button-secondary" href="{{ .button_primary.url | relURL }}">{{ .button_primary.text }}</a></div>
+      {{ end }}
+      {{ if .button_secondary.url }}
+        <div><a class="uk-button uk-button-link" href="{{ .button_secondary.url | relURL }}">{{ .button_secondary.text }}</a></div>
+      {{ end }}
+    </div>
+  </div>
+</section>

@@ -34,10 +34,10 @@ blocks:
   - icon: "/images/icon-circle.svg"
     heading: Innovation
     text: 'Always driving for cutting-edge technology. '
-  - icon: "/uploads/icon-square-yellow.svg"
+  - icon: "/images/icon-square-yellow.svg"
     heading: Joy
     text: Make urban and transport planning fun.
-  - icon: "/uploads/icon-triangle-primary.svg"
+  - icon: "/images/icon-triangle-primary.svg"
     heading: Balance
     text: Evidence-based planning decisions.
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
@@ -47,7 +47,7 @@ blocks:
   block: card
   layout: left
   background: default
-  image: "/uploads/goat.png"
+  image: "/images/goat.png"
   text: Walking and cycling require attractive transport infrastructure and destinations
     at close distance. GOAT offers interactive map-based analysis to plan active mobility,
     boost local accessibility and operationalize the 15-minute neighborhood in your
@@ -65,13 +65,13 @@ blocks:
   background: default
   heading: Partners
   logos:
-  - "/uploads/logo-tum-1.png"
-  - "/uploads/logo-mfund-1.png"
-  - "/uploads/logo-bmvi-1.png"
-  - "/uploads/5-1.png"
-  - "/uploads/4-1.png"
-  - "/uploads/3-1.png"
-  - "/uploads/2-1.png"
-  - "/uploads/1-1.png"
+  - "/images/logo-tum-1.png"
+  - "/images/logo-mfund-1.png"
+  - "/images/logo-bmvi-1.png"
+  - "/images/5-1.png"
+  - "/images/4-1.png"
+  - "/images/3-1.png"
+  - "/images/2-1.png"
+  - "/images/1-1.png"
 
 ---

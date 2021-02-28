@@ -58,9 +58,12 @@ blocks:
     text: 'Optional '
 - template: recent-posts-block
   block: recent-posts
-  background: default
+  background: muted
+  heading: Recent Posts
 - template: logos-block
   block: logos
   background: default
+  heading: Partners
+  logos: []
 
 ---

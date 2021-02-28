@@ -1,26 +1,23 @@
 <section class="uk-section-large uk-section-{{ .background }}">
 	<div class="uk-container">
-		<div class="uk-child-width-1-2@l uk-grid-large" data-uk-grid>
+		<div class="uk-child-width-1-2@m uk-grid-large" data-uk-grid>
 			<div class="uk-flex uk-flex-middle">
 				<div class="uk-block-card-content">
-					{{ with .subheading }}
-						<div class="uk-text-primary uk-text-uppercase uk-text-medium uk-margin-xxs-bottom">{{ . }}</div>
-					{{ end }}
 					{{ with .heading }}
-						<h2 class="uk-h1 uk-margin-remove uk-text-semi-bold">{{ . }}</h2>
+						<h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
 					{{ end }}
 					{{ with .text }}
-						<div class="uk-text-size-m uk-margin-xxs-top">{{ . }}</div>
+						<div class="uk-text-lead uk-margin-top uk-width-4-5@l">{{ . }}</div>
 					{{ end }}
 					{{ if .button.url }}
-						<div class="uk-margin-l-top"><a class="uk-button uk-button-link" href="{{ .button.url | relURL }}">{{ .button.text }}</a></div>
+						<div class="uk-margin-medium-top"><a class="uk-button uk-button-primary" href="{{ .button.url | relURL }}">{{ .button.text }}</a></div>
 					{{ end }}
 				</div>
 			</div>
-			<div class="uk-flex-first@m uk-text-center">
+			<div class="uk-flex-first@m uk-flex uk-flex-middle">
 				{{ if .video }}
 					{{- $icon := resources.Get "images/icon-play.svg" -}}
-					<div class="uk-inline uk-margin-xl-top">
+					<div class="uk-inline">
 						<img src="{{ .image | absURL }}" alt="{{ .heading }}">
 						<div class="uk-position-cover uk-overlay uk-overlay-primary"></div>
 						<div class="uk-position-center">

@@ -1,7 +1,7 @@
 // @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700&display=swap');
 
 @mixin hook-base-body() {
-  @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
 }
 
 @mixin hook-button() {
@@ -13,6 +13,22 @@
 // } 
 
 @mixin hook-utility-misc(){
+  .uk-text-xsmall {
+    font-size: 0.75rem;
+  }
+  .uk-text-spacing-small {
+    letter-spacing: 0.03em;
+  }
+  
+  .uk-text-semi-bold {
+    font-weight: 600;
+  }
+  .uk-border-rounded-large {
+    border-radius: $border-rounded-large;
+  }
+  .uk-border-rounded-large-top {
+    border-radius: $border-rounded-large $border-rounded-large 0 0;
+  }
   .uk-navbar-dropdown-grid>.uk-first-column {
     padding-right: 40px;
   }

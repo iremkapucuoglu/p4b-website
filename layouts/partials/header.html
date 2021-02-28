@@ -1,4 +1,4 @@
-<header class="uk-section-{{ .Params.header.background_color }}">
+<header class="uk-section-{{ .Params.header.background }}">
   {{ partial "navbar.html" . }}
   {{ if not (eq .Params.header.layout "none") }}
     <div class="{{ if or (eq .Params.header.layout "left") (eq .Params.header.layout "full") }}uk-section-large{{ else }}uk-section-large{{ end }} uk-background-cover uk-position-relative" 
@@ -20,14 +20,14 @@
                   {{ end }}
                 </div>
                 {{ if .Params.header.button.url }}
-                <div class="uk-margin-top">
+                <div class="uk-margin-medium-top">
                   <a href="{{ .Params.header.button.url | relURL }}" class="uk-button uk-button-primary">{{ .Params.header.button.text }}</a>
                 </div>
                 {{ end }}
               </div>          
             </div>
             {{ if .Params.header.image }}
-              <div class="uk-width-1-2@l uk-width-auto@xl uk-flex uk-flex-middle">
+              <div class="uk-width-1-2@m uk-width-auto@xl uk-flex uk-flex-middle">
                 <img class="uk-box-shadow-xlarge" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}" width="640">
               </div>
             {{ end }}

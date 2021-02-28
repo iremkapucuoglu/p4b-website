@@ -1,10 +1,9 @@
 ---
 title: Other post DE
-image: https://via.placeholder.com/640
+image: https://via.placeholder.com/640x450
 date: 2019-02-26
-summary: The 255 MWp Sunraysia Solar Farm is on track to be the largest solar
-  farm in Australia this year. Between 350 - 400 people will be directly engaged by
-  Decmil.
+summary: The farm is on track to be the largest solar
+  farm in Australia this year.
 categories:
 - Maoneng
 # featured: true

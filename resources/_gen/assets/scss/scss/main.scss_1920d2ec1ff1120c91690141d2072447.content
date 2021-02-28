@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  * 3. Style
  */
-@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap");
 html {
   /* 1 */
   font-family: "Mulish", sans-serif;
@@ -87,7 +87,7 @@ strong {
   color: #f0506e;
   white-space: nowrap;
   padding: 2px 6px;
-  background: #fafafa; }
+  background: #f8f8f8; }
 
 /*
  * Emphasize
@@ -812,7 +812,7 @@ a.uk-link-reset,
     border-bottom: 1px solid #e5e5e5; }
 
 .uk-list-striped > :nth-of-type(odd) {
-  background: #fafafa; }
+  background: #f8f8f8; }
 
 .uk-list-striped > :nth-child(n+2) {
   margin-top: 0; }
@@ -961,7 +961,7 @@ a.uk-link-reset,
  */
 .uk-table-striped > tr:nth-of-type(odd),
 .uk-table-striped tbody tr:nth-of-type(odd) {
-  background: #fafafa;
+  background: #f8f8f8;
   border-top: 1px solid #e5e5e5;
   border-bottom: 1px solid #e5e5e5; }
 
@@ -1162,7 +1162,7 @@ button.uk-icon:not(:disabled) {
   width: 36px;
   height: 36px;
   border-radius: 500px;
-  background: #fafafa;
+  background: #f8f8f8;
   color: #999;
   vertical-align: middle;
   /* 1 */
@@ -1175,14 +1175,14 @@ button.uk-icon:not(:disabled) {
 /* Hover + Focus */
 .uk-icon-button:hover,
 .uk-icon-button:focus {
-  background-color: #ededed;
+  background-color: #ebebeb;
   color: #000;
   outline: none; }
 
 /* OnClick + Active */
 .uk-icon-button:active,
 .uk-active > .uk-icon-button {
-  background-color: #e1e1e1;
+  background-color: #dfdfdf;
   color: #000; }
 
 /* ========================================================================
@@ -1295,32 +1295,32 @@ button.uk-icon:not(:disabled) {
 /* Webkit */
 .uk-range::-webkit-slider-runnable-track {
   height: 3px;
-  background: #ededed;
+  background: #ebebeb;
   border-radius: 500px; }
 
 .uk-range:focus::-webkit-slider-runnable-track,
 .uk-range:active::-webkit-slider-runnable-track {
-  background: #d4d4d4; }
+  background: #d2d2d2; }
 
 /* Firefox */
 .uk-range::-moz-range-track {
   height: 3px;
-  background: #ededed;
+  background: #ebebeb;
   border-radius: 500px; }
 
 .uk-range:focus::-moz-range-track {
-  background: #d4d4d4; }
+  background: #d2d2d2; }
 
 /* Edge */
 .uk-range::-ms-fill-lower,
 .uk-range::-ms-fill-upper {
   height: 3px;
-  background: #ededed;
+  background: #ebebeb;
   border-radius: 500px; }
 
 .uk-range:focus::-ms-fill-lower,
 .uk-range:focus::-ms-fill-upper {
-  background: #d4d4d4; }
+  background: #d2d2d2; }
 
 /* ========================================================================
    Component: Form
@@ -1494,7 +1494,7 @@ button.uk-icon:not(:disabled) {
 .uk-input:disabled,
 .uk-select:disabled,
 .uk-textarea:disabled {
-  background-color: #fafafa;
+  background-color: #f8f8f8;
   color: #999;
   border-color: #e5e5e5; }
 
@@ -1718,7 +1718,7 @@ select.uk-form-width-xsmall {
  */
 .uk-radio:disabled,
 .uk-checkbox:disabled {
-  background-color: #fafafa;
+  background-color: #f8f8f8;
   border-color: #e5e5e5; }
 
 .uk-radio:disabled:checked {
@@ -2181,7 +2181,7 @@ select.uk-form-width-xsmall {
   /* 4 */
   border: 0;
   /* 5 */
-  background-color: #fafafa;
+  background-color: #f8f8f8;
   /* 6 */
   margin-bottom: 20px;
   height: 15px;
@@ -2203,7 +2203,7 @@ select.uk-form-width-xsmall {
  * 2. Remove progress bar for indeterminate state in Firefox
  */
 .uk-progress::-webkit-progress-bar {
-  background-color: #fafafa;
+  background-color: #f8f8f8;
   border-radius: 500px;
   overflow: hidden; }
 
@@ -2307,7 +2307,7 @@ select.uk-form-width-xsmall {
  * Muted
  */
 .uk-section-muted {
-  background: #fafafa; }
+  background: #f8f8f8; }
 
 /*
  * Primary
@@ -2546,7 +2546,7 @@ select.uk-form-width-xsmall {
  * Muted
  */
 .uk-tile-muted {
-  background: #fafafa; }
+  background: #f8f8f8; }
 
 /*
  * Primary
@@ -2887,7 +2887,7 @@ select.uk-form-width-xsmall {
   position: relative;
   margin-bottom: 20px;
   padding: 15px 29px 15px 15px;
-  background: #fafafa;
+  background: #f8f8f8;
   color: #000; }
 
 /* Add margin if adjacent element */
@@ -3198,7 +3198,7 @@ select.uk-form-width-xsmall {
  ========================================================================== */
 .uk-comment-primary {
   padding: 30px;
-  background-color: #fafafa; }
+  background-color: #f8f8f8; }
 
 /* ========================================================================
    Component: Search
@@ -4282,7 +4282,7 @@ select.uk-form-width-xsmall {
 .uk-notification-message {
   position: relative;
   padding: 15px;
-  background: #fafafa;
+  background: #f8f8f8;
   color: #000;
   font-size: 1.25rem;
   line-height: 1.4;
@@ -5010,7 +5010,7 @@ ul.uk-nav-sub {
 /* Container
  ========================================================================== */
 .uk-navbar-container:not(.uk-navbar-transparent) {
-  background: #fafafa; }
+  background: transparent; }
 
 /*
  * Remove pseudo elements created by micro clearfix as precaution (if Container component is used)
@@ -5459,12 +5459,12 @@ ul.uk-nav-sub {
 /* Hover + Focus */
 .uk-subnav-pill > * > a:hover,
 .uk-subnav-pill > * > a:focus {
-  background-color: #fafafa;
+  background-color: #f8f8f8;
   color: #000; }
 
 /* OnClick */
 .uk-subnav-pill > * > a:active {
-  background-color: #fafafa;
+  background-color: #f8f8f8;
   color: #000; }
 
 /* Active */
@@ -6909,8 +6909,8 @@ ul.uk-nav-sub {
 /* Style modifiers
  ========================================================================== */
 .uk-text-lead {
-  font-size: 1.5rem;
-  line-height: 1.5;
+  font-size: 1.25rem;
+  line-height: 1.65;
   color: #333; }
 
 .uk-text-meta {
@@ -7273,7 +7273,7 @@ iframe.uk-cover {
   background-color: #fff; }
 
 .uk-background-muted {
-  background-color: #fafafa; }
+  background-color: #f8f8f8; }
 
 .uk-background-primary {
   background-color: #2BB381; }
@@ -7922,6 +7922,21 @@ iframe.uk-cover {
 
 .uk-transform-origin-bottom-right {
   transform-origin: 100% 100%; }
+
+.uk-text-xsmall {
+  font-size: 0.75rem; }
+
+.uk-text-spacing-small {
+  letter-spacing: 0.03em; }
+
+.uk-text-semi-bold {
+  font-weight: 600; }
+
+.uk-border-rounded-large {
+  border-radius: 16px; }
+
+.uk-border-rounded-large-top {
+  border-radius: 16px 16px 0 0; }
 
 .uk-navbar-dropdown-grid > .uk-first-column {
   padding-right: 40px; }

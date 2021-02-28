@@ -1,14 +1,30 @@
-<div class="card-news">
-  <div class="">
-    <a class="" href="{{.Permalink}}"><img src="{{ .Params.image | absURL }}" alt="{{ .Title }}"></a>
+<div class="uk-card uk-card-default uk-border-rounded-large uk-postion-relative uk-box-shadow-hover-large">
+  <div class="uk-card-media-top">
+    <img class="uk-border-rounded-large-top" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
   </div>
-  <div class="meta">{{ .PublishDate.Format "January 2006" }}
-    <span class="ms-3">Categories: </span>
-    {{ range .Params.categories }}
-      <span class="ms-1">{{ . }}</span>
-    {{ end }}
+  <div class="uk-card-body">
+    <div class="uk-text-uppercase uk-text-xsmall uk-text-semi-bold uk-text-spacing-small">
+      {{ range .Params.categories }}
+        <span>{{ . }}</span>
+      {{ end }}
+    </div>
+    <h4 class="uk-margin-small-bottom uk-margin-small-top"><a href="{{.Permalink}}">{{ .Title }}</a></h4>
+    <div>{{ .Summary }}</div>
+    {{if isset .Params "author"}}  
+    {{ $user := where .Site.Data.authors "username" .Params.author }}
+      <div class="uk-article-meta uk-margin-top" itemscope="" itemtype="http://schema.org/Person">
+        <div data-uk-grid="" class="uk-grid-small uk-flex uk-flex-middle">
+            <div class="uk-width-auto uk-first-column">
+              <img class="uk-border-circle" src="{{ (index $user 0 "image") | absURL }}" alt="{{ index $user 0 "name" }}" itemprop="image" width="34" height="34">
+            </div>
+          <div class="uk-width-expand">
+            <span itemprop="name"><span itemprop="name">{{ index $user 0 "name" }}</span></span>
+            <br>
+            <time datetime="{{ .PublishDate.Format " Jan 19 2006" }}">{{ .PublishDate.Format " Jan 19 2006" }} </time>
+          </div>
+        </div>
+      </div>
+    {{end}}
   </div>
-  <h4><a href="{{.Permalink}}">{{ .Title }}</a></h4>
-  <div class="card-intro">{{ .Params.intro_paragraph | truncate 135 }}</div>
-  <a class="btn btn-primary" href="{{ .Permalink }}" role="button">Read more<span></span></a>
+  <a class="uk-position-cover" href="{{ .Permalink }}"></a>
 </div>

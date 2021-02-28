@@ -1,5 +1,4 @@
 {{ define "main" }}
-  <h1>{{.Title}}</h1>
   {{ $blocks := .Params.blocks }}
   {{ range $blocks }}
     {{ $file := (printf "%s%s%s" "blocks/" .block ".html" ) }}

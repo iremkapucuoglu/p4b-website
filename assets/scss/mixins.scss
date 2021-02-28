@@ -10,4 +10,18 @@
 
 // @mixin hook-button-primary-hover() {
 //   box-shadow: 0 14px 25px rgba($color: $global-primary-background, $alpha: 0.2);
-// }
+// } 
+
+@mixin hook-utility-misc(){
+  .uk-navbar-dropdown-grid>.uk-first-column {
+    padding-right: 40px;
+  }
+  .uk-navbar-dropdown-grid>div:not(.uk-first-column)::before {
+  //   content: "";
+  //   position: absolute;
+  //   top: 0;
+  //   bottom: 0;
+    left: 0;
+  //   border-left: 1px solid $global-border;
+  } 
+}

@@ -1,35 +1,36 @@
 <header class="uk-section-{{ .Params.header.background_color }}">
   {{ partial "navbar.html" . }}
   {{ if not (eq .Params.header.layout "none") }}
-    <div class="{{ if eq .Params.header.layout "left" }}uk-section-xxl uk-block-header{{ else if eq .Params.header.layout "center" }}uk-section-large{{ end }} uk-background-contain uk-background-center-right" 
+    <div class="{{ if or (eq .Params.header.layout "left") (eq .Params.header.layout "full") }}uk-section-large{{ else }}uk-section-large{{ end }} uk-background-cover uk-position-relative" 
       {{ if .Params.header.background_image }} style="background-image: url({{ .Params.header.background_image |absURL }});"{{ end }}>
-      <div class="uk-container{{ if eq .Params.header.layout "center" }} uk-container-small{{ end }}">
+      {{ if .Params.header.background_image }}
+        <div class="uk-overlay-primary uk-position-cover"></div>
+      {{ end }}
+      <div class="uk-container{{ if eq .Params.header.layout "center" }} uk-container-small{{ end }} uk-position-relative">
         {{ if eq .Params.header.layout "left" }}
           <div class="uk-grid-large" data-uk-grid>
-            <div class="uk-width-expand@m uk-flex uk-flex-middle">
+            <div class="{{ if .Params.header.image }}uk-width-expand@m{{ else }}uk-width-2-3@m{{ end }} uk-flex uk-flex-middle">
               <div>
-                {{ with .Params.header.subheading }}
-                  <div class="uk-text-primary uk-text-uppercase uk-text-medium uk-margin-small-bottom">{{ . }}</div>
-                {{ end }}
-                {{ with .Params.header.heading }}
-                  <h1 class="uk-heading-medium uk-margin-remove">{{ . }}</h1>
-                {{ end }}
-                {{ with .Params.header.text }}
-                  <div class="uk-text-large uk-margin-top">{{ . }}</div>
-                {{ end }}
-                {{ if or .Params.header.button_primary.url .Params.header.button_primary.url }}
-                <div class="uk-child-width-auto uk-flex uk-flex-middle uk-margin-s-top" data-uk-grid>
-                    <div><a href="{{ .Params.header.button_primary.url | relURL }}" class="uk-button uk-button-{{ .Params.header.button_primary.style }}">{{ .Params.header.button_primary.text }}</a></div>
-                    <div><a href="{{ .Params.header.button_secondary.url | relURL }}" class="uk-button uk-button-{{ .Params.header.button_secondary.style }}">{{ .Params.header.button_secondary.text }}</a></div>
-                  </div>
+                <div class="{{ if .Params.header.background_image }}uk-light{{ end }}">
+                  {{ with .Params.header.heading }}
+                    <h1 class="uk-heading-small uk-margin-remove">{{ . }}</h1>
+                  {{ end }}
+                  {{ with .Params.header.text }}
+                    <div class="uk-text-lead uk-margin-top">{{ . }}</div>
+                  {{ end }}
+                </div>
+                {{ if .Params.header.button.url }}
+                <div class="uk-margin-top">
+                  <a href="{{ .Params.header.button.url | relURL }}" class="uk-button uk-button-primary">{{ .Params.header.button.text }}</a>
+                </div>
                 {{ end }}
               </div>          
             </div>
-            <div class="uk-width-1-2@l uk-width-auto@xl">
-              {{ if .Params.header.image }}
-                <img class="uk-box-shadow-xlarge" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}">
-              {{ end }}
-            </div>
+            {{ if .Params.header.image }}
+              <div class="uk-width-1-2@l uk-width-auto@xl uk-flex uk-flex-middle">
+                <img class="uk-box-shadow-xlarge" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}" width="640">
+              </div>
+            {{ end }}
           </div>
         {{ else if eq .Params.header.layout "center" }}
           <div>
@@ -40,11 +41,11 @@
               <h1 class="uk-heading-medium uk-margin-remove">{{ . }}</h1>
             {{ end }}
             {{ with .Params.header.text }}
-              <div class="uk-text-large uk-margin-top">{{ . }}</div>
+              <div class="uk-text-lead uk-margin-top">{{ . }}</div>
             {{ end }}
-            {{ if or .Params.header.button_primary.url .Params.header.button_primary.url }}
+            {{ if or .Params.header.button.url .Params.header.button.url }}
             <div class="uk-child-width-auto uk-flex uk-flex-middle uk-margin-s-top" data-uk-grid>
-                <div><a href="{{ .Params.header.button_primary.url | relURL }}" class="uk-button uk-button-{{ .Params.header.button_primary.style }}">{{ .Params.header.button_primary.text }}</a></div>
+                <div><a href="{{ .Params.header.button.url | relURL }}" class="uk-button uk-button-{{ .Params.header.button.style }}">{{ .Params.header.button.text }}</a></div>
                 <div><a href="{{ .Params.header.button_secondary.url | relURL }}" class="uk-button uk-button-{{ .Params.header.button_secondary.style }}">{{ .Params.header.button_secondary.text }}</a></div>
               </div>
             {{ end }}

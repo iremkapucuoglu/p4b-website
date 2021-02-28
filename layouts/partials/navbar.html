@@ -1,6 +1,6 @@
 <nav class="uk-navbar-container">
   <div class="uk-container">
-    <div data-uk-navbar>
+    <div class="parent" data-uk-navbar uk-navbar="dropbar: true; mode: click">
       <div class="uk-navbar-left">
 
         <a class="uk-navbar-item uk-logo" href="{{ "/" | relLangURL }}">
@@ -25,16 +25,24 @@
               <li>
                 {{- $dropdown := resources.Get "images/dropdown.svg" -}}
                 <a href="#">{{ .Name }}<span><img src="{{ $dropdown.Permalink }}" alt="Arrow" height="5" width="8" /></span></a>
-                <div class="uk-navbar-dropdown" data-uk-dropdown="mode: click">
-                  <ul class="uk-nav uk-navbar-dropdown-nav">
-                    {{ range .Children }}
-                      {{ if eq .Name "divider" }}
-                        <li class="uk-nav-divider"></li>
-                      {{ else }}
-                        <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
-                      {{ end }}
-                    {{ end }}
-                  </ul>
+                <div class="uk-navbar-dropdown uk-navbar-dropdown-width-2 uk-padding-remove-horizontal" data-uk-drop="boundary: .parent; boundary-align: true; pos: bottom-justify; mode: click">
+                  <div class="uk-navbar-dropdown-grid uk-child-width-1-2 uk-margin-top uk-margin-bottom" uk-grid>
+                    <div>
+                      <h3>{{ .Params.heading }}</h3>
+                      <div>{{ .Params.text }}</div>
+                    </div>
+                    <div>
+                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                        {{ range .Children }}
+                          {{ if eq .Name "divider" }}
+                            <li class="uk-nav-divider"></li>
+                          {{ else }}
+                            <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                          {{ end }}
+                        {{ end }}
+                      </ul>
+                    </div>
+                  </div>
                 </div>
               </li>
             {{ else }}

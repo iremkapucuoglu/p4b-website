@@ -5,7 +5,6 @@ title = "Lorem"
 [params]
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"
-copyright = "Open Accessibility 2020 | All Rights Reserved"
 email = "info@plab4better.de"
 phone = "+49  1923 000 000"
 address = "Arcisstraße 21 80333 München Germany"
@@ -82,21 +81,22 @@ weight = 1
 name = "GOAT"
 url = "/"
 weight = 1
+[languages.en.menu.center.params]
+heading = "Duis aute irure dolor"
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 [[languages.en.menu.footer]]
-name = "Home"
-url = "/"
+name = "About us"
+url = "/about/"
 weight = 1
 [[languages.en.menu.footer]]
-name = "Services"
-url = "/"
-weight = 3
-[[languages.en.menu.footer]]
-name = "Work"
-url = "/"
+name = "Contact us"
+url = "/contact/"
 weight = 2
-
-
+[[languages.en.menu.footer]]
+name = "Imprint & Privacy"
+url = "/imprint-privacy/"
+weight = 3
 
 [[languages.en.menu.social]]
 name = "Twitter"
@@ -189,5 +189,35 @@ name = "GOAT"
 url = "/"
 weight = 1
 
+[[languages.de.menu.footer]]
+name = "About us"
+url = "/about/"
+weight = 1
+[[languages.de.menu.footer]]
+name = "Contact us"
+url = "/contact/"
+weight = 2
+[[languages.de.menu.footer]]
+name = "Imprint & Privacy"
+url = "/imprint-privacy/"
+weight = 3
 
+[[languages.de.menu.social]]
+name = "Twitter"
+url = "#"
+weight = 1
+[languages.de.menu.social.params]
+icon = "twitter"
+[[languages.de.menu.social]]
+name = "Linkedin"
+url = "#"
+weight = 2
+[languages.de.menu.social.params]
+icon = "linkedin"
+[[languages.de.menu.social]]
+name = "GitHub"
+url = "#"
+weight = 3
+[languages.de.menu.social.params]
+icon = "github"
 

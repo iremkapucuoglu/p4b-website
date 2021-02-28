@@ -7923,6 +7923,12 @@ iframe.uk-cover {
 .uk-transform-origin-bottom-right {
   transform-origin: 100% 100%; }
 
+.uk-navbar-dropdown-grid > .uk-first-column {
+  padding-right: 40px; }
+
+.uk-navbar-dropdown-grid > div:not(.uk-first-column)::before {
+  left: 0; }
+
 /* ========================================================================
    Component: Flex
  ========================================================================== */

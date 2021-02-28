@@ -3,6 +3,7 @@
 
     <div class="uk-flex uk-flex-center uk-grid-large" data-uk-grid>
       <div class="uk-width-1-2 uk-width-expand@m">
+        <h4>{{ i18n "footer_links" }}</h4>
         <ul class="uk-nav uk-text-size-m">
           {{ range .Site.Menus.footer }}
           <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
@@ -10,6 +11,7 @@
         </ul>
       </div>
       <div class="uk-width-1-2 uk-width-expand@m uk-text-size-m">
+        <h4>{{ i18n "footer_info" }}</h4>
         {{ with .Site.Params.phone }}
           <div>{{ . }}</div>
         {{ end }}
@@ -28,7 +30,7 @@
             {{ .Site.Title }}
           {{ end }}
         </a>
-        <div class="uk-margin-top uk-text-small">{{ .Site.Params.copyright }}</div>
+        <div class="uk-margin-top uk-text-small">{{ i18n "copyright" }}</div>
         <div class="uk-margin-top uk-flex uk-flex-center uk-flex-left@m">
           <div class="uk-child-width-auto uk-grid-small" data-uk-grid>
             {{ range .Site.Menus.social -}}

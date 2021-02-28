@@ -47,6 +47,20 @@ fields:
       schema:
         format: markdown
     label: Text
+  - name: background
+    type: select
+    default: default
+    config:
+      required: false
+      options:
+      - default
+      - muted
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Background
   - name: background_image
     type: file
     config:
@@ -72,20 +86,6 @@ fields:
         required: false
       label: URL
     label: Button
-  - name: background
-    type: select
-    default: default
-    config:
-      required: false
-      options:
-      - default
-      - muted
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
-    label: Background
   label: Header
 - name: blocks
   type: blocks

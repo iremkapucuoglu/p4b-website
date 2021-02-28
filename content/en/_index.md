@@ -11,7 +11,7 @@ header:
   heading: Let's balance the future together!
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
     eu fugiat nulla pariatur. '
-  image: "/uploads/goat.png"
+  image: "/images/goat.png"
   button:
     text: Try Goat
     url: "/try-goat/"
@@ -31,7 +31,7 @@ blocks:
   block: features
   background: muted
   features:
-  - icon: "/uploads/icon-circle.svg"
+  - icon: "/images/icon-circle.svg"
     heading: Innovation
     text: 'Always driving for cutting-edge technology. '
   - icon: "/uploads/icon-square-yellow.svg"

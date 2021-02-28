@@ -53,6 +53,9 @@ blocks:
     boost local accessibility and operationalize the 15-minute neighborhood in your
     community. 
   heading: Ipsum dolor sit amet
+  button:
+    url: "/"
+    text: 'Optional '
 - template: recent-posts-block
   block: recent-posts
   background: default

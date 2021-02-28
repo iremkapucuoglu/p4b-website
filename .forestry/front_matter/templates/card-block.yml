@@ -1,4 +1,79 @@
 ---
 label: Card block
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: Block
+  hidden: true
+  default: card
+- name: layout
+  type: select
+  default: left
+  config:
+    required: false
+    options:
+    - left
+    - right
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Layout
+- name: background
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    - muted
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: button
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  label: Button
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: video
+  type: text
+  config:
+    required: false
+  label: Video
+  description: YouTube video ID.

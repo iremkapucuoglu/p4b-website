@@ -57,6 +57,39 @@
     margin-top: 26px;
   }
   
+  .uk-overlay-light {
+    background: rgba($color: $global-secondary-background, $alpha: 0.4);
+  }
+  
+  .uk-play-icon:hover {
+    opacity: 0.9;
+  }
+  
+  @media (min-width: $breakpoint-medium) {
+    .uk-card-left {
+      .uk-card-image {
+        padding-right: 20px;
+      }
+      .uk-card-content {
+        padding-left: 20px;
+      }
+    }
+  }
+  
+  @media (min-width: $breakpoint-large) {
+    .uk-width-card {
+      width: 58%;
+    }
+    .uk-card-left {
+      .uk-card-image {
+        padding-right: 40px;
+      }
+      .uk-card-content {
+        padding-left: 70px;
+      }
+    }
+  }
+  
   // .uk-section-default {
   //   position: relative;
   //   z-index: 1;
@@ -112,6 +145,18 @@
     padding-top: 50px;
     padding-bottom: 70px;
   }
+  
+  .uk-section-features.uk-section-muted {
+    .uk-card {
+      background: #fff;
+    }
+  }
+  
+  .uk-section-features.uk-section-default {
+    .uk-card {
+      background: $global-muted-background;
+    }
+  }  
   
   @media (min-width: $breakpoint-medium) {
     .uk-section-header {

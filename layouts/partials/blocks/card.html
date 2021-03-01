@@ -1,42 +1,47 @@
-<section class="uk-section-large uk-section-{{ .background }}">
-	<div class="uk-container">
-		<div class="uk-grid-large" data-uk-grid>
-			<div class="uk-width-expand@m uk-flex uk-flex-middle">
-				<div class="uk-block-card-content">
-					{{ with .heading }}
+<section class="uk-position-relative">
+	<div class="uk-position-cover uk-grid-collapse uk-visible@m" data-uk-grid>
+		<div class="uk-width-1-2 uk-width-card uk-background-muted"></div>
+		<div class="uk-width-expand"></div>
+	</div>
+	<div class="uk-section-large -uk-section-{{ .background }} uk-position-relative">
+		<div class="uk-container">
+			<div class="uk-grid-large{{ if eq .layout "left" }} uk-card-left{{ else }} uk-card-right{{ end }}" data-uk-grid>
+				<div class="uk-width-expand@m uk-flex uk-flex-middle">
+					<div class="uk-card-content">
+						{{ with .heading }}
 						<h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
-					{{ end }}
-					{{ with .text }}
+						{{ end }}
+						{{ with .text }}
 						<div class="uk-text-lead uk-margin-top">{{ . }}</div>
-					{{ end }}
-					{{ if .button.url }}
+						{{ end }}
+						{{ if .button.url }}
 						<div class="uk-margin-medium-top"><a class="uk-button uk-button-medium uk-button-primary" href="{{ .button.url | relURL }}">{{ .button.text }}</a></div>
-					{{ end }}
+						{{ end }}
+					</div>
 				</div>
-			</div>
-			<div class="uk-width-1-2@m uk-width-auto@l uk-flex-first@m uk-flex uk-flex-middle">
-				{{ if .video }}
+				<div class="uk-card-image uk-width-1-2@m uk-width-card{{ if eq .layout "left" }} uk-flex-first@m{{ end }} uk-flex uk-flex-middle">
+					{{ if .video }}
 					{{- $icon := resources.Get "images/icon-play.svg" -}}
 					<div class="uk-inline">
-						<img class="uk-box-shadow-large uk-border-rounded" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
-						<div class="uk-position-cover uk-overlay uk-overlay-primary uk-border-rounded"></div>
+						<img class="uk-box-shadow-medium uk-border-rounded" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
+						<div class="uk-position-cover uk-overlay uk-overlay-light uk-border-rounded"></div>
 						<div class="uk-position-center">
 							<a class="uk-play-icon" href="#modal-video" data-uk-toggle><img src="{{ $icon.Permalink }}" alt="play" height="216" width="216"></a>
 						</div>
 					</div>
-				{{ else }}
-					<img class="uk-box-shadow-large uk-border-rounded" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
-				{{ end }}
+					{{ else }}
+					<img class="uk-box-shadow-medium uk-border-rounded" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
+					{{ end }}
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
 {{ if .video }}
-	<div id="modal-video" class="uk-flex-top" data-uk-modal>
-		<div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical">
-			<button class="uk-modal-close-outside" type="button" data-uk-close></button>
-			<iframe src="https://www.youtube-nocookie.com/embed/{{ .video }}" width="1120" height="630" frameborder="0" data-uk-video
-				data-uk-responsive></iframe>
-		</div>
+<div id="modal-video" class="uk-flex-top" data-uk-modal>
+	<div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical">
+		<button class="uk-modal-close-outside" type="button" data-uk-close></button>
+		<iframe src="https://www.youtube-nocookie.com/embed/{{ .video }}" width="1120" height="630" frameborder="0" data-uk-video data-uk-responsive></iframe>
 	</div>
+</div>
 {{ end }}

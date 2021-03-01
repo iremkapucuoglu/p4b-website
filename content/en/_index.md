@@ -20,7 +20,7 @@ header:
 blocks:
 - template: features-block
   block: features
-  background: muted
+  background: default
   features:
   - icon: "/images/icon-circle.svg"
     heading: Innovation

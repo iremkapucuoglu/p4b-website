@@ -5,9 +5,22 @@
 }
 
 @mixin hook-button() {
-  border-radius: $border-rounded-border-radius;
+  border-radius: 30px;
 }
 
+@mixin hook-button-misc() {
+  .uk-button-primary-outline {
+    border: solid 1px $global-primary-background;
+    &:hover {
+      background: $global-primary-background;
+      color: #fff;
+    }
+  }
+  .uk-button-medium {
+    line-height: 44px;
+    min-width: 140px;
+  }
+}
 // @mixin hook-button-primary-hover() {
 //   box-shadow: 0 14px 25px rgba($color: $global-primary-background, $alpha: 0.2);
 // } 
@@ -36,32 +49,51 @@
   //   }
   // }
   
-  // .uk-section-default {
-  //   position: relative;
-  //   z-index: 1;
-  // }
-  // 
-  // .uk-section-muted {
-  //   background-image: url(/images/section-shape-top.svg),url(/images/section-shape-bottom.svg);
-  //   position: relative;
-  //   z-index: 0;
-  //   background-size: 1200px;
-  //   background-repeat: repeat-x;
-  //   background-position: center top, center bottom;
-  //   margin: -1px 0;
-  // }
-  // 
-  // footer.uk-section-secondary {
-  //   background-image: url(/images/section-shape-top.svg);
-  //   position: relative;
-  //   z-index: 0;
-  //   background-size: 1200px;
-  //   background-repeat: repeat-x;
-  //   background-position: center top, center bottom;
-  //   margin-top: -1px;
-  // }
+  .uk-margin-xsmall-top {
+    margin-top: 6px
+  }
   
-  // has-shapes bg-light-gray has-bg-brash bg-brash-y
+  .uk-margin-m-top {
+    margin-top: 26px;
+  }
+  
+  .uk-section-default {
+    position: relative;
+    z-index: 1;
+  }
+  
+  .uk-section-muted, .uk-section-primary, .uk-section-secondary {
+    background-image: url(/images/section-shape-top.svg),url(/images/section-shape-bottom.svg);
+    position: relative;
+    z-index: 0;
+    background-size: 1200px;
+    background-repeat: repeat-x;
+    background-position: center top, center bottom;
+    margin: -2px 0;
+  }
+  
+  header.uk-section-muted, header.uk-section-primary, header.uk-section-secondary {
+    background-image: url(/images/section-shape-bottom.svg);
+    background-position: center bottom;
+    margin-top: 0;
+  }
+  
+  footer.uk-section-secondary {
+    background-image: url(/images/section-shape-top.svg);
+    position: relative;
+    z-index: 0;
+    background-size: 1200px;
+    background-repeat: repeat-x;
+    background-position: center top, center bottom;
+    margin-top: -1px;
+  }
+  
+  footer {
+    a:hover {
+      color: $global-primary-background !important;
+    }
+    color: #fff !important;
+  }
   
   .uk-text-semi-bold {
     font-weight: 600;
@@ -74,6 +106,18 @@
   }
   .uk-border-rounded-large-top {
     border-radius: $border-rounded-large $border-rounded-large 0 0;
+  }
+  
+  .uk-section-header {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+  
+  @media (min-width: $breakpoint-medium) {
+    .uk-section-header {
+      padding-top: 110px;
+      padding-bottom: 140px;
+    }
   }
   .uk-navbar-dropdown-grid>.uk-first-column {
     padding-right: 40px;

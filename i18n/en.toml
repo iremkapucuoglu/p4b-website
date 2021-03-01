@@ -38,7 +38,7 @@ other = "Below you will find pages that utilize the taxonomy term “{{ .Title }
 other = "Translations"
 
 [copyright]
-other = "Open Accessibility 2020 | All Rights Reserved"
+other = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident"
 
 [footer_links]
 other = "Quick links"

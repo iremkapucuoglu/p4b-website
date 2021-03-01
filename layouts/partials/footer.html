@@ -1,7 +1,7 @@
 <footer class="uk-section-large uk-section-secondary">
   <div class="uk-container">
 
-    <div class="uk-flex uk-flex-center uk-grid-large" data-uk-grid>
+    <div class="uk-flex uk-flex-center uk-grid-large uk-margin-medium-top uk-text-center uk-text-left@m" data-uk-grid>
       <div class="uk-width-1-2 uk-width-expand@m">
         <h4>{{ i18n "footer_links" }}</h4>
         <ul class="uk-nav uk-text-size-m">
@@ -13,28 +13,28 @@
       <div class="uk-width-1-2 uk-width-expand@m uk-text-size-m">
         <h4>{{ i18n "footer_info" }}</h4>
         {{ with .Site.Params.phone }}
-          <div>{{ . }}</div>
+          <div><a href="tel:{{ . }}">{{ . }}</a></div>
         {{ end }}
         {{ with .Site.Params.email }}
-          <div class="uk-margin-small-top">{{ . }}</div>
+          <div class="uk-margin-small-top"><a href="mailto:{{ . }}">{{ . }}</a></div>
         {{ end }}
         {{ with .Site.Params.address }}
-          <div class="uk-margin-small-top">{{ . }}</div>
+          <div class="uk-margin-small-top">{{ . | safeHTML }}</div>
         {{ end }}
       </div>
-      <div class="uk-width-1-2 uk-width-expand@m uk-flex-first@m uk-text-center uk-text-left@m">
+      <div class="uk-width-1-2 uk-flex-first@m uk-text-center uk-text-left@m">
         <a class="uk-logo" href="{{ "/" | relLangURL }}">
           {{ if .Site.Params.site_logo_light }}
-            <img src="{{ .Site.Params.site_logo_light | absURL }}" class="uk-logo-inverse" alt="{{ $.Site.Title }}" width="170">        
+            <img src="{{ .Site.Params.site_logo_light | absURL }}" class="uk-logo-inverse uk-margin-xsmall-top" alt="{{ $.Site.Title }}" width="200">        
           {{ else }}
             {{ .Site.Title }}
           {{ end }}
         </a>
-        <div class="uk-margin-top uk-text-small">{{ i18n "copyright" }}</div>
-        <div class="uk-margin-top uk-flex uk-flex-center uk-flex-left@m">
+        <div class="uk-margin-m-top uk-text-small uk-width-4-5@m">{{ i18n "copyright" }}</div>
+        <div class="uk-margin-m-top uk-flex uk-flex-center uk-flex-left@m">
           <div class="uk-child-width-auto uk-grid-small" data-uk-grid>
             {{ range .Site.Menus.social -}}
-              <div><a href="{{ .URL | absURL }}" target="_blank" data-uk-icon="icon: {{ .Params.icon }}"></a></div>
+              <div><a href="{{ .URL | absURL }}" target="_blank" data-uk-icon="icon: {{ .Params.icon }}; ratio: 1.2"></a></div>
             {{ end -}}
           </div>
         </div>

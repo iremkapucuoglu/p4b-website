@@ -15,7 +15,7 @@ header:
   button:
     text: Try Goat
     url: "/try-goat/"
-  background: primary
+  background: muted
 blocks:
 - template: card-block
   block: card

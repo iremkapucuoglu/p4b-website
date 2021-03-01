@@ -10,7 +10,7 @@
 						<div class="uk-text-lead uk-margin-top">{{ . }}</div>
 					{{ end }}
 					{{ if .button.url }}
-						<div class="uk-margin-medium-top"><a class="uk-button uk-button-primary" href="{{ .button.url | relURL }}">{{ .button.text }}</a></div>
+						<div class="uk-margin-medium-top"><a class="uk-button uk-button-medium uk-button-primary" href="{{ .button.url | relURL }}">{{ .button.text }}</a></div>
 					{{ end }}
 				</div>
 			</div>
@@ -18,14 +18,14 @@
 				{{ if .video }}
 					{{- $icon := resources.Get "images/icon-play.svg" -}}
 					<div class="uk-inline">
-						<img class="uk-box-shadow-large uk-border-rounded-medium" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
+						<img class="uk-box-shadow-large uk-border-rounded" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
 						<div class="uk-position-cover uk-overlay uk-overlay-primary uk-border-rounded"></div>
 						<div class="uk-position-center">
 							<a class="uk-play-icon" href="#modal-video" data-uk-toggle><img src="{{ $icon.Permalink }}" alt="play" height="216" width="216"></a>
 						</div>
 					</div>
 				{{ else }}
-					<img class="uk-box-shadow-large uk-border-rounded-medium" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
+					<img class="uk-box-shadow-large uk-border-rounded" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
 				{{ end }}
 			</div>
 		</div>

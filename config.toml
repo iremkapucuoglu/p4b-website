@@ -6,8 +6,8 @@ title = "Lorem"
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"
 email = "info@plab4better.de"
-phone = "+49  1923 000 000"
-address = "Arcisstraße 21 80333 München Germany"
+phone = "+49 1923 000 000"
+address = "Arcisstraße 21 80333<br> München Germany"
 
 [languages]
 [languages.en]
@@ -20,7 +20,7 @@ name = "Try GOAT"
 url = "/try-goat/"
 weight = 1
 [languages.en.menu.right.params]
-button= "primary"
+button= "primary-outline"
 
 [[languages.en.menu.center]]
 name = "Contact"

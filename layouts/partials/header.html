@@ -1,7 +1,7 @@
 <header class="uk-section-{{ .Params.header.background }}">
   {{ partial "navbar.html" . }}
   {{ if not (eq .Params.header.layout "none") }}
-    <div class="{{ if or (eq .Params.header.layout "left") (eq .Params.header.layout "full") }}uk-section-large{{ else }}uk-section-large{{ end }} uk-background-cover uk-position-relative" 
+    <div class="{{ if or (eq .Params.header.layout "left") (eq .Params.header.layout "full") }}uk-section-header{{ else }}uk-section-header{{ end }} uk-background-cover uk-position-relative" 
       {{ if .Params.header.background_image }} style="background-image: url({{ .Params.header.background_image |absURL }});"{{ end }}>
       {{ if .Params.header.background_image }}
         <div class="uk-overlay-primary uk-position-cover"></div>
@@ -21,14 +21,14 @@
                 </div>
                 {{ if .Params.header.button.url }}
                 <div class="uk-margin-medium-top">
-                  <a href="{{ .Params.header.button.url | relURL }}" class="uk-button uk-button-primary">{{ .Params.header.button.text }}</a>
+                  <a href="{{ .Params.header.button.url | relURL }}" class="uk-button uk-button-medium uk-button-primary">{{ .Params.header.button.text }}</a>
                 </div>
                 {{ end }}
               </div>          
             </div>
             {{ if .Params.header.image }}
               <div class="uk-width-1-2@m uk-width-auto@l uk-flex uk-flex-middle">
-                <img class="uk-box-shadow-large uk-border-rounded-medium" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}" width="680">
+                <img class="uk-box-shadow-large uk-border-rounded" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}" width="680">
               </div>
             {{ end }}
           </div>
@@ -46,7 +46,7 @@
             {{ if or .Params.header.button.url .Params.header.button.url }}
             <div class="uk-child-width-auto uk-flex uk-flex-middle uk-margin-s-top" data-uk-grid>
                 <div><a href="{{ .Params.header.button.url | relURL }}" class="uk-button uk-button-{{ .Params.header.button.style }}">{{ .Params.header.button.text }}</a></div>
-                <div><a href="{{ .Params.header.button_secondary.url | relURL }}" class="uk-button uk-button-{{ .Params.header.button_secondary.style }}">{{ .Params.header.button_secondary.text }}</a></div>
+                <div><a href="{{ .Params.header.button_secondary.url | relURL }}" class="uk-button uk-button-medium uk-button-{{ .Params.header.button_secondary.style }}">{{ .Params.header.button_secondary.text }}</a></div>
               </div>
             {{ end }}
           </div>

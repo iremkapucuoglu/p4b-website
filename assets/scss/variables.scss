@@ -1,6 +1,6 @@
 $global-primary-background:               #2BB381;         
 $global-secondary-background:             #283648;
-$global-muted-background:                 #fafafa;
+$global-muted-background:                 #f6f6f6;
 // $global-danger-background:                #f66470; 
 // $global-warning-background:               #facd04;
 
@@ -8,6 +8,10 @@ $global-color:                            #000;
 
 $global-font-family:                      'Mulish', sans-serif;
 $global-2xlarge-font-size:								2.25rem;
+
+// $inverse-global-muted-color:							#fff;
+$inverse-global-color:										#fff;
+// $inverse-global-muted-color
 
 $base-heading-font-weight:                700;
 $base-heading-color:                      $global-color;
@@ -41,6 +45,15 @@ $navbar-nav-item-color:                   $global-color;
 $navbar-nav-item-font-size:               0.9375rem;
 // $navbar-nav-item-font-family:                    $global-font-family !default;
 $navbar-nav-item-hover-color:             $global-primary-background;
+
+$inverse-navbar-nav-item-color:           $inverse-global-color;
+$inverse-navbar-nav-item-hover-color:     $inverse-global-color;
+// $inverse-navbar-nav-item-onclick-color:         $inverse-global-emphasis-color !default;
+// $inverse-navbar-nav-item-active-color:          $inverse-global-emphasis-color !default;
+// $inverse-navbar-item-color:                     $inverse-global-color !default;
+$inverse-navbar-toggle-color:             $inverse-global-color;
+$inverse-navbar-toggle-hover-color:       $inverse-global-color;
+
 // $navbar-nav-item-onclick-color:                  $global-emphasis-color !default;
 $navbar-nav-item-active-color:            $global-color;
 $navbar-dropdown-nav-item-color:          $global-color;
@@ -48,7 +61,7 @@ $navbar-dropdown-nav-item-hover-color:    $global-primary-background;
 
 
 
-$text-lead-font-size:                     1.25rem;
+$text-lead-font-size:                     1.1875rem;
 $text-lead-line-height:                   1.65;
 // $text-lead-color:                                $global-emphasis-color !default;
 
@@ -63,4 +76,4 @@ $text-lead-line-height:                   1.65;
 // $text-large-line-height:                         1.5 !default;
 
 $border-rounded-medium:										8px;
-$border-rounded-large:										16px;
+$border-rounded-large:										14px;

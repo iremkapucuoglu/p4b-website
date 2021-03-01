@@ -56,7 +56,7 @@ blocks:
   button:
     url: "/"
     text: 'Optional '
-  background_image: "/images/bg-8.svg"
+  background_image: "/images/bg-9.svg"
 - template: recent-posts-block
   block: recent-posts
   background: muted

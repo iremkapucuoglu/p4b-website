@@ -57,7 +57,7 @@ blocks:
     text: 'Optional '
 - template: recent-posts-block
   block: recent-posts
-  background: muted
+  background: default
   heading: Recent Posts
 - template: logos-block
   block: logos

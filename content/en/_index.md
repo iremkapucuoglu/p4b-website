@@ -28,7 +28,7 @@ blocks:
   heading: Playground for shaping livable spaces
   image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
   video: YdAIBlPVe9s
-  background_image: "/images/bg-1.svg"
+  background_image: "/images/bg-3.svg"
 - template: features-block
   block: features
   background: default
@@ -56,7 +56,7 @@ blocks:
   button:
     url: "/"
     text: 'Optional '
-  background_image: "/images/bg-2.svg"
+  background_image: "/images/bg-5.svg"
 - template: recent-posts-block
   block: recent-posts
   background: default

@@ -45,7 +45,7 @@ $navbar-nav-item-color:                   $global-color;
 $navbar-nav-item-font-size:               0.9375rem;
 // $navbar-nav-item-font-family:                    $global-font-family !default;
 $navbar-nav-item-hover-color:             $global-primary-background;
-$navbar-nav-item-height:                  120px;
+$navbar-nav-item-height:                  90px;
 
 $inverse-navbar-nav-item-color:           $inverse-global-color;
 $inverse-navbar-nav-item-hover-color:     $inverse-global-color;
@@ -60,6 +60,11 @@ $navbar-nav-item-active-color:            $global-color;
 $navbar-dropdown-nav-item-color:          $global-color;
 $navbar-dropdown-nav-item-hover-color:    $global-primary-background;
 
+// $section-large-padding-vertical:                   $global-large-margin !default;
+$section-large-padding-vertical-m:        160px;
+
+// $section-xlarge-padding-vertical:                  $global-xlarge-margin !default;
+$section-xlarge-padding-vertical-m:       200px;
 
 
 $text-lead-font-size:                     1.1875rem;
@@ -77,4 +82,4 @@ $text-lead-line-height:                   1.65;
 // $text-large-line-height:                         1.5 !default;
 
 $border-rounded-medium:										8px;
-$border-rounded-large:										14px;
+$border-rounded-large:										10px;

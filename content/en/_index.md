@@ -16,7 +16,7 @@ header:
     text: Try Goat
     url: "/try-goat/"
   background: default
-  background_image: "/images/header-home.jpg"
+  background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
 blocks:
 - template: card-block
   block: card

@@ -71,5 +71,7 @@ blocks:
   - "/images/3-1.png"
   - "/images/logo-bmvi-1.png"
   - "/images/2-1.png"
+  text: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+    eu fugiat nulla pariatur.
 
 ---

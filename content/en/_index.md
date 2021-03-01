@@ -46,7 +46,7 @@ blocks:
   heading: Dolor in reprehenderit
 - template: card-block
   block: card
-  layout: left
+  layout: right
   background: default
   image: "/images/goat.png"
   text: Walking and cycling require attractive transport infrastructure and destinations

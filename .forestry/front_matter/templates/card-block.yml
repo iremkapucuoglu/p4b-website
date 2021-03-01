@@ -31,6 +31,8 @@ fields:
     options:
     - default
     - muted
+    - primary
+    - secondary
     source:
       type: simple
       section: 

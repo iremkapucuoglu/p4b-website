@@ -46,7 +46,7 @@ blocks:
 - template: card-block
   block: card
   layout: left
-  background: secondary
+  background: muted
   image: "/images/goat.png"
   text: Walking and cycling require attractive transport infrastructure and destinations
     at close distance. GOAT offers interactive map-based analysis.

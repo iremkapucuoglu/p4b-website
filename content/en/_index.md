@@ -59,7 +59,7 @@ blocks:
   background_image: "/images/bg-5.svg"
 - template: recent-posts-block
   block: recent-posts
-  background: default
+  background: secondary
   heading: Recent Posts
 - template: logos-block
   block: logos

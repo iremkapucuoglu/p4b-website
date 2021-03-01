@@ -34,10 +34,10 @@ blocks:
   - icon: "/images/icon-circle.svg"
     heading: Innovation
     text: 'Always driving for cutting-edge technology. '
-  - icon: "/images/icon-square-yellow.svg"
+  - icon: "/images/icon-circle.svg"
     heading: Joy
     text: Make urban and transport planning fun.
-  - icon: "/images/icon-triangle-primary.svg"
+  - icon: "/images/icon-circle.svg"
     heading: Balance
     text: Evidence-based planning decisions.
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore

@@ -49,14 +49,14 @@ blocks:
   block: card
   layout: right
   background: default
-  image: "/images/goat.png"
+  image: "/images/header-home-image.jpg"
   text: Walking and cycling require attractive transport infrastructure and destinations
     at close distance. GOAT offers interactive map-based analysis.
   heading: Ipsum dolor sit amet
   button:
     url: "/"
     text: 'Optional '
-  background_image: "/images/bg-5.svg"
+  background_image: "/images/bg-6.svg"
 - template: recent-posts-block
   block: recent-posts
   background: default

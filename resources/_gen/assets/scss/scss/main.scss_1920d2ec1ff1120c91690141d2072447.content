@@ -7932,17 +7932,25 @@ iframe.uk-cover {
 
 @media (min-width: 960px) {
   .uk-card-left .uk-card-image {
-    padding-right: 20px; }
+    padding-right: 40px; }
   .uk-card-left .uk-card-content {
-    padding-left: 20px; } }
+    padding-left: 40px; }
+  .uk-card-right .uk-card-image {
+    padding-left: 40px; }
+  .uk-card-right .uk-card-content {
+    padding-right: 40px; } }
 
 @media (min-width: 1200px) {
   .uk-width-card {
-    width: 58%; }
+    width: calc(50% + 100px); }
   .uk-card-left .uk-card-image {
-    padding-right: 40px; }
+    padding-right: 80px; }
   .uk-card-left .uk-card-content {
-    padding-left: 70px; } }
+    padding-left: 80px; }
+  .uk-card-right .uk-card-image {
+    padding-left: 80px; }
+  .uk-card-right .uk-card-content {
+    padding-right: 60px; } }
 
 footer {
   color: #fff !important; }

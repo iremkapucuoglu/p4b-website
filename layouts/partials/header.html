@@ -1,4 +1,4 @@
-<header class="uk-section-{{ .Params.header.background }}">
+<header class="uk-section-{{ .Params.header.background }}" uk-height-viewport>
   {{ partial "navbar.html" . }}
   {{ if not (eq .Params.header.layout "none") }}
     <div class="{{ if or (eq .Params.header.layout "left") (eq .Params.header.layout "full") }}uk-section-header{{ else }}uk-section-header{{ end }} uk-background-cover uk-position-relative uk-background-contain uk-background-center-right" 
@@ -28,7 +28,7 @@
             </div>
             {{ if .Params.header.image }}
               <div class="uk-width-1-2@m uk-width-auto@l uk-flex uk-flex-middle">
-                <img class="uk-box-shadow-xlarge uk-border-rounded" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}" width="700">
+                <img class="uk-box-shadow-xlarge" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}" width="700">
               </div>
             {{ end }}
           </div>

@@ -20,7 +20,7 @@ header:
 blocks:
 - template: card-block
   block: card
-  layout: right
+  layout: left
   background: default
   text: Our aim is to help planners and decision-makers to promote active mobility
     and plan for a balanced future. By providing understandable planning tools, we

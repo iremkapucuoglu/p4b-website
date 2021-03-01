@@ -29,7 +29,7 @@ blocks:
   video: YdAIBlPVe9s
 - template: features-block
   block: features
-  background: muted
+  background: default
   features:
   - icon: "/images/icon-circle.svg"
     heading: Innovation
@@ -45,8 +45,8 @@ blocks:
   heading: Dolor in reprehenderit
 - template: card-block
   block: card
-  layout: left
-  background: muted
+  layout: right
+  background: secondary
   image: "/images/goat.png"
   text: Walking and cycling require attractive transport infrastructure and destinations
     at close distance. GOAT offers interactive map-based analysis.

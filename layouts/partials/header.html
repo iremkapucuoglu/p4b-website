@@ -1,17 +1,17 @@
 <header class="uk-section-{{ .Params.header.background }}">
   {{ partial "navbar.html" . }}
   {{ if not (eq .Params.header.layout "none") }}
-    <div class="{{ if or (eq .Params.header.layout "left") (eq .Params.header.layout "full") }}uk-section-header{{ else }}uk-section-header{{ end }} uk-background-cover uk-position-relative" 
+    <div class="{{ if or (eq .Params.header.layout "left") (eq .Params.header.layout "full") }}uk-section-header{{ else }}uk-section-header{{ end }} uk-background-cover uk-position-relative uk-background-contain uk-background-center-right" 
       {{ if .Params.header.background_image }} style="background-image: url({{ .Params.header.background_image |absURL }});"{{ end }}>
       {{ if .Params.header.background_image }}
-        <div class="uk-overlay-primary uk-position-cover"></div>
+        <div class="uk-overlay-primary- uk-position-cover"></div>
       {{ end }}
       <div class="uk-container{{ if eq .Params.header.layout "center" }} uk-container-small{{ end }} uk-position-relative">
         {{ if eq .Params.header.layout "left" }}
           <div class="uk-grid-large" data-uk-grid>
             <div class="{{ if .Params.header.image }}uk-width-expand@m{{ else }}uk-width-2-3@m{{ end }} uk-flex uk-flex-middle">
               <div>
-                <div class="{{ if .Params.header.background_image }}uk-light{{ end }}">
+                <div class="{{ if .Params.header.background_image }}uk-light-{{ end }}">
                   {{ with .Params.header.heading }}
                     <h1 class="uk-heading-small uk-margin-remove">{{ . }}</h1>
                   {{ end }}
@@ -28,7 +28,7 @@
             </div>
             {{ if .Params.header.image }}
               <div class="uk-width-1-2@m uk-width-auto@l uk-flex uk-flex-middle">
-                <img class="uk-box-shadow-large uk-border-rounded" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}" width="680">
+                <img class="uk-box-shadow-xlarge uk-border-rounded" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}" width="700">
               </div>
             {{ end }}
           </div>

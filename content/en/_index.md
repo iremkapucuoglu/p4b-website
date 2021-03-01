@@ -11,11 +11,12 @@ header:
   heading: Let's balance the future together!
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
     eu fugiat nulla. '
-  image: "/images/isochrone_amenities.png"
+  image: "/images/header-home-image.jpg"
   button:
     text: Try Goat
     url: "/try-goat/"
-  background: muted
+  background: default
+  background_image: "/images/header-home.jpg"
 blocks:
 - template: card-block
   block: card

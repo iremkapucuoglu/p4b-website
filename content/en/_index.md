@@ -18,17 +18,6 @@ header:
   background: default
   background_image: "/images/header-home.jpg"
 blocks:
-- template: card-block
-  block: card
-  layout: left
-  background: default
-  text: Our aim is to help planners and decision-makers to promote active mobility
-    and plan for a balanced future. By providing understandable planning tools, we
-    are transforming transport.
-  heading: Playground for shaping livable spaces
-  image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
-  video: YdAIBlPVe9s
-  background_image: "/images/bg-3.svg"
 - template: features-block
   block: features
   background: default
@@ -45,6 +34,17 @@ blocks:
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
     eu fugiat nulla pariatur. '
   heading: Dolor in reprehenderit
+- template: card-block
+  block: card
+  layout: left
+  background: default
+  text: Our aim is to help planners and decision-makers to promote active mobility
+    and plan for a balanced future. By providing understandable planning tools, we
+    are transforming transport.
+  heading: Playground for shaping livable spaces
+  image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
+  video: YdAIBlPVe9s
+  background_image: "/images/bg-3.svg"
 - template: card-block
   block: card
   layout: right

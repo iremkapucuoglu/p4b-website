@@ -12,7 +12,7 @@
     </div>
     
     <div class="uk-margin-s-top">
-      <ul class="uk-nav-primary uk-nav-parent-icon uk-nav-center" data-uk-nav>
+      <ul class="uk-nav-primary uk-nav-parent-icon uk-nav-center uk-margin-xlarge-top" data-uk-nav>
         {{- $current := . -}}
         {{ range .Site.Menus.center -}}
           {{ $active := in $current.RelPermalink .URL }}
@@ -26,7 +26,7 @@
                   {{ if eq .Name "divider" }}
                     <li class="uk-nav-divider"></li>
                   {{ else }}
-                    <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                    <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
                   {{ end }}
                 {{ end }}
               </ul>
@@ -56,22 +56,29 @@
                   {{ if eq .Name "divider" }}
                     <li class="uk-nav-divider"></li>
                   {{ else }}
-                    <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                    <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
                   {{ end }}
                 {{ end }}
               </ul>
             </li>
           {{ else }}
             {{ if .Params.button }}
-              <li>
-                <a class="uk-button-{{ .Params.button }}" href="{{ .URL | absURL }}">{{ .Name }}</a>
+              <li class="uk-margin-medium-top">
+                <a class="uk-button-primary" href="{{ .URL | absURL }}">{{ .Name }}</a>
               </li>
             {{ else }}
               <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
             {{ end }}
           {{ end }}
         {{ end }}
-      </ul>              
+      </ul>
+      <div class="uk-margin-medium-top uk-margin-medium-bottom uk-flex uk-flex-center">
+        <div class="uk-child-width-auto uk-grid-small" data-uk-grid>
+          {{ range .Site.Menus.social -}}
+            <div><a href="{{ .URL | absURL }}" target="_blank" data-uk-icon="icon: {{ .Params.icon }}; ratio: 1.2"></a></div>
+          {{ end -}}
+        </div>
+      </div>              
             
     </div>
     

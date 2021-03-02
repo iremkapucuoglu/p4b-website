@@ -40,6 +40,15 @@ $base-link-color:                         $global-primary-background;
 
 $button-text-transform: 									none;
 
+$nav-primary-item-font-size:							1.75rem;
+$nav-primary-item-color:                  $global-color;
+$nav-primary-item-hover-color:            $global-primary-background;
+$nav-primary-item-active-color:           $global-color;
+$nav-primary-sublist-item-color:          $global-color;
+$nav-primary-sublist-item-hover-color:    $global-primary-background;
+// $nav-primary-sublist-item-active-color:   $global-color;
+
+
 $navbar-background:                       transparent;
 $navbar-nav-item-color:                   $global-color;
 $navbar-nav-item-font-size:               0.9375rem;
@@ -52,8 +61,8 @@ $inverse-navbar-nav-item-hover-color:     $inverse-global-color;
 // $inverse-navbar-nav-item-onclick-color:         $inverse-global-emphasis-color !default;
 // $inverse-navbar-nav-item-active-color:          $inverse-global-emphasis-color !default;
 // $inverse-navbar-item-color:                     $inverse-global-color !default;
-$inverse-navbar-toggle-color:             $inverse-global-color;
-$inverse-navbar-toggle-hover-color:       $inverse-global-color;
+$navbar-toggle-color:             				$global-color;
+$navbar-toggle-hover-color:       				$global-primary-background;
 
 // $navbar-nav-item-onclick-color:                  $global-emphasis-color !default;
 $navbar-nav-item-active-color:            $global-color;

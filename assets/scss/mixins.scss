@@ -70,7 +70,20 @@
     margin-right: 4px;
     margin-top: -1px;
   }
-  
+  .uk-nav-primary.uk-nav-parent-icon > .uk-parent > a::after {
+    right: 15px;
+  }
+  .uk-nav-primary {
+    ul li {
+      font-size: $global-medium-font-size;
+
+    }
+    .uk-button-primary {
+      color: #fff;
+      font-size: 1.25rem;
+      line-height: 42px;
+    }
+  }
   @media (min-width: $breakpoint-medium) {
     .uk-card-left {
       .uk-card-image {

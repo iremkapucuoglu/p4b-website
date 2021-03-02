@@ -33,13 +33,13 @@ blocks:
   block: features
   background: default
   features:
-  - icon: "/images/icon-circle.svg"
+  - icon: "/images/icon-technology.svg"
     heading: Innovation
     text: 'Always driving for cutting-edge technology. '
   - icon: "/images/icon-transport-1.svg"
     heading: Joy
     text: Make urban and transport planning fun.
-  - icon: "/images/icon-circle.svg"
+  - icon: "/images/icon-planning.svg"
     heading: Balance
     text: Evidence-based planning decisions.
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore

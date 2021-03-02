@@ -26,10 +26,12 @@
                 <a href="#">{{ .Name }}<span>{{ readFile "assets/images/dropdown.svg" | safeHTML }}</span></a>
                 <div class="uk-navbar-dropdown uk-navbar-dropdown-width-2 uk-padding-remove-horizontal" data-uk-drop="boundary: .parent; boundary-align: true; pos: bottom-justify; mode: click">
                   <div class="uk-navbar-dropdown-grid uk-child-width-1-2 uk-margin-bottom" uk-grid>
-                    <div>
-                      <h4>{{ .Params.heading }}</h4>
-                      <div class="uk-text-muted">{{ .Params.text }}</div>
-                    </div>
+                    {{ if or .Params.heading .Params.text }}
+                      <div>
+                        <h4>{{ .Params.heading }}</h4>
+                        <div class="uk-text-muted">{{ .Params.text }}</div>
+                      </div>
+                    {{ end }}
                     <div>
                       <ul class="uk-nav uk-navbar-dropdown-nav uk-text-bold">
                         {{ range .Children }}

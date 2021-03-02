@@ -2,11 +2,11 @@
 title: Yet another post dummy post example
 image: https://via.placeholder.com/640x450
 date: 2019-02-26
-summary: The farm is on track to be the largest solar
-  farm in Australia this year.
-categories: 
-  - news
-author: john
+summary: The farm is on track to be the largest solar farm in Australia this year.
+categories:
+- news
+author: Ulrike
+
 ---
 **The 255 MWp Sunraysia Solar Farm is on track to be the largest solar farm in Australia this year. Between 350 - 400 people will be directly engaged by Decmil during the construction period with the accommodation camp running close to full occupancy as it continues to ramp up.**
 

@@ -25,25 +25,52 @@
               <li>
                 <a href="#">{{ .Name }}<span>{{ readFile "assets/images/dropdown.svg" | safeHTML }}</span></a>
                 <div class="uk-navbar-dropdown uk-navbar-dropdown-width-2 uk-padding-remove-horizontal" data-uk-drop="boundary: .parent; boundary-align: true; pos: bottom-justify; mode: click">
-                  <div class="uk-navbar-dropdown-grid uk-child-width-1-2 uk-margin-bottom" uk-grid>
+                  <div class="uk-navbar-dropdown-grid uk-child-width-expand uk-margin-bottom" uk-grid>
                     {{ if or .Params.heading .Params.text }}
-                      <div>
+                      <div class="uk-width-1-2">
                         <h4>{{ .Params.heading }}</h4>
                         <div class="uk-text-muted">{{ .Params.text }}</div>
                       </div>
                     {{ end }}
+                    
                     <div>
                       <ul class="uk-nav uk-navbar-dropdown-nav uk-text-bold">
                         {{ range .Children }}
-                          {{ $active_child := in $current.RelPermalink .URL }}
-                          {{ if eq .Name "divider" }}
-                            <li class="uk-nav-divider"></li>
-                          {{ else }}
-                            <li{{ if $active_child }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                          {{ if ne .Pre "2" }}
+                            {{ $active_child := in $current.RelPermalink .URL }}
+                            {{ if eq .Name "divider" }}
+                              <li class="uk-nav-divider"></li>
+                            {{ else }}
+                              {{ if .URL }}
+                                <li{{ if $active_child }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                              {{ else }}
+                                <li class="uk-nav-header">{{ .Name }}</li>
+                              {{ end }}
+                            {{ end }}
                           {{ end }}
                         {{ end }}
                       </ul>
                     </div>
+                    
+                    <div>
+                      <ul class="uk-nav uk-navbar-dropdown-nav uk-text-bold">
+                        {{ range .Children }}
+                          {{ if eq .Pre "2" }}
+                            {{ $active_child := in $current.RelPermalink .URL }}
+                            {{ if eq .Name "divider" }}
+                              <li class="uk-nav-divider"></li>
+                            {{ else }}
+                              {{ if .URL }}
+                                <li{{ if $active_child }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                              {{ else }}
+                                <li class="uk-nav-header">{{ .Name }}</li>
+                              {{ end }}
+                            {{ end }}
+                          {{ end }}
+                        {{ end }}
+                      </ul>
+                    </div>
+
                   </div>
                 </div>
               </li>

@@ -54,31 +54,61 @@ weight = 1
 [[languages.en.menu.center]]
 name = "Competences"
 weight = 2
+
+[[languages.en.menu.center]]
+name = "Heading 2"
+parent = "GOAT"
+weight = 7
+pre = "2"
+[[languages.en.menu.center]]
+name = "Link 1"
+parent = "GOAT"
+url = "/"
+weight = 8
+pre = "2"
+[[languages.en.menu.center]]
+name = "Link 2"
+parent = "GOAT"
+url = "/"
+weight = 9
+pre = "2"
+[[languages.en.menu.center]]
+name = "Link 3"
+parent = "GOAT"
+url = "/"
+weight = 10
+pre = "2"
+
 [[languages.en.menu.center]]
 name = "Docs"
 parent = "GOAT"
 url = "/docs/"
-weight = 5
+weight = 6
 [[languages.en.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
 url = "/tutorials/"
-weight = 4
+weight = 5
 [[languages.en.menu.center]]
 name = "Videos"
 parent = "GOAT"
 url = "/videos/"
-weight = 3
+weight = 4
 [[languages.en.menu.center]]
 name = "GOATlive"
 parent = "GOAT"
 url = "/goatlive/"
-weight = 2
+weight = 3
 [[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
 url = "/what-is-goat/"
+weight = 2
+[[languages.en.menu.center]]
+name = "Heading 1"
+parent = "GOAT"
 weight = 1
+
 [[languages.en.menu.center]]
 name = "GOAT"
 url = "/"

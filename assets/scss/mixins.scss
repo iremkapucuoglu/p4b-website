@@ -239,6 +239,14 @@
   .uk-navbar-dropdown-grid>.uk-first-column {
     padding-right: 40px;
   }
+  .uk-navbar-dropdown-grid {
+    .uk-nav-header {
+      color: $global-color;
+      letter-spacing: 0.03em;
+      font-size: 1rem;
+      margin-bottom: 5px;
+    }
+  }
   .uk-navbar-dropdown-grid>div:not(.uk-first-column)::before {
     left: 0;
   } 

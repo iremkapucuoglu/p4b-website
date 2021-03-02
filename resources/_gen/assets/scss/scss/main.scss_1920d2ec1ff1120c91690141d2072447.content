@@ -7930,6 +7930,11 @@ iframe.uk-cover {
 .uk-play-icon:hover {
   opacity: 0.9; }
 
+.uk-lang-icon {
+  max-width: 21px;
+  margin-right: 4px;
+  margin-top: -1px; }
+
 @media (min-width: 960px) {
   .uk-card-left .uk-card-image {
     padding-right: 40px; }

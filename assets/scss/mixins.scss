@@ -65,6 +65,12 @@
     opacity: 0.9;
   }
   
+  .uk-lang-icon {
+    max-width: 21px;
+    margin-right: 4px;
+    margin-top: -1px;
+  }
+  
   @media (min-width: $breakpoint-medium) {
     .uk-card-left {
       .uk-card-image {

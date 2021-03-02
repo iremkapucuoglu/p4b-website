@@ -65,9 +65,11 @@
         {{ if .IsTranslated }}
           <ul class="uk-navbar-nav uk-text-uppercase">
             {{ range .Translations }}
-            <li>
-                <a href="{{ .RelPermalink }}">{{ .Lang }}</a>
-            </li>
+              {{ $file := (printf "%s%s%s" "images/" .Lang ".png" ) }}
+              {{ $icon := resources.Get $file }}
+              <li>
+                <a href="{{ .RelPermalink }}"><img src="{{ $icon.Permalink }}" class="uk-lang-icon">{{ .Lang }}</a>
+              </li>
             {{ end}}
             </ul>
         {{ end }}

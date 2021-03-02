@@ -34,7 +34,7 @@ blocks:
   - icon: "/images/icon-circle.svg"
     heading: Innovation
     text: 'Always driving for cutting-edge technology. '
-  - icon: "/images/icon-transport.svg"
+  - icon: "/images/icon-transport.png"
     heading: Joy
     text: Make urban and transport planning fun.
   - icon: "/images/icon-circle.svg"

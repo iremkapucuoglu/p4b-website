@@ -7946,6 +7946,10 @@ iframe.uk-cover {
   font-size: 1.25rem;
   line-height: 42px; }
 
+@media (max-width: 960px) {
+  .uk-card-image {
+    margin-top: 40px; } }
+
 @media (min-width: 960px) {
   .uk-card-left .uk-card-image {
     padding-right: 40px; }
@@ -7974,6 +7978,18 @@ footer {
   color: #fff !important; }
   footer a:hover {
     color: #2BB381 !important; }
+  footer .uk-nav {
+    padding-left: 18px; }
+  footer .uk-nav li a {
+    position: relative; }
+    footer .uk-nav li a:before {
+      position: absolute;
+      width: 14px;
+      height: 14px;
+      left: -20px;
+      top: 10px;
+      content: "";
+      background-image: url("data:image/svg+xml,%3Csvg width='14' height='14' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolyline fill='none' stroke='%23fff' stroke-width='1.75' points='7 4 13 10 7 16'%3E%3C/polyline%3E%3C/svg%3E"); }
 
 .uk-text-semi-bold {
   font-weight: 600; }

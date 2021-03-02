@@ -6,7 +6,7 @@
 	<div class="uk-section-large uk-position-relative">
 		<div class="uk-container">
 			<div class="uk-grid-collapse{{ if eq .layout "left" }} uk-card-left{{ else }} uk-card-right{{ end }}" data-uk-grid>
-				<div class="uk-width-expand@m uk-flex uk-flex-middle">
+				<div class="uk-width-expand@m uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-{{ if eq .layout "right" }}left{{ else }}right{{ end }}-medium; repeat: true">
 					<div class="uk-card-content">
 						{{ with .heading }}
 						<h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
@@ -19,7 +19,7 @@
 						{{ end }}
 					</div>
 				</div>
-				<div class="uk-width-1-2@m uk-width-card{{ if eq .layout "left" }} uk-flex-first@m{{ end }} uk-flex uk-flex-middle">
+				<div class="uk-width-1-2@m uk-width-card{{ if eq .layout "left" }} uk-flex-first@m{{ end }} uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-{{ if eq .layout "right" }}right{{ else }}left{{ end }}-medium; repeat: true">
 					<div class="uk-card-image">
 						{{ if .video }}
 						{{- $icon := resources.Get "images/icon-play.svg" -}}

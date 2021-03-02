@@ -1,8 +1,8 @@
-<footer class="uk-section uk-section-secondary">
+<footer class="uk-section uk-background-secondary">
   <div class="uk-container">
 
     <div class="uk-flex uk-flex-center uk-grid-large uk-margin-medium-top" data-uk-grid>
-      <div class="uk-width-1-2 uk-width-expand@m">
+      <div class="uk-width-1-2 uk-width-expand@m uk-light">
         <h4>{{ i18n "footer_links" }}</h4>
         <ul class="uk-nav uk-text-size-m">
           {{ range .Site.Menus.footer }}
@@ -10,7 +10,7 @@
           {{ end }}
         </ul>
       </div>
-      <div class="uk-width-1-2 uk-width-expand@m uk-text-size-m">
+      <div class="uk-width-1-2 uk-width-expand@m uk-text-size-m uk-light">
         <h4>{{ i18n "footer_info" }}</h4>
         {{ with .Site.Params.phone }}
           <div><a href="tel:{{ . }}">{{ . }}</a></div>
@@ -23,14 +23,35 @@
         {{ end }}
       </div>
       <div class="uk-width-1-2 uk-flex-first@m uk-text-center uk-text-left@m">
-        <a class="uk-logo" href="{{ "/" | relLangURL }}">
+        <a class="uk-logo uk-light" href="{{ "/" | relLangURL }}">
           {{ if .Site.Params.site_logo_light }}
             <img src="{{ .Site.Params.site_logo_light | absURL }}" class="uk-logo-inverse uk-margin-xsmall-top" alt="{{ $.Site.Title }}" width="200">        
           {{ else }}
             {{ .Site.Title }}
           {{ end }}
         </a>
-        <div class="uk-margin-m-top uk-text-small uk-width-4-5@m">{{ i18n "copyright" }}</div>
+        {{ if .Site.Params.mailchimp_form_action }}
+          <div id="mc_embed_signup" class="uk-margin-medium-top uk-width-4-5@m">
+            <form action="{{ .Site.Params.mailchimp_form_action }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" rel="noopener" novalidate>
+                <div id="mc_embed_signup_scroll" class="uk-grid-small" data-uk-grid>
+                <div class="uk-width-1-1 uk-width-expand@s">
+                    <div class="mc-field-group">
+                    <input type="email" value="" placeholder="{{ i18n "emailAddress" }}" name="EMAIL" class="required email uk-input uk-form-medium uk-width-1-1 uk-border-pill" id="mce-EMAIL">
+                    </div>
+                </div>
+                <div class="uk-width-1-1 uk-width-auto@s">
+                    <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="{{ .Site.Params.mailchimp_hidden_name }}" tabindex="-1" value=""></div>
+                    <div class="clear"><input type="submit" value="{{ i18n "subscribe" }}" name="subscribe" id="mc-embedded-subscribe" class="button uk-button uk-button-primary uk-width-1-1"></div>
+                </div>
+                </div>
+            </form>
+          </div>
+        {{ end }}
+        <div class="uk-margin-m-top uk-text-small uk-width-3-4@m">{{ i18n "copyright" }}</div>
         <div class="uk-margin-m-top uk-flex uk-flex-center uk-flex-left@m">
           <div class="uk-child-width-auto uk-grid-small" data-uk-grid>
             {{ range .Site.Menus.social -}}

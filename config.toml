@@ -8,6 +8,8 @@ site_logo_light = "images/logo-light.png"
 email = "info@plab4better.de"
 phone = "+49 1923 000 000"
 address = "Arcisstraße 21 80333<br> München Germany"
+mailchimp_form_action = "xxxx"
+mailchimp_hidden_name = "xxxx"
 
 [languages]
 [languages.en]

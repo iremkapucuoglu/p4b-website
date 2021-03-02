@@ -1,41 +1,8 @@
-[more]
-other = "More"
-
-[allTitle]
-other = "All {{.Title }}"
-
-[recentTitle]
-other = "Recent {{.Title }}"
-
-[readMore]
-other = "read more"
-
-[related]
-other = "Related"
-
-[yourName]
-other = "Your Name"
-
 [emailAddress]
 other = "Email Address"
 
-[message]
-other = "Message"
-
-[emailRequiredNote]
-other = "An email address is required."
-
-[send]
-other = "Send"
-
-[taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
-
-
-
-
-[translations]
-other = "Translations"
+[subscribe]
+other = "Subscribe"
 
 [copyright]
 other = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident"

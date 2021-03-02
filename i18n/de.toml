@@ -1,44 +1,11 @@
-[more]
-other = "Mehr"
-
-[allTitle]
-other = "Alle {{.Title }}"
-
-[recentTitle]
-other = "Neuste {{.Title }}"
-
-[readMore]
-other = "weiterlesen"
-
-[whatsInThis]
-other = "Was ist in dieser {{ .Type }}"
-
-[related]
-other = "Ähnliches"
-
-[yourName]
-other = "Dein Name"
-
 [emailAddress]
 other = "Email Adresse"
 
-[message]
-other = "Nachricht"
-
-[emailRequiredNote]
-other = "Eine Email Adresse wird benötigt."
-
-[send]
-other = "Senden"
-
-[taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
-
-
-
+[subscribe]
+other = "Subscribe"
 
 [copyright]
-other = "Open Accessibility 2020 | All Rights Reserved"
+other = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident"
 
 [footer_links]
 other = "Quick links"

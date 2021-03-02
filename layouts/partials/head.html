@@ -21,3 +21,18 @@
 {{ $custom := resources.Get "js/custom.js" | minify -}}
 {{ $js := slice $uikit $uikit_icons $custom | resources.Concat "main.js" -}}
 <script src="{{ $js.Permalink }}"></script>
+<!-- Matomo -->
+<script type="text/javascript">
+  var paq = paq || [];
+  / tracker methods like "setCustomDimension" should be called before "trackPageView" /
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.open-accessibility.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '4']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->

@@ -7974,6 +7974,16 @@ iframe.uk-cover {
   .uk-card-right .uk-card-content {
     padding-right: 80px; } }
 
+.uk-scale:hover img {
+  transform: scale(1.05);
+  transition: all .2s ease; }
+
+.uk-scale {
+  overflow: hidden;
+  position: relative; }
+  .uk-scale img {
+    transition: all .2s ease-in-out; }
+
 footer {
   color: #fff !important; }
   footer a:hover {

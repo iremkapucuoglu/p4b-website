@@ -20,15 +20,19 @@
 					</div>
 				</div>
 				<div class="uk-width-1-2@m uk-width-card{{ if eq .layout "left" }} uk-flex-first@m{{ end }} uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-{{ if eq .layout "right" }}right{{ else }}left{{ end }}-medium; repeat: true">
-					<div class="uk-card-image">
+					<div class="uk-card-image uk-position-relative">
+						
 						{{ if .video }}
 						{{- $icon := resources.Get "images/icon-play.svg" -}}
-						<div class="uk-inline">
-							<img class="uk-box-shadow-medium" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
-							<div class="uk-position-cover uk-overlay uk-overlay-light"></div>
-							<div class="uk-position-center">
-								<a class="uk-play-icon" href="#modal-video" data-uk-toggle><img src="{{ $icon.Permalink }}" alt="play" height="216" width="216"></a>
+						<div class="uk-scale">
+							<div class="uk-inline">
+								<img class="uk-box-shadow-medium" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">
+								<div class="uk-position-cover uk-overlay uk-overlay-light"></div>
+								<div class="uk-position-center">
+									<img src="{{ $icon.Permalink }}" alt="play" height="216" width="216"></a>
+								</div>
 							</div>
+							<a class="uk-position-cover" href="#modal-video" data-uk-toggle></a>
 						</div>
 						{{ else }}
 						<img class="uk-box-shadow-medium" src="{{ .image | absURL }}" alt="{{ .heading }}" width="680">

@@ -1,4 +1,49 @@
 ---
 label: Links block
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: Block
+  default: links
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: background
+  type: select
+  default: muted
+  config:
+    required: false
+    options:
+    - default
+    - muted
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background
+- name: links
+  type: field_group_list
+  fields:
+  - name: pages
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: ''
+        file: 
+        path: 
+    label: Pages
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Links

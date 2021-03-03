@@ -23,6 +23,11 @@ fields:
       file: 
       path: 
   label: Layout
+- name: background_image
+  type: file
+  config:
+    maxSize: 64
+  label: Background Image
 - name: background
   type: select
   default: default
@@ -38,12 +43,7 @@ fields:
       section: 
       file: 
       path: 
-  label: Background
-- name: background_image
-  type: file
-  config:
-    maxSize: 64
-  label: Background Image
+  label: Background Color Image
 - name: heading
   type: text
   config:
@@ -84,3 +84,19 @@ fields:
     required: false
   label: Video
   description: YouTube video ID.
+- name: background_color_content
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    - muted
+    - primary
+    - secondary
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background Color Content

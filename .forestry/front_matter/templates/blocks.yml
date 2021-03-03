@@ -103,4 +103,5 @@ fields:
     max: 
 pages:
 - content/en/goatlive.md
+- content/en/videos.md
 - content/en/what-is-goat.md

@@ -38,9 +38,9 @@ video = ""
 text = ""
 url = ""
 [[blocks]]
-background = "muted"
+background = "default"
 block = "links"
-heading = ""
+heading = "Learn more"
 template = "links-block"
 [[blocks.links]]
 pages = "en/_index.md"

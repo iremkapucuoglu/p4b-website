@@ -7,26 +7,26 @@ sections:
 - type: directory
   path: content/en
   label: Pages EN
-  create: all
+  create: documents
   match: "*"
   templates:
   - blocks
 - type: directory
   path: content/de
   label: Pages DE
-  create: all
+  create: documents
   match: "*"
   templates:
   - blocks
 - type: directory
   path: content/en/posts
   label: Posts EN
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: content/de/posts
   label: Posts DE
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: static/images
 public_path: "/images"

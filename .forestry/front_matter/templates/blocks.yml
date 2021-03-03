@@ -97,6 +97,7 @@ fields:
   - features-block
   - logos-block
   - recent-posts-block
+  - links-block
   config:
     min: 
     max: 

@@ -26,7 +26,7 @@ text = ""
 url = ""
 [[blocks]]
 background = "default"
-background_image = ""
+background_image = "/images/bg-12.svg"
 block = "card"
 heading = "What are the main features?"
 image = "/images/draw_bridge.png"

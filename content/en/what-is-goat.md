@@ -37,5 +37,12 @@ video = ""
 [blocks.button]
 text = ""
 url = ""
+[[blocks]]
+background = "muted"
+block = "links"
+heading = ""
+template = "links-block"
+[[blocks.links]]
+pages = "en/_index.md"
 
 +++

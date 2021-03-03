@@ -31,7 +31,16 @@ fields:
 - name: links
   type: field_group_list
   fields:
-  - name: pages
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Text
+  - name: page
     type: select
     default: []
     config:
@@ -42,7 +51,7 @@ fields:
         section: ''
         file: 
         path: 
-    label: Pages
+    label: Page
   config:
     min: 
     max: 

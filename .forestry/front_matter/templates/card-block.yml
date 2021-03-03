@@ -44,6 +44,22 @@ fields:
       file: 
       path: 
   label: Background Color Image
+- name: background_color_content
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    - muted
+    - primary
+    - secondary
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background Color Content
 - name: heading
   type: text
   config:
@@ -84,19 +100,3 @@ fields:
     required: false
   label: Video
   description: YouTube video ID.
-- name: background_color_content
-  type: select
-  default: default
-  config:
-    required: false
-    options:
-    - default
-    - muted
-    - primary
-    - secondary
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Background Color Content

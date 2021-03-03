@@ -38,7 +38,7 @@ video = ""
 text = ""
 url = ""
 [[blocks]]
-background = "default"
+background = "muted"
 block = "links"
 heading = "Learn more"
 template = "links-block"

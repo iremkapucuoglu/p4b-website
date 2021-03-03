@@ -43,6 +43,17 @@ block = "links"
 heading = "Learn more"
 template = "links-block"
 [[blocks.links]]
+page = "en/goatlive.md"
+text = "Live enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+[[blocks.links]]
+page = "en/videos.md"
+text = "Videos enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+[[blocks.links]]
+page = "en/tutorials.md"
+text = "Tutorials enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+[[blocks.links]]
+page = "en/docs.md"
 pages = "en/_index.md"
+text = "Docs enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
 
 +++

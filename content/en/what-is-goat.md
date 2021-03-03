@@ -1,5 +1,4 @@
 +++
-draft = true
 layout = "blocks"
 title = "What is GOAT?"
 [header]

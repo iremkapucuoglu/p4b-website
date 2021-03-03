@@ -2,7 +2,7 @@
 title: Yet another post dummy post example
 image: https://via.placeholder.com/640x450
 date: 2019-02-26
-summary: The farm is on track to be the largest solar farm in Australia this year.
+summary: The farm is on track to be the largest solar farm in München this year.
 categories:
 - news
 author: Ulrike

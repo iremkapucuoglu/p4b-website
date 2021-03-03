@@ -8,6 +8,7 @@ fields:
     required: false
   label: Block
   default: links
+  hidden: true
 - name: heading
   type: text
   config:

@@ -1,5 +1,5 @@
 ---
-title: Home DE
+title: Zuhause
 heading: Latest updates straight to your inbox in German
 signup:
   label: Enter your email

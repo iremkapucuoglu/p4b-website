@@ -100,3 +100,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/en/what-is-goat.md

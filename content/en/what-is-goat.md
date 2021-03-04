@@ -12,7 +12,7 @@ text = ""
 text = ""
 url = ""
 [[blocks]]
-background = "default"
+background = "muted"
 background_color_content = "muted"
 background_image = "/images/bg-10.svg"
 block = "card"

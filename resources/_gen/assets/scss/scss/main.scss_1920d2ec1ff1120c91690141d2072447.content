@@ -5133,7 +5133,7 @@ ul.uk-nav-sub {
 
 /* OnClick */
 .uk-navbar-nav > li > a:active {
-  color: #333; }
+  color: #2BB381; }
 
 /* Active */
 .uk-navbar-nav > li.uk-active > a {

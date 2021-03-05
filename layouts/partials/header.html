@@ -9,7 +9,7 @@
       <div class="uk-container{{ if eq .Params.header.layout "center" }} uk-container-small{{ end }} uk-position-relative">
         {{ if eq .Params.header.layout "left" }}
           <div class="uk-grid-large" data-uk-grid>
-            <div class="{{ if .Params.header.image }}uk-width-expand@m{{ else }}uk-width-2-3@m{{ end }} uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-left-medium; repeat: true; delay: 100">
+            <div class="{{ if .Params.header.image }}uk-width-expand@m{{ else }}uk-width-2-3@m{{ end }} uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-left-medium; delay: 100">
               <div>
                 <div class="{{ if .Params.header.background_image }}uk-light{{ end }}">
                   {{ with .Params.header.heading }}
@@ -27,7 +27,7 @@
               </div>          
             </div>
             {{ if .Params.header.image }}
-              <div class="uk-width-1-2@m uk-width-auto@l uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-right-medium; repeat: true; delay: 100">
+              <div class="uk-width-1-2@m uk-width-auto@l uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-right-medium; delay: 100">
                 <img class="uk-box-shadow-xlarge" src="{{ .Params.header.image | absURL }}" alt="{{ .Params.header.heading }}" width="700">
               </div>
             {{ end }}

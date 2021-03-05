@@ -1,20 +1,17 @@
+---
 - category: about
-  heading: 
+  heading:
     en: About
     de: About
-
 - category: technical
-  heading: 
+  heading:
     en: Technical Documentation
     de: Technical Documentation
-
 - category: osm
-  heading: 
+  heading:
     en: Contribute to OSM
     de: Contribute to OSM
-
 - category: goat
-  heading: 
+  heading:
     en: Contribute to GOAT
     de: Contribute to GOAT
-

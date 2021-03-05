@@ -104,6 +104,8 @@ fields:
   - logos-block
   - recent-posts-block
   - links-block
+  - videos-block
+  - live-block
   config:
     min: 
     max: 

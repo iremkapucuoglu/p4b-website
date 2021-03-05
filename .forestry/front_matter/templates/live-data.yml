@@ -1,0 +1,27 @@
+---
+label: Live data
+hide_body: true
+fields:
+- type: field_group_list
+  name: Live
+  label: Live
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: title
+    label: title
+  - type: field_group
+    name: text
+    label: text
+    fields:
+    - type: textarea
+      name: en
+      label: en
+    - type: textarea
+      name: de
+      label: de
+  - type: text
+    name: url
+    label: url

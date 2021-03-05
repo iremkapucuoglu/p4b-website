@@ -8,10 +8,10 @@ fields:
   fields:
   - type: text
     name: category
-    label: category
+    label: Category
   - type: field_group
     name: heading
-    label: heading
+    label: Heading
     fields:
     - type: text
       name: en

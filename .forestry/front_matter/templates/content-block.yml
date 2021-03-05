@@ -9,11 +9,11 @@ fields:
   hidden: true
   label: Block
   default: content
-- name: header
+- name: heading
   type: text
   config:
     required: false
-  label: Header
+  label: Heading
 - name: text
   type: textarea
   default: ''

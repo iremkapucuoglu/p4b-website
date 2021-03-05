@@ -6,15 +6,15 @@ fields:
   name: Live
   label: Live
   fields:
-  - type: file
-    name: image
-    label: image
   - type: text
     name: title
-    label: title
+    label: Title
+  - type: file
+    name: image
+    label: Image
   - type: field_group
     name: text
-    label: text
+    label: Text
     fields:
     - type: textarea
       name: en
@@ -24,4 +24,4 @@ fields:
       label: de
   - type: text
     name: url
-    label: url
+    label: URL

@@ -74,5 +74,6 @@ blocks:
   - "/images/2-1.png"
   - "/images/logo-mfund.png"
   - "/images/logo-bmvi.png"
+  heading: Funded by
 
 ---

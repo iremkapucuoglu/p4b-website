@@ -2,6 +2,7 @@
 blocks = []
 layout = "blocks"
 title = "GOATlive"
+translationKey = "goat-live"
 [header]
 background = "default"
 background_image = ""

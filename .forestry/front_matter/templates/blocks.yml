@@ -14,6 +14,12 @@ fields:
   config:
     required: false
   label: Title
+- name: translationKey
+  type: text
+  config:
+    required: false
+  label: Translation Key
+  description: Set the same key to link translations together, no spaces.
 - name: header
   type: field_group
   config: {}

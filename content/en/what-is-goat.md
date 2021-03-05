@@ -1,6 +1,7 @@
 +++
 layout = "blocks"
 title = "What is GOAT?"
+translationKey = "what-is-goat"
 [header]
 background = "default"
 background_image = ""

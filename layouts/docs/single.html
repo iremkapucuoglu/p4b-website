@@ -11,7 +11,7 @@
 						{{ range site.Data.docs }}
 							{{ $docs := where $section ".Params.categories" "intersect" (slice .category) }}
 							<li class="uk-parent{{ range $docs }}{{ if eq .Title $.Title }} uk-open{{ end }}{{ end }}">
-								<a href="#">{{ .heading }}</a>
+								<a href="#">{{ index .heading site.Language.Lang }}</a>
 								<ul class="uk-nav-sub">
 									
 									{{ range $docs.ByWeight }}

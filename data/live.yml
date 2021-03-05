@@ -1,45 +1,41 @@
-- image: versions/munich.png
+---
+- image: "/images/munich.png"
   title: München
-  text: 
-    en: Munich is our home-base! This version of GOAT is currently the stablest version of the tool 
-        and will be updated frequently.  
-    de: München ist unsere Home-Base! Diese Version von GOAT ist derzeit die stabilste Version des Tools 
-        und wird regelmäßig aktualisiert.   
+  text:
+    en: Munich is our home-base! This version of GOAT is currently the stablest version
+      of the tool and will be updated frequently.
+    de: München ist unsere Home-Base! Diese Version von GOAT ist derzeit die stabilste
+      Version des Tools und wird regelmäßig aktualisiert.
   url: https://muenchen.open-accessibility.org/
-
-- image: versions/ffb.png
+- image: "/images/ffb.png"
   title: Fürstenfeldbruck
-  text: 
-    en: This version of GOAT has the most recent features and 
-          contains first approaches of cycling routing and land-use changes.
-    de: Diese Version von GOAT verfügt über die neuesten Funktionen und 
-          enthält erste Ansätze für das Fahrradrouting und Flächennutzungsänderungen.
+  text:
+    en: This version of GOAT has the most recent features and contains first approaches
+      of cycling routing and land-use changes.
+    de: Diese Version von GOAT verfügt über die neuesten Funktionen und enthält erste
+      Ansätze für das Fahrradrouting und Flächennutzungsänderungen.
   url: https://ffb.open-accessibility.org/
-
-- image: versions/bogota.png
+- image: "/images/bogota.png"
   title: Bogota
-  text: 
-    en: Bogota is our first trial in Latin-America and is developed in a Master thesis project. 
-        Special attention was given on customizing GOAT to the local context.
-    de: Bogota ist ein erster Versuch in Lateinamerika. Diese Version wird im Rahmen einer 
-      Masterarbeit entwicklelt und wurde auf die lokalen Gegebenheiten angepasst.  
+  text:
+    en: Bogota is our first trial in Latin-America and is developed in a Master thesis
+      project. Special attention was given on customizing GOAT to the local context.
+    de: Bogota ist ein erster Versuch in Lateinamerika. Diese Version wird im Rahmen
+      einer Masterarbeit entwicklelt und wurde auf die lokalen Gegebenheiten angepasst.
   url: https://bogota.open-accessibility.org/
-
-- image: versions/freising.png
+- image: "/images/freising.png"
   title: Freising
-  text: 
-    en: This version of GOAT has the most recent features and 
-          contains first approaches of cycling routing and land-use changes.
-    de: Diese Version von GOAT verfügt über die neuesten Funktionen und 
-          enthält erste Ansätze für das Fahrradrouting und Flächennutzungsänderungen.
+  text:
+    en: This version of GOAT has the most recent features and contains first approaches
+      of cycling routing and land-use changes.
+    de: Diese Version von GOAT verfügt über die neuesten Funktionen und enthält erste
+      Ansätze für das Fahrradrouting und Flächennutzungsänderungen.
   url: https://freising.open-accessibility.org/
-
-- image: versions/hasenbergl.png
+- image: "/images/hasenbergl.png"
   title: Hasenbergl-Lerchenau
-  text: 
-    en: This version was developed within a master thesis project
-          and contains detailed analysis options on walkability.
-    de: Diese Version wurde im Rahmen eines Masterarbeitsprojekts 
-          entwickelt und enthält detaillierte Analysemöglichkeiten zur fußläufigen Erreichbarkeit.
+  text:
+    en: This version was developed within a master thesis project and contains detailed
+      analysis options on walkability.
+    de: Diese Version wurde im Rahmen eines Masterarbeitsprojekts entwickelt und enthält
+      detaillierte Analysemöglichkeiten zur fußläufigen Erreichbarkeit.
   url: https://hasenbergl.open-accessibility.org/
-

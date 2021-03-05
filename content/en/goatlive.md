@@ -1,5 +1,4 @@
 +++
-blocks = []
 layout = "blocks"
 title = "GOATlive"
 translationKey = "goat-live"
@@ -13,5 +12,10 @@ text = ""
 [header.button]
 text = ""
 url = ""
+[[blocks]]
+block = "live"
+heading = "GOATlive"
+template = "live-block"
+text = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 +++

@@ -1,0 +1,21 @@
+---
+label: Categories data
+hide_body: true
+fields:
+- type: field_group_list
+  name: Docs
+  label: Docs
+  fields:
+  - type: text
+    name: category
+    label: category
+  - type: field_group
+    name: heading
+    label: heading
+    fields:
+    - type: text
+      name: en
+      label: en
+    - type: text
+      name: de
+      label: de

@@ -34,11 +34,9 @@ sections:
 - type: document
   path: data/docs.yml
   label: Docs Categories
-  match: "**/*"
 - type: document
   path: data/tutorials.yml
   label: Tutorial Categories
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

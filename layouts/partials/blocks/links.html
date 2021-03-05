@@ -16,19 +16,21 @@
       {{ range .links }}
         {{ $text := newScratch }}
         {{ $text.Set "text" .text }}
-        {{ range first 1 (where site.RegularPages ".File.LogicalName" "in" (path.Base .page)) }}
-          <div>
-            <div class="uk-card uk-card-small uk-card-body uk-card-primary uk-position-relative uk-box-shadow-hover-large uk-border-rounded">
-              <div class="uk-grid-small" data-uk-grid>
-                <div class="uk-width-expand">
-                  <h3 class="uk-margin-small-bottom uk-text-primary">{{ .Title }}</h3>
-                  <div>{{ $text.Get "text" }}</div>
-                  <a class="uk-position-cover" href="{{ .Permalink }}"></a>
+        {{ if .page }}
+          {{ range first 1 (where site.RegularPages ".File.LogicalName" "in" (path.Base .page)) }}
+            <div>
+              <div class="uk-card uk-card-small uk-card-body uk-card-primary uk-position-relative uk-box-shadow-hover-large uk-border-rounded">
+                <div class="uk-grid-small" data-uk-grid>
+                  <div class="uk-width-expand">
+                    <h3 class="uk-margin-small-bottom uk-text-primary">{{ .Title }}</h3>
+                    <div>{{ $text.Get "text" }}</div>
+                    <a class="uk-position-cover" href="{{ .Permalink }}"></a>
+                  </div>
+                  <div class="uk-width-auto uk-flex uk-flex-middle"><span data-uk-icon="icon: chevron-right; ratio: 1.25"></span></div>
                 </div>
-                <div class="uk-width-auto uk-flex uk-flex-middle"><span data-uk-icon="icon: chevron-right; ratio: 1.25"></span></div>
               </div>
             </div>
-          </div>
+          {{ end }}
         {{ end }}
       {{ end }}
     </div>

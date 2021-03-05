@@ -1,6 +1,6 @@
 <header class="uk-section-{{ .Params.header.background }}">
   {{ partial "navbar.html" . }}
-  {{ if not (eq .Params.header.layout "none") }}
+  {{ if and (.Params.header.layout) (not (eq .Params.header.layout "none")) }}
     <div class="{{ if or (eq .Params.header.layout "left") (eq .Params.header.layout "full") }}uk-section-large{{ else }}uk-section-header{{ end }} uk-background-cover uk-position-relative uk-background-cover uk-background-center-right" 
       {{ if .Params.header.background_image }} style="background-image: url({{ .Params.header.background_image |absURL }});"{{ end }}>
       {{ if .Params.header.background_image }}

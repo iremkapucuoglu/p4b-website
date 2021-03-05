@@ -1,7 +1,9 @@
 ---
 title: Background
 permalink: /docs/background/
-# lang: [en, de]
+categories:
+- about
+weight: 10
 ---
 
 ### Active mobility matters!

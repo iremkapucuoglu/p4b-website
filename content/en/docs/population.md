@@ -1,6 +1,9 @@
 ---
 title: Population Data
 permalink: /docs/population/
+categories:
+- technical
+weight: 50
 ---
 
 #### Residential buildings

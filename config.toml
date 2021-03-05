@@ -82,12 +82,12 @@ pre = "2"
 [[languages.en.menu.center]]
 name = "Docs"
 parent = "GOAT"
-url = "/docs/"
+url = "/docs/background/"
 weight = 6
 [[languages.en.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
-url = "/tutorials/"
+url = "/tutorials/isochrone/"
 weight = 5
 [[languages.en.menu.center]]
 name = "Videos"
@@ -194,12 +194,12 @@ weight = 2
 [[languages.de.menu.center]]
 name = "Docs"
 parent = "GOAT"
-url = "/docs/"
+url = "/docs/background/"
 weight = 5
 [[languages.de.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
-url = "/tutorials/"
+url = "/tutorials/isochrone/"
 weight = 4
 [[languages.de.menu.center]]
 name = "Videos"

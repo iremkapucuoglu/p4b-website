@@ -1,6 +1,9 @@
 ---
 title: Scenarios - Ways
 permalink: /tutorials/scenario-ways/
+weight: 30
+categories:
+  - training
 ---
 
 #### Description of the feature

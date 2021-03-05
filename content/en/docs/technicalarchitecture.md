@@ -1,6 +1,9 @@
 ---
 title: Technical Architecture
 permalink: /docs/technicalarchitecture/
+categories:
+- about
+weight: 30
 ---
 
 #### Structure and Environment

@@ -1,6 +1,9 @@
 ---
 title: Setup your own GOAT (alternative)
 permalink: /docs/quick_start_vm/
+categories:
+- technical
+weight: 20
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: Walkability Population Heatmap
 permalink: /docs/walkability population heatmap/
+categories:
+- technical
+weight: 70
 ---
 
 In addition to the [Walkability Heatmap](https://www.open-accessibility.org/docs/heatmap/), GOAT allows you to visualize another heatmap called Walkability Population Heatmap. This heatmap gives a better understanding of the accessibility in a specific area or neighborhood based on its population. The walkability population heatmap can be used to answer many planning questions. Among them:

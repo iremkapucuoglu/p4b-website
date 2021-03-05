@@ -1,6 +1,9 @@
 ---
 title:  Multiisochrones
 permalink: /tutorials/multiisochrones/
+weight: 20
+categories:
+  - training
 ---
 
 #### Description of the feature

@@ -1,0 +1,39 @@
+{{ define "main" }}
+<section class="uk-section-large">
+	<div class="uk-container">
+		<div class="uk-grid-large" data-uk-grid>
+			<div class="uk-width-1-4@l uk-visible@l uk-article-toc">
+				<div data-uk-sticky="offset: 70; media: @l; bottom: true" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 60">
+					<h5 class="uk-text-medium">Content Overview</h5>
+					<hr>
+					<ul class="uk-nav uk-nav-default uk-nav-parent-icon" data-uk-nav>
+						{{ $section := where $.Site.RegularPages "Section" "tutorials" }}
+						{{ range site.Data.tutorials }}
+							{{ $tutorials := where $section ".Params.categories" "intersect" (slice .category) }}
+							<li class="uk-parent{{ range $tutorials }}{{ if eq .Title $.Title }} uk-open{{ end }}{{ end }}">
+								<a href="#">{{ .heading }}</a>
+								<ul class="uk-nav-sub">
+									
+									{{ range $tutorials.ByWeight }}
+										<li{{ if eq .Title $.Title }} class="uk-active"{{ end }}><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+									{{ end }}
+								</ul>
+							</li>
+						{{ end }}
+					</ul>
+				</div>
+			</div>
+			<div class="uk-width-expand@l">
+				{{ with .Title }}
+					<h1 class="uk-text-semi-bold">{{ . }}</h1>
+					<hr class="uk-margin-medium-bottom">
+				{{ end }}
+				<div class="uk-article-content uk-text-size-m">
+					{{ .Content }}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+

@@ -1,7 +1,9 @@
 ---
 title:  Szenarien - Gebäude
 permalink: /de/tutorials/scenario-buildings/
-lang: de
+weight: 50
+categories:
+- training
 ---
 
 #### Beschreibung des Features

@@ -1,6 +1,9 @@
 ---
 title: Walkability Heatmap
 permalink: /docs/heatmap/
+categories:
+- technical
+weight: 60
 ---
 
 GOAT allows you to calculate and visualize gravity-based accessibility measures, which are visualized as heatmaps. Based on pre-calculated travel times the heatmap is computed dynamically based on the selection of the user. A hexagonal grid is used for visualization.

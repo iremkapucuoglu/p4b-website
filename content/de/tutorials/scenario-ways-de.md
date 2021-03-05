@@ -1,7 +1,9 @@
 ---
 title: Szenarien - Wege
 permalink: /de/tutorials/scenario-ways/
-lang: de
+weight: 30
+categories:
+- training
 ---
 
 #### Beschreibung des Features

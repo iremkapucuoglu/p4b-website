@@ -1,7 +1,9 @@
 ---
 title:  Szenarien - Standortplanung
 permalink: /de/tutorials/scenario-location/
-lang: de
+weight: 40
+categories:
+- training
 ---
 
 #### Beschreibung des Features

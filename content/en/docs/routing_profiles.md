@@ -1,6 +1,9 @@
 ---
 title: Routing Profiles
 permalink: /docs/routing_profiles/
+categories:
+- technical
+weight: 80
 ---
 
 As GOAT is designed for active mobility, roads that are only designed for cars (e.g. highways) are excluded per default from the routing network.

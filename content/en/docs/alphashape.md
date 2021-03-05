@@ -1,6 +1,9 @@
 ---
 title: Isochrone as Alphashape
 permalink: /docs/alphashape/
+categories:
+- technical
+weight: 40
 ---
 
 GOAT allows you to calculate and visualize isochrones using alpha shapes. GOAT is using a very fast 2D concave hull algorithm, which is described in this paper  [A New Concave Hull Algorithm and Concaveness Measure for n-dimensional Datasets, 2012](https://journal.iis.sinica.edu.tw/paper/1/100295-3.pdf?cd=2217EEBB7C44EDA26) and is implemented in a Javascript library called [Concaveman](https://github.com/mapbox/concaveman). This library generates isochrones (polygons) representing the area from a set of points that can be reached in a dedicated time.

@@ -1,6 +1,9 @@
 ---
 title:  Scenarios - Buildings
 permalink: /tutorials/scenario-buildings/
+weight: 50
+categories:
+  - training
 ---
 
 #### Description of the feature

@@ -1,6 +1,9 @@
 ---
 title: Isochrone
 permalink: /tutorials/isochrone/
+weight: 10
+categories:
+- training
 ---
 
 #### Description of the feature

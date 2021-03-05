@@ -36,24 +36,32 @@ weight = 4
 name = "Blog"
 url = "/blog/"
 weight = 3
+
+
+
 [[languages.en.menu.center]]
-name = "Consultancy"
-parent = "Competences"
-url = "/consultancy/"
-weight = 3
-[[languages.en.menu.center]]
-name = "Trainings"
-parent = "Competences"
-url = "/trainings/"
+name = "Competences"
 weight = 2
+[[languages.en.menu.center]]
+name = "Competences Overview"
+parent = "Competences"
+url = "/competences-overview/"
+weight = 1
 [[languages.en.menu.center]]
 name = "Web-GIS"
 parent = "Competences"
 url = "/webgis/"
-weight = 1
-[[languages.en.menu.center]]
-name = "Competences"
 weight = 2
+[[languages.en.menu.center]]
+name = "Trainings"
+parent = "Competences"
+url = "/trainings/"
+weight = 3
+[[languages.en.menu.center]]
+name = "Consultancy"
+parent = "Competences"
+url = "/consultancy/"
+weight = 4
 
 [[languages.en.menu.center]]
 name = "Heading 2"

@@ -106,6 +106,7 @@ fields:
   - links-block
   - videos-block
   - live-block
+  - content-block
   config:
     min: 
     max: 

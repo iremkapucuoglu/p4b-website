@@ -4,13 +4,13 @@ hide_body: true
 fields:
 - type: field_group_list
   name: Tutorials
-  label: Tutorials
+  label: Tutorial Category
   fields:
   - type: text
     name: category
-    label: category
+    label: Category
   - type: field_group
-    name: heading
+    name: Heading
     label: heading
     fields:
     - type: text

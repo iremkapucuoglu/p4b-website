@@ -13,6 +13,11 @@ text = ""
 text = ""
 url = ""
 [[blocks]]
+block = "content"
+header = "Content Block Header"
+template = "content-block"
+text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups"
+[[blocks]]
 background = "muted"
 block = "links"
 heading = ""

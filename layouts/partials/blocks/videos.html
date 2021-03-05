@@ -1,7 +1,7 @@
-<section class="uk-section-large uk-section-features uk-section-{{ .background }}">
-  <div class="uk-container uk-text-center">
+<section class="uk-section-large uk-section-muted">
+  <div class="uk-container">
     {{ if or .heading .text }}
-      <div class="uk-margin-medium-bottom uk-flex-center uk-flex" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+      <div class="uk-margin-medium-bottom uk-flex-center uk-flex uk-text-center" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
         <div class="uk-width-3-4@m uk-width-1-2@l">
           {{ with .heading }}
             <h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
@@ -12,21 +12,20 @@
         </div>
       </div>
     {{ end }}
-    <div class="uk-child-width-1-2@s uk-child-width-1-3@m uk-grid-match uk-flex uk-flex-center" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
-      {{ range .features }}
+    <div class="uk-child-width-1-2@s uk-child-width-1-3@m uk-grid-match uk-flex uk-flex-center uk-flex-left@m" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200" data-uk-lightbox>
+      {{ range site.Data.videos }}
         <div>
-          <div class="uk-card uk-card-body uk-border-rounded uk-box-shadow-small">
-            {{ if .icon }}
-            <img src="{{ .icon | absURL }}" alt="{{ .heading }}" width="60" height="60">
-            {{ end }}
-            {{ with .heading }}
-            <h4 class="uk-margin-medium-top uk-margin-small-bottom uk-text-uppercase uk-text-spacing-small">{{ . }}</h4>
-            {{ end }}
-            {{ with .text }}
-            <div class="uk-text-size-m">{{ . }}</div>
-            {{ end }} 
+          <div class="uk-card uk-card-default uk-border-rounded-large uk-postion-relative uk-box-shadow-hover-large">
+            <div class="uk-card-media-top">
+              <img class="uk-border-rounded-large-top" src="{{ .image | absURL }}" alt="{{ index .title site.Language.Lang }}">
+            </div>
+            <div class="uk-card-body">
+              <h4 class="uk-margin-small-bottom">{{ index .title site.Language.Lang }}</h4>
+              <div>{{ index .text site.Language.Lang }}</div>
+            </div>
+            <a class="uk-position-cover" href="https://vimeo.com/{{ .vimeo }}" data-attrs="width: 1280;" data-caption="{{ index .title site.Language.Lang }}"></a>
           </div>
-        </div>    
+        </div>
       {{ end }}       
     </div>
   </div>

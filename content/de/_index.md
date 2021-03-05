@@ -61,17 +61,21 @@ blocks:
 - template: logos-block
   block: logos
   background: default
-  heading: Partners
+  heading: Partner
   logos:
   - "/images/logo-tum-1.png"
-  - "/images/logo-mfund-1.png"
-  - "/images/1-1.png"
-  - "/images/5-1.png"
-  - "/images/4-1.png"
   - "/images/3-1.png"
-  - "/images/logo-bmvi-1.png"
+  - "/images/1-1.png"
+  - "/images/4-1.png"
+  - "/images/5-1.png"
+  text: ''
+- template: logos-block
+  block: logos
+  background: default
+  heading: Gefördert durch
+  logos:
   - "/images/2-1.png"
-  text: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur.
+  - "/images/logo-mfund-1.png"
+  - "/images/logo-bmvi.png"
 
 ---

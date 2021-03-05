@@ -28,6 +28,10 @@ sections:
   label: Posts DE
   create: documents
   match: "**/*"
+- type: document
+  path: data/live.yml
+  label: GOATlive
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

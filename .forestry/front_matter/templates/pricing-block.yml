@@ -45,11 +45,29 @@ fields:
     config:
       required: false
     label: Heading
-  - name: price
+  - name: subheading
     type: text
     config:
       required: false
-    label: Price
+    label: Subheading
+  - name: prices
+    type: field_group_list
+    fields:
+    - name: label
+      type: text
+      config:
+        required: false
+      label: Label
+    - name: price
+      type: text
+      config:
+        required: false
+      label: Price
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Prices
   - name: text
     type: textarea
     default: ''

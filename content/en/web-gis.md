@@ -53,8 +53,8 @@ block = "contact"
 display_address = false
 display_email = false
 display_phone = false
-heading = ""
+heading = "Contact Block Heading"
 template = "contact-block"
-text = ""
+text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups"
 
 +++

@@ -48,7 +48,7 @@ prices = []
 subheading = ""
 text = ""
 [[blocks]]
-background = "default"
+background = "secondary"
 block = "contact"
 display_address = false
 display_email = false

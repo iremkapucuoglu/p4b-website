@@ -9,3 +9,70 @@ fields:
   label: Block
   hidden: true
   default: pricing
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: background
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    - muted
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background
+- name: pricing
+  type: field_group_list
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: price
+    type: text
+    config:
+      required: false
+    label: Price
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Text
+  - name: list_heading
+    type: text
+    config:
+      required: false
+    label: List Heading
+  - name: list
+    type: list
+    config:
+      use_select: false
+      min: 
+      max: 
+    label: List
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Pricing

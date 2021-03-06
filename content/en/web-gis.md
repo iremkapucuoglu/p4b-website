@@ -20,21 +20,32 @@ template = "pricing-block"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups"
 [[blocks.pricing]]
 heading = "Heading"
+list = ["Lorem ipsum is placeholder text commonly used", "Lorem ipsum is placeholder text commonly used  in the graphic", "Lorem ipsum is placeholder text commonly used"]
+list_heading = "List heading"
+price = ""
+subheading = "Some Subheading "
+text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups"
+[[blocks.pricing.prices]]
+label = "Senior:"
+price = "ca. 720€"
+[[blocks.pricing.prices]]
+label = "Junior:"
+price = "ca. 550€"
+[[blocks.pricing]]
+heading = ""
 list = []
 list_heading = ""
 price = ""
+prices = []
+subheading = ""
 text = ""
 [[blocks.pricing]]
 heading = ""
 list = []
 list_heading = ""
 price = ""
-text = ""
-[[blocks.pricing]]
-heading = ""
-list = []
-list_heading = ""
-price = ""
+prices = []
+subheading = ""
 text = ""
 [[blocks]]
 background = "default"

@@ -1,4 +1,41 @@
 ---
 label: Team block
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: Block
+  hidden: true
+  default: team
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: background
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    - muted
+    - primary
+    - secondary
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background

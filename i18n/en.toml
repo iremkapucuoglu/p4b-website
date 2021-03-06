@@ -27,3 +27,13 @@ other = "Send message"
 
 [contact_sent]
 other = "Message sent, we will get back to you shortly."
+
+
+[related_posts]
+other = "Related Articles"
+
+[search_placeholder]
+other = "Search blog"
+
+[search_noresults]
+other = "No results found"

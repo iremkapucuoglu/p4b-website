@@ -11,7 +11,7 @@ author: mikaela
 
 New South Wales – Maoneng Australia (Maoneng), John Laing (JL) and Decmil (ASX: DCG) hosted the ceremony on-site in Balranald, NSW with Morris Zhou, Ray Davy, Scott Criddle and Duncan Jewell initiating the public sod-turning for the solar farm.
 
-The event was graced by a ‘Welcome to Country’ from the Muthi Muthi Nation Traditional Landowner Representative – Mary Pappin Senior, together with the Infrastructure Development Director of Balranald Shire Council Ray Davy.
+The event was graced by a ‘Welcome to Country’ german from the Muthi Muthi Nation Traditional Landowner Representative – Mary Pappin Senior, together with the Infrastructure Development Director of Balranald Shire Council Ray Davy.
 
 ![](images/news/3.jpg)
 

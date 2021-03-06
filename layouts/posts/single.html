@@ -2,9 +2,9 @@
   <section class="uk-section uk-section-default uk-padding-remove-bottom">
     <div class="uk-container uk-container-xsmall uk-text-center">
       {{ if .Params.categories }}
-        <div class="uk-text-primary uk-text-uppercase uk-text-medium uk-margin-xxs-bottom">
+        <div class="uk-text-primary uk-text-uppercase uk-text-medium uk-margin-small-bottom">
           {{ range first 1 .Params.categories }}
-            <span class="">{{ . }}</span>
+            <span>{{ . }}</span>
           {{ end }}
         </div>
       {{ end }}
@@ -12,9 +12,9 @@
         <h1 class="uk-heading-small uk-margin-remove uk-text-semi-bold">{{ . }}</h1>
       {{ end }}
       {{ with .Summary }}
-        <div class="uk-text-size-m uk-margin-xxs-top">{{ . }}</div>
+        <div class="uk-text-size-m uk-margin-small-top">{{ . }}</div>
       {{ end }}
-      <div class="uk-margin-xs-top uk-flex uk-flex-center">
+      <div class="uk-margin-small-top uk-flex uk-flex-center">
         <div>
           {{if isset .Params "author"}}  
             {{ $user := where .Site.Data.authors "username" .Params.author }}
@@ -32,14 +32,14 @@
       </div>
     </div>
     {{ if .Params.image }}
-      <div class="uk-container uk-margin-xxl-top">
+      <div class="uk-container uk-margin-large-top">
         <img class="uk-hidden@s" src="{{ .Params.thumbnail | absURL }}" alt="{{ .Title }}">
         <img class="uk-visible@s" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
       </div>
     {{ end }}
   </section>
   
-  <section class="uk-section-xxl">
+  <section class="uk-section">
     <div class="uk-container">
       <div class="uk-grid-large" data-uk-grid>
         <div class="uk-width-1-4@l uk-visible@l uk-article-toc">
@@ -57,17 +57,17 @@
         <div class="uk-width-1-5@l uk-visible@l">
           {{if isset .Params "author"}}  
             {{ $user := where .Site.Data.authors "username" .Params.author }}
-            <div><img src="{{ (index $user 0 "image") | absURL }}" alt="{{ index $user 0 "name" }}" width="80" height="80"></div>
-            <div class="uk-text-medium uk-margin-xxxs-top">{{ index $user 0 "name" }}</div>
-            <div class="uk-text-small uk-margin-xxs-top">{{ index $user 0 "bio" }}</div>
-            <div class="uk-text-small uk-margin-xxs-top"><a href="{{ index $user 0 "linkedin" }}" target="_blank"><span data-uk-icon="icon: linkedin"></span></a></div>
+            <div><img class="uk-border-circle" src="{{ (index $user 0 "image") | absURL }}" alt="{{ index $user 0 "name" }}" width="80" height="80"></div>
+            <div class="uk-text-medium uk-margin-small-top">{{ index $user 0 "name" }}</div>
+            <div class="uk-text-small uk-margin-small-top">{{ index $user 0 "bio" }}</div>
+            <div class="uk-text-small uk-margin-small-top"><a href="{{ index $user 0 "linkedin" }}" target="_blank"><span data-uk-icon="icon: linkedin"></span></a></div>
           {{end}}
         </div>
       </div>
     </div>
   </section>
   
-  <section class="uk-section-xxl uk-section-muted">
+  <section class="uk-section-large uk-section-muted">
     <div class="uk-container">
       {{ if .Params.categories }}
         <div class="uk-text-primary uk-text-uppercase uk-text-medium uk-margin-xxs-bottom">
@@ -76,8 +76,8 @@
           {{ end }}
         </div>
       {{ end }}
-      <h2 class="uk-heading-small uk-margin-remove uk-text-semi-bold">Related Articles</h2>
-      <div class="uk-child-width-1-2@s uk-child-width-1-3@l uk-grid-match uk-margin-xxl-top uk-flex uk-flex-center uk-flex-left@s uk-block-posts-grid" data-uk-grid>
+      <h2 class="uk-heading-small uk-margin-remove uk-text-semi-bold">{{ i18n "related_posts" }}</h2>
+      <div class="uk-child-width-1-2@s uk-child-width-1-3@l uk-grid-match uk-margin-medium-top uk-flex uk-flex-center uk-flex-left@s uk-block-posts-grid" data-uk-grid>
         {{ $posts := where site.RegularPages "Section" "posts" }}
         {{ if .Params.categories }}
           {{ range first 3 (where (where $posts ".Params.categories" "intersect" (slice (index .Params.categories 0))) "Title" "!=" .Title ) }}

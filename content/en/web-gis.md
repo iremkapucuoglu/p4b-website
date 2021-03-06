@@ -13,7 +13,7 @@ text = ""
 text = ""
 url = ""
 [[blocks]]
-background = "default"
+background = "muted"
 block = "pricing"
 heading = "Pricing Block Heading"
 template = "pricing-block"

@@ -1,4 +1,48 @@
 ---
 label: Contact block
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: Block
+  hidden: true
+  default: contact
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: background
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    - muted
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background
+- name: display_address
+  type: boolean
+  label: Display Address
+- name: display_email
+  type: boolean
+  label: Display Email
+- name: display_phone
+  type: boolean
+  label: Display Phone

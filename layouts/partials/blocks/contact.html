@@ -1,0 +1,86 @@
+<section class="uk-section-large uk-background-{{ .background }}">
+	<div class="uk-container">
+		{{ if or .heading .text }}
+			<div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex uk-section-{{ .background }}" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+				<div class="uk-width-3-4@m uk-width-1-2@l">
+					{{ with .heading }}
+						<h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
+					{{ end }}
+					{{ with .text }}
+						<div class="uk-text-lead uk-margin-top">{{ . }}</div>
+					{{ end }}
+				</div>
+			</div>
+		{{ end }}
+		<div class="uk-child-width-1-2@m uk-margin-large-top uk-grid-large uk-flex uk-flex-center uk-flex-middle" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
+			<div>
+				<div id="success" class="uk-alert-success uk-margin-medium-bottom uk-hidden" uk-alert>
+					<a class="uk-alert-close" uk-close></a>
+					<p>{{ i18n "contact_sent" }}</p>
+			  </div>
+				<form id="contact" class="uk-grid-small" data-uk-grid name="contact" method="POST" data-netlify="true">
+					<div class="uk-width-1-2@s">
+							<input class="uk-input" type="email" placeholder="{{ i18n "contact_email" }}" name="email" required>
+					</div>
+					<div class="uk-width-1-2@s">
+							<input class="uk-input" type="tel" placeholder="{{ i18n "contact_phone" }}" name="phone">
+					</div>
+					<div class="uk-width-1-1">
+							<input class="uk-input" type="text" placeholder="{{ i18n "contact_subject" }}" name="subject">
+					</div>
+					<div class="uk-width-1-1">
+						<textarea class="uk-textarea" rows="5" placeholder="{{ i18n "contact_message" }}" name="message" required></textarea>
+					</div>
+					<div class="uk-width-1-1 uk-text-center">
+						<button type="submit" class="uk-button uk-button-secondary">{{ i18n "contact_submit" }}</button>
+					</div>
+				</form>
+				
+				<script>
+					const handleSubmit = (e) => {
+						e.preventDefault()
+						let myForm = document.getElementById('contact');
+						let success = document.getElementById('success');
+						let formData = new FormData(myForm)
+						fetch('/', {
+							method: 'POST',
+							headers: { "Content-Type": "application/x-www-form-urlencoded" },
+							body: new URLSearchParams(formData).toString()
+						}).then(() => {
+							success.classList.remove("uk-hidden");
+							myForm.reset();
+						}).catch((error) =>
+							alert(error))
+					};
+					
+					document.querySelector("form").addEventListener("submit", handleSubmit);
+				</script>  
+			</div>
+			
+			{{ if or .display_email .display_address .display_phone }}
+				<div class="uk-section-{{ .background }}">
+					{{ if .display_phone }}
+						{{ with site.Params.phone }}
+						<div><a href="tel:{{ . }}">{{ . }}</a></div>
+						{{ end }}
+					{{ end }}
+					{{ if .display_email }}
+						{{ with site.Params.email }}
+						<div class="uk-margin-small-top"><a href="mailto:{{ . }}">{{ . }}</a></div>
+						{{ end }}
+					{{ end }}
+					{{ if .display_address }}
+						{{ with site.Params.address }}
+						<div class="uk-margin-small-top">{{ . | safeHTML }}</div>
+						{{ end }}
+					{{ end }}
+				</div>
+			{{ end }}
+			
+		</div>
+	</div>
+</section>
+
+
+
+

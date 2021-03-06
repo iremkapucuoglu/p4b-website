@@ -22,10 +22,8 @@
               {{ end }}
                 <h2 class="uk-heading-medium uk-margin-remove uk-text-semi-bold">{{ .Title }}</h2>
                 <div class="uk-text-large uk-margin-xs-top">{{ .Summary }}</div>
-                {{if isset .Params "author"}}  
                   {{ $user := where .Site.Data.authors "username" .Params.author }}
                   <div class="uk-margin-xxs-top">{{ index $user 0 "name" }}</div>
-                {{end}}
                 <div class="uk-margin-s-top"><a class="uk-button uk-button-link" href="{{ .Permalink }}">Read Article</a></div>
             </div>
           </div>

@@ -7930,6 +7930,36 @@ iframe.uk-cover {
 .uk-play-icon:hover {
   opacity: 0.9; }
 
+.uk-article-content {
+  line-height: 1.85;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased; }
+  .uk-article-content ul li {
+    line-height: 2.2; }
+  .uk-article-content blockquote {
+    margin: 48px 0;
+    color: #2BB381;
+    font-size: 1.75rem;
+    font-weight: 500;
+    font-style: normal; }
+  .uk-article-content * + h2, .uk-article-content * + h3, .uk-article-content * + h4, .uk-article-content * + h5, .uk-article-content * + h6 {
+    margin-top: 64px; }
+  .uk-article-content p:first-child img {
+    margin-top: 0; }
+  @media (min-width: 960px) {
+    .uk-article-content img {
+      left: 50%;
+      margin-left: -75px;
+      margin-right: -75px;
+      max-width: 900px;
+      right: 50%; } }
+  @media (min-width: 1200px) {
+    .uk-article-content img {
+      left: 50%;
+      margin-left: -125px;
+      margin-right: -125px;
+      max-width: 1000px;
+      right: 50%; } }
 .uk-lang-icon {
   max-width: 21px;
   margin-right: 4px;
@@ -7973,6 +8003,31 @@ iframe.uk-cover {
     padding-left: 90px; }
   .uk-card-right .uk-card-content {
     padding-right: 80px; } }
+
+.uk-card-pricing .uk-card-body {
+  padding: 30px; }
+
+.uk-list-pricing {
+  margin-left: 42px;
+  margin-bottom: 0; }
+  .uk-list-pricing li {
+    position: relative; }
+    .uk-list-pricing li:not(:first-child) {
+      margin-top: 16px; }
+    .uk-list-pricing li:before {
+      content: "";
+      background-image: url("data:image/svg+xml,%3Csvg id='check-24px' xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24'%3E%3Cpath id='Path_7835' data-name='Path 7835' d='M0,0H24V24H0Z' fill='none'/%3E%3Cpath id='Path_7836' data-name='Path 7836' d='M9,16.17,4.83,12,3.41,13.41,9,19,21,7,19.59,5.59Z' fill='%232BB381'/%3E%3C/svg%3E%0A");
+      background-repeat: no-repeat;
+      background-position: center;
+      width: 22px;
+      height: 22px;
+      position: absolute;
+      top: -1px;
+      left: -36px;
+      background-color: #dcf7ed;
+      border-radius: 24px; }
+  .uk-list-pricing li:last-child {
+    margin-bottom: 0; }
 
 .uk-scale:hover img {
   transform: scale(1.05);

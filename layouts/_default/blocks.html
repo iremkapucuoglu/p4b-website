@@ -1,7 +1,37 @@
 {{ define "main" }}
   {{ $blocks := .Params.blocks }}
   {{ range $blocks }}
-    {{ $file := (printf "%s%s%s" "blocks/" .block ".html" ) }}
-    {{ partial $file . }}
+    {{ if eq .block "content" }}
+      <section class="uk-section-large uk-section-{{ .background }}">
+        <div class="uk-container uk-container-small">
+          {{ if or .heading .text }}
+            <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex uk-text-center">
+              <div class="uk-width-3-4@m">
+                {{ with .heading }}
+                  <h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
+                {{ end }}
+                {{ with .text }}
+                  <div class="uk-text-lead uk-margin-top">{{ . }}</div>
+                {{ end }}
+              </div>
+            </div>
+          {{ end }}
+          {{ if $.Content }}
+            <div class="uk-container uk-container-xsmall">
+              <div class="uk-article-content uk-margin-large-top">{{ $.Content }}</div>
+            </div>
+          {{ end }}
+        </div>
+      </section>
+      <script>
+        var images = document.querySelectorAll('.uk-article-content img');
+        images.forEach(image => {
+          image.parentElement.classList.add('uk-text-center');
+        });
+      </script>
+    {{ else }}
+      {{ $file := (printf "%s%s%s" "blocks/" .block ".html" ) }}
+      {{ partial $file . }}
+    {{ end }}
   {{ end }}
 {{ end }}

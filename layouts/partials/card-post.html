@@ -10,7 +10,6 @@
     </div>
     <h4 class="uk-margin-small-bottom uk-margin-small-top"><a href="{{.Permalink}}">{{ .Title }}</a></h4>
     <div>{{ .Summary }}</div>
-    {{if isset .Params "author"}}  
     {{ $user := where .Site.Data.authors "username" .Params.author }}
       <div class="uk-article-meta uk-margin-top" itemscope="" itemtype="http://schema.org/Person">
         <div data-uk-grid="" class="uk-grid-small uk-flex uk-flex-middle">
@@ -24,7 +23,6 @@
           </div>
         </div>
       </div>
-    {{end}}
   </div>
   <a class="uk-position-cover" href="{{ .Permalink }}"></a>
 </div>

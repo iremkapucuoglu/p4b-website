@@ -2,6 +2,7 @@ baseURL = "https://goofy-mirzakhani-b2c714.netlify.app/"
 languageCode = "en-us"
 title = "Lorem"
 
+
 [params]
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"
@@ -50,7 +51,7 @@ weight = 1
 [[languages.en.menu.center]]
 name = "Web-GIS"
 parent = "Competences"
-url = "/webgis/"
+url = "/web-gis/"
 weight = 2
 [[languages.en.menu.center]]
 name = "Trainings"

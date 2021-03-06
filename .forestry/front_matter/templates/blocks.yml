@@ -107,6 +107,10 @@ fields:
   - videos-block
   - live-block
   - content-block
+  - pricing-block
+  - images-block
+  - team-block
+  - contact-block
   config:
     min: 
     max: 

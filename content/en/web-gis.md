@@ -15,9 +15,26 @@ url = ""
 [[blocks]]
 background = "default"
 block = "pricing"
-heading = ""
-pricing = []
+heading = "Pricing Block Heading"
 template = "pricing-block"
+text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups"
+[[blocks.pricing]]
+heading = "Heading"
+list = []
+list_heading = ""
+price = ""
+text = ""
+[[blocks.pricing]]
+heading = ""
+list = []
+list_heading = ""
+price = ""
+text = ""
+[[blocks.pricing]]
+heading = ""
+list = []
+list_heading = ""
+price = ""
 text = ""
 [[blocks]]
 background = "default"

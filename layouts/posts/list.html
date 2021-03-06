@@ -1,0 +1,15 @@
+{{ define "main" }}
+	<div class="uk-section">
+		<div class="uk-container">
+			<h2 class="uk-heading-small uk-margin-remove uk-text-semi-bold">{{ .Title }}</h2>
+			<div class="uk-child-width-1-2@s uk-child-width-1-3@l uk-grid-match uk-margin-medium-top uk-flex uk-flex-center uk-flex-left@s uk-block-posts-grid" data-uk-grid>
+				{{ range (.Paginator 1).Pages }}
+					 <div>{{ partial "card-post.html" . }}</div>
+				{{ end }}
+			</div>
+			<div class="uk-flex uk-flex-center uk-margin-large-top">
+				{{ template "_internal/pagination.html" . }}
+			</div>
+		</div>
+	</div>
+{{ end }}

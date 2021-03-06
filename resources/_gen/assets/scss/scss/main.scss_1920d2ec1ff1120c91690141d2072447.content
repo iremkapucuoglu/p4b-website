@@ -8029,6 +8029,27 @@ iframe.uk-cover {
   .uk-list-pricing li:last-child {
     margin-bottom: 0; }
 
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 0;
+  padding: 0;
+  list-style: none; }
+
+.pagination > * {
+  flex: none;
+  padding-left: 0;
+  position: relative; }
+
+.pagination > * > * {
+  display: block;
+  padding: 5px 16px;
+  color: #999;
+  transition: color .1s ease-in-out; }
+
+.pagination > .disabled {
+  pointer-events: none; }
+
 .uk-scale:hover img {
   transform: scale(1.05);
   transition: all .2s ease; }

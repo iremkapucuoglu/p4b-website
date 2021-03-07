@@ -17,9 +17,9 @@
         {{ if .team_member }}
           <div>
             <div class="uk-card uk-border-rounded uk-box-shadow-small">
-              {{ if .image }}
+              {{ if .team_image }}
                 <div class="uk-card-media-top">
-                  <img src="{{ .image | absURL }}" alt="{{ .name }}">
+                  <img src="{{ .team_image | absURL }}" alt="{{ .name }}">
                 </div>
               {{ end }}
               <div class="uk-card-body">

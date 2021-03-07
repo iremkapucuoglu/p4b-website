@@ -7944,6 +7944,10 @@ iframe.uk-cover {
 .uk-nav-default ul li a {
   padding: 5px 0; }
 
+@media (min-width: 1200px) {
+  .uk-docs-content {
+    padding-left: 50px; } }
+
 .uk-article-content {
   line-height: 1.85;
   font-size: 1.0625rem; }
@@ -7976,8 +7980,6 @@ iframe.uk-cover {
       max-width: 900px;
       right: 50%; } }
   @media (min-width: 1200px) {
-    .uk-article-content .uk-docs-content {
-      margin-left: 50px; }
     .uk-article-content img {
       left: 50%;
       margin-left: -125px;

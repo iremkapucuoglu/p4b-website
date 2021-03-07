@@ -12,10 +12,6 @@ fields:
   - type: text
     name: name
     label: Name
-  - name: team_member
-    type: boolean
-    label: Team Member
-    description: Display author in team block.
   - type: field_group
     name: title
     label: Title
@@ -26,9 +22,6 @@ fields:
     - type: text
       name: de
       label: de
-  - type: text
-    name: image
-    label: Image
   - type: field_group
     name: bio
     label: Bio
@@ -39,6 +32,21 @@ fields:
     - type: textarea
       name: de
       label: de
+  - type: text
+    name: image
+    label: Image
+  - name: team_member
+    type: boolean
+    label: Team Member
+    description: Display author in team block.
+  - name: team_image
+    type: file
+    config:
+      maxSize: 64
+    label: Team Image
+    showOnly:
+      field: team_member
+      value: true
   - type: text
     name: github
     label: Github

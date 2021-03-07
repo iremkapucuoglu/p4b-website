@@ -53,3 +53,5 @@ fields:
     config:
       required: false
     label: Twitter
+pages:
+- data/authors.yml

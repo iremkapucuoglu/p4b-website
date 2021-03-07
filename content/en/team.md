@@ -52,9 +52,9 @@ text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and
 background = "default"
 block = "images"
 columns = "1"
-heading = ""
+heading = "Follow us towards a balanced future!"
 images = ["/images/charles-deluvio-lks7vei-eag-unsplash.jpg"]
 template = "images-block"
-text = "Follow us towards a balanced future!"
+text = ""
 
 +++

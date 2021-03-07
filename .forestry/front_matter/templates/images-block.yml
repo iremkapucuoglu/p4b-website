@@ -55,7 +55,6 @@ fields:
       path: 
   label: Columns
 - name: images
-  type: file
-  config:
-    maxSize: 64
+  type: image_gallery
+  config: {}
   label: Images

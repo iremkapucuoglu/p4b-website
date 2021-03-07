@@ -1,8 +1,8 @@
 <section class="uk-section-large uk-background-{{ .background }}">
 	<div class="uk-container">
 		{{ if or .heading .text }}
-			<div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
-				<div class="uk-width-3-4@m uk-width-1-2@l">
+			<div class="uk-text-center uk-margin-large-bottom uk-flex-center uk-flex" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+				<div class="uk-width-3-4@m">
 					{{ with .heading }}
 						<h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
 					{{ end }}
@@ -15,29 +15,30 @@
 		<div class="uk-child-width-1-2@s uk-child-width-1-3@l uk-grid-match uk-margin-medium-top uk-flex uk-flex-center" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
 			{{ range .pricing }}
 				<div>
-					<div class="uk-card uk-card-default uk-card-pricing uk-border-rounded-large uk-text-center">
-						<div class="uk-card-body">
+					<div class="uk-card uk-card-default uk-card-pricing uk-border-rounded-large">
+						<div class="uk-card-body uk-text-center ">
 							{{ with .heading }}
-								<h3 class="uk-margin-remove">{{ . }}</h3>
+								<h3 class="uk-margin-remove uk-text-primary">{{ . }}</h3>
 							{{ end }}
 							{{ with .subheading }}
-								<h4 class="uk-margin-remove">{{ . }}</h4>
+								<h4 class="uk-margin-s-top">{{ . }}</h4>
 							{{ end }}
 							{{ if .prices }}
-								<ul class="uk-list uk-text-small uk-text-muted uk-text-left">
+								<ul class="uk-list uk-margin-m-top">
 									{{ range .prices }}
-										<li>{{ .label }} {{ .price }}</li>
+										<li><h5>{{ .label }} <span class="uk-text-primary">{{ .price }}</span></h5></li>
 									{{ end }}
 								</ul>
 							{{ end }}
 							{{ with .text }}
-								<div class="uk-text-lead- uk-margin-top">{{ . }}</div>
+								<div class="uk-margin-m-top">{{ . }}</div>
 							{{ end }}
 							{{ with .list_heading }}
-								<h5 class="">{{ . }}</h5>
+								<hr class="uk-margin-m-top">
+								<h5 class="uk-text-uppercase uk-text-center uk-margin-m-top">{{ . }}</h5>
 							{{ end }}
 							{{ if .list }}
-								<ul class="uk-list uk-list-pricing uk-text-small uk-text-muted uk-text-left">
+								<ul class="uk-list uk-list-pricing uk-text-left">
 									{{ range .list }}
 										<li>{{ . }}</li>
 									{{ end }}

@@ -15,6 +15,8 @@ $inverse-global-color:										#fff;
 
 $global-control-height:										50px;
 
+$base-em-color: 													inherit;
+
 $base-heading-font-weight:                700;
 $base-heading-color:                      $global-color;
 
@@ -79,12 +81,15 @@ $navbar-dropdown-nav-item-hover-color:    $global-primary-background;
 
 // $section-large-padding-vertical:                   $global-large-margin !default;
 $section-large-padding-vertical-m:        160px;
-
+$section-padding-vertical-m:							90px;
 // $section-xlarge-padding-vertical:                  $global-xlarge-margin !default;
 $section-xlarge-padding-vertical-m:       200px;
 
+$subnav-item-color:                       $global-color;
+$subnav-item-hover-color:                 $global-primary-background;
 
-$text-lead-font-size:                     1.1875rem;
+
+$text-lead-font-size:                     1.3125rem;
 $text-lead-line-height:                   1.65;
 // $text-lead-color:                                $global-emphasis-color !default;
 

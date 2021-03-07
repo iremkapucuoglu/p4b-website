@@ -1,8 +1,8 @@
 <section class="uk-section-large uk-background-{{ .background }}">
 	<div class="uk-container">
 		{{ if or .heading .text }}
-			<div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex uk-section-{{ .background }}" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
-				<div class="uk-width-3-4@m uk-width-1-2@l">
+			<div class="uk-text-center uk-margin-large-bottom uk-flex-center uk-flex uk-section-{{ .background }}" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+				<div class="uk-width-3-4@m">
 					{{ with .heading }}
 						<h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
 					{{ end }}
@@ -12,7 +12,7 @@
 				</div>
 			</div>
 		{{ end }}
-		<div class="uk-child-width-1-2@m uk-margin-large-top uk-grid-large uk-flex uk-flex-center uk-flex-middle" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
+		<div class="uk-child-width-1-2@m uk-grid-large uk-flex uk-flex-center uk-flex-middle" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
 			<div>
 				<div id="success" class="uk-alert-success uk-margin-medium-bottom uk-hidden" uk-alert>
 					<a class="uk-alert-close" uk-close></a>
@@ -20,16 +20,16 @@
 			  </div>
 				<form id="contact" class="uk-grid-small" data-uk-grid name="contact" method="POST" data-netlify="true">
 					<div class="uk-width-1-2@s">
-							<input class="uk-input" type="email" placeholder="{{ i18n "contact_email" }}" name="email" required>
+							<input class="uk-input uk-border-rounded" type="email" placeholder="{{ i18n "contact_email" }}" name="email" required>
 					</div>
 					<div class="uk-width-1-2@s">
-							<input class="uk-input" type="tel" placeholder="{{ i18n "contact_phone" }}" name="phone">
+							<input class="uk-input uk-border-rounded" type="tel" placeholder="{{ i18n "contact_phone" }}" name="phone">
 					</div>
 					<div class="uk-width-1-1">
-							<input class="uk-input" type="text" placeholder="{{ i18n "contact_subject" }}" name="subject">
+							<input class="uk-input uk-border-rounded" type="text" placeholder="{{ i18n "contact_subject" }}" name="subject">
 					</div>
 					<div class="uk-width-1-1">
-						<textarea class="uk-textarea" rows="5" placeholder="{{ i18n "contact_message" }}" name="message" required></textarea>
+						<textarea class="uk-textarea uk-border-rounded" rows="5" placeholder="{{ i18n "contact_message" }}" name="message" required></textarea>
 					</div>
 					<div class="uk-width-1-1 uk-text-center">
 						<button type="submit" class="uk-button uk-button-secondary">{{ i18n "contact_submit" }}</button>
@@ -59,6 +59,9 @@
 			
 			{{ if or .display_email .display_address .display_phone }}
 				<div class="uk-section-{{ .background }}">
+					{{ with site.Params.subheading }}
+					<h4>{{ . }}</h4>
+					{{ end }}
 					{{ if .display_phone }}
 						{{ with site.Params.phone }}
 						<div><a href="tel:{{ . }}">{{ . }}</a></div>

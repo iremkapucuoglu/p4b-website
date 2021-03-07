@@ -2,10 +2,10 @@
   {{ $blocks := .Params.blocks }}
   {{ range $blocks }}
     {{ if eq .block "content" }}
-      <section class="uk-section-large uk-section-{{ .background }}">
+      <section class="uk-section-large uk-section-{{ .background }}{{ if eq .padding_top "remove" }} uk-padding-remove-top{{ else if eq .padding_top "small" }} uk-padding-small-top{{ end }}">
         <div class="uk-container uk-container-small">
           {{ if or .heading .text }}
-            <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex uk-text-center">
+            <div class="uk-text-center uk-margin-large-bottom uk-flex-center uk-flex uk-text-center">
               <div class="uk-width-3-4@m">
                 {{ with .heading }}
                   <h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
@@ -18,7 +18,7 @@
           {{ end }}
           {{ if $.Content }}
             <div class="uk-container uk-container-xsmall">
-              <div class="uk-article-content uk-margin-large-top">{{ $.Content }}</div>
+              <div class="uk-article-content">{{ $.Content }}</div>
             </div>
           {{ end }}
         </div>

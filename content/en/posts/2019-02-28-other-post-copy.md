@@ -1,5 +1,5 @@
 ---
-title: The unflexibility is changing the way we live
+title: How flexibility is changing the way we work
 thumbnail: https://via.placeholder.com/640x450
 image: https://via.placeholder.com/1200x600
 date: 2019-02-26

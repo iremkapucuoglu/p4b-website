@@ -29,6 +29,13 @@ sections:
   create: documents
   match: "**/*"
 - type: document
+  path: data/authors.yml
+  label: Authors
+- type: document
+  path: data/videos.yml
+  label: Videos
+  match: "**/*"
+- type: document
   path: data/live.yml
   label: GOATlive
 - type: document
@@ -37,9 +44,6 @@ sections:
 - type: document
   path: data/tutorials.yml
   label: Tutorial Categories
-- type: document
-  path: data/authors.yml
-  label: Authors
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

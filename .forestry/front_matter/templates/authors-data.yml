@@ -35,6 +35,7 @@ fields:
   - type: text
     name: image
     label: Image
+    description: 80px x 80px
   - name: team_member
     type: boolean
     label: Team Member

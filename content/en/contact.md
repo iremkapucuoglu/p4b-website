@@ -19,6 +19,7 @@ display_address = true
 display_email = true
 display_phone = true
 heading = "Contact Us"
+subheading = "Some optional subheading"
 template = "contact-block"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visuals"
 

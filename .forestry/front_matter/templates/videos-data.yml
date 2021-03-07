@@ -1,0 +1,34 @@
+---
+label: Videos data
+hide_body: true
+fields:
+- type: field_group_list
+  name: Videos
+  label: Videos
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: number
+    name: vimeo
+    label: vimeo
+  - type: field_group
+    name: title
+    label: title
+    fields:
+    - type: text
+      name: en
+      label: en
+    - type: text
+      name: de
+      label: de
+  - type: field_group
+    name: text
+    label: text
+    fields:
+    - type: textarea
+      name: en
+      label: en
+    - type: textarea
+      name: de
+      label: de

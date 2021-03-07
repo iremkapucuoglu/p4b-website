@@ -34,7 +34,6 @@ sections:
 - type: document
   path: data/videos.yml
   label: Videos
-  match: "**/*"
 - type: document
   path: data/live.yml
   label: GOATlive

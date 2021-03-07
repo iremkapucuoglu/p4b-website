@@ -25,13 +25,13 @@ block = "links"
 heading = ""
 template = "links-block"
 [[blocks.links]]
-page = []
+page = "en/web-gis.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
 [[blocks.links]]
-page = []
+page = "en/trainings.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
 [[blocks.links]]
-page = []
+page = "en/consultancy.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
 
 +++

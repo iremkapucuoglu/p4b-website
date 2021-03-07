@@ -1,0 +1,46 @@
+---
+label: Authors data
+hide_body: true
+fields:
+- type: field_group_list
+  name: Authors
+  label: Authors
+  fields:
+  - type: text
+    name: username
+    label: username
+  - type: text
+    name: name
+    label: name
+  - type: field_group
+    name: title
+    label: title
+    fields:
+    - type: text
+      name: en
+      label: en
+    - type: text
+      name: de
+      label: de
+  - type: text
+    name: image
+    label: image
+  - type: field_group
+    name: bio
+    label: bio
+    fields:
+    - type: textarea
+      name: en
+      label: en
+    - type: textarea
+      name: de
+      label: de
+  - type: text
+    name: github
+    label: github
+  - type: text
+    name: website
+    label: website
+  - type: text
+    name: linkedin
+    label: linkedin

@@ -6,15 +6,9 @@ fields:
   name: Videos
   label: Videos
   fields:
-  - type: file
-    name: image
-    label: image
-  - type: number
-    name: vimeo
-    label: vimeo
   - type: field_group
     name: title
-    label: title
+    label: Title
     fields:
     - type: text
       name: en
@@ -22,9 +16,15 @@ fields:
     - type: text
       name: de
       label: de
+  - type: file
+    name: image
+    label: Image
+  - type: number
+    name: vimeo
+    label: Vimeo
   - type: field_group
     name: text
-    label: text
+    label: Text
     fields:
     - type: textarea
       name: en

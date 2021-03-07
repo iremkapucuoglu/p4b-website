@@ -37,7 +37,7 @@ image = "/images/draw_bridge.png"
 layout = "right"
 padding_top = ""
 template = "card-block"
-text = "The main focus of GOAT is to offer dynamic accessibility analysis at the street, neighborhood, and district level. With GOAT, you can calculate different accessibility indicators such as isochrones and gravity-based heatmaps. What is special about GOAT is that you can develop your own case scenarios. For instance, you can model the effects of a new bridge or new housing development on accessibility. "
+text = "The main focus of GOAT is to offer dynamic accessibility analysis at the street, neighborhood, and district level. With GOAT, you can calculate different accessibility indicators such as isochrones and gravity-based heatmaps. What is special about GOAT is that you can develop your own case scenarios. "
 video = ""
 [blocks.button]
 text = ""

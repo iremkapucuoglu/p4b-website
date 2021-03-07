@@ -37,6 +37,10 @@ sections:
 - type: document
   path: data/tutorials.yml
   label: Tutorial Categories
+- type: document
+  path: data/authors.yml
+  label: Authors
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

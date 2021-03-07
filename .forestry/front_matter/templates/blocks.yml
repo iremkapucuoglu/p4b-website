@@ -53,6 +53,29 @@ fields:
       schema:
         format: markdown
     label: Text
+  - name: button
+    type: field_group
+    config: {}
+    fields:
+    - name: text
+      type: text
+      config:
+        required: false
+      label: Text
+    - name: url
+      type: text
+      config:
+        required: false
+      label: URL
+    label: Button
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+    showOnly:
+      field: layout
+      value: left
   - name: background
     type: select
     default: default
@@ -74,26 +97,6 @@ fields:
     config:
       maxSize: 64
     label: Background Image
-  - name: image
-    type: file
-    config:
-      maxSize: 64
-    label: Image
-  - name: button
-    type: field_group
-    config: {}
-    fields:
-    - name: text
-      type: text
-      config:
-        required: false
-      label: Text
-    - name: url
-      type: text
-      config:
-        required: false
-      label: URL
-    label: Button
   label: Header
 - name: blocks
   type: blocks

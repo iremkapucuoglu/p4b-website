@@ -8,7 +8,7 @@ background_image = "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
 heading = "Pricing"
 image = "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
 layout = "center"
-text = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla."
+text = "Duis aute irure dolor in reprehenderit in lorem dolores olum voluptate velit esse cillum dolore eu fugiat nulla."
 [header.button]
 text = ""
 url = ""

@@ -41,3 +41,17 @@ fields:
   type: image_gallery
   config: {}
   label: Logos
+- name: padding_top
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    - remove
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Padding Top

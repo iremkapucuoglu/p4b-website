@@ -41,6 +41,14 @@ _Lorem ipsum_, or _lipsum_ as it is sometimes known, is dummy text used in layin
 
 The purpose of _lorem ipsum_ is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without [controversy](https://loremipsum.io/#controversy "Controversy in the Design World"), laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
 
+* Lorem ipsum dolor sit amet, consectetur
+* Lorem ipsum dolor sit amet, consectetur
+* Lorem ipsum dolor sit amet, consectetur
+
+1. Lorem ipsum dolor sit amet, consectetur
+2. Lorem ipsum dolor sit amet, consectetur
+3. Lorem ipsum dolor sit amet, consectetur
+
 ![](/images/bastien-nvs-qysbqek0bts-unsplash.jpg)
 
 The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our [generator](https://loremipsum.io/#generator "Lorem Ipsum Generator") to get your own, or read on for the authoritative history of _lorem ipsum_.

@@ -9,6 +9,35 @@ fields:
   label: Block
   hidden: true
   default: card
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: button
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  label: Button
 - name: layout
   type: select
   default: left
@@ -23,6 +52,17 @@ fields:
       file: 
       path: 
   label: Layout
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: video
+  type: text
+  config:
+    required: false
+  label: Video
+  description: YouTube video ID.
 - name: background_image
   type: file
   config:
@@ -60,43 +100,3 @@ fields:
       file: 
       path: 
   label: Background Color Content
-- name: heading
-  type: text
-  config:
-    required: false
-  label: Heading
-- name: text
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Text
-- name: button
-  type: field_group
-  config: {}
-  fields:
-  - name: text
-    type: text
-    config:
-      required: false
-    label: Text
-  - name: url
-    type: text
-    config:
-      required: false
-    label: URL
-  label: Button
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: Image
-- name: video
-  type: text
-  config:
-    required: false
-  label: Video
-  description: YouTube video ID.

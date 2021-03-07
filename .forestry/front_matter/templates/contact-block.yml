@@ -48,3 +48,11 @@ fields:
 - name: display_phone
   type: boolean
   label: Display Phone
+- name: subheading
+  type: text
+  config:
+    required: false
+  label: Subheading
+  showOnly:
+    field: display_address
+    value: true

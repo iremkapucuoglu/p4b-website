@@ -16,7 +16,7 @@ url = ""
 block = "content"
 content = ""
 heading = "Content Block Heading"
-padding_top = "remove"
+padding_top = "small"
 template = "content-block"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups"
 [[blocks]]

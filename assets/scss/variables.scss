@@ -49,6 +49,16 @@ $button-font-size:												1rem;
 $card-body-padding-horizontal-l:          35px;
 $card-body-padding-vertical-l:            35px;
 
+$nav-default-font-size: 									0.9375rem;
+$nav-default-item-color:                         $global-color;
+$nav-default-item-hover-color:                   $global-primary-background;
+$nav-default-item-active-color:                  $global-primary-background;
+$nav-default-sublist-item-color:                 $global-color;
+$nav-default-sublist-item-hover-color:           $global-primary-background;
+$nav-default-sublist-item-active-color:          $global-primary-background;
+
+
+
 $nav-primary-item-font-size:							1.75rem;
 $nav-primary-item-color:                  $global-color;
 $nav-primary-item-hover-color:            $global-primary-background;

@@ -42,3 +42,6 @@ other = "Search blog"
 
 [search_noresults]
 other = "No results found"
+
+[table_of_contents]
+other = "Content Overview"

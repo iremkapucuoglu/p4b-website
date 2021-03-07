@@ -1,10 +1,10 @@
 {{ define "main" }}
-<section class="uk-section-large">
+<section class="uk-section">
 	<div class="uk-container">
 		<div class="uk-grid-large" data-uk-grid>
 			<div class="uk-width-1-4@l uk-visible@l uk-article-toc">
 				<div data-uk-sticky="offset: 70; media: @l; bottom: true" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 60">
-					<h5 class="uk-text-medium">Content Overview</h5>
+					<h6 class="uk-margin-small-top uk-text-uppercase uk-text-spacing-small">{{ i18n "table_of_contents" }}</h6>
 					<hr>
 					<ul class="uk-nav uk-nav-default uk-nav-parent-icon" data-uk-nav>
 						{{ $section := where $.Site.RegularPages "Section" "tutorials" }}
@@ -13,7 +13,6 @@
 							<li class="uk-parent{{ range $tutorials }}{{ if eq .Title $.Title }} uk-open{{ end }}{{ end }}">
 								<a href="#">{{ index .heading site.Language.Lang }}</a>
 								<ul class="uk-nav-sub">
-									
 									{{ range $tutorials.ByWeight }}
 										<li{{ if eq .Title $.Title }} class="uk-active"{{ end }}><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 									{{ end }}
@@ -24,12 +23,13 @@
 				</div>
 			</div>
 			<div class="uk-width-expand@l">
-				{{ with .Title }}
-					<h1 class="uk-text-semi-bold">{{ . }}</h1>
-					<hr class="uk-margin-medium-bottom">
-				{{ end }}
-				<div class="uk-article-content uk-text-size-m">
-					{{ .Content }}
+				<div class="uk-docs-content">
+					{{ with .Title }}
+						<h1>{{ . }}</h1>
+					{{ end }}
+					<div class="uk-article-content uk-text-m uk-margin-medium-top">
+						{{ .Content }}
+					</div>
 				</div>
 			</div>
 		</div>

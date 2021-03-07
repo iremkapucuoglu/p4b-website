@@ -12,8 +12,31 @@
 				</div>
 			</div>
 		{{ end }}
-		<div class="uk-child-width-1-2@m uk-grid-large uk-flex uk-flex-center uk-flex-middle" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
-			<div>
+		<div class="uk-flex uk-flex-center" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
+			<div class="uk-width-3-4-m uk-width-1-2@l">
+				{{ if or .display_email .display_address .display_phone }}
+					<div class="uk-section-{{ .background }} uk-text-lead uk-text-center uk-margin-large-bottom">
+						{{ with .subheading }}
+						<h3>{{ . }}</h3>
+						{{ end }}
+						{{ if .display_phone }}
+							{{ with site.Params.phone }}
+							<div><a href="tel:{{ . }}">{{ . }}</a></div>
+							{{ end }}
+						{{ end }}
+						{{ if .display_email }}
+							{{ with site.Params.email }}
+							<div class="uk-margin-small-top"><a href="mailto:{{ . }}">{{ . }}</a></div>
+							{{ end }}
+						{{ end }}
+						{{ if .display_address }}
+							{{ with site.Params.address }}
+							<div class="uk-margin-small-top">{{ . | safeHTML }}</div>
+							{{ end }}
+						{{ end }}
+					</div>
+				{{ end }}
+				
 				<div id="success" class="uk-alert-success uk-margin-medium-bottom uk-hidden" uk-alert>
 					<a class="uk-alert-close" uk-close></a>
 					<p>{{ i18n "contact_sent" }}</p>
@@ -56,30 +79,6 @@
 					document.querySelector("form").addEventListener("submit", handleSubmit);
 				</script>  
 			</div>
-			
-			{{ if or .display_email .display_address .display_phone }}
-				<div class="uk-section-{{ .background }}">
-					{{ with site.Params.subheading }}
-					<h4>{{ . }}</h4>
-					{{ end }}
-					{{ if .display_phone }}
-						{{ with site.Params.phone }}
-						<div><a href="tel:{{ . }}">{{ . }}</a></div>
-						{{ end }}
-					{{ end }}
-					{{ if .display_email }}
-						{{ with site.Params.email }}
-						<div class="uk-margin-small-top"><a href="mailto:{{ . }}">{{ . }}</a></div>
-						{{ end }}
-					{{ end }}
-					{{ if .display_address }}
-						{{ with site.Params.address }}
-						<div class="uk-margin-small-top">{{ . | safeHTML }}</div>
-						{{ end }}
-					{{ end }}
-				</div>
-			{{ end }}
-			
 		</div>
 	</div>
 </section>

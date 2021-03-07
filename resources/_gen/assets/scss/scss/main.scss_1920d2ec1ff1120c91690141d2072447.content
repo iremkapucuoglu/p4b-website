@@ -4888,22 +4888,22 @@ ul.uk-nav-sub {
 /* Default modifier
  ========================================================================== */
 .uk-nav-default {
-  font-size: 0.875rem; }
+  font-size: 0.9375rem; }
 
 /*
  * Items
  */
 .uk-nav-default > li > a {
-  color: #8b8e93; }
+  color: #000; }
 
 /* Hover + Focus */
 .uk-nav-default > li > a:hover,
 .uk-nav-default > li > a:focus {
-  color: #000; }
+  color: #2BB381; }
 
 /* Active */
 .uk-nav-default > li.uk-active > a {
-  color: #333; }
+  color: #2BB381; }
 
 /*
  * Header
@@ -4921,14 +4921,14 @@ ul.uk-nav-sub {
  * Sublists
  */
 .uk-nav-default .uk-nav-sub a {
-  color: #8b8e93; }
+  color: #000; }
 
 .uk-nav-default .uk-nav-sub a:hover,
 .uk-nav-default .uk-nav-sub a:focus {
-  color: #000; }
+  color: #2BB381; }
 
 .uk-nav-default .uk-nav-sub li.uk-active > a {
-  color: #333; }
+  color: #2BB381; }
 
 /* Primary modifier
  ========================================================================== */
@@ -7937,6 +7937,13 @@ iframe.uk-cover {
 .uk-text-m {
   font-size: 1.0625rem; }
 
+.uk-nav-default > li > a {
+  font-weight: 700;
+  padding: 8px 0; }
+
+.uk-nav-default ul li a {
+  padding: 5px 0; }
+
 .uk-article-content {
   line-height: 1.85;
   font-size: 1.0625rem; }
@@ -7969,6 +7976,8 @@ iframe.uk-cover {
       max-width: 900px;
       right: 50%; } }
   @media (min-width: 1200px) {
+    .uk-article-content .uk-docs-content {
+      margin-left: 50px; }
     .uk-article-content img {
       left: 50%;
       margin-left: -125px;

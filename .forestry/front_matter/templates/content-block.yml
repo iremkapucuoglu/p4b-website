@@ -32,3 +32,17 @@ fields:
     schema:
       format: markdown
   label: Content
+- name: padding_top
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    - remove
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Padding Top

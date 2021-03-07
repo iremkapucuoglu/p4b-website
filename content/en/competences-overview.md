@@ -37,6 +37,8 @@ text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and
 +++
 _Lorem ipsum_, or _lipsum_ as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's _De Finibus Bonorum et Malorum_ for use in a type specimen book. It usually begins with:
 
+## The passage is attributed to an unknown typesetter
+
 > “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”
 
 The purpose of _lorem ipsum_ is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without [controversy](https://loremipsum.io/#controversy "Controversy in the Design World"), laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
@@ -48,6 +50,8 @@ The purpose of _lorem ipsum_ is to create a natural looking block of text (sente
 1. Lorem ipsum dolor sit amet, consectetur
 2. Lorem ipsum dolor sit amet, consectetur
 3. Lorem ipsum dolor sit amet, consectetur
+
+_Lorem ipsum_, or _lipsum_ as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's _De Finibus Bonorum et Malorum_ for use in a type specimen book. It usually begins with:
 
 ![](/images/bastien-nvs-qysbqek0bts-unsplash.jpg)
 

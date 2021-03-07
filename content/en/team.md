@@ -43,7 +43,7 @@ video = ""
 text = ""
 url = ""
 [[blocks]]
-background = "default"
+background = "muted"
 block = "team"
 heading = "Team Heading"
 template = "team-block"

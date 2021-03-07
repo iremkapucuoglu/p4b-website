@@ -32,3 +32,5 @@ fields:
     - type: textarea
       name: de
       label: de
+pages:
+- data/videos.yml

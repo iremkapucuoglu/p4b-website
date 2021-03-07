@@ -4,7 +4,7 @@ thumbnail: https://via.placeholder.com/640x450
 image: https://via.placeholder.com/1200x600
 date: 2019-02-26
 summary: Not so long ago, the future of work seemed like a giant leap away.
-author: mikaela
+author: jehle
 categories: 
 - development
 - announcements

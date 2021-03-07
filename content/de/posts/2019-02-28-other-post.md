@@ -5,7 +5,7 @@ date: 2019-02-26
 summary: Not so long ago, the future of work seemed like a giant leap away.
 categories: 
 - development
-author: mikaela
+author: jehle
 ---
 **The 255 MWp Sunraysia Solar Farm is on track to be the largest solar farm in Australia this year. Between 350 - 400 people will be directly engaged by Decmil during the construction period with the accommodation camp running close to full occupancy as it continues to ramp up.**
 

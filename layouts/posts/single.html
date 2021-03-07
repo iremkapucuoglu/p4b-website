@@ -59,8 +59,21 @@
             {{ $user := where .Site.Data.authors "username" .Params.author }}
             <div><img class="uk-border-circle" src="{{ (index $user 0 "image") | absURL }}" alt="{{ index $user 0 "name" }}" width="80" height="80"></div>
             <div class="uk-text-medium uk-margin-small-top">{{ index $user 0 "name" }}</div>
-            <div class="uk-text-small uk-margin-small-top">{{ index $user 0 "bio" }}</div>
-            <div class="uk-text-small uk-margin-small-top"><a href="{{ index $user 0 "linkedin" }}" target="_blank"><span data-uk-icon="icon: linkedin"></span></a></div>
+            <div class="uk-text-small uk-margin-small-top">{{ index $user 0 "title" site.Language.Lang }}</div>
+            <div class="uk-text-small uk-margin-small-top">{{ index $user 0 "bio" site.Language.Lang }}</div>
+            <div class="uk-grid-small uk-child-width-auto uk-margin-top" data-uk-grid>
+              {{ if (index $user 0 "website") }}
+                <div><a href="{{ index $user 0 "website" }}" target="_blank"><span data-uk-icon="icon: world"></span></a></div>
+              {{ end }}
+              {{ if (index $user 0 "linkedin") }}
+                <div><a href="{{ index $user 0 "linkedin" }}" target="_blank"><span data-uk-icon="icon: linkedin"></span></a></div>
+              {{ end }}
+              {{ if (index $user 0 "github") }}
+                <div><a href="{{ index $user 0 "github" }}" target="_blank"><span data-uk-icon="icon: github"></span></a></div>
+              {{ end }}
+              {{ if (index $user 0 "twitter") }}
+                <div><a href="{{ index $user 0 "twitter" }}" target="_blank"><span data-uk-icon="icon: twitter"></span></a></div>
+              {{ end }}
           {{end}}
         </div>
       </div>

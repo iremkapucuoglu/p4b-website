@@ -1,11 +1,79 @@
 ---
-- username: mikaela
-  name: Mikaela Barnes
-  image: https://via.placeholder.com/48
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  linkedin: https://linkedin.com/username
-- username: john
-  name: John Smith
-  image: https://via.placeholder.com/48
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  linkedin: https://linkedin.com/username
+- username: pajares
+  name:               Elias Pajares
+  title:              
+    en:               Researcher & Core Developer     
+    de:               Wissenschaftler & Entwickler
+  image:             "https://via.placeholder.com/80"
+  bio:
+    en:               As core developer and transport researcher he initiated the development of GOAT. As advocate for liveable cities he loves to develop innovative solutions and trigger sustainable change.    
+    de: "Als Softwareentwickler und Verkehrswissenschaftler initierte er die Entwicklung von GOAT. Als Verfechter für lebenswerte Städte begeistert er sich für innovativ Lösungen und dem Anstoßen von nachhaltigem Wandel."   
+  github:             "https://github.com/EPajares"
+  website:            "https://www.bgu.tum.de/en/sv/team/msc-elias-pajares/"
+  linkedin:           "https://www.linkedin.com/in/eliaspajares/"
+  
+- username: jehle
+  name:               Ulrike Jehle
+  title:              
+    en:               Researcher & Core Developer  
+    de:               Wissenschaftlerin & Entwicklerin   
+  image:             "https://via.placeholder.com/80"
+  bio:
+    en:               Core developer, traffic planner and open data enthusiast. To meet the challenges of urban mobility, she is particularly engaged in strengthening active forms of mobility. 
+    de:               Entwicklerin, Verkehrsplanerin und Open-Data-Fan. Um eine nachhaltige Verkehrslandschaft zu gestalten, setzt Sie sich vor allem für die Förderung von aktiven Mobiliätsformen ein. 
+  github:             "https://github.com/UJehle"
+  website:            "https://www.bgu.tum.de/en/sv/team/msc-ulrike-jehle/"
+  linkedin:           "https://www.linkedin.com/in/ulrike-jehle/"
+
+- username: shkurti
+  name:               Majk Shkurti
+  title:              
+    en:               External Core Developer
+    de:               Externer Entwickler    
+  image:             "https://via.placeholder.com/80"
+  bio:
+    en:               As experienced WebGIS-developer he is focusing on the development of the userinterface. His passion lies within maps, visualizations and creating GIS apps that are accessible to everyone.
+    de:               Als erfahrener WebGIS-Entwickler fokusiert Er sich auf die Entwicklung der Benutzeroberfläche. Er begeistert sich für Karten, Viualisierungen und GIS-Anwendungen die jedem zur Verfügung stehen.
+  github:             "https://github.com/majkshkurti"
+  website:            "https://majk.me/"
+  linkedin:           "https://www.linkedin.com/in/majkshkurti/"
+  
+
+- username: hassine
+  name:               Emna Ben Hassine
+  title:              
+    en:               Student Assistant
+    de:               Wissenschaftliche Hilfskraft   
+  image:             "https://via.placeholder.com/80"
+  bio:
+    en:               Student assistant and environmental engineer with enthusiasm for Sustainable Urban Mobility. She believes that active mobility is the key to bring back the livability the cities have lost in the last few decades.
+    de:               Studentische Hilfskraft und Umweltingenieur mit Begeisterung für nachhaltige urbane Mobilität. Sie glaubt, dass aktive Mobilität der Schlüssel ist, um den Städten die in den letzten Jahrzehnten verloren gegangene Lebensqualität zurückzugeben.
+  github:             "https://github.com/EmnaBH"
+  linkedin:           "https://www.linkedin.com/in/emna-ben-hassine-832730107/"
+  
+
+- username: munoz
+  name:               Rafael Leonardo Munoz Nieto
+  title:              
+    en:               Student Assistant
+    de:               Wissenschaftliche Hilfskraft    
+  image:             "https://via.placeholder.com/80"
+  bio:
+    en:               He is a transport consultant and Student Assistant at TUM. GIS, and Smart cities enthusiast. In GOAT, he has contributed to the data refinement and data management.
+    de:               Rafael ist Verkehrsplaner und Studentischer Mitarbeiter an der TUM und begeistert sich für GIS und Smart cities. In GOAT beteiligt Er sich im Bereich der Datenaufbereitung und des Datenmanagements.
+  github:             "https://github.com/rafleo2008"
+  linkedin:           "https://www.linkedin.com/in/rlmunoz"
+  
+
+- username: ramirez
+  name:               German Santiago Linares Ramirez
+  title:              
+    en:               Student Assistant
+    de:               Wissenschaftliche Hilfskraft  
+  image:             "https://via.placeholder.com/80"
+  bio:
+    en:               He is a Civil and Industrial Engineer with passion for active mobility, cities, and sustainability. In GOAT he contributes to documentation, communications, and improvement of data quality.
+    de:               Bau- und Wirtschaftsingenieur mit einer Leidenschaft für aktive Mobilität, Städte und Nachhaltigkeit. In GOAT trägt er zur Dokumentation, Kommunikation und Verbesserung der Datenqualität bei.
+  linkedin:           "https://www.linkedin.com/in/santiago-linares-895b1634/"
+  twitter:            "https://twitter.com/SantiLinares04"
+  

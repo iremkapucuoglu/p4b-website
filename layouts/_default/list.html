@@ -13,7 +13,7 @@
 				<div class="uk-position-relative">
 					<div class="uk-search uk-search-default uk-width-1-1">
 						<span uk-search-icon></span>
-						<input class="uk-search-input" type="search" id="search-input" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off">
+						<input class="uk-search-input uk-border-pill" type="search" id="search-input" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off">
 					</div>
 					<ul class="uk-list uk-list-search uk-position-absolute uk-width-1-1" id="results-container"></ul>
 				</div>
@@ -26,7 +26,11 @@
 				resultsContainer: document.getElementById('results-container'),
 				searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
 				noResultsText: '<li class="no-results">{{ i18n "search_noresults" }}</li>',
+				{{ if eq site.Language.Lang "en" }}
 				json: '{{ "index.json" | relURL }}'
+				{{ else }}
+				json: '{{ (printf "%s%s" site.Language.Lang "/index.json" ) | relURL }}'
+				{{ end }}
 			});
 			
 			searchResults();

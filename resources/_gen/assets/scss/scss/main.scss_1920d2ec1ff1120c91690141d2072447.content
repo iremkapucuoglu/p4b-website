@@ -49,7 +49,7 @@ a:hover,
 .uk-link:hover,
 .uk-link-toggle:hover .uk-link,
 .uk-link-toggle:focus .uk-link {
-  color: #0f6ecd;
+  color: #2BB381;
   text-decoration: underline; }
 
 /* Text-level semantics
@@ -1457,7 +1457,7 @@ button.uk-icon:not(:disabled) {
  */
 .uk-input,
 .uk-select:not([multiple]):not([size]) {
-  height: 40px;
+  height: 50px;
   vertical-align: middle;
   /* 1 */
   display: inline-block; }
@@ -1465,7 +1465,7 @@ button.uk-icon:not(:disabled) {
 /* 2 */
 .uk-input:not(input),
 .uk-select:not(select) {
-  line-height: 38px; }
+  line-height: 48px; }
 
 /*
  * Multi-line
@@ -1850,7 +1850,7 @@ select.uk-form-width-xsmall {
   bottom: 0;
   left: 0;
   /* 2 */
-  width: 40px;
+  width: 50px;
   /* 3 */
   display: inline-flex;
   justify-content: center;
@@ -1874,7 +1874,7 @@ select.uk-form-width-xsmall {
  * Input padding
  */
 .uk-form-icon:not(.uk-form-icon-flip) ~ .uk-input {
-  padding-left: 40px !important; }
+  padding-left: 50px !important; }
 
 /*
  * Position modifier
@@ -1884,7 +1884,7 @@ select.uk-form-width-xsmall {
   left: auto; }
 
 .uk-form-icon-flip ~ .uk-input {
-  padding-right: 40px !important; }
+  padding-right: 50px !important; }
 
 /* ========================================================================
    Component: Button
@@ -1922,9 +1922,9 @@ select.uk-form-width-xsmall {
   box-sizing: border-box;
   padding: 0 30px;
   vertical-align: middle;
-  font-size: 0.875rem;
+  font-size: 1rem;
   /* 8 */
-  line-height: 38px;
+  line-height: 48px;
   /* 9 */
   text-align: center;
   /* 10 */
@@ -2144,8 +2144,11 @@ select.uk-form-width-xsmall {
     color: #fff; }
 
 .uk-button-medium {
-  line-height: 44px;
   min-width: 150px; }
+
+.uk-navbar-item .uk-button {
+  line-height: 40px;
+  font-size: 0.875rem; }
 
 /* ========================================================================
    Component: Progress
@@ -3320,7 +3323,7 @@ select.uk-form-width-xsmall {
  * Input
  */
 .uk-search-default .uk-search-input {
-  height: 40px;
+  height: 50px;
   padding-left: 6px;
   padding-right: 6px;
   background: transparent;
@@ -3334,13 +3337,13 @@ select.uk-form-width-xsmall {
  * Icon
  */
 .uk-search-default .uk-search-icon {
-  width: 40px; }
+  width: 50px; }
 
 .uk-search-default .uk-search-icon:not(.uk-search-icon-flip) ~ .uk-search-input {
-  padding-left: 40px; }
+  padding-left: 50px; }
 
 .uk-search-default .uk-search-icon-flip ~ .uk-search-input {
-  padding-right: 40px; }
+  padding-right: 50px; }
 
 /* Navbar modifier
  ========================================================================== */
@@ -7966,42 +7969,44 @@ iframe.uk-cover {
 .uk-list-search {
   margin: 10px 0 0 0;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
-  border-radius: 5px;
+  border-radius: 16px;
   background: #fff; }
   .uk-list-search li {
     margin: 0;
     line-height: 1.4;
-    border-left: solid 1px #e5e5e5;
-    border-right: solid 1px #e5e5e5; }
+    border-left: solid 1px #f2f2f2;
+    border-right: solid 1px #f2f2f2; }
     .uk-list-search li:first-child {
-      border-top-left-radius: 5px;
-      border-top-right-radius: 5px;
-      border-top: solid 1px #e5e5e5; }
+      border-top-left-radius: 16px;
+      border-top-right-radius: 16px;
+      border-top: solid 1px #f2f2f2; }
     .uk-list-search li:last-child {
-      border-bottom-left-radius: 5px;
-      border-bottom-right-radius: 5px;
-      border-bottom: solid 1px #e5e5e5; }
+      border-bottom-left-radius: 16px;
+      border-bottom-right-radius: 16px;
+      border-bottom: solid 1px #f2f2f2; }
     .uk-list-search li a {
       display: block; }
       .uk-list-search li a:hover {
         text-decoration: none; }
 
-.uk-list-search li:first-child {
-  padding-top: 5px; }
-
-.uk-list-search li:last-child {
-  padding-bottom: 5px; }
-
-.uk-list-search li a {
-  padding: 18px 36px; }
-
-.uk-list-search li.no-results {
-  padding: 18px 36px; }
+.uk-list-search li {
+  margin-top: 0 !important; }
+  .uk-list-search li:first-child {
+    padding-top: 5px; }
+  .uk-list-search li:last-child {
+    padding-bottom: 5px; }
+  .uk-list-search li a {
+    padding: 16px 24px; }
+  .uk-list-search li.no-results {
+    padding: 16px 24px; }
 
 .uk-lang-icon {
   max-width: 21px;
   margin-right: 4px;
   margin-top: -1px; }
+
+#mc_embed_signup input[type=email] {
+  padding-left: 20px; }
 
 .uk-nav-primary.uk-nav-parent-icon > .uk-parent > a::after {
   right: 15px; }

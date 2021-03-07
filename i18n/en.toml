@@ -9,6 +9,11 @@ other = "Quick links"
 other = "Contact info"
 
 
+[subscribe_email]
+other = "Your email address"
+
+[subscribe_button]
+other = "Subscribe"
 
 [contact_email]
 other = "Email"

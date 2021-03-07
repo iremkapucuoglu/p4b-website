@@ -13,10 +13,13 @@ $global-muted-color:											#8b8e93;
 $inverse-global-color:										#fff;
 // $inverse-global-muted-color
 
+$global-control-height:										50px;
+
 $base-heading-font-weight:                700;
 $base-heading-color:                      $global-color;
 
 $base-link-color:                         $global-primary-background;
+$base-link-hover-color:                         $global-primary-background;
 
 // $base-h1-font-size-m:                            $global-2xlarge-font-size !default;
 // $base-h1-font-size:                              $base-h1-font-size-m * 0.85 !default;
@@ -39,6 +42,7 @@ $base-link-color:                         $global-primary-background;
 
 
 $button-text-transform: 									none;
+$button-font-size:												1rem;
 
 $card-body-padding-horizontal-l:          35px;
 $card-body-padding-vertical-l:            35px;

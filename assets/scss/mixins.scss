@@ -21,8 +21,11 @@
   }
 
   .uk-button-medium {
-    line-height: 44px;
     min-width: 150px;
+  }
+  .uk-navbar-item .uk-button {
+    line-height: 40px;
+    font-size: 0.875rem;
   }
 }
 
@@ -126,25 +129,25 @@
   .uk-list-search {
     margin: 10px 0 0 0;
     box-shadow: $global-medium-box-shadow;
-    border-radius: $border-rounded-border-radius;
+    border-radius: $border-rounded-large;
     background: #fff;
 
     li {
       margin: 0;
       line-height: 1.4;
-      border-left: solid 1px $global-border;
-      border-right: solid 1px $global-border;
+      border-left: solid 1px lighten($global-border, 5%);
+      border-right: solid 1px lighten($global-border, 5%);
 
       &:first-child {
-        border-top-left-radius: $border-rounded-border-radius;
-        border-top-right-radius: $border-rounded-border-radius;
-        border-top: solid 1px $global-border;
+        border-top-left-radius: $border-rounded-large;
+        border-top-right-radius: $border-rounded-large;
+        border-top: solid 1px lighten($global-border, 5%);
       }
 
       &:last-child {
-        border-bottom-left-radius: $border-rounded-border-radius;
-        border-bottom-right-radius: $border-rounded-border-radius;
-        border-bottom: solid 1px $global-border;
+        border-bottom-left-radius: $border-rounded-large;
+        border-bottom-right-radius: $border-rounded-large;
+        border-bottom: solid 1px lighten($global-border, 5%);
       }
 
       a {
@@ -160,6 +163,7 @@
 
   .uk-list-search {
     li {
+      margin-top: 0 !important;
       &:first-child {
         padding-top: 5px;
       }
@@ -169,11 +173,11 @@
       }
 
       a {
-        padding: 18px 36px;
+        padding: 16px 24px;
       }
 
       &.no-results {
-        padding: 18px 36px;
+        padding: 16px 24px;
       }
     }
   }
@@ -182,6 +186,10 @@
     max-width: 21px;
     margin-right: 4px;
     margin-top: -1px;
+  }
+  
+  #mc_embed_signup input[type=email] {
+    padding-left: 20px;
   }
 
   .uk-nav-primary.uk-nav-parent-icon>.uk-parent>a::after {

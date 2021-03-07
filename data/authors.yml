@@ -18,6 +18,7 @@
   team_member: true
   Website: ''
   twitter: ''
+  team_image: "/images/walkability_population_heatmap.png"
 - username: jehle
   name: Ulrike Jehle
   title:
@@ -37,6 +38,7 @@
   team_member: true
   Website: ''
   twitter: ''
+  team_image: ''
 - username: shkurti
   name: Majk Shkurti
   title:
@@ -56,6 +58,7 @@
   team_member: true
   Website: ''
   twitter: ''
+  team_image: ''
 - username: hassine
   name: Emna Ben Hassine
   title:
@@ -74,6 +77,7 @@
   team_member: false
   Website: ''
   twitter: ''
+  team_image: ''
 - username: munoz
   name: Rafael Leonardo Munoz Nieto
   title:
@@ -92,6 +96,7 @@
   team_member: false
   Website: ''
   twitter: ''
+  team_image: ''
 - username: ramirez
   name: German Santiago Linares Ramirez
   title:
@@ -110,3 +115,4 @@
   team_member: false
   github: ''
   Website: ''
+  team_image: ''

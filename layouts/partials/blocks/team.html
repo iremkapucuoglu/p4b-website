@@ -1,4 +1,4 @@
-<section class="uk-section-large uk-section-features uk-section-{{ .background }}">
+<section class="uk-section-large uk-section-{{ .background }}">
   <div class="uk-container uk-text-center">
     {{ if or .heading .text }}
       <div class="uk-margin-medium-bottom uk-flex-center uk-flex" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
@@ -16,7 +16,7 @@
       {{ range site.Data.authors }}
         {{ if .team_member }}
           <div>
-            <div class="uk-card uk-border-rounded uk-box-shadow-small">
+            <div class="uk-card uk-card-secondary uk-border-rounded-large uk-box-shadow-small">
               {{ if .team_image }}
                 <div class="uk-card-media-top">
                   <img src="{{ .team_image | absURL }}" alt="{{ .name }}">

@@ -1,7 +1,7 @@
 ---
 title: Walkability Heatmap
 permalink: /docs/heatmap/
-categories:
+sections:
 - technical
 weight: 60
 ---

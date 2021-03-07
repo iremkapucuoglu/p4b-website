@@ -1,7 +1,7 @@
 ---
 title: Contribute to the documentation
 permalink: /docs/contribute_docs/
-categories:
+sections:
 - goat
 weight: 10
 ---

@@ -9,7 +9,7 @@
 					<ul class="uk-nav uk-nav-default uk-nav-parent-icon" data-uk-nav>
 						{{ $section := where $.Site.RegularPages "Section" "docs" }}
 						{{ range site.Data.docs }}
-							{{ $docs := where $section ".Params.categories" "intersect" (slice .category) }}
+							{{ $docs := where $section ".Params.sections" "intersect" (slice .category) }}
 							<li class="uk-parent{{ range $docs }}{{ if eq .Title $.Title }} uk-open{{ end }}{{ end }}">
 								<a href="#">{{ index .heading site.Language.Lang }}</a>
 								<ul class="uk-nav-sub">

@@ -1,7 +1,7 @@
 ---
 title: Isochrone as Alphashape
 permalink: /docs/alphashape/
-categories:
+sections:
 - technical
 weight: 40
 ---

@@ -3,7 +3,7 @@
 		<div class="uk-width-1-2 uk-width-card uk-background-{{ .background }} uk-background-cover" style="background-image: url({{ .background_image | absURL }})"></div>
 		<div class="uk-width-expand{{ if eq .layout "right" }} uk-flex-first{{ end }} uk-background-{{ .background_color_content }}"></div>
 	</div>
-	<div class="uk-section-large uk-position-relative">
+	<div class="uk-section-large{{ if eq .padding_top "remove" }} uk-padding-remove-top{{ else if eq .padding_top "small" }} uk-padding-small-top{{ end }} uk-position-relative">
 		<div class="uk-container">
 			<div class="uk-grid-collapse{{ if eq .layout "left" }} uk-card-left{{ else }} uk-card-right{{ end }}" data-uk-grid>
 				<div class="uk-width-expand@m uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-{{ if eq .layout "right" }}left{{ else }}right{{ end }}-medium;">

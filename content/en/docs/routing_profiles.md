@@ -1,7 +1,7 @@
 ---
 title: Routing Profiles
 permalink: /docs/routing_profiles/
-categories:
+sections:
 - technical
 weight: 80
 ---

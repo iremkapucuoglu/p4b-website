@@ -2,7 +2,7 @@
 title: Scenarios - Location Planning
 permalink: /tutorials/scenario-location/
 weight: 40
-categories:
+sections:
   - training
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Technical Architecture
 permalink: /docs/technicalarchitecture/
-categories:
+sections:
 - about
 weight: 30
 ---

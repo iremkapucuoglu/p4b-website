@@ -1,7 +1,7 @@
 ---
 title: Setup your own GOAT (recommended)
 permalink: /docs/quick_start_docker/
-categories:
+sections:
 - technical
 weight: 10
 ---

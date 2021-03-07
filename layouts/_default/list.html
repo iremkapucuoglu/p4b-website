@@ -3,8 +3,12 @@
 	<div class="uk-container">
 		<div data-uk-grid>
 			<div class="uk-width-expand@m">
-				<h2 class="uk-heading-small uk-margin-remove uk-text-semi-bold">{{ .Title }}</h2>
-			</div>
+				<h2 class="uk-heading-small uk-margin-remove uk-text-semi-bold uk-text-capitalize">{{ .Title }}</h2>
+				<ul class="uk-subnav">
+					{{range (.Site.GetPage "taxonomyTerm" "categories").Pages }}
+						<li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+				  {{ end }}
+			  </div>
 			<div class="uk-width-1-3@m">
 				<div class="uk-position-relative">
 					<div class="uk-search uk-search-default uk-width-1-1">
@@ -22,7 +26,7 @@
 				resultsContainer: document.getElementById('results-container'),
 				searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
 				noResultsText: '<li class="no-results">{{ i18n "search_noresults" }}</li>',
-				json: '../index.json'
+				json: '{{ "index.json" | relURL }}'
 			});
 			
 			searchResults();

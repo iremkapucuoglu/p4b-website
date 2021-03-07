@@ -1,7 +1,7 @@
 ---
 title: Mapping Mode
 permalink: /docs/mapping_mode/
-categories:
+sections:
 - osm
 weight: 10
 ---

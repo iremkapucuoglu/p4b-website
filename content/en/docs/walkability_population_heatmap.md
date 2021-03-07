@@ -1,7 +1,7 @@
 ---
 title: Walkability Population Heatmap
 permalink: /docs/walkability population heatmap/
-categories:
+sections:
 - technical
 weight: 70
 ---

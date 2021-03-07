@@ -1,7 +1,7 @@
 ---
 title: Making changes in OSM
 permalink: /docs/osm_tutorial/
-categories:
+sections:
 - osm
 weight: 20
 ---

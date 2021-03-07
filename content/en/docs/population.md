@@ -1,7 +1,7 @@
 ---
 title: Population Data
 permalink: /docs/population/
-categories:
+sections:
 - technical
 weight: 50
 ---

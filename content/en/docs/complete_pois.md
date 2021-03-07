@@ -1,7 +1,7 @@
 ---
 title: Complete information about POIs
 permalink: /docs/complete_pois/
-categories: 
+sections: 
 - osm
 weight: 30
 ---

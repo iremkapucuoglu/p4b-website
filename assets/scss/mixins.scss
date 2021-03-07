@@ -410,6 +410,11 @@
       }
     }
   }
+  @media (min-width: $breakpoint-medium) {
+    .uk-padding-small-top {
+      padding-top: 100px;
+    }
+  }
 
   .uk-text-semi-bold {
     font-weight: 600;

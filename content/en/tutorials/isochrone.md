@@ -2,7 +2,7 @@
 title: Isochrone
 permalink: /tutorials/isochrone/
 weight: 10
-categories:
+sections:
 - training
 ---
 

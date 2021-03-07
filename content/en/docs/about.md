@@ -1,7 +1,7 @@
 ---
 title: What is GOAT?
 permalink: /docs/about/
-categories:
+sections:
 - about
 weight: 20
 ---

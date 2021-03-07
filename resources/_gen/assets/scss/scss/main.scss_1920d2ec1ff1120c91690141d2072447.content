@@ -1987,7 +1987,8 @@ select.uk-form-width-xsmall {
 .uk-button-primary:hover,
 .uk-button-primary:focus {
   background-color: #269e72;
-  color: #fff; }
+  color: #fff;
+  box-shadow: 0 14px 25px rgba(43, 179, 129, 0.15); }
 
 /* OnClick + Active */
 .uk-button-primary:active,
@@ -2144,7 +2145,7 @@ select.uk-form-width-xsmall {
 
 .uk-button-medium {
   line-height: 44px;
-  min-width: 140px; }
+  min-width: 150px; }
 
 /* ========================================================================
    Component: Progress
@@ -2573,7 +2574,7 @@ select.uk-form-width-xsmall {
 /* Desktop and bigger */
 @media (min-width: 1200px) {
   .uk-card-body {
-    padding: 40px 40px; }
+    padding: 35px 35px; }
   .uk-card-header {
     padding: 20px 40px; }
   .uk-card-footer {
@@ -2724,18 +2725,18 @@ select.uk-form-width-xsmall {
 /* Desktop and bigger */
 @media (min-width: 1200px) {
   .uk-card-body > .uk-nav-default {
-    margin-left: -40px;
-    margin-right: -40px; }
+    margin-left: -35px;
+    margin-right: -35px; }
   .uk-card-body > .uk-nav-default:only-child {
-    margin-top: -25px;
-    margin-bottom: -25px; }
+    margin-top: -20px;
+    margin-bottom: -20px; }
   .uk-card-body > .uk-nav-default > li > a,
   .uk-card-body > .uk-nav-default .uk-nav-header,
   .uk-card-body > .uk-nav-default .uk-nav-divider {
-    padding-left: 40px;
-    padding-right: 40px; }
+    padding-left: 35px;
+    padding-right: 35px; }
   .uk-card-body > .uk-nav-default .uk-nav-sub {
-    padding-left: 55px; } }
+    padding-left: 50px; } }
 
 /*
      * Small
@@ -7931,9 +7932,7 @@ iframe.uk-cover {
   opacity: 0.9; }
 
 .uk-article-content {
-  line-height: 1.85;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased; }
+  line-height: 1.85; }
   .uk-article-content ul li {
     line-height: 2.2; }
   .uk-article-content blockquote {
@@ -8129,6 +8128,9 @@ footer {
   .uk-padding-small-top {
     padding-top: 100px; } }
 
+.uk-text-lead.uk-margin-top:first-child {
+  margin-top: 0 !important; }
+
 .uk-text-semi-bold {
   font-weight: 600; }
 
@@ -8136,10 +8138,10 @@ footer {
   border-radius: 8px; }
 
 .uk-border-rounded-large {
-  border-radius: 10px; }
+  border-radius: 16px; }
 
 .uk-border-rounded-large-top {
-  border-radius: 10px 10px 0 0; }
+  border-radius: 16px 16px 0 0; }
 
 .uk-section-header {
   padding-top: 50px;

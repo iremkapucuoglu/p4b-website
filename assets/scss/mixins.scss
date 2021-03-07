@@ -2,6 +2,8 @@
 
 @mixin hook-base-body() {
   @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+  // -moz-osx-font-smoothing: grayscale;
+  // -webkit-font-smoothing: antialiased;
 }
 
 @mixin hook-button() {
@@ -20,13 +22,13 @@
 
   .uk-button-medium {
     line-height: 44px;
-    min-width: 140px;
+    min-width: 150px;
   }
 }
 
-// @mixin hook-button-primary-hover() {
-//   box-shadow: 0 14px 25px rgba($color: $global-primary-background, $alpha: 0.2);
-// } 
+@mixin hook-button-primary-hover() {
+  box-shadow: 0 14px 25px rgba($color: $global-primary-background, $alpha: 0.15);
+} 
 
 @mixin hook-navbar-nav-item() {
   font-weight: 600;
@@ -73,8 +75,6 @@
 
   .uk-article-content {
     line-height: 1.85;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
 
     ul {
       li {
@@ -414,6 +414,10 @@
     .uk-padding-small-top {
       padding-top: 100px;
     }
+  }
+  
+  .uk-text-lead.uk-margin-top:first-child {
+    margin-top: 0 !important;
   }
 
   .uk-text-semi-bold {

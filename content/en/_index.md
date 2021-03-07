@@ -67,6 +67,7 @@ blocks:
   - "/images/4-1.png"
   - "/images/5-1.png"
   text: ''
+  padding_top: default
 - template: logos-block
   block: logos
   background: default
@@ -75,5 +76,6 @@ blocks:
   - "/images/logo-mfund.png"
   - "/images/logo-bmvi.png"
   heading: Funded by
+  padding_top: remove
 
 ---

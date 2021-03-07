@@ -100,3 +100,18 @@ fields:
       file: 
       path: 
   label: Background Color Content
+- name: padding_top
+  type: select
+  default: small
+  config:
+    required: false
+    options:
+    - default
+    - small
+    - remove
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Padding Top

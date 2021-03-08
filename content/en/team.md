@@ -28,7 +28,7 @@ video = ""
 text = ""
 url = ""
 [[blocks]]
-background = "muted"
+background = "primary"
 background_color_content = "default"
 background_image = ""
 block = "card"

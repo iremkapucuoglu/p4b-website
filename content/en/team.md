@@ -29,7 +29,7 @@ text = ""
 url = ""
 [[blocks]]
 background = "primary"
-background_color_content = "default"
+background_color_content = "secondary"
 background_image = ""
 block = "card"
 heading = ""

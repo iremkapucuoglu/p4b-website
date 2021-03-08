@@ -1,5 +1,4 @@
 +++
-draft = true
 layout = "blocks"
 title = "Team"
 translationKey = "team"

@@ -58,7 +58,7 @@
   team_member: true
   Website: ''
   twitter: ''
-  team_image: https://via.placeholder.com/400
+  team_image: "/images/image134.jpg"
 - username: hassine
   name: Emna Ben Hassine
   title:

@@ -53,7 +53,7 @@ background = "default"
 block = "images"
 columns = "1"
 heading = "Follow us towards a balanced future!"
-images = ["/images/charles-deluvio-lks7vei-eag-unsplash.jpg"]
+images = ["/images/image360.jpg", "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"]
 template = "images-block"
 text = ""
 

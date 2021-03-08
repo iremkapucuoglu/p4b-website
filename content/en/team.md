@@ -1,4 +1,5 @@
 +++
+draft = true
 layout = "blocks"
 title = "Team"
 translationKey = "team"
@@ -30,7 +31,7 @@ url = ""
 [[blocks]]
 background = "default"
 background_color_content = "default"
-background_image = ""
+background_image = "/images/image360.jpg"
 block = "card"
 heading = ""
 image = "https://via.placeholder.com/610"

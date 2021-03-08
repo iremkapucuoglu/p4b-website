@@ -15,7 +15,7 @@ url = ""
 [[blocks]]
 background = "default"
 background_color_content = "default"
-background_image = ""
+background_image = "/images/image222.jpg"
 block = "card"
 heading = "Meet our Team!"
 image = "https://via.placeholder.com/610"

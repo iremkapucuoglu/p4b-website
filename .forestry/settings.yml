@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: config.toml
-  label: Config
 - type: directory
   path: content/en
   label: Pages EN
@@ -46,6 +43,9 @@ sections:
 - type: document
   path: data/tutorials.yml
   label: Tutorial Categories
+- type: document
+  path: config.toml
+  label: Config
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

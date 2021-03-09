@@ -50,6 +50,28 @@ fields:
     config:
       required: false
     label: URL
+  - name: icon
+    type: select
+    default: file-text
+    config:
+      required: false
+      options:
+      - file-text
+      - code
+      - link
+      - info
+      - play-circle
+      - settings
+      - lifesaver
+      - bolt
+      - question
+      - table
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Icon
   config:
     min: 
     max: 

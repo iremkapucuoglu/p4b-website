@@ -2,9 +2,11 @@ baseURL = "https://goofy-mirzakhani-b2c714.netlify.app/"
 languageCode = "en-us"
 title = "Lorem"
 
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 page = ["HTML", "RSS"]
+
 
 [params]
 site_logo = "images/logo.png"
@@ -15,31 +17,75 @@ address = "Augustenstraße 49 <br>80333 München <br>Germany"
 mailchimp_form_action = "xxxx"
 mailchimp_hidden_name = "xxxx"
 
+
 [languages]
 [languages.en]
 title = "My blog"
 weight = 1
 contentDir = "content/en"
 
-[[languages.en.menu.right]]
-name = "Try GOAT"
-url = "/try-goat/"
-weight = 1
-[languages.en.menu.right.params]
-button= "primary-outline"
 
 [[languages.en.menu.center]]
-name = "Contact"
-url = "/contact/"
-weight = 5
+name = "GOAT"
+url = "/"
+weight = 1
+[languages.en.menu.center.params]
+heading = "Duis aute irure dolor"
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 [[languages.en.menu.center]]
-name = "Team"
-url = "/team/"
+name = "Heading 1"
+parent = "GOAT"
+weight = 1
+[[languages.en.menu.center]]
+name = "What is GOAT?"
+parent = "GOAT"
+url = "/what-is-goat/"
+weight = 2
+[[languages.en.menu.center]]
+name = "GOATlive"
+parent = "GOAT"
+url = "/goatlive/"
+weight = 3
+[[languages.en.menu.center]]
+name = "Videos"
+parent = "GOAT"
+url = "/videos/"
 weight = 4
 [[languages.en.menu.center]]
-name = "Blog"
-url = "/blog/"
-weight = 3
+name = "Tutorials"
+parent = "GOAT"
+url = "/tutorials/isochrone/"
+weight = 5
+[[languages.en.menu.center]]
+name = "Docs"
+parent = "GOAT"
+url = "/docs/background/"
+weight = 6
+
+
+[[languages.en.menu.center]]
+name = "Heading 2"
+parent = "GOAT"
+weight = 7
+pre = "2"
+[[languages.en.menu.center]]
+name = "Link 1"
+parent = "GOAT"
+url = "/"
+weight = 8
+pre = "2"
+[[languages.en.menu.center]]
+name = "Link 2"
+parent = "GOAT"
+url = "/"
+weight = 9
+pre = "2"
+[[languages.en.menu.center]]
+name = "Link 3"
+parent = "GOAT"
+url = "/"
+weight = 10
+pre = "2"
 
 
 [[languages.en.menu.center]]
@@ -49,7 +95,6 @@ weight = 2
 heading = "Duis aute irure dolor2"
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua2."
 hidden = true
-
 [[languages.en.menu.center]]
 name = "Heading 3"
 parent = "Competences"
@@ -64,7 +109,6 @@ name = "Web-GIS"
 parent = "Competences"
 url = "/web-gis/"
 weight = 3
-
 [[languages.en.menu.center]]
 name = "Trainings"
 parent = "Competences"
@@ -100,66 +144,28 @@ weight = 9
 pre = "2"
 
 [[languages.en.menu.center]]
-name = "Heading 2"
-parent = "GOAT"
-weight = 7
-pre = "2"
-[[languages.en.menu.center]]
-name = "Link 1"
-parent = "GOAT"
-url = "/"
-weight = 8
-pre = "2"
-[[languages.en.menu.center]]
-name = "Link 2"
-parent = "GOAT"
-url = "/"
-weight = 9
-pre = "2"
-[[languages.en.menu.center]]
-name = "Link 3"
-parent = "GOAT"
-url = "/"
-weight = 10
-pre = "2"
-
-[[languages.en.menu.center]]
-name = "Docs"
-parent = "GOAT"
-url = "/docs/background/"
-weight = 6
-[[languages.en.menu.center]]
-name = "Tutorials"
-parent = "GOAT"
-url = "/tutorials/isochrone/"
-weight = 5
-[[languages.en.menu.center]]
-name = "Videos"
-parent = "GOAT"
-url = "/videos/"
-weight = 4
-[[languages.en.menu.center]]
-name = "GOATlive"
-parent = "GOAT"
-url = "/goatlive/"
+name = "Blog"
+url = "/blog/"
 weight = 3
 [[languages.en.menu.center]]
-name = "What is GOAT?"
-parent = "GOAT"
-url = "/what-is-goat/"
-weight = 2
+name = "Team"
+url = "/team/"
+weight = 4
 [[languages.en.menu.center]]
-name = "Heading 1"
-parent = "GOAT"
-weight = 1
+name = "Contact"
+url = "/contact/"
+weight = 5
 
-[[languages.en.menu.center]]
-name = "GOAT"
-url = "/"
+
+
+[[languages.en.menu.right]]
+name = "Try GOAT"
+url = "/try-goat/"
 weight = 1
-[languages.en.menu.center.params]
-heading = "Duis aute irure dolor"
-text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+[languages.en.menu.right.params]
+button= "primary-outline"
+
+
 
 [[languages.en.menu.footer]]
 name = "About us"
@@ -198,72 +204,147 @@ title = "Mon blogue"
 weight = 2
 contentDir = "content/de"
 
-[[languages.de.menu.right]]
-name = "Versuchen GOAT"
-url = "/try-goat/"
+[[languages.de.menu.center]]
+name = "GOAT"
+url = "/"
 weight = 1
-[languages.de.menu.right.params]
-button= "primary"
-
+[languages.de.menu.center.params]
+heading = "Duis aute irure dolor"
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 [[languages.de.menu.center]]
-name = "Contact DE"
-url = "/contact/"
-weight = 5
+name = "Heading 1"
+parent = "GOAT"
+weight = 1
 [[languages.de.menu.center]]
-name = "Team"
-url = "/team/"
-weight = 4
+name = "What is GOAT?"
+parent = "GOAT"
+url = "/what-is-goat/"
+weight = 2
 [[languages.de.menu.center]]
-name = "Blog"
-url = "/blog/"
+name = "GOATlive"
+parent = "GOAT"
+url = "/goatlive/"
 weight = 3
 [[languages.de.menu.center]]
-name = "Consultancy"
+name = "Videos"
+parent = "GOAT"
+url = "/videos/"
+weight = 4
+[[languages.de.menu.center]]
+name = "Tutorials"
+parent = "GOAT"
+url = "/tutorials/isochrone/"
+weight = 5
+[[languages.de.menu.center]]
+name = "Docs"
+parent = "GOAT"
+url = "/docs/background/"
+weight = 6
+
+
+[[languages.de.menu.center]]
+name = "Heading 2"
+parent = "GOAT"
+weight = 7
+pre = "2"
+[[languages.de.menu.center]]
+name = "Link 1"
+parent = "GOAT"
+url = "/"
+weight = 8
+pre = "2"
+[[languages.de.menu.center]]
+name = "Link 2"
+parent = "GOAT"
+url = "/"
+weight = 9
+pre = "2"
+[[languages.de.menu.center]]
+name = "Link 3"
+parent = "GOAT"
+url = "/"
+weight = 10
+pre = "2"
+
+
+[[languages.de.menu.center]]
+name = "Competences"
+weight = 2
+[languages.de.menu.center.params]
+heading = "Duis aute irure dolor2"
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua2."
+hidden = true
+[[languages.de.menu.center]]
+name = "Heading 3"
 parent = "Competences"
-url = "/consultancy/"
+weight = 1
+[[languages.de.menu.center]]
+name = "Competences Overview"
+parent = "Competences"
+url = "/competences-overview/"
+weight = 2
+[[languages.de.menu.center]]
+name = "Web-GIS"
+parent = "Competences"
+url = "/web-gis/"
 weight = 3
 [[languages.de.menu.center]]
 name = "Trainings"
 parent = "Competences"
 url = "/trainings/"
-weight = 2
-[[languages.de.menu.center]]
-name = "Web-GIS"
-parent = "Competences"
-url = "/webgis/"
-weight = 1
-[[languages.de.menu.center]]
-name = "Competences"
-weight = 2
-[[languages.de.menu.center]]
-name = "Docs"
-parent = "GOAT"
-url = "/docs/background/"
-weight = 5
-[[languages.de.menu.center]]
-name = "Tutorials"
-parent = "GOAT"
-url = "/tutorials/isochrone/"
 weight = 4
 [[languages.de.menu.center]]
-name = "Videos"
-parent = "GOAT"
-url = "/videos/"
+name = "Consultancy"
+parent = "Competences"
+url = "/consultancy/"
+weight = 5
+[[languages.de.menu.center]]
+name = "Heading 4"
+parent = "Competences"
+weight = 6
+pre = "2"
+[[languages.de.menu.center]]
+name = "Link 4"
+parent = "Competences"
+url = "/"
+weight = 7
+pre = "2"
+[[languages.de.menu.center]]
+name = "Link 5"
+parent = "Competences"
+url = "/"
+weight = 8
+pre = "2"
+[[languages.de.menu.center]]
+name = "Link 6"
+parent = "Competences"
+url = "/"
+weight = 9
+pre = "2"
+
+[[languages.de.menu.center]]
+name = "Blog"
+url = "/blog/"
 weight = 3
 [[languages.de.menu.center]]
-name = "GOATlive"
-parent = "GOAT"
-url = "/goatlive/"
-weight = 2
+name = "Team"
+url = "/team/"
+weight = 4
 [[languages.de.menu.center]]
-name = "What is GOAT?"
-parent = "GOAT"
-url = "/what-is-goat/"
+name = "Contact"
+url = "/contact/"
+weight = 5
+
+
+
+[[languages.de.menu.right]]
+name = "Versuchen GOAT"
+url = "/try-goat/"
 weight = 1
-[[languages.de.menu.center]]
-name = "GOAT"
-url = "/"
-weight = 1
+[languages.de.menu.right.params]
+button= "primary-outline"
+
+
 
 [[languages.de.menu.footer]]
 name = "About us"
@@ -296,4 +377,3 @@ url = "#"
 weight = 3
 [languages.de.menu.social.params]
 icon = "github"
-

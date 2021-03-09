@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: content/en
   label: Pages EN
@@ -43,6 +45,8 @@ sections:
 - type: document
   path: data/tutorials.yml
   label: Tutorial Categories
+- type: heading
+  label: Settings
 - type: document
   path: config.toml
   label: Config

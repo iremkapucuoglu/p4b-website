@@ -62,16 +62,16 @@
             <div class="uk-text-small uk-text-muted uk-margin-small-top">{{ index $user 0 "title" site.Language.Lang }}</div>
             <div class="uk-grid-small uk-child-width-auto uk-margin-top" data-uk-grid>
               {{ if (index $user 0 "website") }}
-                <div><a href="{{ index $user 0 "website" }}" target="_blank"><span data-uk-icon="icon: world"></span></a></div>
+                <div><a class="uk-link-social" href="{{ index $user 0 "website" }}" target="_blank"><span data-uk-icon="icon: world"></span></a></div>
               {{ end }}
               {{ if (index $user 0 "linkedin") }}
-                <div><a href="{{ index $user 0 "linkedin" }}" target="_blank"><span data-uk-icon="icon: linkedin"></span></a></div>
+                <div><a class="uk-link-social" href="{{ index $user 0 "linkedin" }}" target="_blank"><span data-uk-icon="icon: linkedin"></span></a></div>
               {{ end }}
               {{ if (index $user 0 "github") }}
-                <div><a href="{{ index $user 0 "github" }}" target="_blank"><span data-uk-icon="icon: github"></span></a></div>
+                <div><a class="uk-link-social" href="{{ index $user 0 "github" }}" target="_blank"><span data-uk-icon="icon: github"></span></a></div>
               {{ end }}
               {{ if (index $user 0 "twitter") }}
-                <div><a href="{{ index $user 0 "twitter" }}" target="_blank"><span data-uk-icon="icon: twitter"></span></a></div>
+                <div><a class="uk-link-social" href="{{ index $user 0 "twitter" }}" target="_blank"><span data-uk-icon="icon: twitter"></span></a></div>
               {{ end }}
             </div>
           {{end}}

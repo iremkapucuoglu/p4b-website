@@ -420,6 +420,12 @@
   //   margin-top: -1px;
   // }
 
+  .uk-link-social {
+    color: #333;
+    &:hover {
+      color: $global-primary-background
+    }
+  }
   .uk-scale:hover {
     img {
       transform: scale(1.05);

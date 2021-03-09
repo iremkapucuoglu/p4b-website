@@ -8134,6 +8134,11 @@ iframe.uk-cover {
   #TableOfContents ul li:not(.uk-active) a {
     color: #000; }
 
+.uk-link-social {
+  color: #333; }
+  .uk-link-social:hover {
+    color: #2BB381; }
+
 .uk-scale:hover img {
   transform: scale(1.05);
   transition: all .2s ease; }

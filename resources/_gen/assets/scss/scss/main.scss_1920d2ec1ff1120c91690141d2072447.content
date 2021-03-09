@@ -7954,20 +7954,9 @@ iframe.uk-cover {
   .uk-article-content ul li {
     line-height: 2.2; }
   .uk-article-content blockquote {
-    margin-bottom: 36px;
     color: #2BB381;
     font-size: 1.75rem;
     font-weight: 500; }
-  .uk-article-content * + h2,
-  .uk-article-content * + h3,
-  .uk-article-content * + h4,
-  .uk-article-content * + h5,
-  .uk-article-content * + h6,
-  .uk-article-content * + blockquote,
-  .uk-article-content * + p,
-  .uk-article-content * + ol,
-  .uk-article-content * + ul {
-    margin-top: 42px; }
   .uk-article-content * + .uk-button {
     margin-top: 20px; }
   .uk-article-content p:first-child img {
@@ -7988,6 +7977,9 @@ iframe.uk-cover {
     margin-right: -125px;
     max-width: 1000px;
     right: 50%; } }
+
+.uk-team-social:hover span {
+  color: #2BB381; }
 
 .uk-list-search {
   margin: 10px 0 0 0;

@@ -42,6 +42,9 @@
 					<p>{{ i18n "contact_sent" }}</p>
 			  </div>
 				<form id="contact" class="uk-grid-small" data-uk-grid name="contact" method="POST" data-netlify="true">
+					<div class="uk-width-1-1">
+						<input class="uk-input uk-border-rounded" type="text" placeholder="{{ i18n "contact_name" }}" name="name">
+				  </div>
 					<div class="uk-width-1-2@s">
 							<input class="uk-input uk-border-rounded" type="email" placeholder="{{ i18n "contact_email" }}" name="email" required>
 					</div>

@@ -15,6 +15,9 @@ other = "Your email address"
 [subscribe_button]
 other = "Subscribe"
 
+[contact_name]
+other = "Name"
+
 [contact_email]
 other = "Email"
 

@@ -76,5 +76,7 @@ blocks:
   - "/images/logo-bmvi.png"
   heading: Funded by
   padding_top: remove
+  text: The development of GOAT was funded by the BMVI from November 2019 to February
+    2021 as part of mFund funding line 1.
 
 ---

@@ -47,7 +47,7 @@
 
 @mixin hook-utility-misc() {
   .uk-text-xsmall {
-    font-size: 0.75rem;
+    font-size: 0.6875rem;
   }
 
   .uk-text-spacing-small {
@@ -132,6 +132,10 @@
       margin-top: 0;
     }
 
+
+  }
+  
+  .uk-article-post {
     @media (min-width: $breakpoint-medium) {
       img {
         left: 50%;
@@ -430,6 +434,33 @@
     img {
       transform: scale(1.05);
       transition: all .2s ease;
+    }
+  }
+  
+  .uk-article-meta {
+    line-height: 1.2;
+    
+  }
+  .uk-meta-link:hover {
+    text-decoration: none; 
+    * {
+      color: $global-secondary-background;
+    }
+  }
+  
+  .uk-card-categories {
+    color: $global-muted-color;
+    margin-right: 6px;
+    &:hover {
+      color: $global-secondary-background;
+      text-decoration: none;
+    }
+  }
+  
+  .uk-card-title-link {
+    &:hover {
+      text-decoration: none;
+      color: $global-secondary-background;
     }
   }
 

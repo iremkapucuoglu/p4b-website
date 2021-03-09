@@ -1,16 +1,17 @@
-<div class="uk-card uk-card-default uk-border-rounded-large uk-postion-relative uk-box-shadow-hover-large">
+<div class="uk-card uk-card-default uk-border-rounded-large">
   <div class="uk-card-media-top">
-    <img class="uk-border-rounded-large-top" src="{{ .Params.thumbnail | absURL }}" alt="{{ .Title }}">
+    <a href="{{.Permalink}}"><img class="uk-border-rounded-large-top" src="{{ .Params.thumbnail | absURL }}" alt="{{ .Title }}"></a>
   </div>
   <div class="uk-card-body">
     <div class="uk-text-uppercase uk-text-xsmall uk-text-semi-bold uk-text-spacing-small">
       {{ range .Params.categories }}
-        <span>{{ . }}</span>
+        <a class="uk-card-categories" href="{{ "/categories/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
       {{ end }}
     </div>
-    <h4 class="uk-margin-small-bottom uk-margin-small-top"><a href="{{.Permalink}}">{{ .Title }}</a></h4>
+    <h4 class="uk-margin-small-bottom uk-margin-small-top"><a class="uk-card-title-link" href="{{.Permalink}}">{{ .Title }}</a></h4>
     <div>{{ .Summary }}</div>
     {{ $user := where .Site.Data.authors "username" .Params.author }}
+    <a class="uk-meta-link" href="{{ "/author/" | absURL }}{{ index $user 0 "username" | urlize }}/">
       <div class="uk-article-meta uk-margin-top" itemscope="" itemtype="http://schema.org/Person">
         <div data-uk-grid="" class="uk-grid-small uk-flex uk-flex-middle">
             <div class="uk-width-auto uk-first-column">
@@ -23,6 +24,6 @@
           </div>
         </div>
       </div>
+    </a>
   </div>
-  <a class="uk-position-cover" href="{{ .Permalink }}"></a>
 </div>

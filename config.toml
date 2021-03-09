@@ -7,6 +7,9 @@ title = "Lorem"
 home = ["HTML", "RSS", "JSON"]
 page = ["HTML", "RSS"]
 
+[taxonomies]
+author = "author"
+categories = "categories"
 
 [params]
 site_logo = "images/logo.png"

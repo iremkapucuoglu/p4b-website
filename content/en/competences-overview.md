@@ -30,15 +30,15 @@ page = "en/web-gis.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
 url = "/web-gis/"
 [[blocks.links]]
-heading = ""
+heading = "Trainings"
 page = "en/trainings.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
-url = ""
+url = "/trainings/"
 [[blocks.links]]
-heading = ""
+heading = "Consultancy"
 page = "en/consultancy.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
-url = ""
+url = "/consultancy/"
 
 +++
 ## The passage is attributed to typesetter

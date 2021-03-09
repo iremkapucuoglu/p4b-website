@@ -53,20 +53,20 @@ page = "en/goatlive.md"
 text = "Live enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
 url = "/goatlive/"
 [[blocks.links]]
-heading = ""
+heading = "Videos"
 page = "en/videos.md"
 text = "Videos enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
-url = ""
+url = "/videos/"
 [[blocks.links]]
-heading = ""
+heading = "Tutorials"
 page = "en/tutorials.md"
 text = "Tutorials enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
-url = ""
+url = "/tutorials/isochrone/"
 [[blocks.links]]
-heading = ""
+heading = "Docs"
 page = "en/docs.md"
 pages = "en/_index.md"
 text = "Docs enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
-url = ""
+url = "/docs/background/"
 
 +++

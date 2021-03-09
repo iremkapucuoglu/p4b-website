@@ -29,12 +29,12 @@ sections:
   path: content/de/posts
   label: Posts DE
   create: documents
-  match: "**/*"
+  match: "*"
 - type: directory
-  path: content/en/docs/*
+  path: content/en/docs
   label: Docs EN
   create: documents
-  match: "**/*"
+  match: "*"
   templates:
   - documentation-post
 - type: document

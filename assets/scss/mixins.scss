@@ -89,11 +89,11 @@
       padding: 5px 0;
     }
   }
-  @media (min-width: $breakpoint-large) {
-    .uk-docs-content {
-      padding-left: 50px;
-    }
-  }
+  // @media (min-width: $breakpoint-large) {
+  //   .uk-docs-content {
+  //     padding-left: 50px;
+  //   }
+  // }
   .uk-article-content {
     line-height: 1.85;
     font-size: 1.0625rem;
@@ -285,6 +285,10 @@
       font-size: 1.25rem;
       line-height: 42px;
     }
+  }
+  
+  .uk-padding-medium {
+    padding: 28px;
   }
 
   @media (max-width: $breakpoint-medium) {

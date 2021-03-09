@@ -2,8 +2,8 @@
 <section class="uk-section">
 	<div class="uk-container">
 		<div class="uk-grid-large" data-uk-grid>
-			<div class="uk-width-1-4@l uk-visible@l uk-article-toc">
-				<div data-uk-sticky="offset: 70; media: @l; bottom: true" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 60">
+			<div class="uk-width-1-3@l uk-visible@l uk-article-toc">
+				<div class="uk-background-muted uk-padding-medium uk-border-rounded" data-uk-sticky="offset: 70; media: @l; bottom: true" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 60">
 					<h6 class="uk-margin-small-top uk-text-uppercase uk-text-spacing-small">{{ i18n "table_of_contents" }}</h6>
 					<hr>
 					<ul class="uk-nav uk-nav-default uk-nav-parent-icon" data-uk-nav>
@@ -24,8 +24,22 @@
 			</div>
 			<div class="uk-width-expand@l">
 				<div class="uk-docs-content">
+					<div class="uk-hidden@l">
+						<button class="uk-button uk-button-secondary uk-margin-medium-bottom uk-button-small" type="button">{{ i18n "navigate_tutorials" }}</button>
+						<div uk-dropdown="mode: click">
+								<ul class="uk-nav uk-dropdown-nav">
+										{{ range site.Data.tutorials }}
+											{{ $tutorials := where $section ".Params.sections" "intersect" (slice .category) }}
+											<li class="uk-h4 uk-margin-small">{{ index .heading site.Language.Lang }}</li>
+											{{ range $tutorials.ByWeight }}
+												<li{{ if eq .Title $.Title }} class="uk-active"{{ end }}><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+											{{ end }}
+										{{ end }}                    
+								</ul>
+							</div>
+					</div>
 					{{ with .Title }}
-						<h1>{{ . }}</h1>
+						<h1 class="uk-margin-remove-top">{{ . }}</h1>
 					{{ end }}
 					<div class="uk-article-content uk-text-m uk-margin-medium-top">
 						{{ .Content }}

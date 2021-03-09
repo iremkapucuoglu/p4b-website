@@ -3537,13 +3537,13 @@ select.uk-form-width-xsmall {
  * Items
  */
 .uk-dropdown-nav > li > a {
-  color: #8b8e93; }
+  color: #000; }
 
 /* Hover + Focus + Active */
 .uk-dropdown-nav > li > a:hover,
 .uk-dropdown-nav > li > a:focus,
 .uk-dropdown-nav > li.uk-active > a {
-  color: #000; }
+  color: #2BB381; }
 
 /*
  * Header
@@ -7944,10 +7944,6 @@ iframe.uk-cover {
 .uk-nav-default ul li a {
   padding: 5px 0; }
 
-@media (min-width: 1200px) {
-  .uk-docs-content {
-    padding-left: 50px; } }
-
 .uk-article-content {
   line-height: 1.85;
   font-size: 1.0625rem; }
@@ -8066,6 +8062,9 @@ iframe.uk-cover {
   color: #fff;
   font-size: 1.25rem;
   line-height: 42px; }
+
+.uk-padding-medium {
+  padding: 28px; }
 
 @media (max-width: 960px) {
   .uk-card-image {

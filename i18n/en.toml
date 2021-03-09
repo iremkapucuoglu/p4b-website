@@ -48,3 +48,9 @@ other = "No results found"
 
 [table_of_contents]
 other = "Content Overview"
+
+[navigate_docs]
+other = "Navigate Documentation"
+
+[navigate_tutorials]
+other = "Navigate Tutorials"

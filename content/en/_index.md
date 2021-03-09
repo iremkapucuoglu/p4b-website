@@ -38,9 +38,8 @@ blocks:
   - icon: "/images/icon-planning.svg"
     heading: Balance
     text: Evidence-based planning decisions.
-  text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur. '
-  heading: Dolor in reprehenderit
+  text: ''
+  heading: Our Values
 - template: card-block
   block: card
   layout: right

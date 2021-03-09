@@ -7,7 +7,6 @@ other = "Schnellzugriff"
 [footer_info]
 other = "Kontakt"
 
-
 [subscribe_email]
 other = "Your email address"
 
@@ -35,7 +34,6 @@ other = "Send message"
 [contact_sent]
 other = "Message sent, we will get back to you shortly."
 
-
 [related_posts]
 other = "Related Articles"
 
@@ -48,3 +46,8 @@ other = "No results found"
 [table_of_contents]
 other = "Content Overview"
 
+[navigate_docs]
+other = "Navigate Documentation"
+
+[navigate_tutorials]
+other = "Navigate Tutorials"

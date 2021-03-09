@@ -20,6 +20,7 @@
           {{- $current := . -}}
           {{ range .Site.Menus.center -}}
             {{ $active := in $current.RelPermalink .URL }}
+            {{ if ne .Params.hidden true }}
             {{ if .HasChildren }}
               {{ $active := in $current.RelPermalink .URL }}
               <li>
@@ -84,6 +85,7 @@
               {{ else }}
                 <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
               {{ end }}
+            {{ end }}
             {{ end }}
           {{ end }}
         </ul>

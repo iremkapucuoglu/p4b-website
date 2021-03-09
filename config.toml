@@ -48,6 +48,7 @@ weight = 2
 [languages.en.menu.center.params]
 heading = "Duis aute irure dolor2"
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua2."
+hidden = true
 
 [[languages.en.menu.center]]
 name = "Heading 3"

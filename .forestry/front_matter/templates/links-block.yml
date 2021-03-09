@@ -66,6 +66,7 @@ fields:
       - bolt
       - question
       - table
+      - location
       source:
         type: simple
         section: 

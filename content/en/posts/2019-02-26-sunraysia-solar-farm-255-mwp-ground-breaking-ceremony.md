@@ -12,7 +12,7 @@ categories:
 author: jehle
 
 ---
-## Release 1.0
+## New Features
 
 We are happy to announce that we successfully launched version GOAT1.0. Therefore, we are one step closer to our goal of GOAT becoming a useful planning instrument to shape livable communities.
 
@@ -42,36 +42,27 @@ _Figure 1. Project timeline_
 
 We had three municipalities as project partners: Munich, Fürstenfeldbruck and Freising. After the test cycles, the GOAT team organized several planning workshops with 6-10 participants in all three partner cities. Other than during the first test cycles of our prototype with practitioners from Fürstenfeldbruck, the focus of these more extensive workshops laid on the suitability of the tool to be used in real-life planning tasks and the participants got to work with the already enhanced tool.
 
-  
 After the participants were familiarized with the tool and its main features, they worked on planning questions. Those questions were actual planning tasks from their municipalities. Every workshop ended with feedback on how to improve GOAT and suggestions of new features. Some of the suggested features are already implemented, others will be implemented wherever possible.
 
-  
-The planning workshops were followed by a final synthesis workshop, where the experiences from all three municipalities were brought together. This workshop was used to evaluate the project and to define future development strategies for GOAT. 
+The planning workshops were followed by a final synthesis workshop, where the experiences from all three municipalities were brought together. This workshop was used to evaluate the project and to define future development strategies for GOAT.
 
-  
 In total there were organized more than 10 workshops. Some of them in-person, some were held online due to the COVID-19 situation.
 
-  
-We received positive feedback on the usability and usefulness of GOAT. Moreover, the tool is already in use by the local practitioners which also outlines the practicability of the tool. Nonetheless, we are not done yet! Keep in mind, that we received more requests about further features (e.g., provision of a user login, better tutorials, scenarios with changed path attributes, including the subjective walkability, spatial extension to whole Germany), which we will tackle in the future. 
+We received positive feedback on the usability and usefulness of GOAT. Moreover, the tool is already in use by the local practitioners which also outlines the practicability of the tool. Nonetheless, we are not done yet! Keep in mind, that we received more requests about further features (e.g., provision of a user login, better tutorials, scenarios with changed path attributes, including the subjective walkability, spatial extension to whole Germany), which we will tackle in the future.
 
 ## Networking Activities
 
-In addition to the development work, we were active in different networks. To disseminate our developed tool and get to know other persons that are working in this field, we participated in many mFund events, such as “Fachaustausch Fußverkehr” and “Fachaustausch Radverkehr”. We are still in close contact and exchange with some of the people we met at these inspiring events. 
+In addition to the development work, we were active in different networks. To disseminate our developed tool and get to know other persons that are working in this field, we participated in many mFund events, such as “Fachaustausch Fußverkehr” and “Fachaustausch Radverkehr”. We are still in close contact and exchange with some of the people we met at these inspiring events.
 
-  
-Furthermore, we were part of the interview series \[“7 Fragen an …”\]([https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf](https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf "https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf")), where our project leader Elias Pajares answered questions about GOAT and presented the tool. 
+Furthermore, we were part of the interview series \[“7 Fragen an …”\]([https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf](https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf "https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf")), where our project leader Elias Pajares answered questions about GOAT and presented the tool.
 
-  
-As open data is the foundation of our project and we highly rely on the data quality, we actively contributed to the open data community by collecting a large amount of OpenStreetMap (OSM) data during the whole project phase. We systematically closed data gaps by mapping ourselves, and organized \[“Mapping Parties”\](../mapping-parties) where we introduced newcomers to the world of open data and got them excited about contributing to OSM (check our \[poster\]([https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf](https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf "https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf"))). 
+As open data is the foundation of our project and we highly rely on the data quality, we actively contributed to the open data community by collecting a large amount of OpenStreetMap (OSM) data during the whole project phase. We systematically closed data gaps by mapping ourselves, and organized \[“Mapping Parties”\](../mapping-parties) where we introduced newcomers to the world of open data and got them excited about contributing to OSM (check our \[poster\]([https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf](https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf "https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf"))).
 
-  
 In addition, \[we captured many kilometers of road in Fürstenfeldbruck with Mapillary\](../mapillary). With this new data we were able to complete the attributes of the street network, which allows us to identify the type of surface and smoothness of a road or path. And recognize if specific roads are designed for bicycles or pedestrians.
 
-  
-We also included \[innovative approaches\](../sensor-freiberg) to gather more specific street data, by using a prototypic sensor device. With this new sensor, the acceleration data could be added to the street pictures to get more precise information and thereby gain a thorough understanding of the road conditions.   
+We also included \[innovative approaches\](../sensor-freiberg) to gather more specific street data, by using a prototypic sensor device. With this new sensor, the acceleration data could be added to the street pictures to get more precise information and thereby gain a thorough understanding of the road conditions.  
 Besides the improvement of the data itself, we also enhanced the data processing algorithms of GOAT. This all together helped us to achieve a stable and reliant version 1.0, which is open available on \[GitHub\]([https://github.com/goat-community/goat](https://github.com/goat-community/goat "https://github.com/goat-community/goat")). With this mayor release we also revamped GOAT with a new look.
 
-  
 ![](/images/screenshot.PNG)
 
 _Figure 2. The new look of GOAT, showing accessibility to nurseries_

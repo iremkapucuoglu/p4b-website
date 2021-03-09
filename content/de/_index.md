@@ -63,10 +63,10 @@ blocks:
   background: default
   heading: Partner
   logos:
+  - "/images/logo_mobidata-bw-1.jpg"
   - "/images/logo-tum-1.png"
   - "/images/3-1.png"
   - "/images/1-1.png"
-  - "/images/4-1.png"
   - "/images/5-1.png"
   text: ''
 - template: logos-block

@@ -17,9 +17,9 @@ name = "Heading 1"
 parent = "GOAT"
 weight = 1
 [[languages.de.menu.center]]
-name = "What is GOAT?"
+name = "Was ist GOAT?"
 parent = "GOAT"
-url = "/what-is-goat/"
+url = "/was-ist-goat/"
 weight = 2
 [[languages.de.menu.center]]
 name = "GOATlive"
@@ -69,7 +69,7 @@ name = "Competences"
 weight = 2
 [languages.de.menu.center.params]
 heading = "Duis aute irure dolor2"
-hidden = true
+#hidden = true
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua2."
 [[languages.de.menu.center]]
 name = "Heading 3"

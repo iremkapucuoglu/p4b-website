@@ -25,14 +25,20 @@ block = "links"
 heading = ""
 template = "links-block"
 [[blocks.links]]
+heading = "Web GIS"
 page = "en/web-gis.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
+url = "/web-gis/"
 [[blocks.links]]
+heading = ""
 page = "en/trainings.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
+url = ""
 [[blocks.links]]
+heading = ""
 page = "en/consultancy.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
+url = ""
 
 +++
 ## The passage is attributed to typesetter

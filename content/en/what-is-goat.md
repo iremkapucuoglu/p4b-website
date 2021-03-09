@@ -60,7 +60,7 @@ url = "/videos/"
 [[blocks.links]]
 heading = "Tutorials"
 page = "en/tutorials.md"
-text = "Tutorials enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+text = "Tutorials enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea consequat. "
 url = "/tutorials/isochrone/"
 [[blocks.links]]
 heading = "Docs"

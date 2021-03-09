@@ -238,7 +238,7 @@ icon = "github"
 home = ["HTML", "RSS", "JSON"]
 page = ["HTML", "RSS"]
 [params]
-address = "Augustenstraße 49 80333<br> München Germany"
+address = "Augustenstraße 49 <br>80333 München <br>Germany"
 email = "info@plan4better.de"
 mailchimp_form_action = "xxxx"
 mailchimp_hidden_name = "xxxx"

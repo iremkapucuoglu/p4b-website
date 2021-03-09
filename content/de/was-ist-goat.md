@@ -1,6 +1,6 @@
 +++
 layout = "blocks"
-title = "What is GOAT?"
+title = "Was ist GOAT?"
 translationKey = "what-is-goat"
 [header]
 background = "default"
@@ -21,7 +21,7 @@ heading = "What is GOAT? "
 image = "/images/heatmap.png"
 layout = "left"
 template = "card-block"
-text = "Geo Open Accessibility Tool, or simply GOAT, is an open-source web tool that is interactive, flexible, and practical for accessibility planning. Currently, GOAT is capable of modeling walking and cycling accessibility and designed to serve as a suitable instrument for easier, better, and more open transport and urban planning. Frequent enhancements are made to improve its performance and add additional functionalities."
+text = "Geo Open Accessibility Tool, oder einfach GOAT, ist ein Open-Source-Webtool zur interaktiven und dynamischen Erreichbarkeitsplanung. Mit GOAT können Erreichbarkeiten für den Fuß- und Radverkehr zu modelliert werden, GOAT dient damit als geeignetes Instrument für eine einfachere, bessere und offenere Verkehrs- und Stadtplanung. Es werden regelmäßig Erweiterungen vorgenommen, um die Leistung zu verbessern und zusätzliche Funktionalitäten hinzuzufügen."
 video = ""
 [blocks.button]
 text = ""

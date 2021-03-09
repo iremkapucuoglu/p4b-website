@@ -72,7 +72,7 @@ blocks:
 - template: logos-block
   block: logos
   background: default
-  heading: Gefördert durch
+  heading: Förderung
   logos:
   - "/images/logo-mfund-1.png"
   - "/images/logo-bmvi.png"

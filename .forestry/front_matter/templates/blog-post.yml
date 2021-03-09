@@ -5,6 +5,12 @@ fields:
 - type: text
   name: title
   label: Title
+- name: translationKey
+  type: text
+  config:
+    required: false
+  label: Translation Key
+  description: Set the same key to link translations together, no spaces.
 - type: file
   name: thumbnail
   label: Thumbnail

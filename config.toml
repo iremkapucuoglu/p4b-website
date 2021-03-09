@@ -239,7 +239,7 @@ home = ["HTML", "RSS", "JSON"]
 page = ["HTML", "RSS"]
 [params]
 address = "Arcisstraße 21 80333<br> München Germany"
-email = "info@plab4better.de"
+email = "info@plan4better.de"
 mailchimp_form_action = "xxxx"
 mailchimp_hidden_name = "xxxx"
 phone = "+49 1923 000 000"

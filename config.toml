@@ -112,36 +112,34 @@ weight = 1
 heading = "Duis aute irure dolor"
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 [[languages.en.menu.center]]
-name = "Team"
-url = "/team/"
-weight = 4
-[[languages.en.menu.center]]
-name = "Blog"
-url = "/blog/"
-weight = 3
-[[languages.en.menu.center]]
-name = "Competences"
-weight = 2
-[[languages.en.menu.center]]
-name = "Competences Overview"
-parent = "Competences"
-url = "/competences-overview/"
+name = "Heading 1"
+parent = "GOAT"
 weight = 1
 [[languages.en.menu.center]]
-name = "Web-GIS"
-parent = "Competences"
-url = "/web-gis/"
+name = "What is GOAT?"
+parent = "GOAT"
+url = "/what-is-goat/"
 weight = 2
 [[languages.en.menu.center]]
-name = "Trainings"
-parent = "Competences"
-url = "/trainings/"
+name = "GOATlive"
+parent = "GOAT"
+url = "/goatlive/"
 weight = 3
 [[languages.en.menu.center]]
-name = "Consultancy"
-parent = "Competences"
-url = "/consultancy/"
+name = "Videos"
+parent = "GOAT"
+url = "/videos/"
 weight = 4
+[[languages.en.menu.center]]
+name = "Tutorials"
+parent = "GOAT"
+url = "/tutorials/isochrone/"
+weight = 5
+[[languages.en.menu.center]]
+name = "Docs"
+parent = "GOAT"
+url = "/docs/background/"
+weight = 6
 [[languages.en.menu.center]]
 name = "Heading 2"
 parent = "GOAT"
@@ -166,34 +164,36 @@ pre = "2"
 url = "/"
 weight = 10
 [[languages.en.menu.center]]
-name = "Docs"
-parent = "GOAT"
-url = "/docs/background/"
-weight = 6
-[[languages.en.menu.center]]
-name = "Tutorials"
-parent = "GOAT"
-url = "/tutorials/isochrone/"
-weight = 5
-[[languages.en.menu.center]]
-name = "Videos"
-parent = "GOAT"
-url = "/videos/"
-weight = 4
-[[languages.en.menu.center]]
-name = "GOATlive"
-parent = "GOAT"
-url = "/goatlive/"
-weight = 3
-[[languages.en.menu.center]]
-name = "What is GOAT?"
-parent = "GOAT"
-url = "/what-is-goat/"
+name = "Competences"
 weight = 2
 [[languages.en.menu.center]]
-name = "Heading 1"
-parent = "GOAT"
+name = "Competences Overview"
+parent = "Competences"
+url = "/competences-overview/"
 weight = 1
+[[languages.en.menu.center]]
+name = "Web-GIS"
+parent = "Competences"
+url = "/web-gis/"
+weight = 2
+[[languages.en.menu.center]]
+name = "Trainings"
+parent = "Competences"
+url = "/trainings/"
+weight = 3
+[[languages.en.menu.center]]
+name = "Consultancy"
+parent = "Competences"
+url = "/consultancy/"
+weight = 4
+[[languages.en.menu.center]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+[[languages.en.menu.center]]
+name = "Team"
+url = "/team/"
+weight = 4
 [[languages.en.menu.center]]
 name = "Contact"
 url = "/contact/"

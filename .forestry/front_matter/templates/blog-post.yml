@@ -4,22 +4,23 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Thumbnail
 - type: file
   name: image
-  label: image
+  label: Image
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: textarea
   name: summary
-  label: summary
+  label: Summary
 - type: list
   name: categories
-  label: categories
+  label: Categories
 - type: text
   name: author
-  label: author
+  label: Author
+  description: Enter username from authors settings.

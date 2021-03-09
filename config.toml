@@ -1,178 +1,10 @@
 baseURL = "https://goofy-mirzakhani-b2c714.netlify.app/"
 languageCode = "en-us"
 title = "Lorem"
-
-[outputs]
-home = ["HTML", "RSS", "JSON"]
-page = ["HTML", "RSS"]
-
-[params]
-site_logo = "images/logo.png"
-site_logo_light = "images/logo-light.png"
-email = "info@plab4better.de"
-phone = "+49 1923 000 000"
-address = "Arcisstraße 21 80333<br> München Germany"
-mailchimp_form_action = "xxxx"
-mailchimp_hidden_name = "xxxx"
-
-[languages]
-[languages.en]
-title = "My blog"
-weight = 1
-contentDir = "content/en"
-
-[[languages.en.menu.right]]
-name = "Try GOAT"
-url = "/try-goat/"
-weight = 1
-[languages.en.menu.right.params]
-button= "primary-outline"
-
-[[languages.en.menu.center]]
-name = "Contact"
-url = "/contact/"
-weight = 5
-[[languages.en.menu.center]]
-name = "Team"
-url = "/team/"
-weight = 4
-[[languages.en.menu.center]]
-name = "Blog"
-url = "/blog/"
-weight = 3
-
-
-
-[[languages.en.menu.center]]
-name = "Competences"
-weight = 2
-[[languages.en.menu.center]]
-name = "Competences Overview"
-parent = "Competences"
-url = "/competences-overview/"
-weight = 1
-[[languages.en.menu.center]]
-name = "Web-GIS"
-parent = "Competences"
-url = "/web-gis/"
-weight = 2
-[[languages.en.menu.center]]
-name = "Trainings"
-parent = "Competences"
-url = "/trainings/"
-weight = 3
-[[languages.en.menu.center]]
-name = "Consultancy"
-parent = "Competences"
-url = "/consultancy/"
-weight = 4
-
-[[languages.en.menu.center]]
-name = "Heading 2"
-parent = "GOAT"
-weight = 7
-pre = "2"
-[[languages.en.menu.center]]
-name = "Link 1"
-parent = "GOAT"
-url = "/"
-weight = 8
-pre = "2"
-[[languages.en.menu.center]]
-name = "Link 2"
-parent = "GOAT"
-url = "/"
-weight = 9
-pre = "2"
-[[languages.en.menu.center]]
-name = "Link 3"
-parent = "GOAT"
-url = "/"
-weight = 10
-pre = "2"
-
-[[languages.en.menu.center]]
-name = "Docs"
-parent = "GOAT"
-url = "/docs/background/"
-weight = 6
-[[languages.en.menu.center]]
-name = "Tutorials"
-parent = "GOAT"
-url = "/tutorials/isochrone/"
-weight = 5
-[[languages.en.menu.center]]
-name = "Videos"
-parent = "GOAT"
-url = "/videos/"
-weight = 4
-[[languages.en.menu.center]]
-name = "GOATlive"
-parent = "GOAT"
-url = "/goatlive/"
-weight = 3
-[[languages.en.menu.center]]
-name = "What is GOAT?"
-parent = "GOAT"
-url = "/what-is-goat/"
-weight = 2
-[[languages.en.menu.center]]
-name = "Heading 1"
-parent = "GOAT"
-weight = 1
-
-[[languages.en.menu.center]]
-name = "GOAT"
-url = "/"
-weight = 1
-[languages.en.menu.center.params]
-heading = "Duis aute irure dolor"
-text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-[[languages.en.menu.footer]]
-name = "About us"
-url = "/about/"
-weight = 1
-[[languages.en.menu.footer]]
-name = "Contact us"
-url = "/contact/"
-weight = 2
-[[languages.en.menu.footer]]
-name = "Imprint & Privacy"
-url = "/imprint-privacy/"
-weight = 3
-
-[[languages.en.menu.social]]
-name = "Twitter"
-url = "#"
-weight = 1
-[languages.en.menu.social.params]
-icon = "twitter"
-[[languages.en.menu.social]]
-name = "Linkedin"
-url = "#"
-weight = 2
-[languages.en.menu.social.params]
-icon = "linkedin"
-[[languages.en.menu.social]]
-name = "GitHub"
-url = "#"
-weight = 3
-[languages.en.menu.social.params]
-icon = "github"
-
 [languages.de]
+contentDir = "content/de"
 title = "Mon blogue"
 weight = 2
-contentDir = "content/de"
-
-[[languages.de.menu.right]]
-name = "Versuchen GOAT"
-url = "/try-goat/"
-weight = 1
-[languages.de.menu.right.params]
-button= "primary"
-
 [[languages.de.menu.center]]
 name = "Contact DE"
 url = "/contact/"
@@ -232,7 +64,6 @@ weight = 1
 name = "GOAT"
 url = "/"
 weight = 1
-
 [[languages.de.menu.footer]]
 name = "About us"
 url = "/about/"
@@ -245,7 +76,12 @@ weight = 2
 name = "Imprint & Privacy"
 url = "/imprint-privacy/"
 weight = 3
-
+[[languages.de.menu.right]]
+name = "Versuchen GOAT"
+url = "/try-goat/"
+weight = 1
+[languages.de.menu.right.params]
+button = "primary"
 [[languages.de.menu.social]]
 name = "Twitter"
 url = "#"
@@ -264,4 +100,148 @@ url = "#"
 weight = 3
 [languages.de.menu.social.params]
 icon = "github"
-
+[languages.en]
+contentDir = "content/en"
+title = "My blog"
+weight = 1
+[[languages.en.menu.center]]
+name = "Team"
+url = "/team/"
+weight = 4
+[[languages.en.menu.center]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+[[languages.en.menu.center]]
+name = "Competences"
+weight = 2
+[[languages.en.menu.center]]
+name = "Competences Overview"
+parent = "Competences"
+url = "/competences-overview/"
+weight = 1
+[[languages.en.menu.center]]
+name = "Web-GIS"
+parent = "Competences"
+url = "/web-gis/"
+weight = 2
+[[languages.en.menu.center]]
+name = "Trainings"
+parent = "Competences"
+url = "/trainings/"
+weight = 3
+[[languages.en.menu.center]]
+name = "Consultancy"
+parent = "Competences"
+url = "/consultancy/"
+weight = 4
+[[languages.en.menu.center]]
+name = "Heading 2"
+parent = "GOAT"
+pre = "2"
+weight = 7
+[[languages.en.menu.center]]
+name = "Link 1"
+parent = "GOAT"
+pre = "2"
+url = "/"
+weight = 8
+[[languages.en.menu.center]]
+name = "Link 2"
+parent = "GOAT"
+pre = "2"
+url = "/"
+weight = 9
+[[languages.en.menu.center]]
+name = "Link 3"
+parent = "GOAT"
+pre = "2"
+url = "/"
+weight = 10
+[[languages.en.menu.center]]
+name = "Docs"
+parent = "GOAT"
+url = "/docs/background/"
+weight = 6
+[[languages.en.menu.center]]
+name = "Tutorials"
+parent = "GOAT"
+url = "/tutorials/isochrone/"
+weight = 5
+[[languages.en.menu.center]]
+name = "Videos"
+parent = "GOAT"
+url = "/videos/"
+weight = 4
+[[languages.en.menu.center]]
+name = "GOATlive"
+parent = "GOAT"
+url = "/goatlive/"
+weight = 3
+[[languages.en.menu.center]]
+name = "What is GOAT?"
+parent = "GOAT"
+url = "/what-is-goat/"
+weight = 2
+[[languages.en.menu.center]]
+name = "Heading 1"
+parent = "GOAT"
+weight = 1
+[[languages.en.menu.center]]
+name = "GOAT"
+url = "/"
+weight = 1
+[languages.en.menu.center.params]
+heading = "Duis aute irure dolor"
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+[[languages.en.menu.center]]
+name = "Contact"
+url = "/contact/"
+weight = 5
+[[languages.en.menu.footer]]
+name = "About us"
+url = "/about/"
+weight = 1
+[[languages.en.menu.footer]]
+name = "Contact us"
+url = "/contact/"
+weight = 2
+[[languages.en.menu.footer]]
+name = "Imprint & Privacy"
+url = "/imprint-privacy/"
+weight = 3
+[[languages.en.menu.right]]
+name = "Try GOAT"
+url = "/try-goat/"
+weight = 1
+[languages.en.menu.right.params]
+button = "primary-outline"
+[[languages.en.menu.social]]
+name = "Twitter"
+url = "#"
+weight = 1
+[languages.en.menu.social.params]
+icon = "twitter"
+[[languages.en.menu.social]]
+name = "Linkedin"
+url = "#"
+weight = 2
+[languages.en.menu.social.params]
+icon = "linkedin"
+[[languages.en.menu.social]]
+name = "GitHub"
+url = "#"
+weight = 3
+[languages.en.menu.social.params]
+icon = "github"
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+page = ["HTML", "RSS"]
+[params]
+address = "Arcisstraße 21 80333<br> München Germany"
+email = "info@plab4better.de"
+mailchimp_form_action = "xxxx"
+mailchimp_hidden_name = "xxxx"
+phone = "+49 1923 000 000"
+site_logo = "images/logo.png"
+site_logo_light = "images/logo-light.png"

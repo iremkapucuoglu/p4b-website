@@ -2,6 +2,9 @@
 title: What is GOAT?
 permalink: /de/docs/about/
 lang: de
+sections:
+- about
+weight: 20
 ---
 
 ### Main characteristics

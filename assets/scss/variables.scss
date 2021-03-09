@@ -90,9 +90,10 @@ $navbar-toggle-color:             				$global-color;
 $navbar-toggle-hover-color:       				$global-primary-background;
 
 // $navbar-nav-item-onclick-color:                  $global-emphasis-color !default;
-$navbar-nav-item-active-color:            $global-color;
+$navbar-nav-item-active-color:            $global-primary-background;
 $navbar-dropdown-nav-item-color:          $global-color;
 $navbar-dropdown-nav-item-hover-color:    $global-primary-background;
+$navbar-dropdown-nav-item-active-color:   $global-primary-background;
 
 // $section-large-padding-vertical:                   $global-large-margin !default;
 $section-large-padding-vertical-m:        130px;

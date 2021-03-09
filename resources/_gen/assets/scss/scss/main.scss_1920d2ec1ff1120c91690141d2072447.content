@@ -5141,7 +5141,7 @@ ul.uk-nav-sub {
 
 /* Active */
 .uk-navbar-nav > li.uk-active > a {
-  color: #000; }
+  color: #2BB381; }
 
 /* Item
  ========================================================================== */
@@ -5277,7 +5277,7 @@ ul.uk-nav-sub {
 
 /* Active */
 .uk-navbar-dropdown-nav > li.uk-active > a {
-  color: #333; }
+  color: #2BB381; }
 
 /*
  * Header
@@ -7958,21 +7958,11 @@ iframe.uk-cover {
   .uk-article-content p:first-child img {
     margin-top: 0; }
 
-@media (min-width: 960px) {
-  .uk-article-post img {
-    left: 50%;
-    margin-left: -75px;
-    margin-right: -75px;
-    max-width: 900px;
-    right: 50%; } }
+.uk-margin-xsmall-bottom {
+  margin-bottom: 5px; }
 
-@media (min-width: 1200px) {
-  .uk-article-post img {
-    left: 50%;
-    margin-left: -125px;
-    margin-right: -125px;
-    max-width: 1000px;
-    right: 50%; } }
+.uk-text-smaller {
+  font-size: 0.9375rem; }
 
 .uk-team-social:hover span {
   color: #2BB381; }

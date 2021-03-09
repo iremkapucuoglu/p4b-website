@@ -18,7 +18,7 @@
         <div>
           {{if isset .Params "author"}}  
             {{ $user := where .Site.Data.authors "username" .Params.author }}
-            <span>By {{ index $user 0 "name" }}</span>
+            <span>By <a class="uk-meta-link" href="{{ "/author/" | absURL }}{{ index $user 0 "username" | urlize }}/">{{ index $user 0 "name" }}</a></span>
           {{end}}
           {{ if .Date }}
             <span class="uk-bullet uk-visible@m uk-text-muted uk-margin-small-left uk-margin-small-right">&bull;</span>

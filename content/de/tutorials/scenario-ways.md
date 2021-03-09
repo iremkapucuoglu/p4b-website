@@ -2,7 +2,7 @@
 title: Szenarien - Wege
 permalink: /de/tutorials/scenario-ways/
 weight: 30
-categories:
+sections:
 - training
 ---
 

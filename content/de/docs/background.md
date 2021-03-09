@@ -2,6 +2,9 @@
 title: Background
 permalink: /de/docs/background/
 lang: de
+sections:
+- about
+weight: 10
 ---
 
 ### Active mobility matters!

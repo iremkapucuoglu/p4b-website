@@ -2,6 +2,9 @@
 title: Making changes in OSM
 permalink: /de/docs/osm_tutorial/
 lang: de
+sections:
+- osm
+weight: 20
 ---
 
 

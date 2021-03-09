@@ -2,6 +2,9 @@
 title: Data Preparation
 permalink: /de/docs/data_preparation/
 lang: de
+sections:
+- technical
+weight: 30
 ---
 
 

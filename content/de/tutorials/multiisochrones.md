@@ -2,7 +2,7 @@
 title:  Multiisochronen
 permalink: /de/tutorials/multiisochrones/
 weight: 20
-categories:
+sections:
   - training
 ---
 

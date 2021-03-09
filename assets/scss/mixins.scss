@@ -135,26 +135,33 @@
 
   }
   
-  .uk-article-post {
-    @media (min-width: $breakpoint-medium) {
-      img {
-        left: 50%;
-        margin-left: -75px;
-        margin-right: -75px;
-        max-width: 900px;
-        right: 50%;
-      }
-    }
+//   .uk-article-post {
+//     @media (min-width: $breakpoint-medium) {
+//       img {
+//         left: 50%;
+//         margin-left: -75px;
+//         margin-right: -75px;
+//         max-width: 900px;
+//         right: 50%;
+//       }
+//     }
+// 
+//     @media (min-width: $breakpoint-large) {
+//       img {
+//         left: 50%;
+//         margin-left: -125px;
+//         margin-right: -125px;
+//         max-width: 1000px;
+//         right: 50%;
+//       }
+//     }
+//   }
 
-    @media (min-width: $breakpoint-large) {
-      img {
-        left: 50%;
-        margin-left: -125px;
-        margin-right: -125px;
-        max-width: 1000px;
-        right: 50%;
-      }
-    }
+  .uk-margin-xsmall-bottom {
+    margin-bottom: 5px;
+  }
+  .uk-text-smaller {
+    font-size: 0.9375rem;
   }
   
   .uk-team-social {

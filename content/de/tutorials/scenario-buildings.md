@@ -2,7 +2,7 @@
 title:  Szenarien - Gebäude
 permalink: /de/tutorials/scenario-buildings/
 weight: 50
-categories:
+sections:
 - training
 ---
 

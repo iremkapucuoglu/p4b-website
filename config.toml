@@ -215,26 +215,26 @@ weight = 7
 name = "Link 1"
 parent = "GOAT"
 pre = "2"
-url = "/"
+url = "/link1/"
 weight = 8
 [[languages.en.menu.center]]
 name = "Link 2"
 parent = "GOAT"
 pre = "2"
-url = "/"
+url = "/link2/"
 weight = 9
 [[languages.en.menu.center]]
 name = "Link 3"
 parent = "GOAT"
 pre = "2"
-url = "/"
+url = "/link3/"
 weight = 10
 [[languages.en.menu.center]]
 name = "Competences"
 weight = 2
 [languages.en.menu.center.params]
 heading = "Duis aute irure dolor2"
-hidden = true
+#hidden = true
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua2."
 [[languages.en.menu.center]]
 name = "Heading 3"
@@ -269,19 +269,19 @@ weight = 6
 name = "Link 4"
 parent = "Competences"
 pre = "2"
-url = "/"
+url = "/link4/"
 weight = 7
 [[languages.en.menu.center]]
 name = "Link 5"
 parent = "Competences"
 pre = "2"
-url = "/"
+url = "/link5/"
 weight = 8
 [[languages.en.menu.center]]
 name = "Link 6"
 parent = "Competences"
 pre = "2"
-url = "/"
+url = "/link6/"
 weight = 9
 [[languages.en.menu.center]]
 name = "Blog"

@@ -52,8 +52,8 @@ fields:
     name: github
     label: Github
   - type: text
-    name: Website
-    label: website
+    name: website
+    label: Website
   - type: text
     name: linkedin
     label: Linkedin

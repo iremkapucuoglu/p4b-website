@@ -1,14 +1,10 @@
-[emailAddress]
-other = "Email Adresse"
-
-[subscribe]
-other = "Subscribe"
-
 [copyright]
 other = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident"
-
-[footer_links]
-other = "Quick links"
-
+[emailAddress]
+other = "Email Adresse"
 [footer_info]
-other = "Contact info"
+other = "Kontakt"
+[footer_links]
+other = "Schnellzugriff"
+[subscribe]
+other = "Anmelden"

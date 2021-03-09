@@ -1,59 +1,57 @@
 ---
 title: Home
-heading: Latest updates straight to your inbox in German
-signup:
-  label: Enter your email
-  placeholder: Special spot for you
-copyright: "© 2021 Beam Australia Operations Pty Ltd"
 layout: blocks
 header:
   layout: left
   heading: Let's balance the future together!
-  text: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur.
-  image: "/images/goat.png"
+  text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+    eu fugiat nulla. '
+  image: "/images/header-home-image.jpg"
   button:
-    text: Try GOAT
+    text: Try Goat
     url: "/goatlive/"
+  background: default
   background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
 blocks:
 - template: card-block
   block: card
   layout: left
-  background: primary
-  text: Our aim is to help planners and decision-makers to promote active mobility
+  background: default
+  text: 'Our aim is to help planners and decision-makers to promote active mobility
     and plan for a balanced future. By providing understandable planning tools, we
-    are transforming transport.
+    are transforming spatial and transport planning towards a more open, joyful and
+    efficient reality. '
   heading: Playground for shaping livable spaces
   image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
-  video: YdAIBlPVe9s
+  video: ''
+  background_image: "/images/bg-4.svg"
 - template: features-block
   block: features
   background: default
   features:
-  - icon: "/images/icon-circle.svg"
+  - icon: "/images/icon-technology.svg"
     heading: Innovation
     text: 'Always driving for cutting-edge technology. '
-  - icon: "/images/icon-transport.png"
+  - icon: "/images/icon-joy.svg"
     heading: Joy
     text: Make urban and transport planning fun.
-  - icon: "/images/icon-circle.svg"
+  - icon: "/images/icon-planning.svg"
     heading: Balance
     text: Evidence-based planning decisions.
-  text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur. '
-  heading: Dolor in reprehenderit
+  text: ''
+  heading: Our Values
 - template: card-block
   block: card
   layout: right
-  background: secondary
-  image: "/images/goat.png"
+  background: default
+  image: "/images/header-home-image.jpg"
   text: Walking and cycling require attractive transport infrastructure and destinations
     at close distance. GOAT offers interactive map-based analysis.
-  heading: Ipsum dolor sit amet
+  heading: Our Offer
   button:
-    url: "/"
-    text: 'Optional '
+    url: "/what-is-goat/"
+    text: Learn more about GOAT
+  background_image: "/images/bg-9.svg"
 - template: recent-posts-block
   block: recent-posts
   background: muted
@@ -61,7 +59,7 @@ blocks:
 - template: logos-block
   block: logos
   background: default
-  heading: Partner
+  heading: Partners
   logos:
   - "/images/logo_mobidata-bw-1.jpg"
   - "/images/logo-tum-1.png"
@@ -69,14 +67,16 @@ blocks:
   - "/images/1-1.png"
   - "/images/5-1.png"
   text: ''
+  padding_top: default
 - template: logos-block
   block: logos
   background: default
-  heading: Förderung
   logos:
-  - "/images/logo-mfund-1.png"
+  - "/images/logo-mfund.png"
   - "/images/logo-bmvi.png"
-  text: Die Entwicklung von GOAT wurde von November 2019 bis Februar 2021 im Rahmen
-    der mFund Förderlinie 1 durch das BMVI gefördert.
+  heading: Funded by
+  padding_top: remove
+  text: The development of GOAT was funded by the BMVI from November 2019 to February
+    2021 as part of mFund funding line 1.
 
 ---

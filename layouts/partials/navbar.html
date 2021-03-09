@@ -41,7 +41,7 @@
                               <li class="uk-nav-divider"></li>
                             {{ else }}
                               {{ if .URL }}
-                                <li{{ if $active_child }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                                <li{{ if $active_child }} class="uk-active"{{ end }}><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                               {{ else }}
                                 <li class="uk-nav-header uk-text-primary">{{ .Name }}</li>
                               {{ end }}
@@ -59,7 +59,7 @@
                               <li class="uk-nav-divider"></li>
                             {{ else }}
                               {{ if .URL }}
-                                <li{{ if $active_child }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                                <li{{ if $active_child }} class="uk-active"{{ end }}><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                               {{ else }}
                                 <li class="uk-nav-header uk-text-primary">{{ .Name }}</li>
                               {{ end }}
@@ -76,11 +76,11 @@
               {{ if .Params.button }}
                 <li>
                   <div class="uk-navbar-item">
-                    <a class="uk-button uk-button-{{ .Params.button }}" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                    <a class="uk-button uk-button-{{ .Params.button }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                   </div>
                 </li>
               {{ else }}
-                <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
               {{ end }}
             {{ end }}
             {{ end }}
@@ -117,7 +117,7 @@
                       {{ if eq .Name "divider" }}
                         <li class="uk-nav-divider"></li>
                       {{ else }}
-                        <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                        <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                       {{ end }}
                     {{ end }}
                   </ul>
@@ -127,11 +127,11 @@
               {{ if .Params.button }}
                 <li>
                   <div class="uk-navbar-item">
-                    <a class="uk-button uk-button-{{ .Params.button }}" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                    <a class="uk-button uk-button-{{ .Params.button }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                   </div>
                 </li>
               {{ else }}
-                <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
               {{ end }}
             {{ end }}
           {{ end }}

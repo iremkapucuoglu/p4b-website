@@ -26,7 +26,7 @@
                   {{ if eq .Name "divider" }}
                     <li class="uk-nav-divider"></li>
                   {{ else }}
-                    <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                    <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                   {{ end }}
                 {{ end }}
               </ul>
@@ -34,10 +34,10 @@
           {{ else }}
             {{ if .Params.button }}
               <li>
-                <a class="uk-mobile-button-{{ .Params.button }}" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                <a class="uk-mobile-button-{{ .Params.button }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
               </li>
             {{ else }}
-              <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+              <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
             {{ end }}
           {{ end }}
         {{ end }}
@@ -56,7 +56,7 @@
                   {{ if eq .Name "divider" }}
                     <li class="uk-nav-divider"></li>
                   {{ else }}
-                    <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                    <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                   {{ end }}
                 {{ end }}
               </ul>
@@ -64,10 +64,10 @@
           {{ else }}
             {{ if .Params.button }}
               <li class="uk-margin-medium-top">
-                <a class="uk-button-primary" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                <a class="uk-button-primary" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
               </li>
             {{ else }}
-              <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+              <li{{ if $active }} class="uk-active"{{ end }}><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
             {{ end }}
           {{ end }}
         {{ end }}

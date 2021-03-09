@@ -47,7 +47,7 @@ blocks:
   image: "/images/header-home-image.jpg"
   text: Walking and cycling require attractive transport infrastructure and destinations
     at close distance. GOAT offers interactive map-based analysis.
-  heading: Ipsum dolor sit amet
+  heading: Our Offer
   button:
     url: "/"
     text: 'Optional '

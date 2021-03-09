@@ -14,7 +14,7 @@ header:
   image: "/images/goat.png"
   button:
     text: Try GOAT
-    url: "/try-goat/"
+    url: "/goatlive/"
   background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
 blocks:
 - template: card-block

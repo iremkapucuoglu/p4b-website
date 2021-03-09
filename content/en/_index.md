@@ -9,7 +9,7 @@ header:
   image: "/images/header-home-image.jpg"
   button:
     text: Try Goat
-    url: "/try-goat/"
+    url: "/goatlive/"
   background: default
   background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
 blocks:

@@ -166,7 +166,7 @@ weight = 5
 
 [[languages.en.menu.right]]
 name = "Try GOAT"
-url = "/try-goat/"
+url = "/goatlive/"
 weight = 1
 [languages.en.menu.right.params]
 button= "primary-outline"
@@ -345,7 +345,7 @@ weight = 5
 
 [[languages.de.menu.right]]
 name = "Versuchen GOAT"
-url = "/try-goat/"
+url = "/goatlive/"
 weight = 1
 [languages.de.menu.right.params]
 button= "primary-outline"

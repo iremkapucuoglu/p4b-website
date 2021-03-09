@@ -2,7 +2,7 @@
 title: Release 1.0
 thumbnail: "/images/goat-logo.png"
 image: "/images/goat-logo.png"
-date: 2021-03-07T23:00:00+00:00
+date: 2021-03-07T23:00:00.000+00:00
 summary: 'We are happy to announce that we successfully launched version GOAT1.0.
   Therefore, we are one step closer to our goal of GOAT becoming a useful planning
   instrument to shape livable communities. '
@@ -16,45 +16,64 @@ author: jehle
 
 We are happy to announce that we successfully launched version GOAT1.0. Therefore, we are one step closer to our goal of GOAT becoming a useful planning instrument to shape livable communities.
 
-  
 This milestone was enabled by a one-year funding from the research initiative [https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html "mFund"), which was provided by Federal Ministry of Transport and Digital Infrastructure. Our aim was to improve GOAT and to include new features, which are adapted exactly to the needs of practitioners.
 
 Now, after one year, the project is successfully finished and we are happy to share GOAT version 1.0 with all new features that we have developed within this project. Some selected examples are:
 
-\- bicycle routing
+* bicycle routing
+* scenarios on land-use changes, such as adding, deleting or modifying \[POIs\](../tutorials/scenario-location/) (e.g. placing a new Kindergarten) and \[buildings\](../tutorials/scenario-buildings/) (e.g. model how well a new residential area is served with daily needs)
+* ([https://vimeo.com/411741106](https://vimeo.com/411741106 "Mapillary street view images")) that help practitioners to view the local situation and find shortcomings
+* implemented high variation of ([https://vimeo.com/user93657565](https://vimeo.com/user93657565 "different spatial data sets")), such as environmental data, accident data, mode share (only for Munich), street level quality (street crossings, perceived cycle path quality assessed by ([https://www.munichways.com/](https://www.munichways.com/ "https://www.munichways.com/")), speed limits, etc.) and land use data (from ATKIS and OpenStreetMap)
+* enabled data import and export
+* usability improvement as suggested by the practitioners
+* various backend improvements
 
-\- scenarios on land-use changes, such as adding, deleting or modifying \[POIs\](../tutorials/scenario-location/) (e.g. placing a new Kindergarten) and \[buildings\](../tutorials/scenario-buildings/) (e.g. model how well a new residential area is served with daily needs)
+## Project Activities
 
-\- ([https://vimeo.com/411741106](https://vimeo.com/411741106 "Mapillary street view images")) that help practitioners to view the local situation and find shortcomings
+After an intense initial development phase, we conducted a series of three \[test cycles\](../testcycles) with our development partner - the municipality of Fürstenfeldbruck. Each test cycle contained a workshop with 5-6 local practitioners from the fields of transport and urban planning. GOAT is meant to be a useful tool for urban planners and decision makers.
 
-\- implemented high variation of \[different spatial data sets\]([https://vimeo.com/user93657565](https://vimeo.com/user93657565 "different spatial data sets")), such as environmental data, accident data, mode share (only for Munich), street level quality (street crossings, perceived cycle path quality assessed by ([https://www.munichways.com/](https://www.munichways.com/ "https://www.munichways.com/")), speed limits, etc.) and land use data (from ATKIS and OpenStreetMap)
+Therefore, the best way to make it as practice oriented as possible is to involve experts in the development process. In the three test cycles the participants, on the one hand, got to know the tool and gained practical experience with it.
 
-\- enabled data import and export
+On the other hand, they provided valuable feedback and made constructive suggestions on possible improvements. The tool was improved after each test cycle, so the participants tested a new and enhanced version of the tool each time.
 
-\- usability improvement as suggested by the practitioners
+![](/images/timeline.png)
 
-\- various backend improvements
+_Figure 1. Project timeline_
 
-## Key Project Features
+We had three municipalities as project partners: Munich, Fürstenfeldbruck and Freising. After the test cycles, the GOAT team organized several planning workshops with 6-10 participants in all three partner cities. Other than during the first test cycles of our prototype with practitioners from Fürstenfeldbruck, the focus of these more extensive workshops laid on the suitability of the tool to be used in real-life planning tasks and the participants got to work with the already enhanced tool.
 
-More than 755,000 solar panels (255MW DC) will be mounted onto Single Axis Tracking tubes.
+  
+After the participants were familiarized with the tool and its main features, they worked on planning questions. Those questions were actual planning tasks from their municipalities. Every workshop ended with feedback on how to improve GOAT and suggestions of new features. Some of the suggested features are already implemented, others will be implemented wherever possible.
 
-More than 4,000 km of cables and 100,000 piles will be installed over a development footprint of up to 800 Hectares.
+  
+The planning workshops were followed by a final synthesis workshop, where the experiences from all three municipalities were brought together. This workshop was used to evaluate the project and to define future development strategies for GOAT. 
 
-The solar farm is expected to generate approximately 529GWh of energy per year when commissioned; which is the equivalent to powering up to 50,000 households and offsetting approximately 430,000 tonnes of CO2.
+  
+In total there were organized more than 10 workshops. Some of them in-person, some were held online due to the COVID-19 situation.
 
-The solar farm is connected to a 33/220kV substation co-located on-site where the energy is transferred to the Transgrid 220kV Balranald Substation. From there the energy is then transferred either towards Buronga/VIC or Darlington Point/NSW.
+  
+We received positive feedback on the usability and usefulness of GOAT. Moreover, the tool is already in use by the local practitioners which also outlines the practicability of the tool. Nonetheless, we are not done yet! Keep in mind, that we received more requests about further features (e.g., provision of a user login, better tutorials, scenarios with changed path attributes, including the subjective walkability, spatial extension to whole Germany), which we will tackle in the future. 
 
-As part of the works, approximately 400km of new Dark Fibre will be installed between the Buronga and Darlington Point substations to improve communication and control of the solar farm.
+## Networking Activities
 
-## Yet Other Title
+In addition to the development work, we were active in different networks. To disseminate our developed tool and get to know other persons that are working in this field, we participated in many mFund events, such as “Fachaustausch Fußverkehr” and “Fachaustausch Radverkehr”. We are still in close contact and exchange with some of the people we met at these inspiring events. 
 
-More than 755,000 solar panels (255MW DC) will be mounted onto Single Axis Tracking tubes.
+  
+Furthermore, we were part of the interview series \[“7 Fragen an …”\]([https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf](https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf "https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf")), where our project leader Elias Pajares answered questions about GOAT and presented the tool. 
 
-More than 4,000 km of cables and 100,000 piles will be installed over a development footprint of up to 800 Hectares.
+  
+As open data is the foundation of our project and we highly rely on the data quality, we actively contributed to the open data community by collecting a large amount of OpenStreetMap (OSM) data during the whole project phase. We systematically closed data gaps by mapping ourselves, and organized \[“Mapping Parties”\](../mapping-parties) where we introduced newcomers to the world of open data and got them excited about contributing to OSM (check our \[poster\]([https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf](https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf "https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf"))). 
 
-The solar farm is expected to generate approximately 529GWh of energy per year when commissioned; which is the equivalent to powering up to 50,000 households and offsetting approximately 430,000 tonnes of CO2.
+  
+In addition, \[we captured many kilometers of road in Fürstenfeldbruck with Mapillary\](../mapillary). With this new data we were able to complete the attributes of the street network, which allows us to identify the type of surface and smoothness of a road or path. And recognize if specific roads are designed for bicycles or pedestrians.
 
-The solar farm is connected to a 33/220kV substation co-located on-site where the energy is transferred to the Transgrid 220kV Balranald Substation. From there the energy is then transferred either towards Buronga/VIC or Darlington Point/NSW.
+  
+We also included \[innovative approaches\](../sensor-freiberg) to gather more specific street data, by using a prototypic sensor device. With this new sensor, the acceleration data could be added to the street pictures to get more precise information and thereby gain a thorough understanding of the road conditions.   
+Besides the improvement of the data itself, we also enhanced the data processing algorithms of GOAT. This all together helped us to achieve a stable and reliant version 1.0, which is open available on \[GitHub\]([https://github.com/goat-community/goat](https://github.com/goat-community/goat "https://github.com/goat-community/goat")). With this mayor release we also revamped GOAT with a new look.
 
-As part of the works, approximately 400km of new Dark Fibre will be installed between the Buronga and Darlington Point substations to improve communication and control of the solar farm.
+  
+![](/images/screenshot.PNG)
+
+_Figure 2. The new look of GOAT, showing accessibility to nurseries_
+
+We are very happy with our progress and the outcome of our project within the mFund research initiative. Our strategy to involve practitioners in the development process was successful and we received very important insights on their needs. We will continue to put everything we have in the development of GOAT to make it an outstanding planning support tool to plan for more livable communities!

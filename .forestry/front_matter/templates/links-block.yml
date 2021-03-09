@@ -31,6 +31,11 @@ fields:
 - name: links
   type: field_group_list
   fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
   - name: text
     type: textarea
     default: ''
@@ -40,18 +45,11 @@ fields:
       schema:
         format: markdown
     label: Text
-  - name: page
-    type: select
-    default: []
+  - name: url
+    type: text
     config:
       required: false
-      options: []
-      source:
-        type: pages
-        section: ''
-        file: 
-        path: 
-    label: Page
+    label: URL
   config:
     min: 
     max: 

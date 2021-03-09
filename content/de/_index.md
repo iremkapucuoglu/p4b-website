@@ -74,8 +74,9 @@ blocks:
   background: default
   heading: Gefördert durch
   logos:
-  - "/images/2-1.png"
   - "/images/logo-mfund-1.png"
   - "/images/logo-bmvi.png"
+  text: Die Entwicklung von GOAT wurde von November 2019 bis Februar 2021 im Rahmen
+    der mFund Förderlinie 1 durch das BMVI gefördert.
 
 ---

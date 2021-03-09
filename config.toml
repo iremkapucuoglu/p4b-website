@@ -105,6 +105,13 @@ contentDir = "content/en"
 title = "My blog"
 weight = 1
 [[languages.en.menu.center]]
+name = "GOAT"
+url = "/"
+weight = 1
+[languages.en.menu.center.params]
+heading = "Duis aute irure dolor"
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+[[languages.en.menu.center]]
 name = "Team"
 url = "/team/"
 weight = 4
@@ -187,13 +194,6 @@ weight = 2
 name = "Heading 1"
 parent = "GOAT"
 weight = 1
-[[languages.en.menu.center]]
-name = "GOAT"
-url = "/"
-weight = 1
-[languages.en.menu.center.params]
-heading = "Duis aute irure dolor"
-text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 [[languages.en.menu.center]]
 name = "Contact"
 url = "/contact/"

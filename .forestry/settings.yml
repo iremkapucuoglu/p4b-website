@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content/de/docs
-  label: Docs DE
-  create: documents
-  match: "*"
-  templates:
-  - documentation-post
 - type: heading
   label: Content
 - type: directory
@@ -40,6 +33,13 @@ sections:
 - type: directory
   path: content/en/docs
   label: Docs EN
+  create: documents
+  match: "*"
+  templates:
+  - documentation-post
+- type: directory
+  path: content/de/docs
+  label: Docs DE
   create: documents
   match: "*"
   templates:

@@ -22,7 +22,7 @@ blocks:
     are transforming transport.
   heading: Playground for shaping livable spaces
   image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
-  video: YdAIBlPVe9s
+  video: ''
   background_image: "/images/bg-4.svg"
 - template: features-block
   block: features

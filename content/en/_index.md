@@ -49,8 +49,8 @@ blocks:
     at close distance. GOAT offers interactive map-based analysis.
   heading: Our Offer
   button:
-    url: "/"
-    text: 'Optional '
+    url: "/what-is-goat/"
+    text: Learn more about GOAT
   background_image: "/images/bg-9.svg"
 - template: recent-posts-block
   block: recent-posts

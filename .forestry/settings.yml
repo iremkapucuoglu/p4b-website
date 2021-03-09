@@ -46,6 +46,11 @@ sections:
 - type: document
   path: config.toml
   label: Config
+- type: directory
+  path: i18n
+  label: String Translation
+  create: documents
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

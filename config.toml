@@ -17,6 +17,12 @@ address = "Augustenstraße 49 <br>80333 München <br>Germany"
 mailchimp_form_action = "xxxx"
 mailchimp_hidden_name = "xxxx"
 
+[params.banner]
+[params.banner.en]
+text = "Currently under maintenance."
+[params.banner.de]
+text = "Wird derzeit gewartet."
+
 
 [languages]
 [languages.en]

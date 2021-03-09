@@ -3,6 +3,11 @@
 {{ partial "head.html" . }}
 
 <body>
+  {{ if or .Site.Params.banner.en.text .Site.Params.banner.de.text }}
+    <div class="uk-alert-danger uk-text-center" uk-alert>
+      <p>{{ index .Site.Params.banner site.Language.Lang "text" }}</p>
+    </div>
+  {{ end }}
   {{ partial "header.html" . }}
   {{ block "main" . }}{{ end }}
   {{ partial "footer.html" . }}

@@ -2271,8 +2271,8 @@ select.uk-form-width-xsmall {
 /* Tablet landscape and bigger */
 @media (min-width: 960px) {
   .uk-section-large {
-    padding-top: 160px;
-    padding-bottom: 160px; } }
+    padding-top: 130px;
+    padding-bottom: 130px; } }
 
 /*
  * XLarge

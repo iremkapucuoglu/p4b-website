@@ -1,23 +1,39 @@
 ---
-title: Yet another post dummy post example
+title: Release 1.0
 thumbnail: https://via.placeholder.com/640x450
 image: https://via.placeholder.com/1200x600
-date: 2019-02-26
-summary: The farm is on track to be the largest solar farm in München this year.
+date: 2021-03-07T23:00:00+00:00
+summary: 'We are happy to announce that we successfully launched version GOAT1.0.
+  Therefore, we are one step closer to our goal of GOAT becoming a useful planning
+  instrument to shape livable communities. '
 categories:
 - news
 - development
 author: jehle
 
 ---
-## Key Project Features
+## Release 1.0
 
-The 255 MWp Sunraysia Solar Farm is on track to be the largest solar farm in Australia this year. Between 350 - 400 people will be directly engaged by Decmil during the construction period with the accommodation camp running close to full occupancy as it continues to ramp up.
+We are happy to announce that we successfully launched version GOAT1.0. Therefore, we are one step closer to our goal of GOAT becoming a useful planning instrument to shape livable communities.
 
-New South Wales – Maoneng Australia (Maoneng), John Laing (JL) and Decmil (ASX: DCG) hosted the ceremony on-site in Balranald, NSW with Morris Zhou, Ray Davy, Scott Criddle and Duncan Jewell initiating the public sod-turning for the solar farm.
+  
+This milestone was enabled by a one-year funding from the research initiative [https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html "mFund"), which was provided by Federal Ministry of Transport and Digital Infrastructure. Our aim was to improve GOAT and to include new features, which are adapted exactly to the needs of practitioners.
 
-The event was graced by a ‘Welcome to Country’ from the Muthi Muthi Nation Traditional Landowner Representative – Mary Pappin Senior, together with the Infrastructure Development Director of Balranald Shire Council Ray Davy.
+Now, after one year, the project is successfully finished and we are happy to share GOAT version 1.0 with all new features that we have developed within this project. Some selected examples are:
 
+\- bicycle routing
+
+\- scenarios on land-use changes, such as adding, deleting or modifying \[POIs\](../tutorials/scenario-location/) (e.g. placing a new Kindergarten) and \[buildings\](../tutorials/scenario-buildings/) (e.g. model how well a new residential area is served with daily needs)
+
+\- ([https://vimeo.com/411741106](https://vimeo.com/411741106 "Mapillary street view images")) that help practitioners to view the local situation and find shortcomings
+
+\- implemented high variation of \[different spatial data sets\]([https://vimeo.com/user93657565](https://vimeo.com/user93657565 "different spatial data sets")), such as environmental data, accident data, mode share (only for Munich), street level quality (street crossings, perceived cycle path quality assessed by ([https://www.munichways.com/](https://www.munichways.com/ "https://www.munichways.com/")), speed limits, etc.) and land use data (from ATKIS and OpenStreetMap)
+
+\- enabled data import and export
+
+\- usability improvement as suggested by the practitioners
+
+\- various backend improvements
 
 ## Key Project Features
 

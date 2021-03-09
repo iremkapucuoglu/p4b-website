@@ -1,0 +1,35 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- name: translationKey
+  type: text
+  config:
+    required: false
+  label: Translation Key
+  description: Set the same key to link translations together, no spaces.
+- type: file
+  name: thumbnail
+  label: Thumbnail
+- type: file
+  name: image
+  label: Image
+- type: datetime
+  name: date
+  label: Date
+- type: textarea
+  name: summary
+  label: Summary
+- type: list
+  name: categories
+  label: Categories
+- type: text
+  name: author
+  label: Author
+  description: Enter username from authors settings.
+pages:
+- content/de/posts/2019-02-26-sunraysia-solar-farm-255-mwp-ground-breaking-ceremony.md
+- content/en/posts/2019-02-26-sunraysia-solar-farm-255-mwp-ground-breaking-ceremony.md

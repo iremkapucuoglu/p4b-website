@@ -29,7 +29,35 @@ sections:
   path: content/de/posts
   label: Posts DE
   create: documents
-  match: "**/*"
+  match: "*"
+- type: directory
+  path: content/en/docs
+  label: Docs EN
+  create: documents
+  match: "*"
+  templates:
+  - documentation-post
+- type: directory
+  path: content/de/docs
+  label: Docs DE
+  create: documents
+  match: "*"
+  templates:
+  - documentation-post
+- type: directory
+  path: content/en/tutorials
+  label: Tutorials EN
+  create: documents
+  match: "*"
+  templates:
+  - documentation-post
+- type: directory
+  path: content/de/tutorials
+  label: Tutorials DE
+  create: documents
+  match: "*"
+  templates:
+  - documentation-post
 - type: document
   path: data/authors.yml
   label: Authors

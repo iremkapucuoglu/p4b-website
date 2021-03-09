@@ -1,0 +1,33 @@
+---
+label: Documentation post
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: translationKey
+  type: text
+  config:
+    required: false
+  description: Set the same key to link translations together, no spaces.
+  label: Translation Key
+- name: weight
+  type: number
+  label: Weight
+  description: Weight sets the order of posts displayed in the sidebar.
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: sections
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Sections
+  description: 'Sidebar section (category) this article belongs to. '

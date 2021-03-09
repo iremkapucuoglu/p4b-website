@@ -7,6 +7,12 @@ fields:
   config:
     required: false
   label: Title
+- name: translationKey
+  type: text
+  config:
+    required: false
+  description: Set the same key to link translations together, no spaces.
+  label: Translation Key
 - name: weight
   type: number
   label: Weight

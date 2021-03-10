@@ -1,6 +1,6 @@
 baseURL = "https://goofy-mirzakhani-b2c714.netlify.app/"
 languageCode = "en-us"
-title = "Lorem"
+title = "Plan4Better"
 [languages.de]
 contentDir = "content/de"
 title = "Mon blogue"
@@ -168,7 +168,7 @@ weight = 3
 icon = "github"
 [languages.en]
 contentDir = "content/en"
-title = "My blog"
+title = "Plan4Better"
 weight = 1
 [[languages.en.menu.center]]
 name = "GOAT"
@@ -187,9 +187,9 @@ parent = "GOAT"
 url = "/what-is-goat/"
 weight = 2
 [[languages.en.menu.center]]
-name = "GOATlive"
+name = "GOAT-live"
 parent = "GOAT"
-url = "/goatlive/"
+url = "/goat-live/"
 weight = 3
 [[languages.en.menu.center]]
 name = "Videos"
@@ -206,11 +206,6 @@ name = "Docs"
 parent = "GOAT"
 url = "/docs/background/"
 weight = 6
-[[languages.en.menu.center]]
-name = "Heading 2"
-parent = "GOAT"
-pre = "2"
-weight = 7
 [[languages.en.menu.center]]
 name = "Link 1"
 parent = "GOAT"
@@ -337,8 +332,8 @@ page = ["HTML", "RSS"]
 [params]
 address = "Augustenstraße 49 <br>80333 München <br>Germany"
 email = "info@plan4better.de"
-mailchimp_form_action = "xxxx"
-mailchimp_hidden_name = "xxxx"
+mailchimp_form_action = ""
+mailchimp_hidden_name = ""
 phone = "+49 221 988199 76"
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"

@@ -8058,9 +8058,13 @@ iframe.uk-cover {
 
 @media (max-width: 960px) {
   .uk-card-image {
-    margin-top: 40px; } }
+    margin-top: 40px; }
+  .uk-block-card + .uk-block-card .uk-section-large {
+    padding-top: 0 !important; } }
 
 @media (min-width: 960px) {
+  .uk-light-desktop {
+    color: #fff; }
   .uk-card-left .uk-card-image {
     padding-right: 40px; }
   .uk-card-left .uk-card-content {

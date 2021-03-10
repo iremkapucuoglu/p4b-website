@@ -1,4 +1,4 @@
-<section class="uk-position-relative">
+<section class="uk-block-card uk-position-relative">
 	<div class="uk-position-cover uk-grid-collapse uk-visible@m" data-uk-grid>
 		<div class="uk-width-1-2 uk-width-card uk-background-{{ .background }} uk-background-cover" style="background-image: url({{ .background_image | absURL }})"></div>
 		<div class="uk-width-expand{{ if eq .layout "right" }} uk-flex-first{{ end }} uk-background-{{ .background_color_content }}"></div>
@@ -9,13 +9,13 @@
 				<div class="uk-width-expand@m uk-flex uk-flex-middle" data-uk-scrollspy="cls: uk-animation-slide-{{ if eq .layout "right" }}left{{ else }}right{{ end }}-medium;">
 					<div class="uk-card-content{{ if eq .background_color_content .background }} uk-padding-remove{{ end }}">
 						{{ if .heading }}
-						<h2 class="uk-h1 uk-margin-remove{{ if or (eq .background_color_content "primary") (eq .background_color_content "secondary") }} uk-light{{ end }}">{{ .heading }}</h2>
+						<h2 class="uk-h1 uk-margin-remove{{ if or (eq .background_color_content "primary") (eq .background_color_content "secondary") }} uk-light-desktop{{ end }}">{{ .heading }}</h2>
 						{{ end }}
 						{{ if .text }}
-						<div class="uk-text-lead uk-margin-top{{ if or (eq .background_color_content "primary") (eq .background_color_content "secondary") }} uk-light{{ end }}">{{ .text }}</div>
+						<div class="uk-text-lead uk-margin-top{{ if or (eq .background_color_content "primary") (eq .background_color_content "secondary") }} uk-light-desktop{{ end }}">{{ .text }}</div>
 						{{ end }}
 						{{ if .button.url }}
-						<div class="uk-margin-medium-top"{{ if eq .background_color_content "primary" }} uk-light{{ end }}><a class="uk-button uk-button-medium uk-button-primary" href="{{ .button.url | relURL }}">{{ .button.text }}</a></div>
+						<div class="uk-margin-medium-top"{{ if eq .background_color_content "primary" }} uk-light-desktop{{ end }}><a class="uk-button uk-button-medium uk-button-primary" href="{{ .button.url | relURL }}">{{ .button.text }}</a></div>
 						{{ end }}
 					</div>
 				</div>

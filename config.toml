@@ -242,8 +242,8 @@ name = "Contact"
 url = "/contact/"
 weight = 5
 [[languages.en.menu.footer]]
-name = "About us"
-url = "/about/"
+name = "Team"
+url = "/team/"
 weight = 1
 [[languages.en.menu.footer]]
 name = "Contact us"

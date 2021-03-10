@@ -261,19 +261,19 @@ weight = 1
 button = "primary-outline"
 [[languages.en.menu.social]]
 name = "Twitter"
-url = "#"
+url = "https://twitter.com/GoatTool"
 weight = 1
 [languages.en.menu.social.params]
 icon = "twitter"
 [[languages.en.menu.social]]
 name = "Linkedin"
-url = "#"
+url = "https://www.linkedin.com/company/goat-tool/"
 weight = 2
 [languages.en.menu.social.params]
 icon = "linkedin"
 [[languages.en.menu.social]]
 name = "GitHub"
-url = "#"
+url = "https://github.com/goat-community/"
 weight = 3
 [languages.en.menu.social.params]
 icon = "github"

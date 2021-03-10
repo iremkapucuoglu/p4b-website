@@ -25,11 +25,15 @@ sections:
   label: Posts EN
   create: documents
   match: "*"
+  templates:
+  - blog-post
 - type: directory
   path: content/de/posts
   label: Posts DE
   create: documents
   match: "*"
+  templates:
+  - blog-post
 - type: directory
   path: content/en/docs
   label: Docs EN

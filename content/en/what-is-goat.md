@@ -70,7 +70,7 @@ heading = "Docs"
 icon = "code"
 page = "en/docs.md"
 pages = "en/_index.md"
-text = "Docs enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+text = "Detailed information on the technical background and guidance for participation in the open source project GOAT."
 url = "/docs/background/"
 
 +++

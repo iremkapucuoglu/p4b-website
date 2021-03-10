@@ -16,8 +16,6 @@ The calculation of the heatmap is calculated with the help of gravity-based meas
 
 {% include image.html src="docs/technical_documentation/heatmap/place-based_accessibility_measures.png" %}
 
-jfghjfjh [goat](/goat/ "Title") kjhkjejk
-
 where the accessibility <b>A</b> of origin <b>i</b> is the sum of all opportunities <b>O</b> available at destinations <b>j</b> weighted by some function of the travel time <b> t<sub>ij</sub></b>  between <b>i</b> and <b>j</b>. GOAT uses the modified gaussian function as an impedance function for the calculation:
 
 {% include image.html src="docs/technical_documentation/heatmap/Gaussian_function.png" %}

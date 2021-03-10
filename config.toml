@@ -13,10 +13,6 @@ weight = 1
 heading = "Duis aute irure dolor"
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 [[languages.de.menu.center]]
-name = "Heading 1"
-parent = "GOAT"
-weight = 1
-[[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"
 url = "/was-ist-goat/"

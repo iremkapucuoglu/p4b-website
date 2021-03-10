@@ -4,10 +4,10 @@ title = "Imprint & Privacy"
 translationKey = ""
 [header]
 background = "default"
-background_image = ""
-heading = ""
+background_image = "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
+heading = "Imprint & Privacy"
 image = ""
-layout = "none"
+layout = "center"
 text = ""
 [header.button]
 text = ""

@@ -63,7 +63,7 @@ url = "/videos/"
 heading = "Tutorials"
 icon = "file-text"
 page = "en/tutorials.md"
-text = "Explanation of the individual functions of GOAT and step-by-step guidelines for answering typical planning questions."
+text = "Explanation of the individual functions of GOAT and step-by-step guides for answering typical planning questions."
 url = "/tutorials/isochrone/"
 [[blocks.links]]
 heading = "Docs"

@@ -51,3 +51,6 @@ other = "Navigate Documentation"
 
 [navigate_tutorials]
 other = "Navigate Tutorials"
+
+[back_to_top]
+other = "Back to top"

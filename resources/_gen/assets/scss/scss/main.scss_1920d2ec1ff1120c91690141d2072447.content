@@ -2841,14 +2841,15 @@ select.uk-form-width-xsmall {
  */
 .uk-totop {
   padding: 5px;
-  color: #8b8e93;
+  color: #000;
   transition: color 0.1s ease-in-out; }
 
 /* Hover + Focus */
 .uk-totop:hover,
 .uk-totop:focus {
-  color: #000;
-  outline: none; }
+  color: #2BB381;
+  outline: none;
+  text-decoration: none; }
 
 /* OnClick */
 .uk-totop:active {

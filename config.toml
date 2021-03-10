@@ -69,7 +69,7 @@ name = "Competences"
 weight = 2
 [languages.de.menu.center.params]
 heading = "Duis aute irure dolor2"
-#hidden = true
+hidden = true
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua2."
 [[languages.de.menu.center]]
 name = "Heading 3"
@@ -234,7 +234,7 @@ name = "Competences"
 weight = 2
 [languages.en.menu.center.params]
 heading = "Duis aute irure dolor2"
-#hidden = true
+hidden = true
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua2."
 [[languages.en.menu.center]]
 name = "Heading 3"

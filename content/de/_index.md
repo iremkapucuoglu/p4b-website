@@ -6,7 +6,7 @@ header:
   heading: Let's balance the future together!
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
     eu fugiat nulla. '
-  image: "/images/header-home-image.jpg"
+  image: "/images/heatmap-muc.PNG"
   button:
     text: Try Goat
     url: "/goatlive/"

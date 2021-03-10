@@ -20,7 +20,7 @@
           <div class="uk-width-expand">
             <span itemprop="name"><span itemprop="name">{{ index $user 0 "name" }}</span></span>
             <br>
-            <time datetime="{{ .PublishDate.Format " Jan 19 2006" }}">{{ .PublishDate.Format " Jan 19 2006" }} </time>
+            <time datetime="{{ .PublishDate.Format " Jan 19 2006" }}">{{ dateFormat "January 2, 2006" .Date }} </time>
           </div>
         </div>
       </div>

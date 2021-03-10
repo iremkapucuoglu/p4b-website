@@ -22,7 +22,7 @@ This milestone was enabled by a one-year funding from the research initiative [h
 Now, after one year, the project is successfully finished and we are happy to share GOAT version 1.0 with all new features that we have developed within this project. Some selected examples are:
 
 * bicycle routing
-* scenarios on land-use changes, such as adding, deleting or modifying \[POIs\](../tutorials/scenario-location/) (e.g. placing a new Kindergarten) and \[buildings\](../tutorials/scenario-buildings/) (e.g. model how well a new residential area is served with daily needs)
+* scenarios on land-use changes, such as adding, deleting or modifying \[POIs\](../tutorials/scenario-location/) (e.g. placing a new Kindergarten) and \[buildings\](../tutorials/scenario-buildings/) [buildings](/tutorials/scenario-buildings/) (e.g. model how well a new residential area is served with daily needs)
 * ([https://vimeo.com/411741106](https://vimeo.com/411741106 "Mapillary street view images")) that help practitioners to view the local situation and find shortcomings
 * implemented high variation of ([https://vimeo.com/user93657565](https://vimeo.com/user93657565 "different spatial data sets")), such as environmental data, accident data, mode share (only for Munich), street level quality (street crossings, perceived cycle path quality assessed by ([https://www.munichways.com/](https://www.munichways.com/ "https://www.munichways.com/")), speed limits, etc.) and land use data (from ATKIS and OpenStreetMap)
 * enabled data import and export

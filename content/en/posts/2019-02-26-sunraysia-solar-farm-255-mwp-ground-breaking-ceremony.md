@@ -1,7 +1,7 @@
 ---
 title: Release 1.0
 thumbnail: "/images/goat-logo.png"
-image: "/images/test.png"
+image: "/images/goat-logo-banner.png"
 date: 2021-03-07T23:00:00.000+00:00
 summary: 'We are happy to announce that we successfully launched version GOAT1.0.
   Therefore, we are one step closer to our goal of GOAT becoming a useful planning

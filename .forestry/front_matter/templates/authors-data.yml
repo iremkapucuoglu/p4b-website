@@ -32,10 +32,11 @@ fields:
     - type: textarea
       name: de
       label: de
-  - type: text
-    name: image
+  - name: image
+    type: file
+    config:
+      maxSize: 64
     label: Image
-    description: 80px x 80px
   - name: team_member
     type: boolean
     label: Team Member

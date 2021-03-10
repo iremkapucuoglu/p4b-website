@@ -14,8 +14,8 @@ text = ""
 url = ""
 [[blocks]]
 block = "live"
-heading = "GOATlive"
+heading = "GOAT-live"
 template = "live-block"
-text = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+text = "GOAT is a transferable and highly flexible tool, it can be deployed for different use cases. Here all live versions that are developed by the GOAT Community are listed. Depending on the purpose of the version, different analysis options are available."
 
 +++

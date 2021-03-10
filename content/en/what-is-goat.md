@@ -63,7 +63,7 @@ url = "/videos/"
 heading = "Tutorials"
 icon = "file-text"
 page = "en/tutorials.md"
-text = "Tutorials enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea consequat. "
+text = "Explanation of the individual functions of GOAT and step-by-step guidelines for answering typical planning questions."
 url = "/tutorials/isochrone/"
 [[blocks.links]]
 heading = "Docs"

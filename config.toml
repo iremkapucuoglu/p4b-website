@@ -104,8 +104,8 @@ name = "Contact"
 url = "/contact/"
 weight = 5
 [[languages.de.menu.footer]]
-name = "About us"
-url = "/about/"
+name = "Team"
+url = "/team/"
 weight = 1
 [[languages.de.menu.footer]]
 name = "Contact us"

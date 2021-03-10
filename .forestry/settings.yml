@@ -69,10 +69,10 @@ sections:
   label: GOATlive
 - type: document
   path: data/docs.yml
-  label: Docs Categories
+  label: Docs Sections
 - type: document
   path: data/tutorials.yml
-  label: Tutorial Categories
+  label: Tutorial Sections
 - type: heading
   label: Settings
 - type: document

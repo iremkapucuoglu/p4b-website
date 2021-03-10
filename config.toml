@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Plan4Better"
 [languages.de]
 contentDir = "content/de"
-title = "Mon blogue"
+title = "Plan4Better"
 weight = 2
 [[languages.de.menu.center]]
 name = "GOAT"
@@ -22,9 +22,9 @@ parent = "GOAT"
 url = "/was-ist-goat/"
 weight = 2
 [[languages.de.menu.center]]
-name = "GOATlive"
+name = "GOAT-live"
 parent = "GOAT"
-url = "/goatlive/"
+url = "/goat-live/"
 weight = 3
 [[languages.de.menu.center]]
 name = "Videos"
@@ -41,29 +41,6 @@ name = "Docs"
 parent = "GOAT"
 url = "/docs/background/"
 weight = 6
-[[languages.de.menu.center]]
-name = "Heading 2"
-parent = "GOAT"
-pre = "2"
-weight = 7
-[[languages.de.menu.center]]
-name = "Link 1"
-parent = "GOAT"
-pre = "2"
-url = "/"
-weight = 8
-[[languages.de.menu.center]]
-name = "Link 2"
-parent = "GOAT"
-pre = "2"
-url = "/"
-weight = 9
-[[languages.de.menu.center]]
-name = "Link 3"
-parent = "GOAT"
-pre = "2"
-url = "/"
-weight = 10
 [[languages.de.menu.center]]
 name = "Competences"
 weight = 2

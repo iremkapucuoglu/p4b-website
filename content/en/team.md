@@ -37,7 +37,7 @@ image = "/images/image360.jpg"
 layout = "right"
 padding_top = "default"
 template = "card-block"
-text = "We are happy to be one of the first start-ups located at the Venture Lab Built Environment at the Technical University of Munich."
+text = "We are grateful to be one of the first start-ups located at the Venture Lab Built Environment at the Technical University of Munich."
 video = ""
 [blocks.button]
 text = "Venture Lab Built Environment"

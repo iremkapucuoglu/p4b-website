@@ -10,8 +10,8 @@ name = "GOAT"
 url = "/"
 weight = 1
 [languages.de.menu.center.params]
-heading = "Duis aute irure dolor"
-text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+heading = "Geo Open Accessibility Tool - GOAT"
+text = "GOAT ist ein interaktives Webtool für Erreichbarkeitsanalysen für den Fuß- und Radverkehr. Detaillierte Infos finden Sie auf den folgenden Seiten."
 [[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"

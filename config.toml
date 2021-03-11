@@ -148,8 +148,8 @@ name = "GOAT"
 url = "/"
 weight = 1
 [languages.en.menu.center.params]
-heading = "Duis aute irure dolor"
-text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+heading = "Geo Open Accessibility Tool - GOAT"
+text = "GOAT is an interactive webtool for accessibility analysis on walking and cycling. Find out more by visiting the subpages."
 [[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
@@ -277,6 +277,11 @@ url = "https://github.com/goat-community/"
 weight = 3
 [languages.en.menu.social.params]
 icon = "github"
+[markup.highlight]
+style = "monokai"
+[markup.tableOfContents]
+endLevel = 2
+startLevel = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 page = ["HTML", "RSS"]
@@ -295,9 +300,3 @@ text = "Currently under maintenance."
 [taxonomies]
 author = "author"
 categories = "categories"
-[markup]
-[markup.highlight]
-style = "monokai"
-[markup.tableOfContents]
-endLevel = 2
-startLevel = 2

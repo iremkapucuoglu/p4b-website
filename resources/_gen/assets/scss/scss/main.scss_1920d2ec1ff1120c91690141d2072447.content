@@ -8125,6 +8125,9 @@ iframe.uk-cover {
   #TableOfContents ul li:not(.uk-active) a {
     color: #000; }
 
+#TableOfContents ul ul {
+  padding-left: 16px; }
+
 .uk-link-social {
   color: #333; }
   .uk-link-social:hover {

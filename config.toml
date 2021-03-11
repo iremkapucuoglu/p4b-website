@@ -295,3 +295,9 @@ text = "Currently under maintenance."
 [taxonomies]
 author = "author"
 categories = "categories"
+[markup]
+[markup.highlight]
+style = "monokai"
+[markup.tableOfContents]
+endLevel = 2
+startLevel = 2

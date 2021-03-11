@@ -4,7 +4,7 @@
   title:
     en: Researcher & Core Developer
     de: Wissenschaftler & Entwickler
-  image: https://via.placeholder.com/80
+  image: "/images/elias_pajares.png"
   bio:
     en: As core developer and transport researcher he initiated the development of
       GOAT. As advocate for liveable cities he loves to develop innovative solutions
@@ -13,7 +13,7 @@
       von GOAT. Als Verfechter für lebenswerte Städte begeistert er sich für innovativ
       Lösungen und dem Anstoßen von nachhaltigem Wandel.
   github: https://github.com/EPajares
-  website: 
+  website: ''
   linkedin: https://www.linkedin.com/in/eliaspajares/
   team_member: true
   twitter: https://twitter.com/PajaresElias
@@ -23,7 +23,7 @@
   title:
     en: Researcher & Core Developer
     de: Wissenschaftlerin & Entwicklerin
-  image: https://via.placeholder.com/80
+  image: "/images/ulrike_jehle.jpg"
   bio:
     en: Core developer, traffic planner and open data enthusiast. To meet the challenges
       of urban mobility, she is particularly engaged in strengthening active forms
@@ -32,7 +32,7 @@
       zu gestalten, setzt Sie sich vor allem für die Förderung von aktiven Mobiliätsformen
       ein.
   github: https://github.com/UJehle
-  website: 
+  website: ''
   linkedin: https://www.linkedin.com/in/ulrike-jehle/
   team_member: true
   twitter: https://twitter.com/JehleUlrike
@@ -51,7 +51,7 @@
       Benutzeroberfläche. Er begeistert sich für Karten, Viualisierungen und GIS-Anwendungen
       die jedem zur Verfügung stehen.
   github: https://github.com/majkshkurti
-  website: 
+  website: ''
   linkedin: https://www.linkedin.com/in/majkshkurti/
   team_member: true
   twitter: ''
@@ -61,7 +61,7 @@
   title:
     en: Student Assistant
     de: Wissenschaftliche Hilfskraft
-  image: https://via.placeholder.com/80
+  image: ''
   bio:
     en: Student assistant and environmental engineer with enthusiasm for Sustainable
       Urban Mobility. She believes that active mobility is the key to bring back the
@@ -75,6 +75,7 @@
   Website: ''
   twitter: ''
   team_image: ''
+  website: ''
 - username: munoz
   name: Rafael Leonardo Munoz Nieto
   title:
@@ -94,6 +95,7 @@
   Website: ''
   twitter: ''
   team_image: ''
+  website: ''
 - username: ramirez
   name: German Santiago Linares Ramirez
   title:
@@ -113,3 +115,4 @@
   github: ''
   Website: ''
   team_image: ''
+  website: ''

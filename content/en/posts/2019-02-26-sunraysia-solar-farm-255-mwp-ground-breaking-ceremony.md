@@ -1,7 +1,7 @@
 ---
 title: Release 1.0
 thumbnail: "/images/goat-logo.png"
-image: "/images/test.png"
+image: "/images/goat-logo-banner.png"
 date: 2021-03-07T23:00:00.000+00:00
 summary: 'We are happy to announce that we successfully launched version GOAT1.0.
   Therefore, we are one step closer to our goal of GOAT becoming a useful planning
@@ -23,15 +23,15 @@ Now, after one year, the project is successfully finished and we are happy to sh
 
 * bicycle routing
 * scenarios on land-use changes, such as adding, deleting or modifying \[POIs\](../tutorials/scenario-location/) (e.g. placing a new Kindergarten) and \[buildings\](../tutorials/scenario-buildings/) [buildings](/tutorials/scenario-buildings/) (e.g. model how well a new residential area is served with daily needs)
-* ([https://vimeo.com/411741106](https://vimeo.com/411741106 "Mapillary street view images")) that help practitioners to view the local situation and find shortcomings
-* implemented high variation of ([https://vimeo.com/user93657565](https://vimeo.com/user93657565 "different spatial data sets")), such as environmental data, accident data, mode share (only for Munich), street level quality (street crossings, perceived cycle path quality assessed by ([https://www.munichways.com/](https://www.munichways.com/ "https://www.munichways.com/")), speed limits, etc.) and land use data (from ATKIS and OpenStreetMap)
+* [Mapillary street view images](https://vimeo.com/411741106) that help practitioners to view the local situation and find shortcomings
+* implemented high variation of [different spatial data sets](https://vimeo.com/user93657565), such as environmental data, accident data, mode share (only for Munich), street level quality (street crossings, perceived cycle path quality assessed by [MunichWays](https://www.munichways.com/), speed limits, etc.) and land use data (from ATKIS and OpenStreetMap)
 * enabled data import and export
 * usability improvement as suggested by the practitioners
 * various backend improvements
 
 ## Project Activities
 
-After an intense initial development phase, we conducted a series of three \[test cycles\](../testcycles) with our development partner - the municipality of Fürstenfeldbruck. Each test cycle contained a workshop with 5-6 local practitioners from the fields of transport and urban planning. GOAT is meant to be a useful tool for urban planners and decision makers.
+After an intense initial development phase, we conducted a series of three [test cycles](/testcycles) with our development partner - the municipality of Fürstenfeldbruck. Each test cycle contained a workshop with 5-6 local practitioners from the fields of transport and urban planning. GOAT is meant to be a useful tool for urban planners and decision makers.
 
 Therefore, the best way to make it as practice oriented as possible is to involve experts in the development process. In the three test cycles the participants, on the one hand, got to know the tool and gained practical experience with it.
 
@@ -55,14 +55,14 @@ We received positive feedback on the usability and usefulness of GOAT. Moreover,
 
 In addition to the development work, we were active in different networks. To disseminate our developed tool and get to know other persons that are working in this field, we participated in many mFund events, such as “Fachaustausch Fußverkehr” and “Fachaustausch Radverkehr”. We are still in close contact and exchange with some of the people we met at these inspiring events.
 
-Furthermore, we were part of the interview series \[“7 Fragen an …”\]([https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf](https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf "https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf")), where our project leader Elias Pajares answered questions about GOAT and presented the tool.
+Furthermore, we were part of the interview series [“7 Fragen an …”](https://www.wik.org/fileadmin/mFUND_VF/mFUND_WIK_7_Fragen_an_GOAT.pdf), where our project leader Elias Pajares answered questions about GOAT and presented the tool.
 
-As open data is the foundation of our project and we highly rely on the data quality, we actively contributed to the open data community by collecting a large amount of OpenStreetMap (OSM) data during the whole project phase. We systematically closed data gaps by mapping ourselves, and organized \[“Mapping Parties”\](../mapping-parties) where we introduced newcomers to the world of open data and got them excited about contributing to OSM (check our \[poster\]([https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf](https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf "https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf"))).
+As open data is the foundation of our project and we highly rely on the data quality, we actively contributed to the open data community by collecting a large amount of OpenStreetMap (OSM) data during the whole project phase. We systematically closed data gaps by mapping ourselves, and organized \[“Mapping Parties”\](../mapping-parties) where we introduced newcomers to the world of open data and got them excited about contributing to OSM (check our [poster](https://wiki.openstreetmap.org/wiki/File:GOAT_Poster_StoM.pdf)).
 
-In addition, \[we captured many kilometers of road in Fürstenfeldbruck with Mapillary\](../mapillary). With this new data we were able to complete the attributes of the street network, which allows us to identify the type of surface and smoothness of a road or path. And recognize if specific roads are designed for bicycles or pedestrians.
+In addition, [we captured many kilometers of road in Fürstenfeldbruck with Mapillary](/mapillary). With this new data we were able to complete the attributes of the street network, which allows us to identify the type of surface and smoothness of a road or path. And recognize if specific roads are designed for bicycles or pedestrians.
 
-We also included \[innovative approaches\](../sensor-freiberg) to gather more specific street data, by using a prototypic sensor device. With this new sensor, the acceleration data could be added to the street pictures to get more precise information and thereby gain a thorough understanding of the road conditions.  
-Besides the improvement of the data itself, we also enhanced the data processing algorithms of GOAT. This all together helped us to achieve a stable and reliant version 1.0, which is open available on \[GitHub\]([https://github.com/goat-community/goat](https://github.com/goat-community/goat "https://github.com/goat-community/goat")). With this mayor release we also revamped GOAT with a new look.
+We also included [innovative approaches](/sensor-freiberg) to gather more specific street data, by using a prototypic sensor device. With this new sensor, the acceleration data could be added to the street pictures to get more precise information and thereby gain a thorough understanding of the road conditions.  
+Besides the improvement of the data itself, we also enhanced the data processing algorithms of GOAT. This all together helped us to achieve a stable and reliant version 1.0, which is open available on [GitHub](https://github.com/goat-community/goat). With this mayor release we also revamped GOAT with a new look.
 
 ![](/images/screenshot.PNG)
 

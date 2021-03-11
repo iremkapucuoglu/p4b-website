@@ -6,6 +6,12 @@ fields:
   name: Videos
   label: Videos
   fields:
+  - name: comments
+    type: text
+    config:
+      required: false
+    label: Comments
+    description: Not shown on website
   - type: file
     name: image
     label: Image

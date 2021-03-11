@@ -1,9 +1,9 @@
 baseURL = "https://goofy-mirzakhani-b2c714.netlify.app/"
 languageCode = "en-us"
-title = "Lorem"
+title = "Plan4Better"
 [languages.de]
 contentDir = "content/de"
-title = "Mon blogue"
+title = "Plan4Better"
 weight = 2
 [[languages.de.menu.center]]
 name = "GOAT"
@@ -13,18 +13,14 @@ weight = 1
 heading = "Duis aute irure dolor"
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 [[languages.de.menu.center]]
-name = "Heading 1"
-parent = "GOAT"
-weight = 1
-[[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"
 url = "/was-ist-goat/"
 weight = 2
 [[languages.de.menu.center]]
-name = "GOATlive"
+name = "GOAT-live"
 parent = "GOAT"
-url = "/goatlive/"
+url = "/goat-live/"
 weight = 3
 [[languages.de.menu.center]]
 name = "Videos"
@@ -41,29 +37,6 @@ name = "Docs"
 parent = "GOAT"
 url = "/docs/background/"
 weight = 6
-[[languages.de.menu.center]]
-name = "Heading 2"
-parent = "GOAT"
-pre = "2"
-weight = 7
-[[languages.de.menu.center]]
-name = "Link 1"
-parent = "GOAT"
-pre = "2"
-url = "/"
-weight = 8
-[[languages.de.menu.center]]
-name = "Link 2"
-parent = "GOAT"
-pre = "2"
-url = "/"
-weight = 9
-[[languages.de.menu.center]]
-name = "Link 3"
-parent = "GOAT"
-pre = "2"
-url = "/"
-weight = 10
 [[languages.de.menu.center]]
 name = "Competences"
 weight = 2
@@ -131,8 +104,8 @@ name = "Contact"
 url = "/contact/"
 weight = 5
 [[languages.de.menu.footer]]
-name = "About us"
-url = "/about/"
+name = "Team"
+url = "/team/"
 weight = 1
 [[languages.de.menu.footer]]
 name = "Contact us"
@@ -168,7 +141,7 @@ weight = 3
 icon = "github"
 [languages.en]
 contentDir = "content/en"
-title = "My blog"
+title = "Plan4Better"
 weight = 1
 [[languages.en.menu.center]]
 name = "GOAT"
@@ -178,18 +151,14 @@ weight = 1
 heading = "Duis aute irure dolor"
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 [[languages.en.menu.center]]
-name = "Heading 1"
-parent = "GOAT"
-weight = 1
-[[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
 url = "/what-is-goat/"
 weight = 2
 [[languages.en.menu.center]]
-name = "GOATlive"
+name = "GOAT-live"
 parent = "GOAT"
-url = "/goatlive/"
+url = "/goat-live/"
 weight = 3
 [[languages.en.menu.center]]
 name = "Videos"
@@ -206,29 +175,6 @@ name = "Docs"
 parent = "GOAT"
 url = "/docs/background/"
 weight = 6
-[[languages.en.menu.center]]
-name = "Heading 2"
-parent = "GOAT"
-pre = "2"
-weight = 7
-[[languages.en.menu.center]]
-name = "Link 1"
-parent = "GOAT"
-pre = "2"
-url = "/link1/"
-weight = 8
-[[languages.en.menu.center]]
-name = "Link 2"
-parent = "GOAT"
-pre = "2"
-url = "/link2/"
-weight = 9
-[[languages.en.menu.center]]
-name = "Link 3"
-parent = "GOAT"
-pre = "2"
-url = "/link3/"
-weight = 10
 [[languages.en.menu.center]]
 name = "Competences"
 weight = 2
@@ -296,8 +242,8 @@ name = "Contact"
 url = "/contact/"
 weight = 5
 [[languages.en.menu.footer]]
-name = "About us"
-url = "/about/"
+name = "Team"
+url = "/team/"
 weight = 1
 [[languages.en.menu.footer]]
 name = "Contact us"
@@ -315,19 +261,19 @@ weight = 1
 button = "primary-outline"
 [[languages.en.menu.social]]
 name = "Twitter"
-url = "#"
+url = "https://twitter.com/GoatTool"
 weight = 1
 [languages.en.menu.social.params]
 icon = "twitter"
 [[languages.en.menu.social]]
 name = "Linkedin"
-url = "#"
+url = "https://www.linkedin.com/company/goat-tool/"
 weight = 2
 [languages.en.menu.social.params]
 icon = "linkedin"
 [[languages.en.menu.social]]
 name = "GitHub"
-url = "#"
+url = "https://github.com/goat-community/"
 weight = 3
 [languages.en.menu.social.params]
 icon = "github"
@@ -337,8 +283,8 @@ page = ["HTML", "RSS"]
 [params]
 address = "Augustenstraße 49 <br>80333 München <br>Germany"
 email = "info@plan4better.de"
-mailchimp_form_action = "xxxx"
-mailchimp_hidden_name = "xxxx"
+mailchimp_form_action = ""
+mailchimp_hidden_name = ""
 phone = "+49 221 988199 76"
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"

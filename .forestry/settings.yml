@@ -25,11 +25,15 @@ sections:
   label: Posts EN
   create: documents
   match: "*"
+  templates:
+  - blog-post
 - type: directory
   path: content/de/posts
   label: Posts DE
   create: documents
   match: "*"
+  templates:
+  - blog-post
 - type: directory
   path: content/en/docs
   label: Docs EN
@@ -69,10 +73,10 @@ sections:
   label: GOATlive
 - type: document
   path: data/docs.yml
-  label: Docs Categories
+  label: Docs Sections
 - type: document
   path: data/tutorials.yml
-  label: Tutorial Categories
+  label: Tutorial Sections
 - type: heading
   label: Settings
 - type: document

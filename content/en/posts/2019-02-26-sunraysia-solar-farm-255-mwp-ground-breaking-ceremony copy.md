@@ -3,11 +3,12 @@ title: Other dummy post example random title
 thumbnail: https://via.placeholder.com/640x450
 image: https://via.placeholder.com/1200x600
 date: 2019-02-26
-summary: The farm is on track to be the largest solar
-  farm in Australia this year.
-categories: 
-  - development
+summary: The farm is on track to be the largest solar farm in Australia this year.
+categories:
+- development
 author: pajares
+translationKey: ''
+
 ---
 ## Key Project Features
 

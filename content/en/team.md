@@ -40,8 +40,8 @@ template = "card-block"
 text = "We are happy to be one of the start-ups located at the Venture Lab \"Built Environment\" at the Technical University of Munich."
 video = ""
 [blocks.button]
-text = ""
-url = ""
+text = "Venture Lab "
+url = "https://www.tum.de/en/innovation/entrepreneurship/venture-labs/"
 [[blocks]]
 background = "muted"
 block = "team"

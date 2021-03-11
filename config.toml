@@ -11,7 +11,7 @@ url = "/"
 weight = 1
 [languages.de.menu.center.params]
 heading = "Geo Open Accessibility Tool - GOAT"
-text = "GOAT ist ein interaktives Webtool für Erreichbarkeitsanalysen für den Fuß- und Radverkehr. Detaillierte Infos finden Sie auf den folgenden Seiten."
+text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen für den Fuß- und Radverkehr. Detaillierte Infos finden Sie auf den folgenden Seiten."
 [[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"

@@ -6,12 +6,30 @@ fields:
   name: Live
   label: Live
   fields:
-  - type: text
-    name: title
-    label: Title
+  - name: comments
+    type: text
+    config:
+      required: false
+    label: Comments
+    description: Not shown on the site
   - type: file
     name: image
     label: Image
+  - name: title
+    type: field_group
+    config: {}
+    fields:
+    - name: en
+      type: text
+      config:
+        required: false
+      label: EN
+    - name: de
+      type: text
+      config:
+        required: false
+      label: DE
+    label: Title
   - type: field_group
     name: text
     label: Text

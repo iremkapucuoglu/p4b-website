@@ -37,7 +37,7 @@ image = "/images/image360.jpg"
 layout = "right"
 padding_top = "default"
 template = "card-block"
-text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups"
+text = "We are happy to be one of the start-ups located at the Venture Lab \"Built Environment\" at the Technical University of Munich."
 video = ""
 [blocks.button]
 text = ""

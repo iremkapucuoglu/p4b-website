@@ -18,7 +18,7 @@
         <div>
           {{if isset .Params "author"}}  
             {{ $user := where .Site.Data.authors "username" .Params.author }}
-            <span>By <a class="uk-meta-link" href="{{ "/author/" | absLangURL }}{{ index $user 0 "username" | urlize }}/">{{ index $user 0 "name" }}</a></span>
+            <span>{{ i18n "post_by" }} <a class="uk-meta-link" href="{{ "/author/" | absLangURL }}{{ index $user 0 "username" | urlize }}/">{{ index $user 0 "name" }}</a></span>
           {{end}}
           {{ if .Date }}
             <span class="uk-bullet uk-visible@m uk-text-muted uk-margin-small-left uk-margin-small-right">&bull;</span>
@@ -41,9 +41,9 @@
   <section class="uk-section">
     <div class="uk-container">
       <div class="uk-grid-large" data-uk-grid>
-        <div class="uk-width-1-4@l uk-visible@l uk-article-toc">
+        <div class="uk-width-1-4@l uk-article-toc">
           <div data-uk-sticky="offset: 70; media: @l; bottom: true" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 60">
-            <h5 class="uk-text-medium">Content Overview</h5>
+            <h5 class="uk-text-medium">{{ i18n "post_table_of_contents" }}</h5>
             <hr>
             {{ .TableOfContents }}
           </div>

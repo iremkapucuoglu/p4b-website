@@ -8053,6 +8053,8 @@ iframe.uk-cover {
   color: #fff;
   font-size: 1.25rem;
   line-height: 42px; }
+  .uk-nav-primary .uk-button-primary:hover {
+    color: #fff; }
 
 .uk-padding-medium {
   padding: 28px; }

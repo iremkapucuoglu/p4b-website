@@ -54,3 +54,9 @@ other = "Navigate Tutorials"
 
 [back_to_top]
 other = "Back to top"
+
+[post_table_of_contents]
+other = "Content Overview"
+
+[post_by]
+other = "By"

@@ -25,8 +25,10 @@
                 {{ range .Children }}
                   {{ if eq .Name "divider" }}
                     <li class="uk-nav-divider"></li>
-                  {{ else }}
+                  {{ else if .URL }}
                     <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                  {{ else }}
+                    <li class="uk-text-bold uk-nav-header uk-text-primary">{{ .Name }}</li>
                   {{ end }}
                 {{ end }}
               </ul>

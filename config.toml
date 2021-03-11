@@ -100,8 +100,8 @@ name = "Team"
 url = "/team/"
 weight = 4
 [[languages.de.menu.center]]
-name = "Contact"
-url = "/contact/"
+name = "Kontakt"
+url = "/kontakt/"
 weight = 5
 [[languages.de.menu.footer]]
 name = "Team"

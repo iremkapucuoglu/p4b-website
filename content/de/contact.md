@@ -1,7 +1,7 @@
 +++
 layout = "blocks"
 title = "Kontakt"
-translationKey = "kontakt"
+translationKey = "contact"
 [header]
 background = "default"
 background_image = ""

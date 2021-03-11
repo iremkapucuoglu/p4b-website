@@ -1,6 +1,6 @@
 +++
 layout = "blocks"
-title = "Contact"
+title = "Kontakt"
 translationKey = "contact"
 [header]
 background = "default"
@@ -18,9 +18,9 @@ block = "contact"
 display_address = true
 display_email = true
 display_phone = true
-heading = "Contact Us"
+heading = "Kontakt"
 subheading = "Some optional subheading"
 template = "contact-block"
-text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visuals"
+text = "Wenn Sie Ideen, Fragen oder Wünsche haben, setzen Sie sich gerne mit uns in Verbindung. Wir freuen uns auf Ihre Anfragen."
 
 +++

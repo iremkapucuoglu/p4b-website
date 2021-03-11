@@ -21,6 +21,6 @@ display_phone = true
 heading = "Contact Us"
 subheading = "Some optional subheading"
 template = "contact-block"
-text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visuals"
+text = "If you have any ideas, questions or requests, please feel free to get in touch with us by simply using the contact form below. "
 
 +++

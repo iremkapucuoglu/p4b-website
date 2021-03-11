@@ -20,7 +20,7 @@
               <img class="uk-border-rounded-large-top" src="{{ .image | absURL }}" alt="{{ .title }}">
             </div>
             <div class="uk-card-body">
-              <h4 class="uk-margin-small-bottom uk-text-primary">{{ .title }}</h4>
+              <h4 class="uk-margin-small-bottom uk-text-primary">{{ index .title site.Language.Lang }}</h4>
               <div>{{ index .text site.Language.Lang }}</div>
             </div>
             <a class="uk-position-cover" href="{{ .url | relURL }}" target="_blank"></a>

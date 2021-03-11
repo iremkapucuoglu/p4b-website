@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Zuhause
 layout: blocks
 header:
   layout: left

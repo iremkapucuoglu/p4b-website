@@ -19,8 +19,8 @@ display_address = true
 display_email = true
 display_phone = true
 heading = "Kontakt"
-subheading = "Some optional subheading"
+subheading = ""
 template = "contact-block"
-text = "Wenn Sie Ideen, Fragen oder Wünsche haben, nutzen Sie gerne das unten stehende Kontaktformular. Wir freuen uns auf Ihre Anfragen."
+text = "Wenn Sie Ideen, Fragen oder Wünsche haben, können Sie uns gerne eine E-Mail schicken oder einfach das untenstehende Kontaktformular nutzen. Wir freuen uns auf Ihre Nachrichten."
 
 +++

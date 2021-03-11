@@ -77,10 +77,11 @@
     }
   }
   
-  .uk-back-top-top:not(.uk-active) {
+  .uk-back-top-top.uk-invisible {
     position: relative;
     bottom: -150vh;
     right: 0;
+    margin-top: -55px;
   }
 
   .uk-overlay-light {

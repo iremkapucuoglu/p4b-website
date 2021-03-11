@@ -7934,10 +7934,11 @@ iframe.uk-cover {
   .uk-icon-button.uk-icon.uk-totop:hover {
     background-color: #283648; }
 
-.uk-back-top-top:not(.uk-active) {
+.uk-back-top-top.uk-invisible {
   position: relative;
   bottom: -150vh;
-  right: 0; }
+  right: 0;
+  margin-top: -55px; }
 
 .uk-overlay-light {
   background: rgba(40, 54, 72, 0.4); }

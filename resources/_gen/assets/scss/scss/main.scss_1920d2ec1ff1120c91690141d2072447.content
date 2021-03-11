@@ -1159,11 +1159,11 @@ button.uk-icon:not(:disabled) {
  */
 .uk-icon-button {
   box-sizing: border-box;
-  width: 36px;
-  height: 36px;
+  width: 48px;
+  height: 48px;
   border-radius: 500px;
-  background: #f6f6f6;
-  color: #8b8e93;
+  background: #2BB381;
+  color: #fff;
   vertical-align: middle;
   /* 1 */
   display: inline-flex;
@@ -1175,15 +1175,15 @@ button.uk-icon:not(:disabled) {
 /* Hover + Focus */
 .uk-icon-button:hover,
 .uk-icon-button:focus {
-  background-color: #e9e9e9;
-  color: #000;
+  background-color: #283648;
+  color: #fff;
   outline: none; }
 
 /* OnClick + Active */
 .uk-icon-button:active,
 .uk-active > .uk-icon-button {
-  background-color: #dddddd;
-  color: #000; }
+  background-color: #2BB381;
+  color: #fff; }
 
 /* ========================================================================
    Component: Form Range
@@ -7928,6 +7928,16 @@ iframe.uk-cover {
 
 .uk-margin-m-top {
   margin-top: 26px; }
+
+.uk-icon-button.uk-icon.uk-totop {
+  color: #fff !important; }
+  .uk-icon-button.uk-icon.uk-totop:hover {
+    background-color: #283648; }
+
+.uk-back-top-top:not(.uk-active) {
+  position: relative;
+  bottom: -150vh;
+  right: 0; }
 
 .uk-overlay-light {
   background: rgba(40, 54, 72, 0.4); }

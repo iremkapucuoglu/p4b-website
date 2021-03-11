@@ -23,7 +23,10 @@
 				</div>
 			</div>
 			<div class="uk-width-expand@l">
-				<div class="uk-docs-content">
+				<div class="uk-docs-content uk-position-relative">
+					<div class="uk-back-top-top uk-text-right" uk-sticky="animation: uk-animation-fade; bottom: true; offset: 90vh">
+						<a href="#" class="uk-icon-button" uk-totop="ratio: 1.1" uk-scroll></a>
+					</div>
 					<div class="uk-hidden@l">
 						<button class="uk-button uk-button-secondary uk-margin-medium-bottom uk-button-small" type="button">{{ i18n "navigate_tutorials" }}</button>
 						<div uk-dropdown="mode: click">
@@ -44,14 +47,9 @@
 					<div class="uk-article-content uk-text-m uk-margin-medium-top">
 						{{ .Content }}
 					</div>
-					<div class="uk-margin-medium-top uk-text-left">
-						<a href="#" uk-totop="ratio: 1.1" uk-scroll><span class="uk-margin-small-right">{{ i18n "back_to_top" }}</span></a>
-					</div>
-
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
 {{ end }}
-

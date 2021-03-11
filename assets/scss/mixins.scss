@@ -69,6 +69,19 @@
   .uk-margin-m-top {
     margin-top: 26px;
   }
+  
+  .uk-icon-button.uk-icon.uk-totop {
+    color: #fff !important;
+    &:hover {
+      background-color: $global-secondary-background;
+    }
+  }
+  
+  .uk-back-top-top:not(.uk-active) {
+    position: relative;
+    bottom: -150vh;
+    right: 0;
+  }
 
   .uk-overlay-light {
     background: rgba($color: $global-secondary-background, $alpha: 0.4);

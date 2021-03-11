@@ -21,6 +21,6 @@ display_phone = true
 heading = "Contact Us"
 subheading = "Some optional subheading"
 template = "contact-block"
-text = "If you have any ideas, questions or requests, please feel free to get in touch with us by simply using the contact form below. "
+text = "If you have any ideas, questions or requests, please feel free to get in touch with us by simply using the contact form below. We are looking forward to your messages."
 
 +++

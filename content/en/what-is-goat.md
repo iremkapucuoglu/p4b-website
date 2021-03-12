@@ -52,7 +52,7 @@ heading = "GOAT-live"
 icon = "location"
 page = "en/goatlive.md"
 text = "Here all live versions that are developed by the GOAT Community are listed. "
-url = "/goat-live/"
+url = "/goatlive/"
 [[blocks.links]]
 heading = "Videos"
 icon = "play-circle"

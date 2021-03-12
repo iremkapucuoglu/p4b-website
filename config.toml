@@ -89,7 +89,7 @@ name = "Imprint & Privacy"
 url = "/imprint-privacy/"
 weight = 3
 [[languages.de.menu.right]]
-name = "Versuchen GOAT"
+name = "GOAT testen"
 url = "/goatlive/"
 weight = 1
 [languages.de.menu.right.params]

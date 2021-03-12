@@ -3,7 +3,7 @@ title: Zuhause
 layout: blocks
 header:
   layout: left
-  heading: Let's balance the future together!
+  heading: Lasst uns gemeinsam eine ausgewogene Zukunft planen!
   text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
     eu fugiat nulla. '
   image: "/images/heatmap-muc.PNG"
@@ -21,7 +21,7 @@ blocks:
     and plan for a balanced future. By providing understandable planning tools, we
     are transforming spatial and transport planning towards a more open, joyful and
     efficient reality. '
-  heading: Playground for shaping livable spaces
+  heading: Spielwiese zur Gestaltung lebenswerter Räume
   image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
   video: ''
   background_image: "/images/bg-4.svg"

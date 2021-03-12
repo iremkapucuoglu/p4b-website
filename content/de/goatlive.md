@@ -14,8 +14,8 @@ text = ""
 url = ""
 [[blocks]]
 block = "live"
-heading = "GOATlive"
+heading = "GOAT-live"
 template = "live-block"
-text = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+text = "GOAT ist ein übertragbares und hochflexibles Tool, das für verschiedene Anwendungsfälle eingesetzt werden kann. Hier sind alle Live-Versionen aufgelistet, die von der GOAT-Community entwickelt werden. Je nach Zweck der Version stehen verschiedene Analysemöglichkeiten zur Verfügung."
 
 +++

@@ -4,8 +4,7 @@ layout: blocks
 header:
   layout: left
   heading: Lasst uns gemeinsam eine ausgewogene Zukunft planen!
-  text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla. '
+  text: ''
   image: "/images/heatmap-muc.PNG"
   button:
     text: Try Goat

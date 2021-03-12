@@ -1,7 +1,7 @@
 +++
 layout = "blocks"
 title = "GOAT-live"
-translationKey = "goatlive"
+translationKey = "goat-live"
 [header]
 background = "default"
 background_image = ""

@@ -50,7 +50,7 @@ heading = "GOAT-live"
 icon = "location"
 page = "en/goatlive.md"
 text = "Live enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
-url = "goat-live/"
+url = "/goatlive/"
 [[blocks.links]]
 page = "en/videos.md"
 text = "Videos enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "

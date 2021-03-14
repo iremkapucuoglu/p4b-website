@@ -4,6 +4,7 @@ title:  "Der Entwicklungspfad von GOAT"
 author: [pajares]
 lang: de
 tags: [de]
+categories: [news]
 thumbnail: /images/blog/development_path/thumbnail.png
 image: /images/blog/development_path/thumbnail.png
 ---

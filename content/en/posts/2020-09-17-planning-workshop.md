@@ -7,6 +7,7 @@ categories: [news]
 thumbnail: /images/blog/planning_workshops/FFB.png
 image: /images/blog/planning_workshops/FFB.png
 excerpt: The three planning workshops were conducted in the municipalities of Fürstenfeldbruck and Freising and at the Chair of Urban Structure and Transport Planning (TUM). Experts from different backgrounds such as city planners, transport planners, architects, and politicians participated in these workshops and contributed to the further development of GOAT.
+date: 2020-09-17
 ---
 This year, the accessibility instrument GOAT has been experiencing continuous development within the support of the research initiative [mFund](https://www.bmvi.de/DE/Themen/Digitales/mFund/Ueberblick/ueberblick.html). Our main goal in this project is to make GOAT an outstanding tool to help planners and decision-makers when planning for active mobility. The project started with an intensive development process and was followed by a series of [test cycles in the municipality of Fürstenfeldbruck](https://www.open-accessibility.org/testcycles/), which was followed by three planning workshops in Fürstenfeldbruck, Freising and Munich (TUM internal). Finally, there will be a second workshop in Munich with a wide array of practitioners in October of this year and a concluding final synthesis workshop with partners from all municipalities.
 

@@ -7,6 +7,7 @@ tags: [de]
 categories: [news]
 thumbnail: /images/blog/development_path/thumbnail.png
 image: /images/blog/development_path/thumbnail.png
+date: 2019-05-27
 ---
 
 Das Geo Open Accessibility Tool (GOAT) ist aktuell noch nicht dort, wo wir einmal hin möchten. Neben der fortwährenden Professionalisierung, die unabdingbar für ein wirklich nützliches und stabiles Erreichbarkeitsinstrument ist, werden in regelmäßigen Abständen weitere Funktionen implementiert.  

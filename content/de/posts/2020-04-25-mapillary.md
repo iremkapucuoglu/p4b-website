@@ -7,6 +7,7 @@ tags: [de]
 categories: [news]
 thumbnail: /images/blog/mapillary/mapillary_bike.jpg
 image: /images/blog/mapillary/mapillary_bike.jpg
+date: 2020-04-25
 ---
 
 Daten, Daten und noch mehr Daten! Im Rahmen unserer Arbeit im [mFund Projektes](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html) haben wir GOAT auf die Gemeinde Fürstenfeldbruck übertragen. Um dies zu bewerkstelligen, haben wir nach verfügbaren Daten aus unterschiedlichen Quellen gesucht.

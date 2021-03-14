@@ -6,6 +6,7 @@ tags: [en]
 categories: [news]
 thumbnail: /images/blog/testcycles/Testzyklus.png
 image: /images/blog/testcycles/Testzyklus.png
+date: 2020-05-25
 ---
 
 By end of this year, we aim to launch version GOAT1.0! To achieve a high usability and usefulness, GOAT is currently being tested extensively by a group of experts in the fields of transport and urban planning. The funding provided by [mFund](https://www.bmvi.de/DE/Themen/Digitales/mFund/Ueberblick/ueberblick.html) is allowing us to organize different workshops with planners from the municipalities Fürstenfeldbruck, Freising and Munich.

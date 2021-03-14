@@ -6,6 +6,7 @@ tags: [en]
 categories: [news]
 thumbnail: /images/blog/goat_goes_public/isochrone.jpg
 image: /images/blog/goat_goes_public/isochrone.jpg
+date: 2019-01-15
 ---
 I am happy to announce that time has come for the first official release of Geo Open Accessibility Tool (GOAT). This first version already unifies some key features but much more will follow.
 

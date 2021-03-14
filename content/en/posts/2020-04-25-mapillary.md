@@ -6,6 +6,7 @@ tags: [en]
 categories: [news]
 thumbnail: /images/blog/mapillary/mapillary_bike.jpg
 image: /images/blog/mapillary/mapillary_bike.jpg
+date: 2020-04-25
 ---
 
 Data, data and more data! While working on the [mFund project](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html) to bring GOAT’s feature to the municipality of Fürstenfeldbruck, we have been looking for available information from many sources to accomplish the objectives.

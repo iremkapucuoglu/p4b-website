@@ -42,7 +42,7 @@
   title:
     en: External Core Developer
     de: Externer Entwickler
-  image: https://via.placeholder.com/80
+  image: "/images/majk_shkurti.png"
   bio:
     en: As experienced WebGIS-developer he is focusing on the development of the userinterface.
       His passion lies within maps, visualizations and creating GIS apps that are
@@ -61,7 +61,7 @@
   title:
     en: Student Assistant
     de: Wissenschaftliche Hilfskraft
-  image: ''
+  image: "/images/hassine.jpg"
   bio:
     en: Student assistant and environmental engineer with enthusiasm for Sustainable
       Urban Mobility. She believes that active mobility is the key to bring back the
@@ -81,7 +81,7 @@
   title:
     en: Student Assistant
     de: Wissenschaftliche Hilfskraft
-  image: https://via.placeholder.com/80
+  image: "/images/munoz.png"
   bio:
     en: He is a transport consultant and Student Assistant at TUM. GIS, and Smart
       cities enthusiast. In GOAT, he has contributed to the data refinement and data
@@ -101,7 +101,7 @@
   title:
     en: Student Assistant
     de: Wissenschaftliche Hilfskraft
-  image: https://via.placeholder.com/80
+  image: "/images/ramirez.jpg"
   bio:
     en: He is a Civil and Industrial Engineer with passion for active mobility, cities,
       and sustainability. In GOAT he contributes to documentation, communications,

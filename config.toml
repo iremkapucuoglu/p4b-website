@@ -1,4 +1,4 @@
-baseURL = "https://goofy-mirzakhani-b2c714.netlify.app/"
+baseURL = "https://p4b-dev.netlify.app/"
 languageCode = "en-us"
 title = "Plan4Better"
 [languages.de]

@@ -1,6 +1,7 @@
 ---
 title:  "Gaining experiences from practitioners"
-author: [pajares, jehle, hassine]
+# author: [pajares, jehle, hassine]
+author: pajares
 lang: en
 tags: [en]
 categories: [news]

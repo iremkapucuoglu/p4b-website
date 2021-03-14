@@ -1,7 +1,8 @@
 ---
 permalink: /de/testcycles/
 title:  "Einbezug von Expertenmeinungen"
-author: [pajares, jehle, hassine]
+# author: [pajares, jehle, hassine]
+author: pajares
 lang: de
 tags: [de]
 categories: [news]

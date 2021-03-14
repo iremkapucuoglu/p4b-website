@@ -1,7 +1,7 @@
 ---
 permalink: /de/development-path-geo-open-accessibility-tool/
 title:  "Der Entwicklungspfad von GOAT"
-author: [pajares]
+author: pajares
 lang: de
 tags: [de]
 categories: [news]

@@ -1,7 +1,7 @@
 ---
 permalink: /de/goat-goes-public/
 title:  "GOAT<sub>beta</sub> ist online!"
-author: [pajares]
+author: pajares
 lang: de
 tags: [de]
 categories: [news]

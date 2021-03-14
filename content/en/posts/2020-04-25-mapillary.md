@@ -1,6 +1,7 @@
 ---
 title:  "Covering Fürstenfeldbruck with Mapillary"
-author: [ramirez,hassine]
+# author: [ramirez,hassine]
+author: ramirez
 lang: en
 tags: [en]
 categories: [news]

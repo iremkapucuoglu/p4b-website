@@ -1,7 +1,8 @@
 ---
 permalink: /de/mapillary/
 title:  "Erhebung von Mapillary Aufnahmen für Fürstenfeldbruck"
-author: [ramirez, hassine]
+# author: [ramirez, hassine]
+author: ramirez
 lang: de
 tags: [de]
 categories: [news]

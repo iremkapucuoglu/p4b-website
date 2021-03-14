@@ -1,6 +1,7 @@
 ---
 title: "Test innovativer Ansätze zur Datenerfassung "
-author: [ramirez, jehle, pajares]
+# author: [ramirez, jehle, pajares]
+author: ramirez
 lang: de
 tags: [de]
 categories: [news]

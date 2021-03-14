@@ -1,6 +1,7 @@
 ---
 title:  "Using GOAT in planning practice"
-author: [hassine, jehle, pajares]
+# author: [hassine, jehle, pajares]
+author: hassine
 lang: en
 tags: [en]
 categories: [news]

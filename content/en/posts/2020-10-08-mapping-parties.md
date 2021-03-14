@@ -1,6 +1,7 @@
 ---
 title:  "Mapping Parties - having fun and improving OSM data"
-author: [jehle, hassine, pajares]
+# author: [jehle, hassine, pajares]
+author: jehle
 lang: en
 tags: [en]
 categories: [news]

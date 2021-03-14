@@ -1,7 +1,7 @@
 ---
 permalink: /de/additional-walkability-analyses/
 title:  "Zusätzliche Analysen zur Walkability"
-author: [jehle]
+author: jehle
 lang: de
 tags: [de]
 categories: [news]

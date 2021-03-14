@@ -1,6 +1,7 @@
 ---
 title:  "Mapping Partys – ein spaßiger Weg um gemeinsam OSM-Daten zu verbessern"
-author: [jehle, hassine, pajares]
+# author: [jehle, hassine, pajares]
+author: jehle
 lang: de
 tags: [de]
 categories: [news]

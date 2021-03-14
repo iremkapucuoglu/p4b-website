@@ -1,6 +1,7 @@
 ---
 title: "Testing innovative data collection approaches"
-author: [ramirez, jehle, pajares]
+# author: [ramirez, jehle, pajares]
+author: ramirez
 lang: en
 tags: [en]
 categories: [news]

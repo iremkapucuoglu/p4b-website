@@ -1,6 +1,7 @@
 ---
 title:  "Einsatz von GOAT in der Planungspraxis"
-author: [hassine, jehle, pajares]
+# author: [hassine, jehle, pajares]
+author: hassine
 lang: de
 tags: [de]
 categories: [news]

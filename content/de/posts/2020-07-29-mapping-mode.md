@@ -1,6 +1,6 @@
 ---
 title:  "Neues Feature: OSM-Mapping-Modus"
-author: [ramirez]
+author: ramirez
 lang: de
 tags: [de]
 categories: [news]

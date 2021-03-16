@@ -204,15 +204,15 @@ url = "/link6/"
 weight = 9
 [[languages.en.menu.center]]
 name = "Blog"
-url = "/blog/"
+url = ""
 weight = 3
 [[languages.en.menu.center]]
 name = "Team"
-url = "/team/"
+url = ""
 weight = 4
 [[languages.en.menu.center]]
 name = "Contact"
-url = "/contact/"
+url = ""
 weight = 5
 [[languages.en.menu.footer]]
 name = "Team"

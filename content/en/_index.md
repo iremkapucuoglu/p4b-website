@@ -70,7 +70,7 @@ blocks:
   block: logos
   background: default
   logos:
-  - "/images/logo-mfund.jpg"
+  - "/images/logomfund.png"
   - "/images/logo-bmvi.png"
   heading: Funded by
   padding_top: remove

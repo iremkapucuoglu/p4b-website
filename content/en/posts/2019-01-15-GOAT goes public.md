@@ -3,7 +3,7 @@ title:  "GOAT<sub>beta</sub> goes public!"
 author: pajares
 lang: en
 tags: [en]
-categories: [news]
+categories: [news, development]
 thumbnail: /images/blog/goat_goes_public/isochrone.jpg
 image: /images/blog/goat_goes_public/isochrone.jpg
 date: 2019-01-15

@@ -4,7 +4,7 @@ title: "Test innovativer Ansätze zur Datenerfassung "
 author: ramirez
 lang: de
 tags: [de]
-categories: [news]
+categories: [Entwicklung, Daten]
 thumbnail: /images/blog/sensor_freiberg/plots.png
 image: /images/blog/sensor_freiberg/plots.png
 summary: Was verbindet GOAT mit einem Projekt für Lieferroboter? Die Nutzung derselben Infrastruktur! Wir haben eine prototypische Sensorbox eingesetzt, um die automatisierte Erhebung von Straßendaten zu erproben. 

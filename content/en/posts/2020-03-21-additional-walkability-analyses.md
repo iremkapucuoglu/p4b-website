@@ -4,7 +4,7 @@ title:  "Additional walkability analyses"
 author: jehle
 lang: en
 tags: [en]
-categories: [news]
+categories: [news, development]
 thumbnail: /images/blog/additional_walkability_analyses/scenery_hasenbergl.jpg
 image: /images/blog/additional_walkability_analyses/scenery_hasenbergl.jpg
 summary: In order to create livable cities and shape a more sustainable mobility, it is crucial to focus on walkable environments. However, the quality of the infrastructure depends highly on the individual. For example, one-third of the German population is temporarily mobility impaired and 28% of the population is over 60 years old, which results in different requirements, such as smooth surfaces and barrier-free footpaths. 

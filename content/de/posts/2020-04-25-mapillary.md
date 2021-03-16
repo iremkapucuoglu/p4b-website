@@ -5,7 +5,7 @@ title:  "Erhebung von Mapillary Aufnahmen für Fürstenfeldbruck"
 author: ramirez
 lang: de
 tags: [de]
-categories: [news]
+categories: [Daten]
 thumbnail: /images/blog/mapillary/mapillary_bike.jpg
 image: /images/blog/mapillary/mapillary_bike.jpg
 date: 2020-04-25

@@ -4,7 +4,7 @@ title:  "Gaining experiences from practitioners"
 author: pajares
 lang: en
 tags: [en]
-categories: [news]
+categories: [application in practice]
 thumbnail: /images/blog/testcycles/Testzyklus.png
 image: /images/blog/testcycles/Testzyklus.png
 date: 2020-05-25

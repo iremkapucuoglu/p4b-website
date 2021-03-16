@@ -3,7 +3,7 @@ title:  "Neues Feature: OSM-Mapping-Modus"
 author: ramirez
 lang: de
 tags: [de]
-categories: [news]
+categories: [News, Entwicklung, Daten]
 thumbnail: /images/blog/mapping-mode/thumbnail.png
 image: /images/blog/mapping-mode/thumbnail.png
 summary: Wir lieben Open-Source und Open-Data Projekte! Diese sind seit Beginn an das Herz und die Seele von GOAT. Angetrieben durch diesen Enthusiasmus haben wir ein neues Feature in GOAT entwickelt, das Mapping Challenges anzeigt und Nutzer somit anregt, Datenlücken in OSM zu schließen.

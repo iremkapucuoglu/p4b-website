@@ -4,7 +4,7 @@ title:  "Using GOAT in planning practice"
 author: hassine
 lang: en
 tags: [en]
-categories: [news]
+categories: [application in practice]
 thumbnail: /images/blog/planning_workshops/FFB.png
 image: /images/blog/planning_workshops/FFB.png
 summary: The three planning workshops were conducted in the municipalities of Fürstenfeldbruck and Freising and at the Chair of Urban Structure and Transport Planning (TUM). Experts from different backgrounds such as city planners, transport planners, architects, and politicians participated in these workshops and contributed to the further development of GOAT.

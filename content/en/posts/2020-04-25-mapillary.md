@@ -4,7 +4,7 @@ title:  "Covering Fürstenfeldbruck with Mapillary"
 author: ramirez
 lang: en
 tags: [en]
-categories: [news]
+categories: [data]
 thumbnail: /images/blog/mapillary/mapillary_bike.jpg
 image: /images/blog/mapillary/mapillary_bike.jpg
 date: 2020-04-25

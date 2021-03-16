@@ -4,7 +4,7 @@ title:  "Mapping Parties - having fun and improving OSM data"
 author: jehle
 lang: en
 tags: [en]
-categories: [news]
+categories: [data]
 thumbnail: /images/blog/mapping_party/thumbnail.png
 image: /images/blog/mapping_party/image_background.png
 summary: The Chair of Urban Structure and Transport Planning is frequently organizing Mapping Parties with the motivation to actively improve the quality of OpenStreetMap (OSM), which is the most prominent example of an open, crowd-sourced geographic dataset.

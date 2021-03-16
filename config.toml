@@ -30,12 +30,12 @@ weight = 4
 [[languages.de.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
-url = "/tutorials/isochrone/"
+url = ""
 weight = 5
 [[languages.de.menu.center]]
 name = "Docs"
 parent = "GOAT"
-url = "/docs/background/"
+url = ""
 weight = 6
 [[languages.de.menu.center]]
 name = "Competences"
@@ -126,27 +126,27 @@ text = "GOAT is an interactive webtool for accessibility analysis on walking and
 [[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
-url = "/what-is-goat/"
+url = ""
 weight = 2
 [[languages.en.menu.center]]
 name = "GOAT-live"
 parent = "GOAT"
-url = "/goatlive/"
+url = ""
 weight = 3
 [[languages.en.menu.center]]
 name = "Videos"
 parent = "GOAT"
-url = "/videos/"
+url = ""
 weight = 4
 [[languages.en.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
-url = "/tutorials/isochrone/"
+url = ""
 weight = 5
 [[languages.en.menu.center]]
 name = "Docs"
 parent = "GOAT"
-url = "/docs/background/"
+url = ""
 weight = 6
 [[languages.en.menu.center]]
 name = "Competences"

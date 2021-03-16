@@ -118,7 +118,7 @@ title = "Plan4Better"
 weight = 1
 [[languages.en.menu.center]]
 name = "GOAT"
-url = "/"
+url = ""
 weight = 1
 [languages.en.menu.center.params]
 heading = "Geo Open Accessibility Tool - GOAT"

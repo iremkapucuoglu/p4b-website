@@ -15,17 +15,17 @@ text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeit
 [[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"
-url = "/was-ist-goat/"
+url = ""
 weight = 2
 [[languages.de.menu.center]]
 name = "GOAT-live"
 parent = "GOAT"
-url = "/goatlive/"
+url = ""
 weight = 3
 [[languages.de.menu.center]]
 name = "Videos"
 parent = "GOAT"
-url = "/videos/"
+url = ""
 weight = 4
 [[languages.de.menu.center]]
 name = "Tutorials"

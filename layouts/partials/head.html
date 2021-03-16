@@ -8,17 +8,18 @@
 {{ if eq (hugo.Environment) "development" -}}
   {{ $options := (dict "targetPath" "main.css" "enableSourceMap" true "includePaths" (slice "node_modules")) -}}
   {{ $css := resources.Get "scss/main.scss" | toCSS $options -}}
-  <link rel="stylesheet" href="{{ $css.Permalink }}">
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{ else -}}
   {{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "includePaths" (slice "node_modules")) -}}
   {{ $css := resources.Get "scss/main.scss" | toCSS $options -}}
-  <link rel="stylesheet" href="{{ $css.Permalink }}">
+  {{ $secureCSS := $css | resources.Fingerprint "sha512" -}}
+  <link rel="stylesheet" href="{{ $secureCSS.RelPermalink }}" integrity="{{ $secureCSS.Data.Integrity }}" crossorigin="anonymous">
 {{ end -}}
 {{ $uikit := resources.Get "js/uikit.js" | minify -}}
 {{ $uikit_icons := resources.Get "js/uikit-icons.js" | minify -}}
 {{ $custom := resources.Get "js/custom.js" | minify -}}
 {{ $js := slice $uikit $uikit_icons $custom | resources.Concat "main.js" -}}
-<script src="{{ $js.Permalink }}"></script>
+<script src="{{ $js.RelPermalink }}"></script>
 
 <!-- Matomo -->
 <script type="text/javascript">

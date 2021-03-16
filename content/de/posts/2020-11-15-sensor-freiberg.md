@@ -7,7 +7,7 @@ tags: [de]
 categories: [news]
 thumbnail: /images/blog/sensor_freiberg/plots.png
 image: /images/blog/sensor_freiberg/plots.png
-excerpt: Was verbindet GOAT mit einem Projekt für Lieferroboter? Die Nutzung derselben Infrastruktur! Wir haben eine prototypische Sensorbox eingesetzt, um die automatisierte Erhebung von Straßendaten zu erproben. 
+summary: Was verbindet GOAT mit einem Projekt für Lieferroboter? Die Nutzung derselben Infrastruktur! Wir haben eine prototypische Sensorbox eingesetzt, um die automatisierte Erhebung von Straßendaten zu erproben. 
 date: 2020-11-15
 ---
 Stellen Sie sich einmal vor, Sie öffnen die Tür, um Ihre Essens- oder Amazon-Lieferung in Empfang zu nehmen und… Überraschung! Vor Ihnen steht der kleine Roboter Wall-E aus dem gleichnamigen Disney-Film! Wie bitte? Wall-E? Naja, nicht ganz. Aber eines Tages könnten tatsächlich Lieferungen von autonomen Robotern durchgeführt werden. Moment… waren autonome Fahrzeuge nicht etwas, das Autos, Zügen oder LKWs vorbehalten war? Ganz und gar nicht! Autonome Fahrzeuge gibt es in den unterschiedlichsten Größen. Doch wie jedes selbstfahrende Fahrzeug, stehen auch diese vor einer der größten Herausforderungen, um uneingeschränkt zu funktionieren: sie brauchen ein genaues Bild der Umgebung, in der sie sich bewegen. 

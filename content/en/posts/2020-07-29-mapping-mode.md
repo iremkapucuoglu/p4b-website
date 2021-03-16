@@ -6,7 +6,7 @@ tags: [en]
 categories: [news]
 thumbnail: /images/blog/mapping-mode/thumbnail.png
 image: /images/blog/mapping-mode/thumbnail.png
-excerpt: We love OPEN SOURCE! It is the heart and soul of GOAT since since its start. Driven by this enthusiasm, we have created a new feature in GOAT that provides mapping challenges, encouraging users to participate in the OSM project and fill the data gaps.
+summary: We love OPEN SOURCE! It is the heart and soul of GOAT since since its start. Driven by this enthusiasm, we have created a new feature in GOAT that provides mapping challenges, encouraging users to participate in the OSM project and fill the data gaps.
 date: 2020-07-29
 ---
 We love OPEN SOURCE! It is the heart and soul of GOAT since the beginning. For that reason, GOAT’s architecture is completely built with an open source software, anyone can contribute while the operation and functionality of GOAT is completely free. Therefore, GOAT is mainly built with OpenStreetMap (OSM) data. Their geographical data is an indispensable data source for countless projects worldwide, and that is thanks to the thousands of mappers and contributors around the globe. We are keen to not only consume this data but moreover to contribute new data to the whole community. Therefore, we are mapping locally, wherever possible, when setting up GOAT in a particular study area. We are very excited to announce a new way to improve the OpenStreetMap data used by GOAT via its user interface. This feature is called OSM Mapping Mode.

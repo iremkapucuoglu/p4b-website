@@ -15,12 +15,18 @@
   {{ $secureCSS := $css | resources.Fingerprint "sha512" -}}
   <link rel="stylesheet" href="{{ $secureCSS.Permalink }}">
 {{ end -}}
+
 {{ $uikit := resources.Get "js/uikit.js" | minify -}}
 {{ $uikit_icons := resources.Get "js/uikit-icons.js" | minify -}}
 {{ $custom := resources.Get "js/custom.js" | minify -}}
-{{ $js := slice $uikit $uikit_icons $custom | resources.Concat "main.js" -}}
-<script src="{{ $js.Permalink }}"></script>
-
+{{ if eq (hugo.Environment) "development" -}}
+  {{ $js := slice $uikit $uikit_icons $custom | resources.Concat "main.js" -}}
+  <script src="{{ $js.Permalink }}"></script>
+{{ else -}}
+  {{ $js := slice $uikit $uikit_icons $custom | resources.Concat "main.js" -}}
+  {{ $jsProd := $js | resources.Fingerprint "sha512" -}}
+  <script src="{{ $jsProd.Permalink }}" integrity="{{ $jsProd.Data.Integrity }}" crossorigin="anonymous"></script>
+{{ end -}}
 <!-- Matomo -->
 <script type="text/javascript">
   var _paq = _paq || [];

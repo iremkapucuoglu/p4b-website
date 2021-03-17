@@ -4,8 +4,7 @@ layout: blocks
 header:
   layout: left
   heading: Let's balance the future together!
-  text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla. '
+  text: 'Digital planning support tools to shape innovative and sustainable cities and regions.'
   image: "/images/heatmap-muc.PNG"
   button:
     text: Try Goat

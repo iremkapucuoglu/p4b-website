@@ -1,13 +1,13 @@
 ---
-title: Zuhause
+title: Home
 layout: blocks
 header:
   layout: left
-  heading: Lasst uns gemeinsam eine ausgewogene Zukunft planen!
-  text: ''
+  heading: Lasst eine ausgewogene Zukunft planen!
+  text: 'Digitale Planungswerkzeuge zur Gestaltung nachhaltiger und innovativer Städte und Regionen.'
   image: "/images/heatmap-muc.PNG"
   button:
-    text: Try Goat
+    text: GOAT testen
     url: "/goatlive/"
   background: default
   background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
@@ -16,10 +16,7 @@ blocks:
   block: card
   layout: left
   background: default
-  text: 'Our aim is to help planners and decision-makers to promote active mobility
-    and plan for a balanced future. By providing understandable planning tools, we
-    are transforming spatial and transport planning towards a more open, joyful and
-    efficient reality. '
+  text: 'Planer*innen und Entscheidungsträger*innen. Durch die Bereitstellung von verständlichen Planungstools begleiten wir die Stadt- und Verkehrsplanung in eine offenere, spaßigere und effizienteren Realität.'
   heading: Spielwiese zur Gestaltung lebenswerter Räume
   image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
   video: ''
@@ -32,10 +29,10 @@ blocks:
     heading: Innovation
     text: 'Always driving for cutting-edge technology. '
   - icon: "/images/icon-joy.svg"
-    heading: Joy
+    heading: Spaß
     text: Make urban and transport planning fun.
   - icon: "/images/icon-planning.svg"
-    heading: Balance
+    heading: Nachhaltigkeit
     text: Evidence-based planning decisions.
   text: ''
   heading: Our Values

@@ -4,7 +4,7 @@
 
 <body>
   {{ if or .Site.Params.banner.en.text .Site.Params.banner.de.text }}
-    <div class="uk-alert-danger uk-text-center" uk-alert>
+    <div class="uk-alert-danger uk-text-center uk-margin-remove" uk-alert>
       <p>{{ index .Site.Params.banner site.Language.Lang "text" }}</p>
     </div>
   {{ end }}

@@ -7,7 +7,7 @@ title = "Plan4Better"
 weight = 2
 [[languages.de.menu.center]]
 name = "GOAT"
-url = "/"
+url = ""
 weight = 1
 [languages.de.menu.center.params]
 heading = "Geo Open Accessibility Tool - GOAT"
@@ -15,27 +15,27 @@ text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeit
 [[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"
-url = "/was-ist-goat/"
+url = ""
 weight = 2
 [[languages.de.menu.center]]
 name = "GOAT-live"
 parent = "GOAT"
-url = "/goatlive/"
+url = ""
 weight = 3
 [[languages.de.menu.center]]
 name = "Videos"
 parent = "GOAT"
-url = "/videos/"
+url = ""
 weight = 4
 [[languages.de.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
-url = "/tutorials/isochrone/"
+url = ""
 weight = 5
 [[languages.de.menu.center]]
 name = "Docs"
 parent = "GOAT"
-url = "/docs/background/"
+url = ""
 weight = 6
 [[languages.de.menu.center]]
 name = "Competences"
@@ -66,15 +66,15 @@ url = "/consultancy/"
 weight = 5
 [[languages.de.menu.center]]
 name = "Blog"
-url = "/blog/"
+url = ""
 weight = 3
 [[languages.de.menu.center]]
 name = "Team"
-url = "/team/"
+url = ""
 weight = 4
 [[languages.de.menu.center]]
 name = "Kontakt"
-url = "/kontakt/"
+url = ""
 weight = 5
 [[languages.de.menu.footer]]
 name = "Team"
@@ -118,7 +118,7 @@ title = "Plan4Better"
 weight = 1
 [[languages.en.menu.center]]
 name = "GOAT"
-url = "/"
+url = ""
 weight = 1
 [languages.en.menu.center.params]
 heading = "Geo Open Accessibility Tool - GOAT"
@@ -126,27 +126,27 @@ text = "GOAT is an interactive webtool for accessibility analysis on walking and
 [[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
-url = "/what-is-goat/"
+url = ""
 weight = 2
 [[languages.en.menu.center]]
 name = "GOAT-live"
 parent = "GOAT"
-url = "/goatlive/"
+url = ""
 weight = 3
 [[languages.en.menu.center]]
 name = "Videos"
 parent = "GOAT"
-url = "/videos/"
+url = ""
 weight = 4
 [[languages.en.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
-url = "/tutorials/isochrone/"
+url = ""
 weight = 5
 [[languages.en.menu.center]]
 name = "Docs"
 parent = "GOAT"
-url = "/docs/background/"
+url = ""
 weight = 6
 [[languages.en.menu.center]]
 name = "Competences"
@@ -204,15 +204,15 @@ url = "/link6/"
 weight = 9
 [[languages.en.menu.center]]
 name = "Blog"
-url = "/blog/"
+url = ""
 weight = 3
 [[languages.en.menu.center]]
 name = "Team"
-url = "/team/"
+url = ""
 weight = 4
 [[languages.en.menu.center]]
 name = "Contact"
-url = "/contact/"
+url = ""
 weight = 5
 [[languages.en.menu.footer]]
 name = "Team"

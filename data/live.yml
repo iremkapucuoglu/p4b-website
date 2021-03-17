@@ -4,10 +4,9 @@
     en: Munich
     de: München
   text:
-    en: Munich is our home-base! This version of GOAT is currently the stablest version
-      of the tool and will be updated frequently.
-    de: München ist unsere Home-Base! Diese Version von GOAT ist derzeit die stabilste
-      Version des Tools und wird regelmäßig aktualisiert.
+    en: Munich is our home-base! This version of GOAT is usually the most up-to-date.
+    de: München ist unsere Home-Base! Diese Version von GOAT ist in der Regel die
+      am häufigsten aktualisierte.
   url: https://muenchen.open-accessibility.org/
   comments: München
 - image: "/images/ffb.png"

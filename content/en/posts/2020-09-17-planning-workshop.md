@@ -14,7 +14,7 @@ This year, the accessibility instrument GOAT has been experiencing continuous de
 
 We are very thankful to the participating city planners, transport planners, architects, and politicians who have contributed with their precious feedback to the development of GOAT. All three planning workshops lasted around three hours and were conducted following a similar agenda. First, GOAT was introduced to the participants so they could familiarize themselves with the main features of the tool. The project team then presented the planning questions that had been prepared for the respective contexts in consultation with the local planners beforehand. The participants formed groups based on their interests and worked on the planning questions. A special challenge was the COVID-19 situation, but an in-person workshop was favored and potential risks were mitigated with keeping distance and wearing masks.
 
-{% include image.html src="/images/blog/planning_workshops/images_FR_FFB.png" alt="Presentation of the results of the planning questions" %} 
+![](/images/blog/planning_workshops/images_FR_FFB.png)
 
 The planning questions were based on real planning tasks from each municipality. Among them:
 - <b>New development areas</b>: Scenario for new residential development with local supply (e.g. kindergarten, supermarket) and additional path connections
@@ -24,7 +24,7 @@ The planning questions were based on real planning tasks from each municipality.
 
 The following illustration shows the results of one exemplary planning question. It deals with the effects of densification on a rural community in terms of accessibility and therefore it pictures a typical challenge in urban and transport planning.
 
-{% include image.html src="/images/blog/planning_workshops/Blogpost_planning_workshop_graphic.png" alt="Processing of an exemplary planning question" %}
+![](/images/blog/planning_workshops/Blogpost_planning_workshop_graphic.png)
 
 While processing the planning questions and during the feedback round, the participants had many good ideas for improvements. 
 Some selected examples are:

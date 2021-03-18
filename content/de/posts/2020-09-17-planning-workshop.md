@@ -16,7 +16,7 @@ Wir sind den teilnehmenden StadtplanerInnen, VerkehrsplanerInnen, ArchitektInnen
 So konnten sie sich bereits mit den Hauptfunktionen des Tools vertraut machen. Das Projektteam präsentierte anschließend aktuelle Planungsfragen, die bereits im Vorfeld in Absprache mit den lokalen StadtplanerInnen, für den jeweiligen Kontext vorbereitet wurden.
 Darauf folgend bildeten die Teilnehmenden, auf Basis der jeweiligen Interessen, kleine Gruppen und arbeiteten gemeinsam an den Planungsfragen. Eine besondere Herausforderung stellte die COVID-19-Situation dar, potenzielle Risiken wurden durch das Einhalten der Abstandregeln und das Tragen von Masken minimiert.
 
-{% include image.html src="/images/blog/planning_workshops/images_FR_FFB.png" alt="Präsentation der bearbeiteten Planungsfragen" %} 
+![](/images/blog/planning_workshops/images_FR_FFB.png)
 
 Die Planungsfragen basierten auf realen Planungsfragenaus jeder einzelnen Kommune. Unter anderem wurden diese diskutiert:
 - <b>Neue Entwicklungsgebiete</b>: Entwicklung von Szenarien für neue Wohngebiete mit lokaler Nahversorgung (z.B. Kindergarten, Supermarkt) und neuen Wegverbindungen
@@ -26,7 +26,7 @@ Die Planungsfragen basierten auf realen Planungsfragenaus jeder einzelnen Kommun
 
 Die folgende Abbildung zeigt die Ergebnisse einer beispielhaften Planungsfrage. Dabei ging es um die Auswirkungen einer Verdichtung auf eine ländliche Gemeinschaft in Bezug auf die Erreichbarkeit und stellt dadurch eine typische Herausforderung in der Stadt- und Verkehrsplanung dar.
 
-{% include image.html src="/images/blog/planning_workshops/Blogpost_planning_workshop_graphic_de.png" alt="Bearbeitung einer exemplarischen Planungsfrage" %}
+![](/images/blog/planning_workshops/Blogpost_planning_workshop_graphic_de.png)
 
 Bei der Bearbeitung der Planungsfragen und während der Feedbackrunde hatten die Teilnehmenden viele Verbesserungsvorschläge. 
 Einige ausgewählte Beispiele sind:

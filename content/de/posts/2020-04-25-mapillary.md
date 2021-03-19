@@ -11,10 +11,14 @@ image: /images/blog/mapillary/mapillary_bike.jpg
 summary: Im Rahmen der Übertragung von GOAT auf Fürstenfeldbruck haben wir die gesamte Stadt mit Mapillary erhoben und somit eine wertvolle Datenquelle erzeugt.
 date: 2020-04-25
 ---
+## Datenbedarf
 
-Daten, Daten und noch mehr Daten! Im Rahmen unserer Arbeit im [mFund Projektes](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html) haben wir GOAT auf die Gemeinde Fürstenfeldbruck übertragen. Um dies zu bewerkstelligen, haben wir nach verfügbaren Daten aus unterschiedlichen Quellen gesucht.
+Daten, Daten und noch mehr Daten! Im Rahmen unserer Arbeit im [mFUND Projektes](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html) haben wir GOAT auf die Gemeinde Fürstenfeldbruck übertragen. Um dies zu bewerkstelligen, haben wir nach verfügbaren Daten aus unterschiedlichen Quellen gesucht.
 
 OpenStreetMap war, wie immer, eine hilfreiche Informationsquelle, dennoch haben viele Details gefehlt. Deshalb haben wir uns [Mapillary](https://www.mapillary.com/) zu Nutze gemacht. Mapillary kann als „das Google Street View der Open Source Community“ beschrieben werden. Menschen aus aller Welt haben Bildmaterial von Millionen von Kilometern an städtischen Straßen, Fußgänger- oder Fahrradwegen aufgenommen. Von ihren Autos aus, beim Fahrradfahren oder auch einfach im Zufußgehen. Das Ziel ist es, eine aktuelle Quelle für das Geschehen auf den Straßen zu erhalten. Das ist aber noch längst nicht alles. Das Besondere an Mapillary liegt in der KI-basierten Objekterkennung. So können verschiedenste Objekte (Verkehrsschilder, Hydranten, Fahrbahnmarkierungen, Fahrradständer etc.) automatisch auf den Bildern erkannt und so ihre räumliche Position auf der Karte ermittelt werden. 
+
+## Mapillary in Fürstenfeldbruck
+
 Da in Fürstenfeldbruck lediglich ein kleiner Teil des Straßennetzwerkes im Vorfeld bereits in Mapillary erfasst war, haben wir uns dazu entschieden, raus zu gehen und die Bilder selbst aufzunehmen. Dieser Screenshot zeigt, welchen Bereich wir bisher abgedeckt haben: 
 
 ![](/images/blog/mapillary/mapillary_ffb.png)
@@ -28,14 +32,21 @@ Als bestes Setup erwies sich die GoPro für die Bilder in Kombination mit einem 
 
 _Abbildung 2. Fahrrad mit GoPro in der S-Bahn, aufgenommen auf dem Weg nach Fürstenfeldbruck_
 
-Bisher haben wir innerhalb dieses Gebietes 210 km in 8 Tagen erfasst. Verglichen mit der, in der Planungszeit geschätzten Arbeitszeit (5 Tage für 240km), war die tatsächliche Arbeitszeit ca. 2:30 Stunden pro Tag (durch die Akkulaufzeit begrenzt) und die durchschnittliche Geschwindigkeit beim Fahrradfahren lag bei ca. 10km/h. Der erhöhte Zeitaufwand liegt u.a. daran, dass es notwendig war, einige Straßenabschnitte mehrmals zu befahren, um in alle Teile des Straßennetzwerks zu gelangen. Ein paar wenige Bereiche und Fußgängerwege sind aktuell noch übrig, aber die meisten Straßenabschnitte sind nun abgedeckt. Um dieser geringen Bilderfassungsrate entgegen zu wirken, haben wir uns an einem Tag mit vier Mitgliedern der GOAT-Community als Gruppe getroffen und die umliegenden Dörfer fotografiert. 
+Bisher haben wir innerhalb dieses Gebietes 210 km in 8 Tagen erfasst. Verglichen mit der, in der Planungszeit geschätzten Arbeitszeit (5 Tage für 240km), war die tatsächliche Arbeitszeit ca. 2:30 Stunden pro Tag (durch die Akkulaufzeit begrenzt) und die durchschnittliche Geschwindigkeit beim Fahrradfahren lag bei ca. 10km/h. Der erhöhte Zeitaufwand liegt u.a. daran, dass es notwendig war, einige Straßenabschnitte mehrmals zu befahren, um in alle Teile des Straßennetzwerks zu gelangen. Ein paar wenige Bereiche und Fußgängerwege sind aktuell noch übrig, aber die meisten Straßenabschnitte sind nun abgedeckt. Um dieser geringen Bilderfassungsrate entgegen zu wirken, haben wir uns an einem Tag mit vier Mitgliedern der GOAT-Community als Gruppe getroffen und die umliegenden Ortschaften fotografiert. 
+
+## Gemeinschaftliche Erhebung
+
 Um diese Aufgabe zu organisieren, haben wir bei Mapillary die Funktion „Capture projects“ genutzt. Mit dieser Funktion kann der Nutzende die Umrisse des Bereichs, der erfasst werden soll, definieren. In unserem Fall Fürstenfeldbruck. Im Anschluss daran, werden die Umrisse in Teilbereiche unterteilt, die als „tasks“, also als Aufgaben, bezeichnet und den „Drivern“ (Mitgliedern der Gruppe) zugeteilt (Abbildung 3). Bevor wir in das Untersuchungsgebiet gefahren sind, musste jedes Mitglied zunächst die App „Mapillary Driver“ herunterladen. Dort können alle „Driver“ sehen, welcher Teilbereich ihnen zugewiesen wurde und welche Straßen noch erhoben werden müssen. So war es sehr einfach, die Aufgaben zu koordinieren und das komplette Gebiet mit Bildaufnahmen abzudecken.
 
 ![](/images/blog/mapillary/mapillary_tasks.png)
 
 _Abbildung 3. Das Gebiet in Fürstenfeldbruck, aufgeteilt nach Aufgaben und Zuordnung der einzelnen Fahrer*Innen_
 
-Durch diese Arbeiten liefern wir neue Daten und verbessern die bereits bestehen Daten zur Weiterentwicklung der GOAT-Funktionen in Fürstenfeldbruck. Gleichzeitig freuen wir uns aber auch sehr, die Daten mit allen Interessierten zu teilen. Die Informationen aus den Bildern und die KI-Algorithmen von Mapillary helfen u.a. dabei, die OSM-Daten zu verbessern und somit eine genauere Berechnungsgrundlage für das Routing zu schaffen. Außerdem macht es dich die Möglichkeit, aktuelle Bilder einzusehen, einfach, die Straße aus der Ferne zu analysieren. 
+Durch diese Arbeiten liefern wir neue Daten und verbessern die bereits bestehen Daten zur Weiterentwicklung der GOAT-Funktionen in Fürstenfeldbruck. Gleichzeitig freuen wir uns aber auch sehr, die Daten mit allen Interessierten zu teilen. Die Informationen aus den Bildern und die KI-Algorithmen von Mapillary helfen u.a. dabei, die OSM-Daten zu verbessern und somit eine genauere Berechnungsgrundlage für das Routing zu schaffen. 
+
+## Einbindung der Aufnahmen in GOAT
+
+Außerdem macht es die Möglichkeit, aktuelle Bilder einzusehen, einfach, die Straße aus der Ferne zu analysieren. 
 
 
 <iframe data-uk-responsive class="embed-responsive-item" src="https://player.vimeo.com/video/411741106?texttrack=en&autoplay=1&loop=1&autopause=0" allow="autoplay; fullscreen" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen width="1920" height="1080"></iframe>
@@ -48,6 +59,8 @@ So können Details überprüft werden, wie die Qualität von Geh- und Radwegen; 
 ![](/images/blog/mapillary/mapillary_sequences.png)
 
 _Abbildung 5. Erfasste Bildsequenzen innerhalb unterschiedlicher Landnutzungsbereiche_
+
+## Verbesserung von OSM
 
 Die Mapillary-Aufnahmen wurden genutzt, um die Qualität von OpenStreetMap-Daten zu verbessern. Wie auf dem Bild unten dargestellt, können Mapillary Bilder einfach und direkt bei der Bearbeitung in OSM genutzt werden. Die aufgenommenen Bilder im Gebiet Fürstenfeldbruck werden als grüne Punkte dargestellt.
 

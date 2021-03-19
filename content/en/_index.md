@@ -74,6 +74,6 @@ blocks:
   heading: Funded by
   padding_top: remove
   text: The development of GOAT was funded by the BMVI from November 2019 to February
-    2021 at TUM as part of mFund funding line 1.
+    2021 at TUM as part of mFUND funding line 1.
 
 ---

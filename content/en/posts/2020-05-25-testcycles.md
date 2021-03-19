@@ -7,12 +7,16 @@ tags: [en]
 categories: [application in practice]
 thumbnail: /images/blog/testcycles/Testzyklus.png
 image: /images/blog/testcycles/Testzyklus.png
+summary: By end of this year, we aim to launch version GOAT1.0! To achieve a high usability and usefulness, GOAT is currently being tested extensively by a group of experts in the fields of transport and urban planning.
 date: 2020-05-25
 ---
+## Background 
 
-By end of this year, we aim to launch version GOAT1.0! To achieve a high usability and usefulness, GOAT is currently being tested extensively by a group of experts in the fields of transport and urban planning. The funding provided by [mFund](https://www.bmvi.de/DE/Themen/Digitales/mFund/Ueberblick/ueberblick.html) is allowing us to organize different workshops with planners from the municipalities Fürstenfeldbruck, Freising and Munich.
+By end of this year, we aim to launch version GOAT1.0! To achieve a high usability and usefulness, GOAT is currently being tested extensively by a group of experts in the fields of transport and urban planning. The funding provided by [mFUND](https://www.bmvi.de/DE/Themen/Digitales/mFund/Ueberblick/ueberblick.html) is allowing us to organize different workshops with planners from the municipalities Fürstenfeldbruck, Freising and Munich.
 
 The most extensive series of workshops was conducted with practitioners of the municipality of Fürstenfeldbruck. Extensive knowledge and experience from transport and land-use planners, GIS-experts but also from the perspective of the social service department, were fed in three test cycles into the development process of GOAT.
+
+## 1. Workshop
 
 At the first workshop, the participants got a detailed introduction into the tool GOAT and its possible extensions and applications. Afterwards, the participants had one hour to try out the tool. The TUM project team observed the use of the web tool and documented the suggestions for improvement. Feedback was elicited through a round table discussion and an [online survey](https://www.umfrage.sv.bgu.tum.de/index.php/837925?lang=en) that we kindly invite all GOAT followers to answer. The participants confirmed the usefulness and the potential of GOAT in tackling different planning questions in a short amount of time. They also conceived that it is well suited for visualizing current planning issues, which can be used as an argumentation aid.
 
@@ -20,9 +24,15 @@ At the first workshop, the participants got a detailed introduction into the too
 
 The practical experience of each workshop is incorporated into the development process. After each workshop, further development perspectives, suggestions and user’s feedback are evaluated and continuously updated and made freely available on the project website, so that an improved GOAT version is provided at each test cycle.
 
+## 2. Workshop
+
 The second workshop started with a short presentation on the new version of GOAT and the focus was laid on the practical use of the tool by the workshop participants. For this purpose, tutorials were provided in the form of worksheets that allowed participants to test the new version of GOAT independently and to assess its usefulness and user-friendliness based on local planning issues. For this workshop, [a version of Fürstenfeldbruck](https://ffb.open-accessibility.org/) was provided, which was developed after the first workshop and contains all recent features such as cycling routing and scenarios on land-use changes. The GOAT-team helped with questions and observed and documented any difficulties that arose.
 
+## 3. Workshop
+
 The third workshop was done virtually, due to the current COVID-19 situation. This test cycle was similar to the second one. It started with a presentation on the new features and improvements of GOAT, which was followed by practical use of the tool by the participants. Numerous new layers such as accidents, noise levels, protected landscape areas, and buildings and land use were presented at this workshop. Furthermore, the new feature for the integration of Mapillary imagery was used and well received.
+
+## Feedback
 
 The participants suggested many good ideas for improvements. Among them:
 

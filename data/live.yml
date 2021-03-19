@@ -4,10 +4,9 @@
     en: Munich
     de: München
   text:
-    en: Munich is our home-base! This version of GOAT is currently the stablest version
-      of the tool and will be updated frequently.
-    de: München ist unsere Home-Base! Diese Version von GOAT ist derzeit die stabilste
-      Version des Tools und wird regelmäßig aktualisiert.
+    en: Munich is our home-base! This version of GOAT is usually the most up-to-date.
+    de: München ist unsere Home-Base! Diese Version von GOAT ist in der Regel die
+      am häufigsten aktualisierte.
   url: https://muenchen.open-accessibility.org/
   comments: München
 - image: "/images/ffb.png"
@@ -15,20 +14,19 @@
     en: Fürstenfeldbruck
     de: Fürstenfeldbruck
   text:
-    en: This version of GOAT has the most recent features and contains first approaches
-      of cycling routing and land-use changes.
-    de: Diese Version von GOAT verfügt über die neuesten Funktionen und enthält erste
-      Ansätze für das Fahrradrouting und Flächennutzungsänderungen.
+    en: 'This version of GOAT is a custom version for the municipality of Fürstenfeldbruck
+      near Munich. '
+    de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Fürstenfeldbruck.
   url: https://ffb.open-accessibility.org/
   comments: Fürstenfeldbruck
 - image: "/images/bogota.png"
   title:
-    en: Bogota
-    de: Bogota
+    en: Bogotá
+    de: Bogotá
   text:
-    en: Bogota is our first trial in Latin-America and is developed in a Master thesis
+    en: Bogota is our first trial in Latin-America and was developed in a Master thesis
       project. Special attention was given on customizing GOAT to the local context.
-    de: Bogota ist ein erster Versuch in Lateinamerika. Diese Version wird im Rahmen
+    de: Bogota ist ein erster Versuch in Lateinamerika. Diese Version wurde im Rahmen
       einer Masterarbeit entwicklelt und wurde auf die lokalen Gegebenheiten angepasst.
   url: https://bogota.open-accessibility.org/
   comments: Bogota
@@ -37,10 +35,8 @@
     en: Freising
     de: Freising
   text:
-    en: This version of GOAT has the most recent features and contains first approaches
-      of cycling routing and land-use changes.
-    de: Diese Version von GOAT verfügt über die neuesten Funktionen und enthält erste
-      Ansätze für das Fahrradrouting und Flächennutzungsänderungen.
+    en: Diese Version von GOAT ist eine individualisierte Version für die Stadt Freising.
+    de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Freising.
   url: https://freising.open-accessibility.org/
   comments: Freising
 - image: "/images/hasenbergl.png"
@@ -48,9 +44,9 @@
     en: Hasenbergl-Lerchenau
     de: Hasenbergl-Lerchenau
   text:
-    en: This version was developed within a master thesis project and contains detailed
-      analysis options on walkability.
-    de: Diese Version wurde im Rahmen eines Masterarbeitsprojekts entwickelt und enthält
-      detaillierte Analysemöglichkeiten zur fußläufigen Erreichbarkeit.
+    en: This version was developed within a master thesis project at TUM and contains
+      detailed analysis options on walkability.
+    de: Diese Version wurde im Rahmen einer Masterarbeit an der TUM entwickelt und
+      enthält detaillierte Analysemöglichkeiten zur fußläufigen Erreichbarkeit.
   url: https://hasenbergl.open-accessibility.org/
   comments: Hasenbergl-Lerchenau

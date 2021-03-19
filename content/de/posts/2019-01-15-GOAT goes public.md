@@ -4,7 +4,7 @@ title:  "GOAT<sub>beta</sub> ist online!"
 author: pajares
 lang: de
 tags: [de]
-categories: [news]
+categories: [News, Development]
 thumbnail: /images/blog/goat_goes_public/isochrone.jpg
 image: /images/blog/goat_goes_public/isochrone.jpg
 date: 2019-01-15

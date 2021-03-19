@@ -11,7 +11,7 @@ url = ""
 weight = 1
 [languages.de.menu.center.params]
 heading = "Geo Open Accessibility Tool - GOAT"
-text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen für den Fuß- und Radverkehr. Detaillierte Infos finden Sie auf den folgenden Seiten."
+text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen für den Fuß- und Radverkehr, sowie die Stadt- und Quartiersplanung. Detaillierte Infos finden Sie auf den folgenden Seiten."
 [[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"
@@ -85,8 +85,12 @@ name = "Kontakt"
 url = "/kontakt/"
 weight = 2
 [[languages.de.menu.footer]]
-name = "Imprint & Privacy"
-url = "/imprint-privacy/"
+name = "Impressum"
+url = "/imprint/"
+weight = 3
+[[languages.de.menu.footer]]
+name = "Datenschutzerklärung"
+url = "/privacy/"
 weight = 3
 [[languages.de.menu.right]]
 name = "GOAT testen"
@@ -204,15 +208,15 @@ url = "/link6/"
 weight = 9
 [[languages.en.menu.center]]
 name = "Blog"
-url = ""
+url = "/blog/"
 weight = 3
 [[languages.en.menu.center]]
 name = "Team"
-url = ""
+url = "/team/"
 weight = 4
 [[languages.en.menu.center]]
 name = "Contact"
-url = ""
+url = "/contact/"
 weight = 5
 [[languages.en.menu.footer]]
 name = "Team"
@@ -223,8 +227,12 @@ name = "Contact us"
 url = "/contact/"
 weight = 2
 [[languages.en.menu.footer]]
-name = "Imprint & Privacy"
-url = "/imprint-privacy/"
+name = "Imprint"
+url = "/imprint/"
+weight = 3
+[[languages.en.menu.footer]]
+name = "Privacy"
+url = "/privacy/"
 weight = 3
 [[languages.en.menu.right]]
 name = "Try GOAT"

@@ -4,7 +4,7 @@ title:  "Gaining experiences from practitioners"
 author: pajares
 lang: en
 tags: [en]
-categories: [news]
+categories: [application in practice]
 thumbnail: /images/blog/testcycles/Testzyklus.png
 image: /images/blog/testcycles/Testzyklus.png
 date: 2020-05-25
@@ -16,7 +16,7 @@ The most extensive series of workshops was conducted with practitioners of the m
 
 At the first workshop, the participants got a detailed introduction into the tool GOAT and its possible extensions and applications. Afterwards, the participants had one hour to try out the tool. The TUM project team observed the use of the web tool and documented the suggestions for improvement. Feedback was elicited through a round table discussion and an [online survey](https://www.umfrage.sv.bgu.tum.de/index.php/837925?lang=en) that we kindly invite all GOAT followers to answer. The participants confirmed the usefulness and the potential of GOAT in tackling different planning questions in a short amount of time. They also conceived that it is well suited for visualizing current planning issues, which can be used as an argumentation aid.
 
-{% include image.html src="/images/blog/testcycles/Testzyklus.png" alt="Goat workshop in the municipality of Fürstenfeldruck" %}
+![](/images/blog/testcycles/Testzyklus.png)
 
 The practical experience of each workshop is incorporated into the development process. After each workshop, further development perspectives, suggestions and user’s feedback are evaluated and continuously updated and made freely available on the project website, so that an improved GOAT version is provided at each test cycle.
 

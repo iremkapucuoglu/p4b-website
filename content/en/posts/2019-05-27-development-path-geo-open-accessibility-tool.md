@@ -4,7 +4,7 @@ title:  "Development path of GOAT"
 author: pajares
 lang: en
 tags: [en]
-categories: [news]
+categories: [news, development]
 thumbnail: /images/blog/development_path/thumbnail.png
 image: /images/blog/development_path/thumbnail.png
 date: 2019-05-27

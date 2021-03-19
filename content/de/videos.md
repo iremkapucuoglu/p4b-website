@@ -16,6 +16,6 @@ url = ""
 block = "videos"
 heading = "Quickstart Videos"
 template = "videos-block"
-text = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+text = "Hier finden Sie Videos zu den verschiendenen Funktionen von GOAT."
 
 +++

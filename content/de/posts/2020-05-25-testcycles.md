@@ -5,7 +5,7 @@ title:  "Einbezug von Expertenmeinungen"
 author: pajares
 lang: de
 tags: [de]
-categories: [news]
+categories: [Praxisanwendung]
 thumbnail: /images/blog/testcycles/Testzyklus.png
 image: /images/blog/testcycles/Testzyklus.png
 date: 2020-05-25
@@ -17,7 +17,7 @@ Die intensivste Reihe von Workshops wurde mit Anwendenden aus der Kommune Fürst
 
 Beim ersten Workshop erhielten die Teilnehmenden eine detaillierte Einführung in GOAT und dessen Funktionen. Anschließend konnten die Teilnehmenden das Werkzeug selbst ausprobieren und erhielten dafür eine Stunde Zeit. Das TUM-Projektteam beobachtete die Nutzung des Web-Tools und dokumentierte die geäußerten Verbesserungsvorschläge. Feedback von Teilnehmenden wurde bei einer offenen Gesprächsrunde eingeholt sowie durch eine [online Umfrage](https://www.umfrage.sv.bgu.tum.de/index.php/837925?lang=en). Wir möchten an dieser Stelle auch alle GOAT Follower dazu einladen, an dieser online Umfrage teilzunehmen. Die Workshop-Teilnehmenden bestätigten uns durch ihr Feedback den Nutzen und das Potenzial von GOAT um verschiedene Planungsfragen mit geringem Zeitaufwand zu bearbeiten. Sie fanden auch, dass das Tool gut geeignet sei, um aktuelle Planungsanliegen zu visualisieren und als Argumentationshilfe  zu dienen.
 
-{% include image.html src="/images/blog/testcycles/Testzyklus.png" alt="GOAT workshop in Fürstenfeldruck" %}
+![](/images/blog/testcycles/Testzyklus.png)
 
 Die praktische Erfahrung jedes Workshops fließt in den Entwicklungsprozess von GOAT ein. Nach jedem Workshop werden die genannten Entwicklungsperspektiven, Anregungen und das Feedback der NutzerInnen ausgewertet und schrittweise umgesetzt. Die neu entwickelten und angepassten Features werden auf der Projektwebsite frei zugänglich gemacht. So wird den Teilnehmenden bei jedem Testzyklus eine verbesserte GOAT-Version zur Verfügung gestellt.
 

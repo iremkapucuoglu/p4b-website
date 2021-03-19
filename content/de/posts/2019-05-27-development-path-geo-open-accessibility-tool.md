@@ -4,7 +4,7 @@ title:  "Der Entwicklungspfad von GOAT"
 author: pajares
 lang: de
 tags: [de]
-categories: [News, Development]
+categories: [News, Entwicklung]
 thumbnail: /images/blog/development_path/thumbnail.png
 image: /images/blog/development_path/thumbnail.png
 summary: Das Geo Open Accessibility Tool (GOAT) ist aktuell noch nicht dort, wo wir einmal hin möchten. Neben der fortwährenden Professionalisierung, die unabdingbar für ein wirklich nützliches und stabiles Erreichbarkeitsinstrument ist, werden in regelmäßigen Abständen weitere Funktionen implementiert.  

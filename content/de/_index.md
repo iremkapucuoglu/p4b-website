@@ -5,7 +5,7 @@ header:
   layout: left
   heading: Gemeinsam eine ausgewogene Zukunft planen!
   text: 'Digitale Planungswerkzeuge zur Gestaltung nachhaltiger Städte und Regionen.'
-  image: "/images/heatmap-muc.PNG"
+  image: "/images/heatmap-muc.png"
   button:
     text: GOAT testen
     url: "/goatlive/"
@@ -30,7 +30,7 @@ blocks:
     text: 'Stetige Operationalisierung der neusten Innovationen.'
   - icon: "/images/icon-joy.svg"
     heading: Spaß
-    text: 'Analysen müssen Spaß machen und einfach zu erstellen.'
+    text: 'Analysen sollen Spaß machen und einfach zu erstellen sein.'
   - icon: "/images/icon-planning.svg"
     heading: Nachhaltigkeit
     text: 'Maxime ist der Beitrag zu einer sozialeren und ökologischeren Welt.'
@@ -40,7 +40,7 @@ blocks:
   block: card
   layout: right
   background: default
-  image: "/images/header-home-image.jpg"
+  image: "/images/isochrone_amenities.PNG"
   text: 'Der Fuß- und Radverkehr benötigt eine attraktive Verkehrsinfrastruktur und nahe Ziele im Sinne der 15-Minuten-Stadt. 
   GOAT vereint durch den Erreichbarkeitsansatz diese zweie Dimension und liefert über digitale Karten dynamische Analysen.'
   heading: Was bieten wir?
@@ -70,6 +70,6 @@ blocks:
   - "/images/logo-bmvi.png"
   heading: Gefördert durch
   padding_top: remove
-  text: Die Entwicklung von GOAT vom BMVI zwischen November 2019 bis Februar 2021 im Rahmen der mFUND-Initiative (Förderlinie 1) an der TUM gefördert.
+  text: Die Entwicklung von GOAT wurde vom BMVI von November 2019 bis Februar 2021 im Rahmen der mFUND-Initiative (Förderlinie 1) an der TUM gefördert.
 
 ---

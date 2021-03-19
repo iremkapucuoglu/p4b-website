@@ -4,7 +4,7 @@ title:  "GOAT-beta ist online!"
 author: pajares
 lang: de
 tags: [de]
-categories: [News, Development]
+categories: [News, Entwicklung]
 thumbnail: /images/blog/goat_goes_public/isochrone.jpg
 image: /images/blog/goat_goes_public/isochrone.jpg
 summary: Ich freue mich, den ersten Release des Geo Open Accessibility Tools (GOAT) zu verkünden. In dieser ersten Version werden bereits erste Hauptfunktionen gebündelt, es werden aber noch viele weitere folgen. 

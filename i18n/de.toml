@@ -44,7 +44,7 @@ other = "Search blog"
 other = "No results found"
 
 [table_of_contents]
-other = "Content Overview"
+other = "Inhaltsübersicht"
 
 [navigate_docs]
 other = "Navigate Documentation"
@@ -56,7 +56,7 @@ other = "Navigate Tutorials"
 other = "Back to top"
 
 [post_table_of_contents]
-other = "Content Overview"
+other = "Inhaltsübersicht"
 
 [post_by]
 other = "By"

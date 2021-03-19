@@ -3,7 +3,7 @@ title: Home
 layout: blocks
 header:
   layout: left
-  heading: Lasst eine ausgewogene Zukunft planen!
+  heading: Gemeinsam eine ausgewogene Zukunft planen!
   text: 'Digitale Planungswerkzeuge zur Gestaltung nachhaltiger Städte und Regionen.'
   image: "/images/heatmap-muc.PNG"
   button:

@@ -8,6 +8,7 @@ tags: [de]
 categories: [Daten]
 thumbnail: /images/blog/mapillary/mapillary_bike.jpg
 image: /images/blog/mapillary/mapillary_bike.jpg
+summary: Im Rahmen der Übertragung von GOAT auf Fürstenfeldbruck haben wir die gesamte Stadt mit Mapillary erhoben und somit eine wertvolle Datenquelle erzeugt.
 date: 2020-04-25
 ---
 

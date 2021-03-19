@@ -85,8 +85,12 @@ name = "Kontakt"
 url = "/kontakt/"
 weight = 2
 [[languages.de.menu.footer]]
-name = "Imprint & Privacy"
-url = "/imprint-privacy/"
+name = "Impressum"
+url = "/imprint/"
+weight = 3
+[[languages.de.menu.footer]]
+name = "Datenschutzerklärung"
+url = "/privacy/"
 weight = 3
 [[languages.de.menu.right]]
 name = "GOAT testen"
@@ -223,8 +227,12 @@ name = "Contact us"
 url = "/contact/"
 weight = 2
 [[languages.en.menu.footer]]
-name = "Imprint & Privacy"
-url = "/imprint-privacy/"
+name = "Imprint"
+url = "/imprint/"
+weight = 3
+[[languages.en.menu.footer]]
+name = "Privacy"
+url = "/privacy/"
 weight = 3
 [[languages.en.menu.right]]
 name = "Try GOAT"

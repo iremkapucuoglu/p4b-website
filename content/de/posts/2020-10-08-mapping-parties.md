@@ -6,7 +6,7 @@ lang: de
 tags: [de]
 categories: [Daten]
 thumbnail: /images/blog/mapping_party/thumbnail.webp
-image: /images/blog/mapping_party/image_background.png
+image: /images/blog/mapping_party/image_background - banner.png
 summary: Der Lehrstuhl für Siedlungsstruktur und Verkehrsplanung organisiert regelmäßig Mapping-Partys mit dem Ziel die Qualität von OpenStreetMap OSM aktiv zu verbessern. OSM ist das prominenteste Beispiel einer durch crowdsourcing erhobenen open-source Datenbank.
 date: 2020-10-08
 ---

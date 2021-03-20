@@ -34,7 +34,7 @@ Die Planungsfragen basierten auf realen Planungsfragenaus jeder einzelnen Kommun
 
 Die folgende Abbildung zeigt die Ergebnisse einer beispielhaften Planungsfrage. Dabei ging es um die Auswirkungen einer Verdichtung auf eine ländliche Gemeinschaft in Bezug auf die Erreichbarkeit und stellt dadurch eine typische Herausforderung in der Stadt- und Verkehrsplanung dar.
 
-![](/images/blog/planning_workshops/Blogpost_planning_workshop_graphic_de.PNG)
+![](/images/blog/planning_workshops/Blogpost_planning_workshop_graphic_de.png)
 
 ## Feedback
 

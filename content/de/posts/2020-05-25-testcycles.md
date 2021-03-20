@@ -6,8 +6,8 @@ author: pajares
 lang: de
 tags: [de]
 categories: [Praxisanwendung]
-thumbnail: /images/blog/testcycles/Testzyklus.png
-image: /images/blog/testcycles/Testzyklus.png
+thumbnail: /images/blog/testcycles/Testzyklus - thumbnail.webp
+image: /images/blog/testcycles/Testzyklus - banner.webp
 date: 2020-05-25
 ---
 

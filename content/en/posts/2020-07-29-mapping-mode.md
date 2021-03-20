@@ -4,8 +4,8 @@ author: ramirez
 lang: en
 tags: [en]
 categories: [News, Development, Data]
-thumbnail: /images/blog/mapping-mode/thumbnail.png
-image: /images/blog/mapping-mode/thumbnail.png
+thumbnail: /images/blog/mapping-mode/mapping-mode-thumbnail.webp
+image: /images/blog/mapping-mode/mapping-mode-banner.webp
 summary: We love OPEN SOURCE! It is the heart and soul of GOAT since since its start. Driven by this enthusiasm, we have created a new feature in GOAT that provides mapping challenges, encouraging users to participate in the OSM project and fill the data gaps.
 date: 2020-07-29
 ---

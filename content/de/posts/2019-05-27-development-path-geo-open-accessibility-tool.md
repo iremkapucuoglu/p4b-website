@@ -5,8 +5,8 @@ author: pajares
 lang: de
 tags: [de]
 categories: [News, Development]
-thumbnail: /images/blog/development_path/thumbnail.png
-image: /images/blog/development_path/thumbnail.png
+thumbnail: /images/blog/development_path/thumbnail.webp
+image: /images/blog/development_path/banner.webp
 date: 2019-05-27
 ---
 

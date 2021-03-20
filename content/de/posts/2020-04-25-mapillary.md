@@ -6,8 +6,8 @@ author: ramirez
 lang: de
 tags: [de]
 categories: [Daten]
-thumbnail: /images/blog/mapillary/mapillary_bike.jpg
-image: /images/blog/mapillary/mapillary_bike.jpg
+thumbnail: /images/blog/mapillary/mapillary_bike-thumbnail.webp
+image: /images/blog/mapillary/mapillary_bike-banner.webp
 date: 2020-04-25
 ---
 

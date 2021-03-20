@@ -5,8 +5,8 @@ author: ramirez
 lang: de
 tags: [de]
 categories: [Entwicklung, Daten]
-thumbnail: /images/blog/sensor_freiberg/plots.png
-image: /images/blog/sensor_freiberg/plots.png
+thumbnail: /images/blog/sensor_freiberg/plots - thumbnail.webp
+image: /images/blog/sensor_freiberg/plots - banner.webp
 summary: Was verbindet GOAT mit einem Projekt für Lieferroboter? Die Nutzung derselben Infrastruktur! Wir haben eine prototypische Sensorbox eingesetzt, um die automatisierte Erhebung von Straßendaten zu erproben. 
 date: 2020-11-15
 ---

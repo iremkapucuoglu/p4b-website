@@ -5,8 +5,8 @@ author: jehle
 lang: de
 tags: [de]
 categories: [News, Entwicklung]
-thumbnail: /images/blog/additional_walkability_analyses/scenery_hasenbergl.jpg
-image: /images/blog/additional_walkability_analyses/scenery_hasenbergl.jpg
+thumbnail: /images/blog/additional_walkability_analyses/scenery_hasenbergl-thumbnail.webp
+image: /images/blog/additional_walkability_analyses/scenery_hasenbergl-banner.webp
 summary: Um lebenswerte Städte zu gestalten und eine nachhaltigere Mobilität zu prägen, ist es unabdingbar sich auf fußläufig erreichbare Umgebungen zu konzentrieren. Die wahrgenommene Qualität der Infrastruktur ist allerdings stark vom Einzelnen abhängig. In Deutschland sind zum Beispiel ein Drittel der Bevölkerung temporär Mobilitätseingeschränkt und 28% der Bevölkerung ist über 60 Jahre alt. Dies führt zu individuellen Bedürfnissen, wie beispielsweise ebene Bodenoberflächen und barrierefreie Gehwege.
 date: 2020-03-21
 ---

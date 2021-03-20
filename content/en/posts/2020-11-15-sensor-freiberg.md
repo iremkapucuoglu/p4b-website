@@ -5,8 +5,8 @@ author: ramirez
 lang: en
 tags: [en]
 categories: [development, data]
-thumbnail: /images/blog/sensor_freiberg/plots.png
-image: /images/blog/sensor_freiberg/plots.png
+thumbnail: /images/blog/sensor_freiberg/plots - thumbnail.webp
+image: /images/blog/sensor_freiberg/plots - banner.webp
 summary: How does the GOAT-team come to a project for on-street delivery robots? Of course we share the same walking and cycling environment. We have been using a prototype measuring box to automatically detect collect surface and smoothness information of road infrastructure. 
 date: 2020-11-15
 ---

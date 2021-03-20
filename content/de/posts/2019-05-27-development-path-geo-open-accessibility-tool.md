@@ -4,15 +4,19 @@ title:  "Der Entwicklungspfad von GOAT"
 author: pajares
 lang: de
 tags: [de]
-categories: [News, Development]
+categories: [News, Entwicklung]
 thumbnail: /images/blog/development_path/thumbnail.webp
 image: /images/blog/development_path/banner.webp
+summary: Das Geo Open Accessibility Tool (GOAT) ist aktuell noch nicht dort, wo wir einmal hin möchten. Neben der fortwährenden Professionalisierung, die unabdingbar für ein wirklich nützliches und stabiles Erreichbarkeitsinstrument ist, werden in regelmäßigen Abständen weitere Funktionen implementiert.  
 date: 2019-05-27
 ---
+## Entwicklungsprozess 
 
 Das Geo Open Accessibility Tool (GOAT) ist aktuell noch nicht dort, wo wir einmal hin möchten. Neben der fortwährenden Professionalisierung, die unabdingbar für ein wirklich nützliches und stabiles Erreichbarkeitsinstrument ist, werden in regelmäßigen Abständen weitere Funktionen implementiert.  
 
 Das Hauptanliegen, worauf wir uns in den vergangenen Monaten konzentriert haben, war es, die interaktive Netzwerkmodifikation und den Set-up Prozess zu verbessern. Dabei wurde bisher wenig Zeit investiert, um neue Features zu implementieren. Dennoch gibt es einige neue, innovative Funktionen, die bereits angedacht sind. Diese werden GOAT zu dem Status verhelfen, in dem die erste Version (GOAT 1.0) veröffentlicht wird. 
+
+## Zukunftsaussichten
 
 GOAT ist bislang in jeder Hinsicht noch ein persönliches Projekt, da die Finanzierung für die erste Veröffentlichung noch nicht gesichert ist. Folglich bleibt noch undefiniert, wann dieser bahnbrechende Release 1.0 stattfinden und GOAT somit vermarktet werden kann. Wir schätzen, dass dies in ein bis zwei Jahren umgesetzt wird. Ich finde es dennoch wichtig, die potenziellen künftigen Funktionen von GOAT zu kommunizieren und aufzuzeigen, welche Wege dieses Instrument einschlagen wird. Einige GOAT-Funktionen werden im Laufe der Entwicklung hinzukommen, während andere womöglich entfernt werden. 
 
@@ -67,6 +71,8 @@ Die folgende Tabelle gewährt einen Einblick in die Entwicklungsfelder. Dabei mu
 </table>
 
 Ich bin sehr offen für weitere Ideen oder Vorschläge aus der Community. GOAT ist ein Open-Source-Projekt und zielt daher auf eine starke Interaktion mit den Nutzern ab. Gerne einfach Kontakt aufnehmen! 
+
+## Das Problem mit den Daten
 
 Zusätzlich zu den aufgelisteten Verbesserungen, ist ein Schwerpunkt auch auf Datenfusionskonzepte und ein stärkeres Engagement in der OpenStreetMap-Community (OSM) ausgerichtet. Diejenigen, die GOAT bereits getestet haben, haben eventuell bereits bemerkt, dass die Demo-App momentan nur für die Stadt München erhältlich ist. GOAT kann zwar von jedem auf seinem eigenen Server installiert werden, viele wünschen sich aber, GOAT sofort in ihrem Anwendungsbereich nutzen zu können. 
 

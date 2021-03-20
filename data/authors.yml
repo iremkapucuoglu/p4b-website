@@ -2,15 +2,14 @@
 - username: pajares
   name: Elias Pajares
   title:
-    en: Researcher & Core Developer
-    de: Wissenschaftler & Entwickler
+    en: Co-CEO
+    de: Geschäftsführer
   image: "/images/elias_pajares.png"
   bio:
-    en: As core developer and transport researcher he initiated the development of
-      GOAT. As advocate for liveable cities he loves to develop innovative solutions
-      and trigger sustainable change.
-    de: Als Softwareentwickler und Verkehrswissenschaftler initierte er die Entwicklung
-      von GOAT. Als Verfechter für lebenswerte Städte begeistert er sich für innovativ
+    en: As initiator of GOAT and transport researcher he is leading the team with Ulrike. As advocate for 
+      liveable cities he loves to develop innovative solutions and trigger sustainable change.
+    de: Als Initiator von GOAT und Verkehrswissenschaftler leitet er das Team gemeinsam mit Ulrike Jehle. 
+      Als Verfechter für lebenswerte Städte begeistert er sich für innovative
       Lösungen und dem Anstoßen von nachhaltigem Wandel.
   github: https://github.com/EPajares
   website: ''
@@ -21,41 +20,35 @@
 - username: jehle
   name: Ulrike Jehle
   title:
-    en: Researcher & Core Developer
-    de: Wissenschaftlerin & Entwicklerin
+    en: Co-CEO
+    de: Geschäftsführerin
   image: "/images/ulrike_jehle.jpg"
   bio:
-    en: Core developer, traffic planner and open data enthusiast. To meet the challenges
-      of urban mobility, she is particularly engaged in strengthening active forms
-      of mobility.
-    de: Entwicklerin, Verkehrsplanerin und Open-Data-Fan. Um eine nachhaltige Verkehrslandschaft
-      zu gestalten, setzt Sie sich vor allem für die Förderung von aktiven Mobiliätsformen
-      ein.
+    en: As engineer and scientist she is leading the team with Elias. To shape liveable cities, 
+      she is particularly engaged in strengthening active forms of mobility and foster Open Data.
+    de: Als Umweltingenieurin und Wissenschaftlerin leitet sie das Team mit Elias Pajares. 
+      Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt Sie sich für die aktive Mobilität und die Förderung offener Daten ein.
   github: https://github.com/UJehle
   website: ''
   linkedin: https://www.linkedin.com/in/ulrike-jehle/
   team_member: true
   twitter: https://twitter.com/JehleUlrike
-  team_image: "/images/image263.jpg"
+  team_image: "/images/image208.jpg"
 - username: shkurti
   name: Majk Shkurti
   title:
-    en: External Core Developer
-    de: Externer Entwickler
+    en: CTO
+    de: Technischer Direktor
   image: "/images/majk_shkurti.png"
   bio:
-    en: As experienced WebGIS-developer he is focusing on the development of the userinterface.
-      His passion lies within maps, visualizations and creating GIS apps that are
-      accessible to everyone.
-    de: Als erfahrener WebGIS-Entwickler fokusiert Er sich auf die Entwicklung der
-      Benutzeroberfläche. Er begeistert sich für Karten, Viualisierungen und GIS-Anwendungen
-      die jedem zur Verfügung stehen.
+    en: As experienced WebGIS-developer he is leading the development. His passion lies in making map-based technologies useful and accessible for everyone.
+    de: Als erfahrener WebGIS-Entwickler leitet er die Entwicklung. Mit Leidenschaft verwandelte er kartenbasierte Technologien in sinnvolle und offene Anwendungen.
   github: https://github.com/majkshkurti
   website: ''
   linkedin: https://www.linkedin.com/in/majkshkurti/
   team_member: true
   twitter: ''
-  team_image: "/images/image285.jpg"
+  team_image: "/images/image134.jpg"
 - username: hassine
   name: Emna Ben Hassine
   title:

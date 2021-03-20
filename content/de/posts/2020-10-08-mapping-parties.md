@@ -7,12 +7,16 @@ tags: [de]
 categories: [Daten]
 thumbnail: /images/blog/mapping_party/thumbnail.webp
 image: /images/blog/mapping_party/image_background.png
-summary: The Chair of Urban Structure and Transport Planning is frequently organizing Mapping Parties with the motivation to actively improve the quality of OpenStreetMap (OSM), which is the most prominent example of an open, crowd-sourced geographic dataset.
+summary: Der Lehrstuhl für Siedlungsstruktur und Verkehrsplanung organisiert regelmäßig Mapping-Partys mit dem Ziel die Qualität von OpenStreetMap OSM aktiv zu verbessern. OSM ist das prominenteste Beispiel einer durch crowdsourcing erhobenen open-source Datenbank.
 date: 2020-10-08
 ---
+## OpenStreetMap
+
 Der Lehrstuhl für Siedlungsstruktur und Verkehrsplanung organisiert regelmäßig Mapping-Partys mit dem Ziel die Qualität von [OpenStreetMap (OSM)](https://www.openstreetmap.org/) aktiv zu verbessern. OSM ist das prominenteste Beispiel einer durch crowdsourcing erhobenen open-source Datenbank.
 
 OSM-Daten werden von vielen StadtplanerInnen, GeographInnen und EntwicklerInnen zu unterschiedlichen Zwecken eingesetzt. Allerdings werden von diesen Gruppen selten Beiträge zur Verbesserung der OSM-Daten geleistet. Das liegt meist daran, dass das Wissen darüber fehlt, wie einfach es ist einen Beitrag zu leisten. Dem wollen wir entgegenwirken und möchten Anwendende, die bisher noch nichts zum OSM beigetragen haben, ermutigen, Teil dieser dynamischen Community zu werden. Dank einfach zu bedienender mobiler Apps und Web-Tools kann jede/r, auch ohne Vorkenntnisse von OSM, einen Beitrag leisten.
+
+## Mapping Parties
 
 Die Mapping-Partys beginnen immer mit einer kurzen, allgemeinen Einführung in OSM und die Tools, die für den Mapping-Prozess genutzt werden. Die Teilnehmenden werden anschließend in kleinen Gruppen aufgeteilt und bekommen unterschiedliche Mapping-Aufgaben zugewiesen. Der Mapping-Wettbewerb findet in unterschiedlichen Teilen der Stadt statt und dauert ungefähr zwei Stunden. Im Anschluss werden die Beiträge ausgewertet und die Gewinner*Innen bei einem Get-Together bekannt gegeben. In den vergangenen Jahren haben wir hierzu schöne Locations, wie dem Englischen Garten in München, ausgewählt.
 
@@ -25,6 +29,8 @@ Auch dieses Jahr stellte keine Ausnahme dar und wir haben am 24. September eine 
 ![](/images/blog/mapping_party/MP_2020.png)
 
 _Abbildung 2. Mapping-Party in Zeiten von Covid-19. Es macht immer noch Spaß, aber wir bewahren eine sichere Entfernung!_
+
+## Beitrag zu Open Data 
 
 An diesem Event waren über 25 Teilnehmende aus unterschiedlichen Organisationen, wie der [Technischen Universität München](https://www.tum.de/), der [Technischen Universität Bergakademie Freiberg](https://tu-freiberg.de/en/university), [MunichWays](https://www.munichways.com/) sowie der [OSM-Community](https://wiki.openstreetmap.org/wiki/Join_the_community) beteiligt. Gemeinsam haben wir Daten zu über 1,000 Objekten (z.B. Radwege, POIs, Gebäude) und 1,700 Attribute in zwei Stunden Mapping erfasst. Da der Fokus dieser Mapping-Party auf der Verbesserung der Radwege- und POI-Daten lag, waren ‘surface’, ‘opening_hours’ and ‘segregated’ die am meisten hinzugefügten Attribute.
 

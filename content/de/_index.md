@@ -5,7 +5,7 @@ header:
   layout: left
   heading: Gemeinsam eine ausgewogene Zukunft planen!
   text: 'Digitale Planungswerkzeuge zur Gestaltung nachhaltiger Städte und Regionen.'
-  image: "/images/heatmap-muc.png"
+  image: "/images/heatmap-muc.webp"
   button:
     text: GOAT testen
     url: "/goatlive/"
@@ -40,7 +40,7 @@ blocks:
   block: card
   layout: right
   background: default
-  image: "/images/isochrone_amenities.PNG"
+  image: "/images/isochrone_amenities.webp"
   text: 'Der Fuß- und Radverkehr benötigt eine attraktive Verkehrsinfrastruktur und nahe Ziele im Sinne der 15-Minuten-Stadt. 
   GOAT vereint durch den Erreichbarkeitsansatz diese zweie Dimension und liefert über digitale Karten dynamische Analysen.'
   heading: Was bieten wir?

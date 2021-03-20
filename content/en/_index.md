@@ -5,7 +5,7 @@ header:
   layout: left
   heading: Let's balance the future together!
   text: 'Digital planning support tools to shape sustainable cities and regions.'
-  image: "/images/heatmap-muc.png"
+  image: "/images/heatmap-muc.webp"
   button:
     text: Try Goat
     url: "/goatlive/"
@@ -43,7 +43,7 @@ blocks:
   block: card
   layout: right
   background: default
-  image: "/images/isochrone_amenities.PNG"
+  image: "/images/isochrone_amenities.webp"
   text: Walking and cycling require attractive transport infrastructure and destinations
     at close distance (15-minute city). With the accessibility approach GOAT offers dynamic map-based analysis.
   heading: Our Offer

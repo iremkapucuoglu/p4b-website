@@ -1,5 +1,5 @@
 ---
-- image: "/images/munich.png"
+- image: "/images/munich.webp"
   title:
     en: Munich
     de: München
@@ -9,7 +9,7 @@
       am häufigsten aktualisierte.
   url: https://muenchen.open-accessibility.org/
   comments: München
-- image: "/images/ffb.png"
+- image: "/images/ffb.webp"
   title:
     en: Fürstenfeldbruck
     de: Fürstenfeldbruck
@@ -19,7 +19,7 @@
     de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Fürstenfeldbruck.
   url: https://ffb.open-accessibility.org/
   comments: Fürstenfeldbruck
-- image: "/images/bogota.png"
+- image: "/images/bogota.webp"
   title:
     en: Bogotá
     de: Bogotá
@@ -30,7 +30,7 @@
       einer Masterarbeit entwicklelt und wurde auf die lokalen Gegebenheiten angepasst.
   url: https://bogota.open-accessibility.org/
   comments: Bogota
-- image: "/images/freising.png"
+- image: "/images/freising.webp"
   title:
     en: Freising
     de: Freising
@@ -39,7 +39,7 @@
     de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Freising.
   url: https://freising.open-accessibility.org/
   comments: Freising
-- image: "/images/hasenbergl.png"
+- image: "/images/hasenbergl.webp"
   title:
     en: Hasenbergl-Lerchenau
     de: Hasenbergl-Lerchenau

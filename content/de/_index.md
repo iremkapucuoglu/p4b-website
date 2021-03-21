@@ -62,6 +62,10 @@ blocks:
   - "/images/logo-tum-1.png"
   text: ''
   padding_top: default
+  items:
+    - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
+    - logo: "/images/logo_mobidata-bw-1.jpg"
+    - logo: "/images/logo-tum-2.png"
 - template: logos-block
   block: logos
   background: default
@@ -71,5 +75,9 @@ blocks:
   heading: Gefördert durch
   padding_top: remove
   text: Die Entwicklung von GOAT wurde vom BMVI von November 2019 bis Februar 2021 im Rahmen der mFUND-Initiative (Förderlinie 1) an der TUM gefördert.
-
+  items:
+    - logo: "/images/logo-mfund.png"
+    - logo: "/images/logo-bmvi.svg"
+      text: 'Gefördert durch:'
+      text_2: 'aufgrund eines Beschlusses des Deutschen Bundestages'
 ---

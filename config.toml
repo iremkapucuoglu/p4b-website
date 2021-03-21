@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Plan4Better"
 [languages.de]
 contentDir = "content/de"
+languageName = "German"
 title = "Plan4Better"
 weight = 2
 [[languages.de.menu.center]]
@@ -118,6 +119,7 @@ weight = 3
 icon = "github"
 [languages.en]
 contentDir = "content/en"
+languageName = "English"
 title = "Plan4Better"
 weight = 1
 [[languages.en.menu.center]]
@@ -273,6 +275,8 @@ address = "Augustenstraße 49 <br>80333 München <br>Germany"
 email = "info@plan4better.de"
 mailchimp_form_action = ""
 mailchimp_hidden_name = ""
+ogimage = "images/logo.png"
+twitter = "@GoatTool"
 phone = "+49 89 2000 708 30"
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"

@@ -1,4 +1,4 @@
 ---
-title: Blog DE
+title: Blog
 url: "/de/blog/"
 ---

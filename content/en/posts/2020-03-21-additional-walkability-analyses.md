@@ -5,19 +5,19 @@ author: jehle
 lang: en
 tags: [en]
 categories: [news, development]
-thumbnail: /images/blog/additional_walkability_analyses/scenery_hasenbergl.jpg
-image: /images/blog/additional_walkability_analyses/scenery_hasenbergl.jpg
-summary: In order to create livable cities and shape a more sustainable mobility, it is crucial to focus on walkable environments. However, the quality of the infrastructure depends highly on the individual. For example, one-third of the German population is temporarily mobility impaired and 28% of the population is over 60 years old, which results in different requirements, such as smooth surfaces and barrier-free footpaths. 
+thumbnail: /images/blog/additional_walkability_analyses/scenery_hasenbergl-thumbnail.webp
+image: /images/blog/additional_walkability_analyses/scenery_hasenbergl-banner.webp
+summary: In order to create livable cities and shape a more sustainable mobility, it is crucial to focus on walkable environments. However, the quality of the infrastructure depends highly on the individual. 
 date: 2020-03-21
 ---
+## Creating livable spaces
 
-
-<i> 
--This blogpost gives a summary of my Master Thesis. If interested in more details, the complete document can be downloaded below. - 
-</i>
+*- This blogpost gives a summary of my Master Thesis. If interested in more details, the complete document can be downloaded below. -*
 
 
 In order to create livable cities and shape a more sustainable mobility, it is crucial to focus on walkable environments. However, the quality of the infrastructure depends highly on the individual. For example, one-third of the German population is temporarily mobility impaired and 28% of the population is over 60 years old, which results in different requirements, such as smooth surfaces and barrier-free footpaths. To provide good walking accessibility, all these different needs must be considered in the planning processes, which makes providing appropriate infrastructure quite a complex challenge.
+
+## The four accessibility components
 
 Accessibility instruments as planning support systems can help to face these challenges. Ideally, all four components of accessibility (land-use component, transportation component, temporal component, individual component) are included in an accessibility instrument. This thesis examines, how those four components can be included in GOAT. To realize this, the four accessibility component schema with the associated attributes was applied to GOAT, as shown in the following figure.
 
@@ -25,9 +25,13 @@ Accessibility instruments as planning support systems can help to face these cha
 
 (adapted from Geurs and van Wee 2004)
 
+## Data collection
+
 „Hasenbergl-Lerchenau“, one of Munichs’s districts with the lowest average income, with a size of 869 ha and 46,953 inhabitants, was chosen as the study area. All necessary data was captured in OpenStreetMap (OSM) using the iOS app “Go Map!!”, JOSM and Mapillary. Although the OSM-data in the study area was mostly geometrically correct and features such as the street network and buildings were almost completely mapped, for this study essential attributes were missing. For example, only 5% of all paths had information on illuminance and only 3% of the roads on the sidewalk availability. After 20 days of on-site mapping and off-site data preparation, all 2,000 existing paths with a total length of over 200 km were recorded in OSM. Including information on road type, width, surface, incline, sidewalk availability, illumination and wheelchair accessibility. Likewise, wheelchair accessibility was recorded for all POIs. Therewith, data quality could be highly improved (see chapter 6.3. of this thesis).
 
 ![](/images/blog/additional_walkability_analyses/scenery_hasenbergl.jpg)
+
+## Individual and temporal analyzes
 
 With the improved data, new options could be provided in GOAT. To represent the individual and the temporal component, three new routing profiles (elderly, wheelchair, safe-night) that influence the route choice and walking speed, were implemented. The wheelchair routing only considers barrier-free paths and destinations while the safe-night routing only makes use of paths that are illuminated at night. Furthermore, the opening hours of POIs were included to allow for time-based accessibility analysis (more detailed information can be found in chapter 7).
 
@@ -39,9 +43,11 @@ Similar results are obtained for the barrier-free routing. In addition, it was f
 
 <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/399481443" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
+## Visualization of walkability criteria
 
 Furthermore, the frontend was adjusted to include new layers on different walkability criteria (illumination, wheelchair usability, footpath width, surface, number of lanes, maximum speed, parking, street crossings and street furniture), which visualizes the transportation component more realistically (see chapter 8). These layers provide the user with useful information and allow to easily identify weak points in the footpath network. As the objectively measured street level quality criteria cannot cover the entire concept of walkability, also self-reported statements by pedestrians about their perceived walking quality were included to provide a more comprehensive picture. This turned out to be particularly valuable, as the perceived quality often differs from the objectively measured quality.
 
+## Conclusion
 
 With the realized changes, all four accessibility components could be incorporated in GOAT. These improvements provide useful insights into how different groups of people are influenced in their walking accessibility by changes in the temporal and individual components. Therewith, GOAT was enhanced to provide more holistic accessibility analyses. But these analysis options depend heavily on data availability. Therefore, not all new features are by default integrated in GOAT. Depending on the local context, the features can be enabled or disabled. 
 

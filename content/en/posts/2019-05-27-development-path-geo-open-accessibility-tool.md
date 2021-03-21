@@ -5,14 +5,18 @@ author: pajares
 lang: en
 tags: [en]
 categories: [news, development]
-thumbnail: /images/blog/development_path/thumbnail.png
-image: /images/blog/development_path/thumbnail.png
+thumbnail: /images/blog/development_path/thumbnail.webp
+image: /images/blog/development_path/banner.webp
+summary: GOAT is by far not where we would like it to be. Apart from the on-going professionalization which is seen as crucial to provide a truly useful and stable accessibility instrument, additional features will be implemented on a regular basis.
 date: 2019-05-27
 ---
+## Development Process
 
 Geo Open Accessibility Tool (GOAT) is by far not where we would like it to be. Apart from the on-going professionalization which is seen as crucial to provide a truly useful and stable accessibility instrument, additional features will be implemented on a regular basis.
 
 The main objective we have been focusing on in the past months was making the interactive network modification and the setup process better. Little time was spent for coming up with new features. However, there are some new envisioned and cutting-edge features which will bring GOAT to the status where the first version (GOAT 1.0) will be released.
+
+## Future Prospects
 
 So far, GOAT is still very much a personal project, as funding for this first stable release has not been secured yet. Consequently, the date for the first ground-breaking release of GOAT for production purposes remains undefined. Our current estimated time is between 1 and 2 years. Nonetheless I feel it’s important to communicate the potential features that GOAT will have in future and further show which directions this instrument will take. In the course of development, some GOAT features will be added and others probably removed.
 
@@ -67,6 +71,8 @@ The following table gives a glimpse on the fields of development. It has to be u
 </table>
 
 To this end, I am very open to ideas and suggestions from the community at large. GOAT is an open source project and therefore targets a very strong interaction with its users. Just get in touch!
+
+## The Data Issue
 
 Besides the listed improvements one main focus is on improved data fusion concepts and stronger engagement in the OpenStreetMap (OSM) community. 
 For those who have tested GOAT, you might have realized that the demo app is currently only available for the city of Munich. As much as GOAT can be installed by everybody on thier own server, many still want to be able to use GOAT immediately. Especially in their study area. 

@@ -60,3 +60,6 @@ other = "Content Overview"
 
 [post_by]
 other = "By"
+
+[all_posts]
+other = "All Posts"

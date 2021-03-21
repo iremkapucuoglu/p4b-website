@@ -4,7 +4,7 @@ layout: blocks
 header:
   layout: left
   heading: Let's balance the future together!
-  text: 'Digital planning support tools to shape sustainable cities and regions.'
+  text: Digital planning support tools to shape sustainable cities and regions.
   image: "/images/heatmap-muc.webp"
   button:
     text: Try Goat
@@ -45,7 +45,8 @@ blocks:
   background: default
   image: "/images/isochrone_amenities.webp"
   text: Walking and cycling require attractive transport infrastructure and destinations
-    at close distance (15-minute city). With the accessibility approach GOAT offers dynamic map-based analysis.
+    at close distance (15-minute city). With the accessibility approach GOAT offers
+    dynamic map-based analysis.
   heading: Our Offer
   button:
     url: "/what-is-goat/"
@@ -65,6 +66,10 @@ blocks:
   - "/images/logo-tum-1.png"
   text: ''
   padding_top: default
+  items:
+  - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
+  - logo: "/images/logo_mobidata-bw-1.jpg"
+  - logo: "/images/logo-tum-2.png"
 - template: logos-block
   block: logos
   background: default
@@ -75,5 +80,10 @@ blocks:
   padding_top: remove
   text: The development of GOAT was funded by the BMVI from November 2019 to February
     2021 at TUM as part of mFUND funding line 1.
+  items:
+  - logo: "/images/logo-mfund.png"
+  - logo: "/images/logo-bmvi.png"
+    text: Some text above
+    text_2: 'Some text bellow '
 
 ---

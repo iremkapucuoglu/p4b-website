@@ -37,10 +37,6 @@ fields:
     schema:
       format: markdown
   label: Text
-- name: logos
-  type: image_gallery
-  config: {}
-  label: Logos
 - name: padding_top
   type: select
   default: default
@@ -55,3 +51,26 @@ fields:
       file: 
       path: 
   label: Padding Top
+- name: items
+  type: field_group_list
+  fields:
+  - name: logo
+    type: file
+    config:
+      maxSize: 64
+    label: Logo
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: text_2
+    type: text
+    config:
+      required: false
+    label: Text 2
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Items

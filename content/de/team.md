@@ -22,7 +22,7 @@ image = "/images/image222.jpg"
 layout = "left"
 padding_top = "small"
 template = "card-block"
-text = "Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen. Unser Ziel ist es, durch kontinuierliche Innovation und offenen Austausch einen positiven Beitrag zum Erhalt unserer wundervollen Erde zu leisten."
+text = "Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen. Unser Ziel ist es, durch kontinuierliche Innovation und offenen Austausch einen positiven Beitrag zum Erhalt unserem wundervollen Planeten zu leisten."
 video = ""
 [blocks.button]
 text = ""

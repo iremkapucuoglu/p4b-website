@@ -77,7 +77,7 @@ blocks:
   text: Die Entwicklung von GOAT wurde vom BMVI von November 2019 bis Februar 2021 im Rahmen der mFUND-Initiative (Förderlinie 1) an der TUM gefördert.
   items:
     - logo: "/images/logo-mfund.png"
-    - logo: "/images/logo-bmvi.png"
-      text: Some text above
-      text_2: 'Some text bellow '
+    - logo: "/images/logo-bmvi.svg"
+      text: 'Gefördert durch:'
+      text_2: 'aufgrund eines Beschlusses des Deutschen Bundestages'
 ---

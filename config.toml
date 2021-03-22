@@ -280,10 +280,6 @@ twitter = "@GoatTool"
 phone = "+49 89 2000 708 30"
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"
-[params.banner.de]
-text = "Wird derzeit gewartet."
-[params.banner.en]
-text = "Currently under maintenance."
 [taxonomies]
 author = "author"
 categories = "categories"

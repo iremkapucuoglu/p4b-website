@@ -8,7 +8,7 @@ categories: [data]
 thumbnail: /images/blog/mapillary/mapillary_bike-thumbnail.webp
 image: /images/blog/mapillary/mapillary_bike-banner.webp
 summary: Data, data and more data! While working on the to bring GOAT’s feature to the municipality of Fürstenfeldbruck, we have been looking for available information from many sources to accomplish the objectives.
-date: 2020-04-25
+date: 2030-04-25
 ---
 ## Need for Data
 

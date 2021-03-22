@@ -9,7 +9,7 @@ categories: [Praxisanwendung]
 thumbnail: /images/blog/testcycles/Testzyklus - thumbnail.webp
 image: /images/blog/testcycles/Testzyklus - banner.webp
 summary: Derzeit wird GOAT von einer ExpertInnengruppe aus der Stadt Fürstenfeldbruck intensiv in  Testzyklen getestet, um eine einfache Bedienbarkeit und einen möglichst hohen Nutzen zu erreichen.
-date: 2020-05-25
+date: 2030-05-25
 ---
 ## Hintergrund
 

@@ -73,11 +73,11 @@ How many people can reach the train station within 5 minutes by bike?
 
 1. Select the routing mode "walking".  
 
-![](/images/training_materials/Isochrone/walking-mode.png" alt="Routing mode walking)
+![Routing mode walking](/images/training_materials/Isochrone/walking-mode.png)
 
 2. Set the isochrone range to 10 minutes.  
 
-![](/images/training_materials/Isochrone/isochrone_range_walking.png" alt="Adjusting isochrone range)
+![Adjusting isochrone range](/images/training_materials/Isochrone/isochrone_range_walking.png)
 
 3. Place the starting point for the isochrone calculation at the entrance of the Hospital.  
 

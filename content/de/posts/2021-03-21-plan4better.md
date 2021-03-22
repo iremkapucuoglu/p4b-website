@@ -18,7 +18,7 @@ Unsere intensive Arbeit im Aufbau und der Entwicklung von [GOAT](../../was-ist-g
 
 Wir sind davon überzeugt, dass neue Arbeitsrichtungen für die kontinuierliche Entwicklung und ihre Anwendung in der Praxis notwendig sind, um nachhaltigere und ausgewogenere Städte und Regionen weltweit zu bauen. Aus diesem Grund haben wir ein Start-up gegründet und einen selbsterklärenden Namen dafür gewählt: Plan4Better!
 
-Unsere [Gründer](../../team) sind Elias Pajares, Ulrike Jehle und Majk Shkurti und unsere Expertise liegt in den Bereichen Umweltingenieurwesen, Stadt- und Verkehrsplanung, GIS und Softwareentwicklung.
+Unsere [Gründer](../../team) sind Elias Pajares, Ulrike Jehle und Majk Shkurti und unsere Expertise liegt in den Bereichen Umweltingenieurwesen, Stadt- und Verkehrsplanung, GIS und Softwareentwicklung. Wir sind Teil des [TUM Venture Lab Built Environment](https://www.tum.de/en/innovation/entrepreneurship/venture-labs/), das uns das perfekte Umfeld zum Aufbau unseres Unternehmens bietet.   
 
 ![](/images/blog/plan4better/team.webp)
 

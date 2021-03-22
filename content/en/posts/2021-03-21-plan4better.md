@@ -16,11 +16,11 @@ Our common journey started in research at the TUM, more specifically at the [Cha
 
 The hard and intensive work on building [GOAT](../../what-is-goat) culminated in a useful accessibility instrument, which will facilitate planners and decision makers to plan more effective for walking and cycling. 
 
-We are absolute certain that new directions of work are necessary for continuous development and the application in practice to build more sustainable and balanced cities and regions worldwide. Therefore, we founded our start-up and chose a self-explaining name for it: Plan4Better!
+We are absolute convinced that new directions of work are necessary for continuous development and the application in practice to build more sustainable and balanced cities and regions worldwide. Therefore, we founded our start-up and chose a self-explaining name for it: Plan4Better!
 
 ![](/images/blog/plan4better/team.webp)
 
-Our core [team](../../../team) consists of Elias Pajares, Ulrike Jehle and Majk Shkurti and our core expertise lies in the fields of environmental engineering, urban and transport planning, GIS expertise and software development.  
+Our core [team](../../../team) consists of Elias Pajares, Ulrike Jehle and Majk Shkurti and our core expertise lies in the fields of environmental engineering, urban and transport planning, GIS expertise and software development. We are located at the [TUM Venture Lab Built Environment](https://www.tum.de/en/innovation/entrepreneurship/venture-labs/) with the perfect environment to build our company.
 
 ## Our Motivation
 

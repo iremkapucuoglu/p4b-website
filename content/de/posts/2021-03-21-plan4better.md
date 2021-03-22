@@ -18,7 +18,7 @@ Wir sind davon überzeugt, dass eine Neuausrichtung unserer Aktivitäten notwend
 
 ![](/images/blog/plan4better/team.webp)
 
-Wir [Gründer](../../team) sind Elias Pajares, Ulrike Jehle und Majk Shkurti und gemeinsam vereinen wir vielseitige Talente in den Bereichen Umweltingenieurwesen, Stadt- und Verkehrsplanung, GIS und Softwareentwicklung.
+Wir [Gründer](../../team) sind Elias Pajares, Ulrike Jehle und Majk Shkurti und gemeinsam vereinen wir vielseitige Talente in den Bereichen Umweltingenieurwesen, Stadt- und Verkehrsplanung, GIS und Softwareentwicklung. Wir sind Teil des [TUM Venture Lab Built Environment](https://www.tum.de/en/innovation/entrepreneurship/venture-labs/), das uns das perfekte Umfeld zum Aufbau unseres Unternehmens bietet.
 
 ## Unsere Motivation
 

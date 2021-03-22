@@ -17,7 +17,7 @@ To make changes to the GOAT repository the easiest way is to first get a persona
 
 Go to [https://github.com/goat-community/goat-website](https://github.com/goat-community/goat-website) and press the "Fork" button. 
 
-{% include image.html src="docs/contribute_to_GOAT/git_fork.png" alt="how to get a fork of GOAT" %}
+![](/images/docs/contribute_to_GOAT/git_fork.png)
 
 You now have a personal fork of the GOAT respository on GitHub.
 
@@ -25,7 +25,7 @@ You now have a personal fork of the GOAT respository on GitHub.
 
 Navigate to your fork of the GOAT repository. Press the "Clone or download" button and copy the clone URL.
 
-{% include image.html src="docs/contribute_to_GOAT/git_clone_personal_repository.png" alt="how to clone your fork of the GOAT repository" %}
+![](/images/docs/contribute_to_GOAT/git_clone_personal_repository.png)
 
 Open Git Bash, go to the directory where you want to store the repository and clone it using the copied URL:
 
@@ -115,8 +115,7 @@ Push the new version to your origin GitHub repository:
 
 Go on GitHub, navigate to your fork of the GOAT-website repository. There you can see your recently pushed branches. Click on "Compare & pull request" for the branch you want to commit.
 
-{% include image.html src="docs/contribute_to_GOAT/git_pull_request.png" alt="how to make a pull request to the original GOAT repository" %}
-
+![](/images/docs/contribute_to_GOAT/git_pull_request.png)
 
 Explain in detail what you have done and submit it by pressing the button "Create pull request".
 

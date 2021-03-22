@@ -20,7 +20,7 @@ other = "Name"
 other = "Email"
 
 [contact_phone]
-other = "Phone"
+other = "Phone (optional)"
 
 [contact_subject]
 other = "Subject"

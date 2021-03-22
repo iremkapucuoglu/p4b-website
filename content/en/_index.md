@@ -83,7 +83,7 @@ blocks:
   items:
   - logo: "/images/logo-mfund.png"
   - logo: "/images/logo-bmvi.png"
-    text: Some text above
-    text_2: 'Some text bellow '
+    text: 'Gefördert durch:'
+    text_2: 'aufgrund eines Beschlusses des Deutschen Bundestages'
 
 ---

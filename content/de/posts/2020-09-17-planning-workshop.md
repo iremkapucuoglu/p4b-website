@@ -8,7 +8,7 @@ categories: [Praxisanwendung]
 thumbnail: /images/blog/planning_workshops/FFB - thumbnail.webp
 image: /images/blog/planning_workshops/FFB - banner.webp
 summary: In den Städten Fürstenfeldbruck, Freising und am Lehrstuhl für Siedlungsstruktur und Verkehrsplanung (TUM) wurden drei Planungsworkshops organisiert. Experten aus verschiedenen Fachbereichen, u.a. Stadt- und Verkehrsplaner, Architekten und Politiker haben wertvolles Feedback gegeben.
-date: 2020-09-17
+date: 2030-09-17
 ---
 ## Hintergrund
 

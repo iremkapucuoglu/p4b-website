@@ -8,7 +8,7 @@ categories: [data]
 thumbnail: /images/blog/mapping_party/thumbnail.webp
 image: /images/blog/mapping_party/image_background - banner.png
 summary: The Chair of Urban Structure and Transport Planning is frequently organizing Mapping Parties with the motivation to actively improve the quality of OpenStreetMap (OSM), which is the most prominent example of an open, crowd-sourced geographic dataset.
-date: 2020-10-08
+date: 2030-10-08
 ---
 ## OpenStreetMap
 

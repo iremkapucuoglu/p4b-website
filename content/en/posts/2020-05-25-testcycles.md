@@ -8,7 +8,7 @@ categories: [application in practice]
 thumbnail: /images/blog/testcycles/Testzyklus - thumbnail.webp
 image: /images/blog/testcycles/Testzyklus - banner.webp
 summary: By end of this year, we aim to launch version GOAT1.0! To achieve a high usability and usefulness, GOAT is currently being tested extensively by a group of experts in the fields of transport and urban planning.
-date: 2020-05-25
+date: 2030-05-25
 ---
 ## Background 
 

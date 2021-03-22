@@ -8,7 +8,7 @@ categories: [application in practice]
 thumbnail: /images/blog/planning_workshops/FFB - thumbnail.webp
 image: /images/blog/planning_workshops/FFB - banner.webp
 summary: The three planning workshops were conducted in the municipalities of Fürstenfeldbruck and Freising and at TUM. Experts from different backgrounds such as city planners, transport planners, architects, and politicians participated in these workshops and contributed to the further development of GOAT.
-date: 2020-09-17
+date: 2030-09-17
 ---
 ## Background
 

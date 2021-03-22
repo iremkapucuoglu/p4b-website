@@ -12,6 +12,7 @@
 		<div class="uk-margin-top" data-uk-grid>
 			<div class="uk-width-expand@m uk-flex uk-flex-middle">
 				<ul class="uk-subnav">
+					<li><a class="uk-text-bold" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_posts" }}</a></li>
 					{{range (.Site.GetPage "taxonomyTerm" "categories").Pages }}
 						<li><a class="uk-text-bold" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
 				  {{ end }}

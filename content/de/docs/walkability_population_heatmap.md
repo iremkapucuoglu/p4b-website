@@ -13,21 +13,22 @@ Zusätzlich zur [Walkability Heatmap](https://www.open-accessibility.org/docs/he
 - Wo ist Potenzial für (Nach-)Verdichtung? 
 - Wo ist eine Verbesserung der Erreichbarkeit zu bestimmten Einrichtungen oder ÖV Haltestellen notwendig?
 
-{% include image.html src="docs/technical_documentation/walkability_population_index/walkability_population_map.png" %}
+![](/images/docs/technical_documentation/walkability_population_index/walkability_population_map.png)
 
 #### 1. Berechnung
 Die Walkability-Bevölkerung-Heatmap ergibt sich aus der Schnittmenge der beiden Layer Walkability und Bevölkerung.
-{% include image.html src="docs/technical_documentation/walkability_population_index/intersection_2_layers.png" %}
+![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.png)
 
 #### 2. Klassifizierung
 Zur Klassifizierung der Erreichbarkeitswerte, die für jedes Hexagon berechnet wurden, wird eine Einteilung basierend auf Perzentilen verwendet. Die folgende Tabelle zeigt examplarisch, wie sich die Erreichbarkeitswerte zusammensetzen.
-{% include image.html src="docs/technical_documentation/walkability_population_index/percentile.png" %}
+![](/images/docs/technical_documentation/walkability_population_index/percentile.png)
 
 Der Walkability-Bevölkerungs-Index wird wie folgt berechnet:
 
 <b> Walkability Population Index = Population Level – Accessibility Level </b>
 
 und zeigt folgendes Ergebnis:
-{% include image.html src="docs/technical_documentation/walkability_population_index/calculated_index.png" maxheight="150px" %}
+![](/images/docs/technical_documentation/walkability_population_index/calculated_index.png)
+
 
 

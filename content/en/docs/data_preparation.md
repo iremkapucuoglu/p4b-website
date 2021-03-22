@@ -77,19 +77,19 @@ If you have population data as point source you can upload the same into the dat
 
 The automated way the scripts process the data make it necessary that the your custom data is labelled correctly. It is important that the filename and certain attributes are labelled as in the following examples. It is possible to import shapefiles with additional columns however the folowing conventions must be followed.
 
-{% include image.html src="docs/technical_documentation/data_preparation/shapefile_study_area.png" alt="how your study area shapefile has to be for GOAT" %}
+![](/images/docs/technical_documentation/data_preparation/shapefile_study_area.png)
 
 <b>Name the file <font color="red">study_area.shp</font> and make sure the columns <font color="red">sum_pop</font> and <font color="red">name</font> are existing!<b>
 
-{% include image.html src="docs/technical_documentation/data_preparation/shapefile_landuse.png" alt="how your landuse shapefile has to be for GOAT" %}
+![](/images/docs/technical_documentation/data_preparation/shapefile_landuse.png)
 
 <b>Name the file <font color="red">landuse.shp</font> and make sure the column <font color="red">landuse</font> is existing!<b>
 
-{% include image.html src="docs/technical_documentation/data_preparation/shapefile_census.png" alt="how your census shapefile has to be for GOAT" %}
+![](/images/docs/technical_documentation/data_preparation/shapefile_census.png)
 
 <b>Name the file <font color="red">census.shp</font> and make sure the column <font color="red">pop</font> is existing!<b>
 
-{% include image.html src="docs/technical_documentation/data_preparation/shapefile_population.png" alt="how your population shapefile has to be for GOAT" %}
+![](/images/docs/technical_documentation/data_preparation/shapefile_population.png)
 
 <b>Name the file <font color="red">population.shp</font> and make sure the column <font color="red">population</font> is existing!<b>
 

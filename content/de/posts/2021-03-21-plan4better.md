@@ -30,6 +30,8 @@ In GOAT fassen wir innovative Analysen in einer spielerischen und einfach zu bed
 
 Das Geschäftsmodell sieht vor, GOAT als Software-as-a-Service (SaaS) zu vertreiben, indem individualisierte Versionen von GOAT weltweit angeboten werden. Darüber hinaus, werden wir GOAT in Zukunft großflächig übertragen. Beginnen werden wir mit Regionen in Deutschland um in einem Abo-Modell einen einfachen Zugriff auf die Analysen für möglichst viele Regionen unmittelbar bereitzustellen. Zukünftig wird zudem eine Ausweitung des Services auf mehrere Länder in Europa forciert. 
 
+![](/images/blog/plan4better/goat_impression.webp)
+
 Unser Leistungsspektrum umfasst zusätzliche Angebote im Zusammenhang mit Datenmanagement und -bereitstellung sowie WebGIS-Entwicklung und Beratung. Abschließend werden wir auch professionelle Schulungen zur Nutzung von GOAT und innovative Methoden der Datenerfassung (OSM, Mapillary) für unsere Kunden anbieten. Diese sind in erster Linie ExpertInnen aus Kommunen, Planungsbüros, der Standortplanung und Immobilienentwicklung. 
 
 Vergleichbare Planungswerkzeuge, die ausgereift, dynamisch und gleichzeitig finanzierbar sind, fehlen bislang. Gleichzeitig wird eine fuß- und radverkehrsfreundliche Planung in belebten Räumen immer wichtiger. Daher wird GOAT als dynamisches und einfach übertragbares Planungstool dringend gebraucht.

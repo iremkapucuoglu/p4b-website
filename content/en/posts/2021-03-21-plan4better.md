@@ -32,6 +32,8 @@ We summarize cutting-edge analyses in an enjoyable and easy-to-use interface. Al
 
 Our business model includes distributing GOAT as a Software-as-a-Service (SaaS) by providing individualized versions of GOAT as custom versions worldwide. In addition, we will subsequently set-up GOAT on a larger spatial scale, starting with regions in Germany, and offer easy access by a subscription model. We are aiming to extend this gradually to several countries in Europe.
 
+![](/images/blog/plan4better/goat_impression.webp)
+
 Our portfolio incorporates also additional services linked to data management and supply as well as WebGIS development and consulting. Finally, we will provide professional training on the use of GOAT and novel data collection methods (OSM, Mapillary) for our customers. Accordingly, in our B2B business model we are primarily focusing on offering our service to municipalities, planning agencies, real-estate developers and location planners.
 
 GOAT is urgently needed, as the industry is lacking digital planning tools which are mature, dynamic and affordable to shape active mobility. Our start-up adventure just started, and we are very excited about the new drive our activities are getting. Despite that, we will stay committed to our core values, such as open-source development, and to our network. Therefore, we are very much looking forward to advance together with our friends and partners to plan a better world in the future.

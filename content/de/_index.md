@@ -42,7 +42,7 @@ blocks:
   background: default
   image: "/images/isochrone_amenities.webp"
   text: 'Der Fuß- und Radverkehr benötigt eine attraktive Verkehrsinfrastruktur und nahe Ziele im Sinne der 15-Minuten-Stadt. 
-  GOAT vereint durch den Erreichbarkeitsansatz diese zweie Dimension und liefert über digitale Karten dynamische Analysen.'
+  GOAT vereint durch den Erreichbarkeitsansatz diese zwei Dimensionen und liefert über digitale Karten dynamische Analysen.'
   heading: Was bieten wir?
   button:
     url: "/what-is-goat/"

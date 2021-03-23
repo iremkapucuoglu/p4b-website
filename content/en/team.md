@@ -22,7 +22,7 @@ image = "/images/image222.jpg"
 layout = "left"
 padding_top = "small"
 template = "card-block"
-text = "We are a diverse team of Environmental Engineers, GIS Developers and Transport Planners. Our aim is always leaving a positive footprint on our lovely planet by continuous innovation and exchange."
+text = "Our journey started at TUM - Chair of Urban Structure and Transport Planning. We are a diverse team of Environmental Engineers, GIS Developers and Transport Planners. Our aim is always to leave a positive footprint on our lovely planet by continuous innovation and exchange."
 video = ""
 [blocks.button]
 text = ""

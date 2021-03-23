@@ -3,7 +3,7 @@ title: Gemeinsam eine ausgewogene Zukunft planen!
 thumbnail: "/images/blog/plan4better/plan4better_thumbnail.webp"
 image: "/images/blog/plan4better/plan4better_banner.webp"
 date: 2021-03-21T13:00:00.000+00:00
-summary: 'Wir sind davon überzeugt, dass eine Neuausrichtung unserer Aktivitäten notwendig ist um eine kontinuierliche Entwicklung von GOAT zu gewährleisten und eine breite Praxisanwendung voran zu bringen. Um dabei zu helfen nachhaltigere und ausgewogenere Städte und Regionen weltweit zu entwickeln, haben wir ein Start-up gegründet: Plan4Better!'
+summary: 'Mit Plan4Better streben wir an eine kontinuierliche Entwicklung von GOAT zu gewährleisten und eine breite Praxisanwendung voran zu bringen. Um dabei zu helfen nachhaltigere und ausgewogenere Städte und Regionen weltweit zu entwickeln!'
 categories:
 - News
 author: jehle
@@ -29,6 +29,8 @@ In GOAT fassen wir innovative Analysen in einer spielerischen und einfach zu bed
 ## Unser Angebot
 
 Das Geschäftsmodell sieht vor, GOAT als Software-as-a-Service (SaaS) zu vertreiben, indem individualisierte Versionen von GOAT weltweit angeboten werden. Darüber hinaus, werden wir GOAT in Zukunft großflächig übertragen. Beginnen werden wir mit Regionen in Deutschland um in einem Abo-Modell einen einfachen Zugriff auf die Analysen für möglichst viele Regionen unmittelbar bereitzustellen. Zukünftig wird zudem eine Ausweitung des Services auf mehrere Länder in Europa forciert. 
+
+![](/images/blog/plan4better/goat_impression.webp)
 
 Unser Leistungsspektrum umfasst zusätzliche Angebote im Zusammenhang mit Datenmanagement und -bereitstellung sowie WebGIS-Entwicklung und Beratung. Abschließend werden wir auch professionelle Schulungen zur Nutzung von GOAT und innovative Methoden der Datenerfassung (OSM, Mapillary) für unsere Kunden anbieten. Diese sind in erster Linie ExpertInnen aus Kommunen, Planungsbüros, der Standortplanung und Immobilienentwicklung. 
 

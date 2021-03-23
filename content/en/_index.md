@@ -84,6 +84,8 @@ blocks:
   - logo: "/images/logo-mfund.png"
   - logo: "/images/logo-bmvi.png"
     text: 'Gefördert durch:'
-    text_2: 'aufgrund eines Beschlusses des Deutschen Bundestages'
+    text_2: aufgrund eines Beschlusses des Deutschen Bundestages
+description: Digital planning support systems to shape sustainable mobility and liveable
+  spaces.
 
 ---

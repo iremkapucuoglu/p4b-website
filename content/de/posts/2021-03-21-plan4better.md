@@ -3,7 +3,7 @@ title: Gemeinsam eine ausgewogene Zukunft planen!
 thumbnail: "/images/blog/plan4better/plan4better_thumbnail.webp"
 image: "/images/blog/plan4better/plan4better_banner.webp"
 date: 2021-03-21T13:00:00.000+00:00
-summary: 'Wir sind davon überzeugt, dass eine Neuausrichtung unserer Aktivitäten notwendig ist um eine kontinuierliche Entwicklung von GOAT zu gewährleisten und eine breite Praxisanwendung voran zu bringen. Um dabei zu helfen nachhaltigere und ausgewogenere Städte und Regionen weltweit zu entwickeln, haben wir ein Start-up gegründet: Plan4Better!'
+summary: 'Mit Plan4Better streben wir an eine kontinuierliche Entwicklung von GOAT zu gewährleisten und eine breite Praxisanwendung voran zu bringen. Um dabei zu helfen nachhaltigere und ausgewogenere Städte und Regionen weltweit zu entwickeln!'
 categories:
 - News
 author: jehle

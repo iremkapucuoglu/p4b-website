@@ -16,8 +16,7 @@ It is recommended to use Git for fetching the project.
 Clone the GOAT-repo to a folder of your choice. Navigate first to the folder and run:
 
 `git clone https://github.com/goat-community/goat.git` (run on your <span style="color:#07d">host</span>)
-
-{% include image.html src="docs/technical_documentation/setup/git_clone.png" alt="how your command window should look like" %}
+![](/images/docs/technical_documentation/setup/git_clone.png)
 
 
 

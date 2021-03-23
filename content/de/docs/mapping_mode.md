@@ -14,7 +14,7 @@ In the following, you will find the steps to use GOAT’s editing tool “OSM Ma
 First choose the desired GOAT location [here](https://www.open-accessibility.org/versions).
 In the tool, you will notice the OSM logo in the right-bottom corner.
 
-{% include image.html src="docs/mapping_mode/mapping_mode.png" alt="Activate the OSM Mapping Mode" title="OSM Mapping Mode" %}
+![](/images/docs/mapping_mode/mapping_mode.png)
 
 By clicking here, you will see our Welcome message to the OSM Map Mode, and the left banner with the Isochrones and Layers menu is replaced by the OSM Mapping Tasks.
 
@@ -22,7 +22,7 @@ By clicking here, you will see our Welcome message to the OSM Map Mode, and the 
 
 Now, on the OSM Mapping Tasks menu you will see our tasks available (highlighted in the next image). Each of these topics filters and shows you the objects in the map that still have missing information which is important to improve the performance of GOAT.
 
-{% include image.html src="docs/mapping_mode/mapping_tasks.png" alt="The left menu shows the available mapping tasks" title="Available Mapping Tasks" %}
+![](/images/docs/mapping_mode/mapping_tasks.png)
 
 #### 3.	What to do?
 
@@ -96,34 +96,34 @@ If you have questions on how to edit objects in OSM you can visit our page [Maki
 
 Once you select the task you want to work on, the map will show the objects that have missing information about the selected feature (e.g. building type).
 
-{% include image.html src="docs/mapping_mode/building_types.png" alt="All buildings with missing information are displayed" title="Mapping task on missing building types" %}
+![](/images/docs/mapping_mode/building_types.png)
 
 Now you can click one of the elements from the map, this will open a pop-up window showing the current information available. To edit the element and add additional information click on “Edit with OSM”. 
 
-{% include image.html src="docs/mapping_mode/edit_building_types.png" alt="Edit one of the displayed buildings" title="Edit one of the displayed buildings" %}
+![](/images/docs/mapping_mode/edit_building_types.png)
 
 This will redirect you to the OpenStreetMap website and will ask you to enter your username and password.
 
-{% include image.html src="docs/mapping_mode/osm_login.png" alt="Log in into OSM" title="OSM Log In" %}
+![](/images/docs/mapping_mode/osm_login.png)
 
 Once you have logged in, you will be in the iD-Editor from OpenStreetMap. This online tool allows you to add the new information for each of the objects and perform further edits as changing the shape of buildings and streets and even create new elements from scratch. For more information about iD Editor you can visit the [OSM Wiki](https://wiki.openstreetmap.org/wiki/ID).
 
-{% include image.html src="docs/mapping_mode/osm_building_editing.png" alt="Add the missing information" title="Add the missing information" %}
+![](/images/docs/mapping_mode/osm_building_editing.png)
 
 To make use of Mapillary’s integrated tool within the iD Editor, click on the Map Data button from the menu on the right, and then turn on the option for Mapillary. The green tracks available for street view will appear in the map. 
 
-{% include image.html src="docs/mapping_mode/mapillary.png" alt="Display Mapillary imagery" title="Display Mapillary imagery" %}
+![](/images/docs/mapping_mode/mapillary.png)
 
 Click in any of the green points available to see the street view imagery. Try to see the element of interest (in this case the building) and update the information needed.
 
-{% include image.html src="docs/mapping_mode/street_view.png" alt="Street View" title="Street View" %}
+![](/images/docs/mapping_mode/street_view.png)
 
 In our case, the building of interest is the pink one on the right side. From the picture is possible to classify the building type as "residential". In addition, it is possible to add the number of levels of the building. If the building usage is not homogeneous, the tag “building:use” can be given and filled with all usages (e.g. “residential, commercial”). 
 
-{% include image.html src="docs/mapping_mode/fill_missing_tags.png" alt="Fill the missing tags" title="Fill the missing tags" %}
+![](/images/docs/mapping_mode/fill_missing_tags.png)
 
 After you finished editing, just go to the saving button in the top right corner and add a description of the changes made including the sources where you got the information. Don’t forget to use our hashtag <b>#goatmuc</b> for mapping activities in Munich, <b>#goatffb</b> for Fürstenfeldbruck and <b>#goatfr</b> for Freising.
 
-{% include image.html src="docs/mapping_mode/osm_save_changes.jpg" alt="Save your changes" title="Save your changes" %}
+![](/images/docs/mapping_mode/osm_save_changes.jpg)
 
 If you now go back to the OSM Mapping Mode of GOAT, you will see in around 10 minutes that the task for this building is completed.

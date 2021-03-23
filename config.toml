@@ -3,39 +3,40 @@ languageCode = "en-us"
 title = "Plan4Better"
 [languages.de]
 contentDir = "content/de"
+languageName = "German"
 title = "Plan4Better"
 weight = 2
 [[languages.de.menu.center]]
 name = "GOAT"
-url = ""
+url = "/"
 weight = 1
 [languages.de.menu.center.params]
 heading = "Geo Open Accessibility Tool - GOAT"
-text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen für den Fuß- und Radverkehr. Detaillierte Infos finden Sie auf den folgenden Seiten."
+text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen für den Fuß- und Radverkehr, sowie die Stadt- und Quartiersplanung. Detaillierte Infos finden Sie auf den folgenden Seiten."
 [[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"
-url = ""
+url = "/was-ist-goat/"
 weight = 2
 [[languages.de.menu.center]]
 name = "GOAT-live"
 parent = "GOAT"
-url = ""
+url = "/goatlive/"
 weight = 3
 [[languages.de.menu.center]]
 name = "Videos"
 parent = "GOAT"
-url = ""
+url = "/videos/"
 weight = 4
 [[languages.de.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
-url = ""
+url = "/tutorials/isochrone/"
 weight = 5
 [[languages.de.menu.center]]
 name = "Docs"
 parent = "GOAT"
-url = ""
+url = "/docs/background/"
 weight = 6
 [[languages.de.menu.center]]
 name = "Competences"
@@ -66,15 +67,15 @@ url = "/consultancy/"
 weight = 5
 [[languages.de.menu.center]]
 name = "Blog"
-url = ""
+url = "/blog/"
 weight = 3
 [[languages.de.menu.center]]
 name = "Team"
-url = ""
+url = "/team/"
 weight = 4
 [[languages.de.menu.center]]
 name = "Kontakt"
-url = ""
+url = "/kontakt/"
 weight = 5
 [[languages.de.menu.footer]]
 name = "Team"
@@ -85,8 +86,12 @@ name = "Kontakt"
 url = "/kontakt/"
 weight = 2
 [[languages.de.menu.footer]]
-name = "Imprint & Privacy"
-url = "/imprint-privacy/"
+name = "Impressum"
+url = "/imprint/"
+weight = 3
+[[languages.de.menu.footer]]
+name = "Datenschutzerklärung"
+url = "/privacy/"
 weight = 3
 [[languages.de.menu.right]]
 name = "GOAT testen"
@@ -114,11 +119,12 @@ weight = 3
 icon = "github"
 [languages.en]
 contentDir = "content/en"
+languageName = "English"
 title = "Plan4Better"
 weight = 1
 [[languages.en.menu.center]]
 name = "GOAT"
-url = ""
+url = "/"
 weight = 1
 [languages.en.menu.center.params]
 heading = "Geo Open Accessibility Tool - GOAT"
@@ -126,27 +132,27 @@ text = "GOAT is an interactive webtool for accessibility analysis on walking and
 [[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
-url = ""
+url = "/what-is-goat/"
 weight = 2
 [[languages.en.menu.center]]
 name = "GOAT-live"
 parent = "GOAT"
-url = ""
+url = "/goatlive/"
 weight = 3
 [[languages.en.menu.center]]
 name = "Videos"
 parent = "GOAT"
-url = ""
+url = "/videos/"
 weight = 4
 [[languages.en.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
-url = ""
+url = "/tutorials/isochrone/"
 weight = 5
 [[languages.en.menu.center]]
 name = "Docs"
 parent = "GOAT"
-url = ""
+url = "/docs/background/"
 weight = 6
 [[languages.en.menu.center]]
 name = "Competences"
@@ -204,15 +210,15 @@ url = "/link6/"
 weight = 9
 [[languages.en.menu.center]]
 name = "Blog"
-url = ""
+url = "/blog/"
 weight = 3
 [[languages.en.menu.center]]
 name = "Team"
-url = ""
+url = "/team/"
 weight = 4
 [[languages.en.menu.center]]
 name = "Contact"
-url = ""
+url = "/contact/"
 weight = 5
 [[languages.en.menu.footer]]
 name = "Team"
@@ -223,8 +229,12 @@ name = "Contact us"
 url = "/contact/"
 weight = 2
 [[languages.en.menu.footer]]
-name = "Imprint & Privacy"
-url = "/imprint-privacy/"
+name = "Imprint"
+url = "/imprint/"
+weight = 3
+[[languages.en.menu.footer]]
+name = "Privacy"
+url = "/privacy/"
 weight = 3
 [[languages.en.menu.right]]
 name = "Try GOAT"
@@ -250,6 +260,8 @@ url = "https://github.com/goat-community/"
 weight = 3
 [languages.en.menu.social.params]
 icon = "github"
+[markup.goldmark.renderer]
+unsafe= true
 [markup.highlight]
 style = "monokai"
 [markup.tableOfContents]
@@ -263,13 +275,11 @@ address = "Augustenstraße 49 <br>80333 München <br>Germany"
 email = "info@plan4better.de"
 mailchimp_form_action = ""
 mailchimp_hidden_name = ""
+ogimage = "images/og-image.png"
+twitter = "@GoatTool"
 phone = "+49 89 2000 708 30"
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"
-[params.banner.de]
-text = "Wird derzeit gewartet."
-[params.banner.en]
-text = "Currently under maintenance."
 [taxonomies]
 author = "author"
 categories = "categories"

@@ -25,21 +25,29 @@ GOAT allows you to develop your own Point-of-Interest (POI) scenarios, such as m
 
 ###### 1.2 Step-by-Step guide
 
-1. Select the kindergartens as Thematic Data.  {% include image.html src="../../uploads/training materials/Scenario_POIs/kindergarten.png" maxheight="300px"  %}
+1. Select the kindergartens as Thematic Data.  
+![](/images/training_materials/Scenario_POIs/kindergarten.png)
 
-2. Display the layer "Walkability-Population-Index" from the "Accessibility" layers. This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. Blue coloring means oversupply and red coloring means undersupply. Areas shown in yellow indicate that existing supply and population are balanced.  {% include image.html src="../../uploads/training materials/Scenario_POIs/walkability_popoulation_index.png"  %}
+2. Display the layer "Walkability-Population-Index" from the "Accessibility" layers. This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. Blue coloring means oversupply and red coloring means undersupply. Areas shown in yellow indicate that existing supply and population are balanced.  
+![](/images/training_materials/Scenario_POIs/walkability_popoulation_index.png)
 
-3. Now go to the menu for scenario development and create a new scenario.  {% include image.html src="../../uploads/training materials/Scenario_POIs/create_scenario.png" maxheight="200px" %}
+3. Now go to the menu for scenario development and create a new scenario.  
+![](/images/training_materials/Scenario_POIs/create_scenario.png)
 
-4. Give the scenario a name and click on "OK".  {% include image.html src="../../uploads/training materials/Scenario_POIs/name_scenario.png" maxheight="200px" %}
+4. Give the scenario a name and click on "OK".  
+![](/images/training_materials/Scenario_POIs/name_scenario.png)
 
-5. Select which layer you want to edit, in this case the "Point of Interest" Layer.  {% include image.html src="../../uploads/training materials/Scenario_POIs/PointofInterest.png" maxheight="200px" %}
+5. Select which layer you want to edit, in this case the "Point of Interest" Layer.  
+![](/images/training_materials/Scenario_POIs/PointofInterest.png)
 
-6. Edit the kindergartens (move existing kindergartens or add new kindergartens) in such a way that the districts with accessibility deficits are also covered. To move a kindergarten, you must first select it using the circle tool.  {% include image.html src="../../uploads/training materials/Scenario_POIs/circle_tool.png" maxheight="200px" %}
+6. Edit the kindergartens (move existing kindergartens or add new kindergartens) in such a way that the districts with accessibility deficits are also covered. To move a kindergarten, you must first select it using the circle tool.  
+![](/images/training_materials/Scenario_POIs/circle_tool.png)
 
-7. Change to the scenario view.  {% include image.html src="../../uploads/training materials/Scenario_POIs/scenario_heatmap.png" maxheight="200px" %}
+7. Change to the scenario view.  
+![](/images/training_materials/Scenario_POIs/scenario_heatmap.png)
 
-8. By scrolling the map, the heatmap for the walkability population index is updated. The changed kindergartens are now included in the calculation. {% include image.html src="../../uploads/training materials/Scenario_POIs/new_kindergarden.png"  %}
+8. By scrolling the map, the heatmap for the walkability population index is updated. The changed kindergartens are now included in the calculation. 
+![](/images/training_materials/Scenario_POIs/new_kindergarden.png)
 
 
 

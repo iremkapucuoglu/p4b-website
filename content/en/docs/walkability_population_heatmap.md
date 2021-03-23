@@ -12,22 +12,22 @@ In addition to the [Walkability Heatmap](https://www.open-accessibility.org/docs
 - Where is potential for is densification? 
 - Where is an improvement of accessibility to specific amenities or public transport stations needed?
 
-{% include image.html src="docs/technical_documentation/walkability_population_index/walkability_population_map.png" %}
+![](/images/docs/technical_documentation/walkability_population_index/walkability_population_map.png)
 
 #### 1. Calculation
 The walkability population heatmap is the result of the intersection of the two layers walkability and population. 
-{% include image.html src="docs/technical_documentation/walkability_population_index/intersection_2_layers.png" %}
+![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.png)
 
 #### 2. Classification
 In order to classify the accessibility levels that were computed for each grid cell, a classification based on percentiles is used. The following table shows how the percentiles of accessibility and population are calculated in each grid.
 
-{% include image.html src="docs/technical_documentation/walkability_population_index/percentile.png" %}
+![](/images/docs/technical_documentation/walkability_population_index/percentile.png)
 
 The walkability population index is calculated as following:
 
 <b> Walkability Population Index = Population Level – Accessibility Level </b>
 
 and shows following result:
-{% include image.html src="docs/technical_documentation/walkability_population_index/calculated_index.png" maxheight="150px" %}
+![](/images/docs/technical_documentation/walkability_population_index/calculated_index.png)
 
 

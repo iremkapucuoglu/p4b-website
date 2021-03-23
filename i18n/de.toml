@@ -1,5 +1,5 @@
 [copyright]
-other = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident"
+other = "Plan4Better GmbH 2021 | All Rights Reserved"
 
 [footer_links]
 other = "Schnellzugriff"
@@ -17,34 +17,34 @@ other = "Anmelden"
 other = "Name"
 
 [contact_email]
-other = "Email"
+other = "E-Mail"
 
 [contact_phone]
-other = "Phone"
+other = "Telefonnummer (optional)"
 
 [contact_subject]
-other = "Subject"
+other = "Betreff"
 
 [contact_message]
-other = "Request message"
+other = "Nachricht"
 
 [contact_submit]
-other = "Send message"
+other = "Absenden"
 
 [contact_sent]
-other = "Message sent, we will get back to you shortly."
+other = "Die Nachricht wurde versendet. Wir antworten Ihnen so schnell wie möglich."
 
 [related_posts]
-other = "Related Articles"
+other = "Ähnliche Artikel"
 
 [search_placeholder]
-other = "Search blog"
+other = "Blog durchsuchen"
 
 [search_noresults]
-other = "No results found"
+other = "Keine Treffer gefunden"
 
 [table_of_contents]
-other = "Content Overview"
+other = "Inhaltsübersicht"
 
 [navigate_docs]
 other = "Navigate Documentation"
@@ -53,10 +53,13 @@ other = "Navigate Documentation"
 other = "Navigate Tutorials"
 
 [back_to_top]
-other = "Back to top"
+other = "zurück zum Seitenbeginn"
 
 [post_table_of_contents]
-other = "Content Overview"
+other = "Inhaltsübersicht"
 
 [post_by]
 other = "By"
+
+[all_posts]
+other = "All Posts"

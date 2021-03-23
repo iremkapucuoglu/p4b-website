@@ -1,5 +1,5 @@
 ---
-- image: "/images/basic_isochrones.png"
+- image: "/images/basic_isochrones.webp"
   vimeo: 311547681
   title:
     en: Calculate walking isochrones
@@ -10,7 +10,7 @@
     de: Berechnung des fußläufigen Einzugsbereichs, mit Informationen zur erreichbaren
       Bevölkerung und den erreichbaren Points-of-Interest.
   comments: first video
-- image: "/images/isochrones_scenario.png"
+- image: "/images/isochrones_scenario.webp"
   vimeo: 311550100
   title:
     en: Interactive network modifications
@@ -21,7 +21,7 @@
     de: Entwickle eigene Szenarien durch Veränderungen im Routingnetzwerk und visualisiere
       die Veränderung in der Erreichbarkeit.
   comments: ''
-- image: "/images/multi_isochrones.png"
+- image: "/images/multi_isochrones.webp"
   vimeo: 370382250
   title:
     en: Interactively compute multi-isochrones
@@ -32,7 +32,7 @@
     de: Zeige mithilfe von Multi-Isochronen innerhalb von Sekunden wie viele Einwohner
       in einem gewissen Stadtteil Zugang zu einem Ziel deiner Wahl haben.
   comments: ''
-- image: "/images/scenario_new_station.png"
+- image: "/images/scenario_new_station.webp"
   vimeo: 411721219
   title:
     en: Use GOAT for location planning
@@ -43,7 +43,7 @@
     de: Du kannst Points of Interest hinzufügen, modifizieren und löschen, die Veränderung
       in der Erreichbarkeit wird dir dynamisch aufgezeigt.
   comments: ''
-- image: "/images/walkability_population_heatmap.png"
+- image: "/images/walkability_population_heatmap.webp"
   vimeo: 370376888
   title:
     en: Comparison population density and walkability
@@ -54,7 +54,7 @@
     de: Vergleiche Erreichbarkeitslevel mit der Bevölkerungsdichte um bspw. die Verteilung
       von Bikesharingstationen im gesamten Stadtgebiet zu evaluieren.
   comments: ''
-- image: "/images/walkability_heatmap.png"
+- image: "/images/walkability_heatmap.webp"
   vimeo: 311549509
   title:
     en: Compute and visualize walkability
@@ -66,7 +66,7 @@
       erlaubt es die Erreichbarkeit zu verschiedenen Points-of-Interest auf in Form
       eines Rasters darzustellen.
   comments: ''
-- image: "/images/extensive_spatial_data.png"
+- image: "/images/extensive_spatial_data.webp"
   vimeo: 422451126
   title:
     en: Visualize extensive spatial data

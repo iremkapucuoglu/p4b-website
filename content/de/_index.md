@@ -1,13 +1,13 @@
 ---
-title: Zuhause
+title: Home
 layout: blocks
 header:
   layout: left
-  heading: Lasst uns gemeinsam eine ausgewogene Zukunft planen!
-  text: ''
-  image: "/images/heatmap-muc.PNG"
+  heading: Gemeinsam eine ausgewogene Zukunft planen!
+  text: 'Digitale Planungswerkzeuge zur Gestaltung nachhaltiger Städte und Regionen.'
+  image: "/images/heatmap-muc.webp"
   button:
-    text: Try Goat
+    text: GOAT testen
     url: "/goatlive/"
   background: default
   background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
@@ -16,10 +16,7 @@ blocks:
   block: card
   layout: left
   background: default
-  text: 'Our aim is to help planners and decision-makers to promote active mobility
-    and plan for a balanced future. By providing understandable planning tools, we
-    are transforming spatial and transport planning towards a more open, joyful and
-    efficient reality. '
+  text: 'Durch die Bereitstellung von verständlichen Planungstools für den Fuß- und Radverkehr begleiten wir die Stadt- und Verkehrsplanung, sowie die Standortentwicklung, in eine offenere, spaßigere und effizientere Zukunft.'
   heading: Spielwiese zur Gestaltung lebenswerter Räume
   image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
   video: ''
@@ -30,50 +27,57 @@ blocks:
   features:
   - icon: "/images/icon-technology.svg"
     heading: Innovation
-    text: 'Always driving for cutting-edge technology. '
+    text: 'Stetige Operationalisierung der neusten Innovationen.'
   - icon: "/images/icon-joy.svg"
-    heading: Joy
-    text: Make urban and transport planning fun.
+    heading: Spaß
+    text: 'Analysen sollen Spaß machen und einfach zu erstellen sein.'
   - icon: "/images/icon-planning.svg"
-    heading: Balance
-    text: Evidence-based planning decisions.
+    heading: Nachhaltigkeit
+    text: 'Maxime ist der Beitrag zu einer sozialeren und ökologischeren Welt.'
   text: ''
-  heading: Our Values
+  heading: Unsere Werte
 - template: card-block
   block: card
   layout: right
   background: default
-  image: "/images/header-home-image.jpg"
-  text: Walking and cycling require attractive transport infrastructure and destinations
-    at close distance. GOAT offers interactive map-based analysis.
-  heading: Our Offer
+  image: "/images/isochrone_amenities.webp"
+  text: 'Der Fuß- und Radverkehr benötigt eine attraktive Verkehrsinfrastruktur und nahe Ziele im Sinne der 15-Minuten-Stadt. 
+  GOAT vereint durch den Erreichbarkeitsansatz diese zwei Dimensionen und liefert über digitale Karten dynamische Analysen.'
+  heading: Was bieten wir?
   button:
     url: "/what-is-goat/"
-    text: Learn more about GOAT
+    text: Erfahre mehr zu GOAT
   background_image: "/images/bg-9.svg"
 - template: recent-posts-block
   block: recent-posts
   background: muted
-  heading: Recent Posts
+  heading: Aktuelle Blog-Posts
 - template: logos-block
   block: logos
   background: default
-  heading: Partners
+  heading: Partner
   logos:
   - "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - "/images/logo_mobidata-bw-1.jpg"
   - "/images/logo-tum-1.png"
   text: ''
   padding_top: default
+  items:
+    - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
+    - logo: "/images/logo_mobidata-bw-1.jpg"
+    - logo: "/images/logo-tum-2.png"
 - template: logos-block
   block: logos
   background: default
   logos:
   - "/images/logo-mfund-2.jpg"
   - "/images/logo-bmvi.png"
-  heading: Funded by
+  heading: Gefördert durch
   padding_top: remove
-  text: The development of GOAT was funded by the BMVI from November 2019 to February
-    2021 as part of mFund funding line 1.
-
+  text: Die Entwicklung von GOAT wurde vom BMVI von November 2019 bis Februar 2021 im Rahmen der mFUND-Initiative (Förderlinie 1) an der TUM gefördert.
+  items:
+    - logo: "/images/logo-mfund.png"
+    - logo: "/images/logo-bmvi.svg"
+      text: 'Gefördert durch:'
+      text_2: 'aufgrund eines Beschlusses des Deutschen Bundestages'
 ---

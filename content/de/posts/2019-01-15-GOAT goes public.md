@@ -1,22 +1,27 @@
 ---
 permalink: /de/goat-goes-public/
-title:  "GOAT<sub>beta</sub> ist online!"
+title:  "GOAT-beta ist online!"
 author: pajares
 lang: de
 tags: [de]
-categories: [news]
-thumbnail: /images/blog/goat_goes_public/isochrone.jpg
-image: /images/blog/goat_goes_public/isochrone.jpg
+categories: [News, Entwicklung]
+thumbnail: /images/blog/goat_goes_public/isochrone-thumbnail.webp
+image: /images/blog/goat_goes_public/isochrone-banner.webp
+summary: Ich freue mich, den ersten Release des Geo Open Accessibility Tools (GOAT) zu verkünden. In dieser ersten Version werden bereits erste Hauptfunktionen gebündelt, es werden aber noch viele weitere folgen. 
 date: 2019-01-15
 ---
+## Der erste Release
+
 Ich freue mich, den ersten Release des Geo Open Accessibility Tools (GOAT) zu verkünden. In dieser ersten Version werden bereits erste Hauptfunktionen gebündelt, es werden aber noch viele weitere folgen. 
 
 Diejenigen, die das GOAT-Projekt bereits verfolgt haben, wissen, dass dessen Entwicklung mit meiner Masterarbeit vor über anderthalb Jahren begann. In der Zwischenzeit ist die Entwicklung von GOAT zu einem wichtigen Teil meiner Doktorarbeit und meiner täglichen Arbeit am [Lehrstuhl für Siedlungsstruktur und Verkehrsplanung an der Technischen Universität München](https://www.sv.bgu.tum.de) geworden.
 
-Es hat durchaus seine Zeit gedauert bis zur Veröffentlichung dieser ersten experimentellen Version von GOAT, die kostenlos ist und gerne öffentlich geteilt werden kann. In diesem Rahmen möchte ich mich bei den ersten GOAT-Anwendern sowie meinen KollegInnen und Studierenden bedanken. Ein spezieller Dank geht an [Majk Shkurti](https://github.com/majkshkurti), der mir immer zur Seite stand, wenn meine Front-End-Fähigkeiten an ihre Grenzen gestoßen sind. 
+Es hat durchaus seine Zeit gedauert bis zur Veröffentlichung dieser ersten experimentellen Version von GOAT, die kostenlos ist und gerne öffentlich geteilt werden kann. In diesem Rahmen möchte ich mich bei den ersten GOAT-Anwendern sowie meinen KollegInnen und Studierenden bedanken. Ein spezieller Dank geht an [Majk Shkurti](https://github.com/majkshkurti), der mir immer zur Seite stand, wenn meine Front-End-Fähigkeiten an ihre Grenzen gestoßen sind.
+
 Diese Veröffentlichung ist aber lediglich der erste Schritt, da noch viele weitere Arbeiten anstehen. In den nächsten Wochen, Monaten und Jahren werden regelmäßig Erweiterungen und neue Funktionen folgen.
 Diese Webseite soll nicht nur den Zweck erfüllen, die GOAT-Applikation zu hosten, sie soll auch als Anlaufstelle für die wissenschaftlichen Hintergründe  von GOAT und dessen [Dokumentation](/docs/about) dienen. Momentan ist die Dokumentation auf dieser Seite noch recht limitiert, es werden aber regelmäßig neue Inhalte folgen!
 
+## Die Features
 
 Die nachfolgenden Videos dienen als erste Orientierung und helfen dabei, die Hauptfunktionen von GOAT besser zu verstehen.
 

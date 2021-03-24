@@ -6,7 +6,7 @@ date: 2021-03-21T13:00:00.000+00:00
 summary: 'Um auch weiterhin eine kontinuierliche Entwicklung von GOAT zu gewährleisten und das Tool gleichzeitig in die breite Praxisanwendung zu bringen, haben wir uns dazu entschieden, unsere Aktivitäten neu auszurichten und ein Start-up zu gründen: Plan4Better!'
 categories:
 - News
-author: jehle
+author: haxhiu
 
 ---
 

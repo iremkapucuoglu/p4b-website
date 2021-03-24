@@ -27,7 +27,7 @@
     en: As engineer and scientist she is leading the team with Elias. To shape liveable cities, 
       she is particularly engaged in strengthening active forms of mobility and foster Open Data.
     de: Als Umweltingenieurin und Wissenschaftlerin leitet sie das Team mit Elias Pajares. 
-      Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt Sie sich für die aktive Mobilität und die Förderung offener Daten ein.
+      Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt sie sich für die aktive Mobilität und die Förderung offener Daten ein.
   github: https://github.com/UJehle
   website: ''
   linkedin: https://www.linkedin.com/in/ulrike-jehle/
@@ -109,3 +109,18 @@
   Website: ''
   team_image: ''
   website: ''
+- username: haxhiu
+  name: Helga Haxhiu
+  title:
+    en: Marketing
+    de: Marketing
+  image: "/images/haxhiu.jpg"
+  bio:
+    en: text
+    de: text
+  team_member: false
+  github: ''
+  Website: ''
+  team_image: ''
+  website: ''
+

@@ -244,13 +244,13 @@ weight = 1
 button = "primary-outline"
 [[languages.en.menu.social]]
 name = "Twitter"
-url = "https://twitter.com/GoatTool"
+url = "https://twitter.com/plan4better"
 weight = 1
 [languages.en.menu.social.params]
 icon = "twitter"
 [[languages.en.menu.social]]
 name = "Linkedin"
-url = "https://www.linkedin.com/company/goat-tool/"
+url = "https://www.linkedin.com/company/plan4better/"
 weight = 2
 [languages.en.menu.social.params]
 icon = "linkedin"
@@ -276,7 +276,7 @@ email = "info@plan4better.de"
 mailchimp_form_action = ""
 mailchimp_hidden_name = ""
 ogimage = "images/og-image.png"
-twitter = "@GoatTool"
+twitter = "@plan4better"
 phone = "+49 89 2000 708 30"
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"

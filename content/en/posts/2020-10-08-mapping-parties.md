@@ -38,7 +38,7 @@ Over 25 participants from different organizations, such as [Technical University
 
 _Figure 3. As a group, we edited over 1,000 objects in 2 hours of mapping_
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/goat-tool/) or [Twitter](https://twitter.com/GoatTool) to hear more about upcoming mapping events. 
+Follow us on [LinkedIn](https://www.linkedin.com/company/plan4better/) or [Twitter](https://twitter.com/plan4better) to hear more about upcoming mapping events. 
 
 
 

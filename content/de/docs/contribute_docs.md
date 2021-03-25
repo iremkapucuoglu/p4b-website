@@ -7,9 +7,9 @@ sections:
 weight: 10
 ---
 
-GOAT is an open source project. You can not only use it, but you are also very welcome to contribute. Besides contributing code or collecting OpenStreetMap data, you can also help improving our documentation. This website is hosted on Github with the rest of the GOAT codebase and is using [Jekyll](https://jekyllrb.com/) as static site generator. This allows to build a website with the markdown language based on templates.
+GOAT is an open source project. You can not only use it, but you are also very welcome to contribute. Besides contributing code or collecting OpenStreetMap data, you can also help improving our documentation. This website is hosted on GitHub with the rest of the GOAT codebase and is using [Jekyll](https://jekyllrb.com/) as static site generator. This allows to build a website with the markdown language based on templates.
 
-In order to contribute to the website you will need to have a code editor, Git and Jekyll installed, furthermore you need a Github-Account.
+In order to contribute to the website you will need to have a code editor, Git and Jekyll installed, furthermore you need a GitHub-Account.
 The following steps show one possible workflow to contribute to the website. 
 
 #### 1. Get a fork of GOAT
@@ -20,7 +20,7 @@ Go to [https://github.com/goat-community/goat-website](https://github.com/goat-c
 
 ![](/images/docs/contribute_to_GOAT/git_fork.png)
 
-You now have a personal fork of the GOAT respository on GitHub.
+You now have a personal fork of the GOAT repository on GitHub.
 
 #### 2. Create a local clone of your GOAT repository
 

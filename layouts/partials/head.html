@@ -29,11 +29,15 @@
 <meta property="og:image" content="{{ . | absURL }}" /> 
 <meta name="twitter:image" content="{{ . | absURL }}" />
 <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
+<meta name="linkedin:image" content="{{ . | absURL }}" />
+<meta name="linkedin:image:src" content="{{ . | absURL }}" /> 
 {{ else }}
 <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
+<meta name="linkedin:image" content="{{ .Site.Params.ogimage | absURL }}" />
+<meta name="linkedin:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
 {{ end }}
 
 <meta name="twitter:site" content="{{ .Site.Params.twitter }}">

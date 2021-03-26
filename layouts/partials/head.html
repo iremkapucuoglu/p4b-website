@@ -7,6 +7,8 @@
 <meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}" />
 <meta property="og:site_name" content="{{ .Title }} | {{ .Site.Title }}" />
 
+<meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
+
 <meta name="description" content="{{ .Params.description }}" />
 <meta itemprop="description" content="{{ .Params.description }}" />
 <meta property="og:description" content="{{ .Params.description }}" />
@@ -25,7 +27,6 @@
 {{ end }}
 
 
-<meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 

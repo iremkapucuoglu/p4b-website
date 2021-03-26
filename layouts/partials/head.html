@@ -7,8 +7,6 @@
 <meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}" />
 <meta property="og:site_name" content="{{ .Title }} | {{ .Site.Title }}" />
 
-<meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
-
 <meta name="description" content="{{ .Params.description }}" />
 <meta itemprop="description" content="{{ .Params.description }}" />
 <meta property="og:description" content="{{ .Params.description }}" />
@@ -28,6 +26,7 @@
 
 
 <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
+<meta property="og:image" content="{{ replace (.Site.Params.ogimage | absURL) "https:" "" }}" />
 <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
 <meta name="linkedin:image" content="{{ .Site.Params.ogimage | absURL }}" />

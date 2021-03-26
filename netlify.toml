@@ -28,3 +28,10 @@ HUGO_VERSION = "0.80.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/"
+  to = "/de"
+  status = 301
+  force = false
+  conditions = {Country = ["de"]}

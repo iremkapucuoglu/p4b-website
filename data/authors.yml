@@ -16,7 +16,7 @@
   linkedin: https://www.linkedin.com/in/eliaspajares/
   team_member: true
   twitter: https://twitter.com/PajaresElias
-  team_image: "/images/image317.jpg"
+  team_image: "/images/team_elias.jpg"
 - username: jehle
   name: Ulrike Jehle
   title:
@@ -27,13 +27,13 @@
     en: As engineer and scientist she is leading the team with Elias. To shape liveable cities, 
       she is particularly engaged in strengthening active forms of mobility and foster Open Data.
     de: Als Umweltingenieurin und Wissenschaftlerin leitet sie das Team mit Elias Pajares. 
-      Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt Sie sich für die aktive Mobilität und die Förderung offener Daten ein.
+      Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt sie sich für die aktive Mobilität und die Förderung offener Daten ein.
   github: https://github.com/UJehle
   website: ''
   linkedin: https://www.linkedin.com/in/ulrike-jehle/
   team_member: true
   twitter: https://twitter.com/JehleUlrike
-  team_image: "/images/image208.jpg"
+  team_image: "/images/team_ulrike.jpg"
 - username: shkurti
   name: Majk Shkurti
   title:
@@ -48,7 +48,7 @@
   linkedin: https://www.linkedin.com/in/majkshkurti/
   team_member: true
   twitter: ''
-  team_image: "/images/image134.jpg"
+  team_image: "/images/team_majk.jpg"
 - username: hassine
   name: Emna Ben Hassine
   title:
@@ -109,3 +109,18 @@
   Website: ''
   team_image: ''
   website: ''
+- username: haxhiu
+  name: Helga Haxhiu
+  title:
+    en: Marketing
+    de: Marketing
+  image: "/images/haxhiu.jpg"
+  bio:
+    en: text
+    de: text
+  team_member: false
+  github: ''
+  Website: ''
+  team_image: ''
+  website: ''
+

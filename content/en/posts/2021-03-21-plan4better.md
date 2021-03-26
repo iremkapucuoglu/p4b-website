@@ -5,8 +5,8 @@ image: "/images/blog/plan4better/plan4better_banner.webp"
 date: 2021-03-21T13:00:00.000+00:00
 summary: 'We are absolutely certain that new directions of our work are necessary to boost the development and application of GOAT. To build more sustainable cities and regions worldwide, we founded our start-up and chose a self-explanatory name: Plan4Better!'
 categories:
-- News
-author: jehle
+- news
+author: haxhiu
 
 ---
 

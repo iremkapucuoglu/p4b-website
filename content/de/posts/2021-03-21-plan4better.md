@@ -6,7 +6,7 @@ date: 2021-03-21T13:00:00.000+00:00
 summary: 'Um auch weiterhin eine kontinuierliche Entwicklung von GOAT zu gewährleisten und das Tool gleichzeitig in die breite Praxisanwendung zu bringen, haben wir uns dazu entschieden, unsere Aktivitäten neu auszurichten und ein Start-up zu gründen: Plan4Better!'
 categories:
 - News
-author: jehle
+author: haxhiu
 
 ---
 
@@ -24,7 +24,7 @@ Wir [Gründer](../../team) sind Elias Pajares, Ulrike Jehle und Majk Shkurti und
 
 Unsere Motivation ein Start-up zu gründen fundiert auf vielseitigen Hintergründen: Zu oberst steht unser Wunsch, einen aktiven Beitrag zur nachhaltigen Mobilität zu leisten und Innovationen in die Praxis zu bringen. Konkret wollen wir Akteure im Planungsprozess unterstützen, indem wir kartenbasierte digitale Werkzeuge bereitstellen, die dabei helfen, eine ausgewogene Zukunft in den Kommunen voran zu bringen. Dies ist eng verzahnt mit unserer Liebe zu Open-Data und Open-Source-Software; wir sind seit langem ein aktiver Teil der Community und wollen auch in Zukunft wertvolle Beiträge leisten. 
 
-Unsere Vision ist es, Plan4Better als Vorreiter in der Entwicklung von Planungsinstrumenten zur Gestaltung nachhaltiger und attraktiver Lebensräume zu etablieren. Unser Tool GOAT haben wir bereits vielfach der Planungspraxis vorgestellt und insgesamt sehr positives Feedback erhalten. Vergleichbare Planungswerkzeuge, die ausgereift, dynamisch und gleichzeitig finanzierbar sind, fehlen bislang. Gleichzeitig wird eine fuß- und radverkehrsfreundliche Planung in belebten Räumen immer wichtiger. Daher haben uns entschieden den nächsten Schritt zu wagen!
+Unsere Vision ist es, Plan4Better als Vorreiter in der Entwicklung von Planungsinstrumenten zur Gestaltung nachhaltiger und attraktiver Lebensräume zu etablieren. Unser Tool GOAT haben wir bereits vielfach der Planungspraxis vorgestellt und insgesamt sehr positives Feedback erhalten. Vergleichbare Planungswerkzeuge, die ausgereift, dynamisch und gleichzeitig finanzierbar sind, fehlen bislang. Gleichzeitig wird eine fuß- und radverkehrsfreundliche Planung immer wichtiger. Daher haben uns entschieden den nächsten Schritt zu wagen!
 
 ## Unser Angebot
 

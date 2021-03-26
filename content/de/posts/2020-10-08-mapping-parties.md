@@ -39,7 +39,7 @@ An diesem Event waren über 25 Teilnehmende aus unterschiedlichen Organisationen
 
 _Abbildung 3. Als Gruppe haben wir über 1,000 Objekte in zwei Stunden erfasst._
 
-Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/goat-tool/) oder [Twitter](https://twitter.com/GoatTool), um keine zukünftigen Mapping-Events zu verpassen. 
+Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/) oder [Twitter](https://twitter.com/plan4better), um keine zukünftigen Mapping-Events zu verpassen. 
 
 
 

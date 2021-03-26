@@ -34,4 +34,4 @@ HUGO_ENABLEGITINFO = "true"
   to = "/de"
   status = 301
   force = true
-  conditions = {Country = ["de"]}
+  conditions = {Country = ["de","at","ch"]}

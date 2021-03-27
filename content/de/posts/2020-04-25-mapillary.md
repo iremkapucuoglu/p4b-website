@@ -16,7 +16,7 @@ date: 2030-04-25
 ---
 ## Datenbedarf
 
-Daten, Daten und noch mehr Daten! Im Rahmen unserer Arbeit beim [mFUND Projekt](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html) haben wir GOAT auf die Gemeinde Fürstenfeldbruck übertragen. Um dies zu bewerkstelligen, haben wir nach verfügbaren Daten aus unterschiedlichen Quellen gesucht.
+Daten, Daten und noch mehr Daten! Im Rahmen unserer Arbeit beim [mFUND Projekt](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html), haben wir die Funktionen von GOAT auf die Gemeinde Fürstenfeldbruck übertragen. Um dies zu bewerkstelligen, haben wir nach verfügbaren Daten aus unterschiedlichen Quellen gesucht.
 
 OpenStreetMap war, wie immer, eine hilfreiche Informationsquelle, dennoch haben viele Details gefehlt. Deshalb haben wir uns [Mapillary](https://www.mapillary.com/) zu Nutze gemacht. Mapillary kann als „das Google Street View der Open Source Community“ beschrieben werden. Menschen aus aller Welt haben Bildmaterial von Millionen von Kilometern an städtischen Straßen, Fußgänger- oder Fahrradwegen aufgenommen. Von ihren Autos aus, beim Fahrradfahren oder auch einfach im Zufußgehen. Das Ziel ist es, eine aktuelle Quelle für das Geschehen auf den Straßen zu erhalten. Das ist aber noch längst nicht alles. Das Besondere an Mapillary liegt in der KI-basierten Objekterkennung. So können verschiedenste Objekte (Verkehrsschilder, Hydranten, Fahrbahnmarkierungen, Fahrradständer etc.) automatisch auf den Bildern erkannt und so ihre räumliche Position auf der Karte ermittelt werden.
 

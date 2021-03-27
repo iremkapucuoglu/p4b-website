@@ -16,7 +16,7 @@ date: 2030-04-25
 ---
 ## Need for Data
 
-Data, data and more data! While working on the [mFUND project](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html) to bring GOAT’s features to the municipality of Fürstenfeldbruck, we have been looking for available information from many sources to accomplish the objectives.
+Data, data, and more data! While working on the [mFUND project](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/GOAT.html) to bring GOAT’s features to the municipality of Fürstenfeldbruck, we have been looking for available information from many sources to accomplish the objectives.
 
 As always, OpenStreetMap has been a great source of information, a lot of details are still missing. Here comes [Mapillary](https://www.mapillary.com/) into play. The easy way to describe it would be “the Google Street View of open source”. People from all over the world have captured imagery from their cars, bikes, or just by walking millions of kilometers of city streets, roads, pedestrian, and bicycle paths to have an up-to-date source of what is going on in the streets. But that is not everything, Mapillary’s magic lies in their machine-generated map feature, with which they can automatically detect different objects from the images (traffic signs, fire hydrant, lane markings, bicycle racks, etc.) and estimate their position on the map.
 
@@ -24,7 +24,7 @@ As always, OpenStreetMap has been a great source of information, a lot of detail
 
 Since in Fürstenfeldbruck only a few parts of the road network were captured beforehand, we decided to go outside and take the pictures ourselves. This screenshot shows our coverage:
 
-![Fürstenfeldbruck's coverage in Mapillary.](/images/blog/mapillary/mapillary_ffb.png "Fürstenfeldbruck and pictured links")
+![Fürstenfeldbruck's coverage in Mapillary.](/images/blog/mapillary/mapillary_ffb.png "Pictured links in Fürstenfeldbruck.")
 
 _Figure 1. Fürstenfeldbruck Area and pictured links_
 
@@ -40,7 +40,7 @@ So far, within the area, we have pictured 210 km in 8 days. Compared to the esti
 
 To organize this task, Mapillary has a feature called “Capture projects”. With this feature, the user defines the general area that he wants to cover as a shape, in our case Fürstenfeldbruck. Then, the shape is divided into subareas, each of them is called a "task" and is assigned to the “drivers” that are members of the group (Figure 3). Before going to the city, everybody downloaded an app called “Mapillary Driver”, where every driver can see to which area they are assigned and for which streets pictures are missing. In that way, it is very easy to complete all the tasks.
 
-![Area of Fürstenfeldbruck devided by tasks and assigement in Mapillary Driver.](/images/blog/mapillary/mapillary_tasks.png "Map of Fürstenfeldbruck")
+![Area of Fürstenfeldbruck devided by tasks and assigements in Mapillary Driver.](/images/blog/mapillary/mapillary_tasks.png "Map of Fürstenfeldbruck")
 
 _Figure 3. Fürstenfeldbruck area divided by tasks and the assignment to each driver_
 
@@ -56,7 +56,7 @@ _Figure 4. The Mapillary images can now be viewed directly in GOAT_
 
 This allows to verify details such as the quality of sidewalks or cycle paths; land use, as shown in the pictures below where it is possible to identify residential areas with 30 zones or calmed roads, commercial areas to analyze parking distribution or footpaths, and the quality of the road surface; schools, health buildings, points of interest and even the possibility to find bicycle racks.
 
-![Pictures of differend land-use areas in Fürstefeldbruck.](/images/blog/mapillary/mapillary_sequences.png "Captured sequences")
+![Pictures of differend land-use areas in Fürstefeldbruck.](/images/blog/mapillary/mapillary_sequences.png "Captured sequences in Fürstendeldbruck.")
 
 _Figure 5. Captured sequences within different land-use areas_
 

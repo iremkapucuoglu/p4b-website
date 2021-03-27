@@ -64,10 +64,10 @@ _Abbildung 5. Erfasste Bildsequenzen innerhalb unterschiedlicher Landnutzungsber
 
 Die Mapillary-Aufnahmen wurden genutzt, um die Qualität von OpenStreetMap-Daten zu verbessern. Wie auf dem Bild unten dargestellt, können Mapillary Bilder einfach und direkt bei der Bearbeitung in OSM genutzt werden. Die aufgenommenen Bilder im Gebiet Fürstenfeldbruck werden als grüne Punkte dargestellt.
 
-![](/images/blog/mapillary/mapillary_osm.png)
+![Mapillary-Bilder von Fürstenfeldbruck werden zur Bearbeitung in OSM verwendet.](/images/blog/mapillary/mapillary_osm.png "OSM-Daten mit Mapillaryaufnahmen verbessern.")
 
 _Abbildung 6. Nutzung von Mapillaryaufnahmen zur Verbesserung der OSM-Daten_
 
-Wir haben die Daten bisher hauptsächlich genutzt, um die Attribute des Straßennetzwerks in OSM zu vervollständigen. Auf der Grundlage der Bilder aus Mapillary können viele relevante Attribute gesammelt werden, die für die Gewährleistung einer realistischeren Radroutenführung wichtig sind. Beispielsweise ist es möglich, die Art der Straßenoberfläche (gepflastert, ungepflastert, Asphalt, Beton, Pflastersteine etc.) zu identifizieren oder die Qualität des Straßenbelags (exzellent, gut, mittel, schlecht) einer Straße oder eines Weges zu spezifizieren. Es ist auch möglich, zu identifizieren, ob eine Straße für Fahrräder und Fußgänger*Innen ausgelegt ist und vieles mehr.
+Wir haben die Daten bisher hauptsächlich genutzt, um die Attribute des Straßennetzwerks in OSM zu vervollständigen. Auf der Grundlage der Bilder aus Mapillary, können viele relevante Attribute gesammelt werden, die für die Gewährleistung einer realistischeren Radroutenführung wichtig sind. Beispielsweise ist es möglich, die Art der Straßenoberfläche (gepflastert, ungepflastert, Asphalt, Beton, Pflastersteine etc.) zu identifizieren oder die Qualität des Straßenbelags (exzellent, gut, mittel, schlecht) einer Straße oder eines Weges zu spezifizieren. Es ist auch möglich, zu identifizieren, ob eine Straße für Fahrräder und Fußgänger*Innen ausgelegt ist und vieles mehr.
 
 Wir werden weiterhin Bildmaterial sammeln und unsere Methodik verfeinern, um bessere Kartendaten für alle zu erstellen!

@@ -54,20 +54,20 @@ And the possibility to see up-to-date images makes it easy to remotely analyze t
 
 _Figure 4. The Mapillary images can now be viewed directly in GOAT_
 
-This allows to verify details such as the quality of sidewalks or cycle paths; land use, as the shown in the pictures below where it is possible to identify residential areas with 30 zone or calmed roads, commercial areas to analyze parking distribution or footpaths and the quality of the road surface; schools, health buildings, points of interest and even possibility to find bicycle racks.
+This allows to verify details such as the quality of sidewalks or cycle paths; land use, as shown in the pictures below where it is possible to identify residential areas with 30 zones or calmed roads, commercial areas to analyze parking distribution or footpaths, and the quality of the road surface; schools, health buildings, points of interest and even the possibility to find bicycle racks.
 
-![](/images/blog/mapillary/mapillary_sequences.png)
+![Pictures of differend land-use areas in Fürstefeldbruck.](/images/blog/mapillary/mapillary_sequences.png "Captured sequences")
 
-_Figure 5. Captured sequences within different land use areas_
+_Figure 5. Captured sequences within different land-use areas_
 
 ## Improvement of OSM
 
-Mapillary data was used to improve the quality of OpenStreetMap data. Like shown in the picture below, Mapillary photos can easily and directly be used when editing in OSM. The taken photos in the Fürstenfeldbruck area are shown as green dots.
+Mapillary data was used to improve the quality of OpenStreetMap data. As shown in the picture below, Mapillary photos can easily and directly be used when editing in OSM. The taken photos in the Fürstenfeldbruck area are shown as green dots.
 
-![](/images/blog/mapillary/mapillary_osm.png)
+![Mapillary pictures of Fürstenfeldbruck are being used for editing in OSM.](/images/blog/mapillary/mapillary_osm.png "Improvemtnt of OSM with Mapillary data")
 
 _Figure 6. Using Mapillary pictures to improve OSM data_
 
 We used the data so far mainly to complete the attributes of the street network in OpenStreetMap. Based on the Mapillary photos, many relevant attributes could be collected that are important to provide a more realistic cycling routing. As an example, it is possible to identify the type of surface (paved, unpaved, asphalt, concrete, paving stones, …) or smoothness (excellent, good, intermediate, bad, …) of a road or path. It is also possible to identify if a road is designed for bicycles and pedestrians and many more…
 
-We will keep on collecting more imagery and fine tune our used methodology to build better map data for all!
+We will keep on collecting more imagery and fine-tune our used methodology to build better map data for all!

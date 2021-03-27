@@ -42,8 +42,7 @@ Die folgende Abbildung zeigt die Ergebnisse einer beispielhaften Planungsfrage. 
 
 ## Feedback
 
-Bei der Bearbeitung der Planungsfragen und während der Feedbackrunde hatten die Teilnehmenden viele Verbesserungsvorschläge.
-Einige ausgewählte Beispiele sind:
+Bei der Bearbeitung der Planungsfragen und bei der Feedbackrunde hatten die Teilnehmenden viele konstruktive Verbesserungsvorschläge. Einige ausgewählte Beispiele sind:
 
 * Integration zusätzlicher Daten (Fluglärmkarte, Grünflächen)
 * Einfügen einer Größenbeschriftung beim Zeichnen neuer Gebäude
@@ -54,4 +53,4 @@ Einige ausgewählte Beispiele sind:
 * Ermöglichen die Heatmap zu exportieren
 * Den Vergleich von Isochronen unterschiedlicher Modi zu vereinfachen
 
-Die Vorschläge wurden sorgfältig dokumentiert. Diese werden, wann immer möglich, im weiteren Entwicklungsprozess umgesetzt. Einige der Funktionen befinden sich sogar bereits in Entwicklung und werden in Kürze veröffentlicht (siehe unsere [GitHub-Seite](https://github.com/goat-community/goat)). Im Anschluss an die Planungsworkshops wird ein abschließender Syntheseworkshop mit Teilnehmenden aus allen Gemeinden sowie weiteren Experten stattfinden. Dieser letzte Workshop im Rahmen des mFUND-Projekts wird genutzt, um weiteres Feedback zur Benutzererfahrung zu erhalten. Daraus werden weitere Schlussfolgerungen für den zukünftigen Entwicklungspfad von GOAT abgeleitet.
+Die Vorschläge wurden sorgfältig dokumentiert. Diese werden, wann immer möglich, im weiteren Entwicklungsprozess umgesetzt. Einige der Funktionen befinden sich sogar bereits in Entwicklung und werden in Kürze veröffentlicht (siehe unsere [GitHub-Seite](https://github.com/goat-community/goat)). Im Anschluss an die Planungsworkshops wird ein abschließender Syntheseworkshop mit Teilnehmenden aus allen Gemeinden sowie weiteren Expert*Innen stattfinden. Dieser letzte Workshop im Rahmen des mFUND-Projekts wird genutzt, um weiteres Feedback zur Benutzererfahrung zu erhalten. Daraus werden weitere Schlussfolgerungen für den zukünftigen Entwicklungspfad von GOAT abgeleitet.

@@ -33,7 +33,7 @@ Die Planungsfragen basierten auf realen Planungsfragen aus der Praxis jeder einz
 
 * **Neue Entwicklungsgebiete**: Entwicklung von Szenarien für neue Wohngebiete mit lokaler Nahversorgung (z.B. Kindergarten, Supermarkt) und neuen Wegverbindungen
 * **Neue Fußgänger- und Fahrradbrücken**: Entwicklung von Szenarien für neue Brücken und Vergleich der Erreichbarkeitsveränderungen an verschiedenen Standorten
-* **Barrierefreier Umbau einer Fußgängerbrücke**: Entwicklung von Szenarien für den barrierefreien Umbau einer Fußgängerbrücke und ihre Auswirkungen auf die Barrierefreiheit für RollstuhlfahrerInnen
+* **Barrierefreier Umbau einer Fußgängerbrücke**: Entwicklung von Szenarien für den barrierefreien Umbau einer Fußgängerbrücke und ihre Auswirkungen auf die Barrierefreiheit für Rollstuhlfahrer*Innen
 * **Standortplanung für Nahversorgung** (z.B. Supermarkt) und **Mobilitätsdienstleistungen** (z.B. Bikesharing- und Mobilitätsstationen): Vergleichen verschiedener Standorte durch Erreichbarkeitsanalysen mit Heatmaps und Multi-Isochronen
 
 Die folgende Abbildung zeigt die Ergebnisse einer beispielhaften Planungsfrage. Dabei ging es um die Auswirkungen einer Verdichtung auf eine ländliche Gemeinschaft in Bezug auf die Erreichbarkeit und stellt dadurch eine typische Herausforderung in der Stadt- und Verkehrsplanung dar.

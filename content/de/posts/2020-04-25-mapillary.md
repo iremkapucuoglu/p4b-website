@@ -48,7 +48,7 @@ Durch diese Arbeiten liefern wir neue Daten und verbessern die bereits bestehen 
 
 ## Einbindung der Aufnahmen in GOAT
 
-Außerdem macht es die Möglichkeit, aktuelle Bilder einzusehen, einfach, die Straße aus der Ferne zu analysieren.
+Die Möglichkeit, aktuelle Bilder zu sehen, erleichtert außerdem die Analyse der Straße aus der Ferne.
 
 <iframe data-uk-responsive class="embed-responsive-item" src="https://player.vimeo.com/video/411741106?texttrack=en&autoplay=1&loop=1&autopause=0" allow="autoplay; fullscreen" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen width="1920" height="1080"></iframe>
 

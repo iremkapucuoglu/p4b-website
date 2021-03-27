@@ -25,7 +25,7 @@ We are very thankful to the participating city planners, transport planners, arc
 
 All three planning workshops lasted around three hours and were conducted following a similar agenda. First, GOAT was introduced to the participants so they could familiarize themselves with the main features of the tool. The project team then presented the planning questions that had been prepared for the respective contexts in consultation with the local planners beforehand. The participants formed groups based on their interests and worked on the planning questions. A special challenge was the COVID-19 situation, but an in-person workshop was favored and potential risks were mitigated by keeping distance and wearing masks.
 
-![](/images/blog/planning_workshops/images_FR_FFB.png)
+![The GOAT team and a small group of participants during a planning workshop.](/images/blog/planning_workshops/images_FR_FFB.png "Planning workshops with practitioners.")
 
 ## Answered planning questions
 
@@ -38,7 +38,7 @@ The planning questions were based on real planning tasks from each municipality.
 
 The following illustration shows the results of one exemplary planning question. It deals with the effects of densification on a rural community in terms of accessibility and therefore it pictures a typical challenge in urban and transport planning.
 
-![](/images/blog/planning_workshops/Blogpost_planning_workshop_graphic.png)
+![Using GOAT for a real life planning question.](/images/blog/planning_workshops/Blogpost_planning_workshop_graphic.png "Scenario building with GOAT")
 
 ## Feedback
 

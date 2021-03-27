@@ -56,7 +56,7 @@ _Abbildung 4. Die Mapillary Bilder können nun direkt in GOAT eingesehen werden_
 
 So können Details überprüft werden, wie die Qualität von Geh- und Radwegen; Flächennutzung (wie auf den untenstehenden Bildern dargestellt, ist es möglich, Wohngebiete mit 30er Zonen oder verkehrsberuhigten Straßen, Gewerbegebiete zur Analyse der Parkplatzverteilung oder Fußgängerwege und die Qualität der Straßenoberfläche zu identifizieren); Schulen, Gesundheitshäuser und sogar Fahrradständer.
 
-![](/images/blog/mapillary/mapillary_sequences.png)
+![Bilder von verschiedenen Landnutzungsgebieten in Fürstefeldbruck.](/images/blog/mapillary/mapillary_sequences.png "Bildsequenzen aus Fürstenfeldbruck.")
 
 _Abbildung 5. Erfasste Bildsequenzen innerhalb unterschiedlicher Landnutzungsbereiche_
 

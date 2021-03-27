@@ -1,15 +1,19 @@
 ---
-permalink: /de/testcycles/
-title:  "Einbezug von Expertenmeinungen"
-# author: [pajares, jehle, hassine]
+permalink: "/de/testcycles/"
+title: Einbezug von Expertenmeinungen
 author: pajares
 lang: de
-tags: [de]
-categories: [Praxisanwendung]
-thumbnail: /images/blog/testcycles/Testzyklus - thumbnail.webp
-image: /images/blog/testcycles/Testzyklus - banner.webp
-summary: Derzeit wird GOAT von einer ExpertInnengruppe aus der Stadt Fürstenfeldbruck intensiv in  Testzyklen getestet, um eine einfache Bedienbarkeit und einen möglichst hohen Nutzen zu erreichen.
+tags:
+- de
+categories:
+- Praxisanwendung
+thumbnail: "/images/blog/testcycles/Testzyklus - thumbnail.webp"
+image: "/images/blog/testcycles/Testzyklus - banner.webp"
+summary: Derzeit wird GOAT von einer ExpertInnengruppe aus der Stadt Fürstenfeldbruck
+  intensiv in Testzyklen getestet, um eine einfache Bedienbarkeit und einen möglichst
+  hohen Nutzen zu erreichen.
 date: 2030-05-25
+
 ---
 ## Hintergrund
 

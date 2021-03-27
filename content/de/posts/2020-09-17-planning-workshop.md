@@ -29,7 +29,7 @@ Alle drei Planungsworkshops hatten eine Dauer von drei Stunden und verliefen nac
 
 ## Bearbeitete Planungsfragen
 
-Die Planungsfragen basierten auf realen Planungsfragenaus jeder einzelnen Kommune. Unter anderem wurden diese diskutiert:
+Die Planungsfragen basierten auf realen Planungsfragen aus der Praxis jeder einzelnen Kommune. Unter anderem wurden diese diskutiert:
 
 * **Neue Entwicklungsgebiete**: Entwicklung von Szenarien für neue Wohngebiete mit lokaler Nahversorgung (z.B. Kindergarten, Supermarkt) und neuen Wegverbindungen
 * **Neue Fußgänger- und Fahrradbrücken**: Entwicklung von Szenarien für neue Brücken und Vergleich der Erreichbarkeitsveränderungen an verschiedenen Standorten

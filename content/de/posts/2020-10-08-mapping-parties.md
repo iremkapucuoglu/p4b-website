@@ -1,14 +1,19 @@
 ---
-title:  "Mapping Partys – ein spaßiger Weg um gemeinsam OSM-Daten zu verbessern"
-# author: [jehle, hassine, pajares]
+title: Mapping Partys – ein spaßiger Weg um gemeinsam OSM-Daten zu verbessern
 author: jehle
 lang: de
-tags: [de]
-categories: [Daten]
-thumbnail: /images/blog/mapping_party/thumbnail.webp
-image: /images/blog/mapping_party/image_background - banner.png
-summary: Der Lehrstuhl für Siedlungsstruktur und Verkehrsplanung organisiert regelmäßig Mapping-Partys mit dem Ziel die Qualität von OpenStreetMap OSM aktiv zu verbessern. OSM ist das prominenteste Beispiel einer durch crowdsourcing erhobenen open-source Datenbank.
-date: 2030-10-08
+tags:
+- de
+categories:
+- Daten
+thumbnail: "/images/blog/mapping_party/thumbnail.webp"
+image: "/images/blog/mapping_party/image_background - banner.png"
+summary: Der Lehrstuhl für Siedlungsstruktur und Verkehrsplanung organisiert regelmäßig
+  Mapping-Partys mit dem Ziel die Qualität von OpenStreetMap OSM aktiv zu verbessern.
+  OSM ist das prominenteste Beispiel einer durch crowdsourcing erhobenen open-source
+  Datenbank.
+date: 2020-10-07T22:00:00+00:00
+
 ---
 ## OpenStreetMap
 
@@ -39,8 +44,4 @@ An diesem Event waren über 25 Teilnehmende aus unterschiedlichen Organisationen
 
 _Abbildung 3. Als Gruppe haben wir über 1,000 Objekte in zwei Stunden erfasst._
 
-Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/) oder [Twitter](https://twitter.com/plan4better), um keine zukünftigen Mapping-Events zu verpassen. 
-
-
-
-
+Folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/) oder [Twitter](https://twitter.com/plan4better), um keine zukünftigen Mapping-Events zu verpassen.

@@ -12,7 +12,7 @@ summary: The three planning workshops were conducted in the municipalities of FÃ
   and Freising and at TUM. Experts from different backgrounds such as city planners,
   transport planners, architects, and politicians participated in these workshops
   and contributed to the further development of GOAT.
-date: 2030-09-17
+date: 2020-09-16T22:00:00+00:00
 
 ---
 ## Background

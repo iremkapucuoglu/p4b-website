@@ -43,7 +43,7 @@ url = ""
 [[blocks]]
 background = "muted"
 block = "links"
-heading = "Learn more"
+heading = "Weitere Infos"
 template = "links-block"
 
 [[blocks.links]]

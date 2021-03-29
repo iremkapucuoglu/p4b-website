@@ -32,4 +32,4 @@ E-Mail: [info@plan4better.de](mailto:info@plan4better.de)
 
 Registergericht: Amtsgericht München  
 Registernummer: HRB 262655  
-Geschäftsführung: Elias Pajares, Ulrike Jehle
+Geschäftsführung (vertretungsberechtigt): Elias Pajares, Ulrike Jehle

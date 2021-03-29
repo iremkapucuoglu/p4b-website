@@ -12,7 +12,7 @@ summary: Der Lehrstuhl für Siedlungsstruktur und Verkehrsplanung organisiert re
   Mapping-Partys mit dem Ziel die Qualität von OpenStreetMap OSM aktiv zu verbessern.
   OSM ist das prominenteste Beispiel einer durch crowdsourcing erhobenen open-source
   Datenbank.
-date: 2020-10-07T22:00:00+00:00
+date: 2030-10-07T22:00:00+00:00
 
 ---
 ## OpenStreetMap

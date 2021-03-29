@@ -12,7 +12,7 @@ summary: The Chair of Urban Structure and Transport Planning is frequently organ
   Mapping Parties with the motivation to actively improve the quality of OpenStreetMap
   (OSM), which is the most prominent example of an open, crowd-sourced geographic
   dataset.
-date: 2020-10-07T22:00:00+00:00
+date: 2030-10-07T22:00:00+00:00
 
 ---
 ## OpenStreetMap

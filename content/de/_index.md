@@ -61,12 +61,14 @@ blocks:
   - "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - "/images/logo_mobidata-bw-1.jpg"
   - "/images/logo-tum-1.png"
+  - "/images/MunichWays_Logo_Web_72dpi.png"
   text: ''
   padding_top: default
   items:
   - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - logo: "/images/logo_mobidata-bw-1.jpg"
   - logo: "/images/logo-tum-2.png"
+  - logo: "/images/MunichWays_Logo_Web_72dpi.png"
 - template: logos-block
   block: logos
   background: default

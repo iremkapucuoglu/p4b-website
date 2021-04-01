@@ -4,9 +4,9 @@ categories = []
 date = ""
 description = ""
 draft = true
-image = ""
+image = "/images/hackathon_banner.jpg"
 summary = ""
-thumbnail = ""
+thumbnail = "/images/hackathon_banner.jpg"
 title = "Development of a Walkability Index"
 translationKey = ""
 

@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = [""]
+categories = []
 date = ""
 description = ""
 draft = true
@@ -25,4 +25,18 @@ Inspiring input talks on Friday marked the perfect start of an exciting event wh
 
 ## Our Challenge: “Walkability Index”
 
-We tackled the challenge “Walkability Index” and developed a respective prototype, named WALKability IndEx (WALKIE), and an algorithm to calculate potential pedestrian flows: (This [video ](https://vimeo.com/485063701 "GOAT - MobiData BW Hackathon - Walkability Index")shows our developed prototype). As one of the lucky winners, we receive a 3-month funding from the Ministry of Transport Baden-Württemberg as part of a follow-up grant to the "MobiDataBW Hackathon 2020" hackathon to establish our developed prototype.![Förderung durch Baden-Württembergs Ministerium für Verkehr](/images/forderung_bw.png "Gefördert durch Baden-Württemberg")![Logo von MobiData BW](/images/mobidata_bw.png "MobiData BW")
+We tackled the challenge “Walkability Index” and developed a respective prototype, named WALKability IndEx (WALKIE), and an algorithm to calculate potential pedestrian flows: (This [video](https://vimeo.com/485063701 "GOAT - MobiData BW Hackathon - Walkability Index") shows our developed prototype). As one of the lucky winners, we receive a 3-month funding from the Ministry of Transport Baden-Württemberg as part of a follow-up grant to the "MobiDataBW Hackathon 2020" hackathon to establish our developed prototype.![Förderung durch Baden-Württembergs Ministerium für Verkehr](/images/forderung_bw.png "Gefördert durch Baden-Württemberg")![Logo von MobiData BW](/images/mobidata_bw.png "MobiData BW")
+
+## Innovation phase
+
+The 3-month founding period, called the innovation phase, started at the beginning of March and lasts until Mai. Within this period, we aim to improve our prototypical WALKability IndEx under the acronym WALKIE.
+
+Our solution is to map the walkability per route segment by considering multiple factors such as the quality of the sidewalk, lighting, vegetation, and the neighborhood’s liveliness by the use of open data sources, such as [OpenStreetMap](https://www.openstreetmap.de/ "OpenStreetMap") and [Mapillary](https://www.mapillary.com/ "Mapillary"). This index will then be interlinked with potential pedestrian flows to identify and prioritize necessary improvements in the walking path network. With the implementation of WALKIE in GOAT, we aim to evolve GOAT into a comprehensive, innovative planning tool for walking analysis.
+
+We are developing the new features together with the [city of Freiburg](https://digital.freiburg.de/ "Freiburg digital"), which is our pilot city in this project. First, we will transfer GOAT with its existing functions and then gradually implementing the new features. We will announce the release on our website, stay tuned to be one of the first to test it!
+
+As we strongly believe in the power of open data, the developed algorithms will be available on GitHub, and all collected data directly published in Mapillary and OpenStreetMap.
+
+## Project benefits
+
+The tool identifies existing weaknesses and points out potentials for improvement of the pedestrian network, which can be remedied by municipalities with targeted measures to promote more active and sustainable mobility. In the long term, this Walkability Index could also be applied to bicycle traffic and barrier-free accessibility, thus the ride comfort for these two modes of transportation could be incorporated into the planning tool. It is easily transferable to other cities and a statewide promotion of active mobility can be achieved by applying the tool to other cities and regions.

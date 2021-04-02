@@ -4,7 +4,7 @@ author: haxhiu
 categories: []
 date: 2021-03-30T22:00:00Z
 description: ""
-draft: false
+draft: true
 image: "/images/hackathon_banner.jpg"
 summary: "Wir gehören zu den glücklichen Siegern des MobiData BW Hackathons! Dort haben wir „WALKIE“ entwickelt, einen Walkability-Index zur Fußgängerfreundlichkeit und einen Algorithmus zur Berechnung potenzieller Fußgängerströme. WALKIE soll in GOAT integriert werden, mit dem Ziel GOAT zu einem nützlichen und innovativen Planungstool für den Fußverkehr zu etablieren. Im Moment befinden wir uns in der Innovationsphase und entwickeln gemeinsam mit unserem Pilotstandort, Freiburg, neue Funktionen."
 thumbnail: "/images/hackathon_banner.jpg"

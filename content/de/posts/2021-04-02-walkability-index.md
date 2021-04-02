@@ -12,7 +12,7 @@ translationKey: ""
 ---
 ## MobiData BW Hackathon
 
-Wir haben letztes Jahr am [MobiData BW Hackathon](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/mobidata-bw-hackathon "MobiData BW Hackathon") teilgenommen und waren mit unserem „Walkability Index“ zur Fußgängerfreundlichkeit eines der glücklichen Sieger-Teams. Elias Pajares (unser „Innovationspartner“), Ulrike Jehle, Majk Shkurti, Grigorii Ivanov and Rafael Leonardo Munoz Nieto sind die Köpfe hinter dem Walkability Index.
+Wir haben letztes Jahr am [MobiData BW Hackathon](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/mobidata-bw-hackathon "MobiData BW Hackathon") teilgenommen und waren mit unserem „Walkability Index“ zur Fußgängerfreundlichkeit eines der glücklichen Sieger-Teams. Elias Pajares, Ulrike Jehle, Majk Shkurti, Grigorii Ivanov and Rafael Leonardo Munoz Nieto sind die Köpfe hinter dem Walkability Index.
 
 Der Hackathon, der vom 27. bis zum 29. November 2020 stattfand, wurde vom Ministerium für Verkehr Baden-Württemberg, der Stadt Freiburg und der Nahverkehrsgesellschaft Baden-Württemberg NVBW organisiert. Das Ziel des Events: die Entwicklungen neuer Lösungen für die zukünftige Mobilität. Insgesamt haben sich 150 Teilnehmende 30 unterschiedlichen Challenges angenommen.
 
@@ -20,11 +20,13 @@ Der Hackathon, der vom 27. bis zum 29. November 2020 stattfand, wurde vom Minist
 
 Den Startschuss des Events gaben informative Fachimpulse am Freitag, woraufhin die Vorstellung der unterschiedlichen Challenges folgte. Anschließend fanden wir uns in Teams zusammen und starteten mit der Arbeitsphase – ab da hieß es, Ärmel hoch und los programmieren! Am Samstagmorgen haben der Verkehrsminister, Winfried Hermann, und der Bürgermeister Freiburgs, Martin Horn, den Arbeitstag mit einem spannenden Wake-up Call eingeläutet. Das Abenteuer Hackathon war nach 36 Stunden, in denen wir sehr viel programmierten und umso weniger schliefen, vorbei und wir freuten uns darauf der Jury unseren Walkability-Prototypen zu präsentieren!
 
-![Walkability-Index entwickelt vom GOAT-Team beim MobiData BW Hackathon](/images/hackathon_team.png "GOAT-Team Hackathon")Jede Gruppe stellte ihre Ergebnisse vor und die Jury bewertete die Pitches basierend auf folgende Kriterien: Beitrag zur nachhaltigen Mobilität in Baden-Württemberg, Innovationsgrad und Kreativität, Bezug zu Daten und Ressourcen, Umsetzbarkeit, Präsentation der Ergebnisse.
+![Walkability-Index entwickelt vom GOAT-Team beim MobiData BW Hackathon](/images/hackathon_team.png "GOAT-Team Hackathon")
+
+Jede Gruppe stellte ihre Ergebnisse vor und die Jury bewertete die Pitches basierend auf folgende Kriterien: Beitrag zur nachhaltigen Mobilität in Baden-Württemberg, Innovationsgrad und Kreativität, Bezug zu Daten und Ressourcen, Umsetzbarkeit, Präsentation der Ergebnisse.
 
 ## Unsere Challenge: „Walkability Index“
 
-Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußverkehr in Angriff genommen und einen Prototyp eines WALKability IndEx (WALKIE), sowie einen Algorithmus zur Berechnung potenzieller Fußgängerströme entwickelt. Das folgende Video zeigt den erstellten Prototypen:
+Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußverkehr in Angriff genommen und einen Prototyp eines WALKability IndEx (WALKIE), sowie einen Algorithmus zur Berechnung potenzieller Fußgängerströme entwickelt. 
 
   <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
@@ -38,7 +40,7 @@ Der Förderzeitraum, der als Innovationsphase bezeichnet wird, hat Anfang März 
 
 WALKIE soll die Fußgängerfreundlichkeit (engl. Walkability) der Wegabschnitte qualitativ berechnen und visualisieren. Dabei fließen unterschiedliche Indikatoren wie die Qualität der Gehwege, die Beleuchtung, Grünflächen und die Lebendigkeit der Nachbarschaft ein. Informationen, die wir über offene Datenquellen, wie beispielsweise [OpenStreetMap ](https://www.openstreetmap.de/ "OpenStreetMap")oder [Mapillary](https://www.mapillary.com/ "Mapillary"), beziehen. Dieser Index wird mit Fußgängerpotenzialstömen vereint und hilft Städteplaner*Innen dabei notwendige Verbesserungen im Gehwegnetzwerk zu erkennen und zu priorisieren. WALKIE soll in GOAT integriert werden, mit dem Ziel das Werkzeug zu einem innovativen und zuglich leicht verständlichen Planungstool für den Fußverkehr zu etablieren.
 
-Wir sind zurzeit dabei neue Funktionen zusammen mit unserem Pilotstandort, der [Stadt Freiburg](https://digital.freiburg.de/ "Stadt Freiburg"), zu entwickeln. Als erster Schritt wird GOAT samt bestehender Funktionen auf die Stadt übertragen und anschließend werden die neuen Funktionen schrittweise implementiert. Diese neue GOAT-Version wird bald auf unserer Website veröffentlicht, bleiben Sie informiert und testen als einer der ersten unsere neuen Features!
+Wir sind zurzeit dabei die neue Funktionen zusammen mit unserem Pilotstandort, der [Stadt Freiburg](https://digital.freiburg.de/ "Stadt Freiburg"), zu entwickeln. Als erster Schritt wird GOAT samt bestehender Funktionen auf die Stadt übertragen und anschließend werden die neuen Funktionen schrittweise implementiert. Diese neue GOAT-Version wird bald auf unserer Website veröffentlicht, bleiben Sie informiert und testen als einer der ersten unsere neuen Features!
 
 Aufgrund unserer Open Data und Open Source Überzeugung stellen wir alle entwickelten Algorithmen auf GitHub zur Verfügung und veröffentlichen die gesammelten Daten direkt in Mapillary und OpenStreetMap.
 

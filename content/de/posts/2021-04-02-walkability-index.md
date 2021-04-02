@@ -1,5 +1,5 @@
 ---
-title: Entwicklung eines Walkability-Index
+title: "Hackathon: Entwicklung eines Walkability-Index"
 author: haxhiu
 categories: []
 date: 2021-03-30T22:00:00Z

@@ -15,7 +15,7 @@ translationKey = ""
 
 Wir haben letztes Jahr am [MobiData BW Hackathon](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/mobidata-bw-hackathon "MobiData BW Hackathon") teilgenommen und waren mit unserem „Walkability Index“ zur Fußgängerfreundlichkeit eines der glücklichen Sieger-Teams. Elias Pajares (unser „Innovationspartner“), Ulrike Jehle, Majk Shkurti, Grigorii Ivanov and Rafael Leonardo Munoz Nieto sind die Köpfe hinter dem Walkability Index.
 
-Der Hackathon, der vom 27. bis zum 29. November 2020 stattfand, wurde vom Ministerium für Verkehr Baden-Württemberg, der Stadt Freiburg und der Nahverkehrsgesellschaft Baden-Württemberg NVBW organisiert. Das Ziel des Events: die Entwicklungen neuer Lösungen für die zukünftige Mobilität. Insgesamt haben sich 150 Teilnehmende~~n~~ 30 unterschiedlichen Challenges angenommen.
+Der Hackathon, der vom 27. bis zum 29. November 2020 stattfand, wurde vom Ministerium für Verkehr Baden-Württemberg, der Stadt Freiburg und der Nahverkehrsgesellschaft Baden-Württemberg NVBW organisiert. Das Ziel des Events: die Entwicklungen neuer Lösungen für die zukünftige Mobilität. Insgesamt haben sich 150 Teilnehmende 30 unterschiedlichen Challenges angenommen.
 
 ## Der Ablauf des Events
 
@@ -26,6 +26,8 @@ Den Startschuss des Events gaben informative Fachimpulse am Freitag, woraufhin d
 ## Unsere Challenge: „Walkability Index “
 
 Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußverkehr in Angriff genommen und einen Prototyp eines WALKability IndEx (WALKIE), sowie einen Algorithmus zur Berechnung potenzieller Fußgängerströme entwickelt. (Das [Video ](https://vimeo.com/485063701 "GOAT - MobiData BW Hackathon - Walkability Index")zeigt den erstellten Prototypen)
+
+<iframe class="embed-responsive-item" src="[https://vimeo.com/485063701](https://vimeo.com/485063701 "https://vimeo.com/485063701")" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 Als einer der sieben Sieger-Teams erhielten wir die Möglichkeit, eine 3-monatige Förderung durch das Verkehrsministerium Baden-Württemberg im Rahmen der Anschlussförderung des Hackathon „MobiDataBW Hackathon 2020“ entgegen zu nehmen.
 

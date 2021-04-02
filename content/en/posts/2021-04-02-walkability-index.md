@@ -1,17 +1,16 @@
-+++
-author = ""
-categories = []
-date = 2021-03-30T22:00:00Z
-description = ""
-draft = true
-image = "/images/hackathon_banner.jpg"
-summary = "We are one of the lucky winners of the MobiData BW Hackathon, where we developed “WALKIE” – a walkability Index and an algorithm to calculate potential pedestrian flows. WALKIE will be implemented in GOAT as we aim to evolve GOAT into a suitable and comprehensive planning tool for walking analysis. Right now, we are in the innovation phase and develop new features with our pilot city, Freiburg."
-thumbnail = "/images/hackathon_banner.jpg"
-title = "Development of a Walkability Index"
-translationKey = ""
-
-+++
-## Our successful MobiData BW Hackathon participation
+---
+author: haxhiu
+categories: []
+date: 2021-03-30T22:00:00Z
+description: ""
+draft: false
+image: "/images/hackathon_banner.jpg"
+summary: "We are one of the lucky winners of the MobiData BW Hackathon, where we developed “WALKIE” – a walkability index and an algorithm to calculate potential pedestrian flows. WALKIE will be implemented in GOAT as we aim to evolve GOAT into a suitable and comprehensive planning tool for walking analysis. Right now, we are in the innovation phase and develop new features with our pilot city, Freiburg."
+thumbnail: "/images/hackathon_banner.jpg"
+title: "Development of a Walkability Index"
+translationKey: ""
+---
+## MobiData BW Hackathon
 
 Last year we participated in the MobiData BW Hackathon and were one of the winning teams with our “Walkability Index”! Our team members were Elias Pajares (our “innovation partner”), Ulrike Jehle, Majk Shkurti, Grigorii Ivanov and Rafael Leonardo Munoz Nieto.
 
@@ -25,9 +24,13 @@ Inspiring input talks on Friday marked the perfect start of an exciting event wh
 
 ## Our Challenge: “Walkability Index”
 
-We tackled the challenge “Walkability Index” and developed a respective prototype, named WALKability IndEx (WALKIE), and an algorithm to calculate potential pedestrian flows: (This [video](https://vimeo.com/485063701 "GOAT - MobiData BW Hackathon - Walkability Index") shows our developed prototype). As one of the lucky winners, we receive a 3-month funding from the Ministry of Transport Baden-Württemberg as part of a follow-up grant to the "MobiDataBW Hackathon 2020" hackathon to establish our developed prototype.![Logo of funding Ministry of Transport BW](/images/forderung_bw.png "Ministry of Transport BW")![Logo von MobiData BW](/images/mobidata_bw.png "MobiData BW")
+We tackled the challenge “Walkability Index” and developed a respective prototype, named WALKability IndEx (WALKIE), and an algorithm to calculate potential pedestrian flows. The following video shows our developed prototype. 
 
-## Innovation phase
+  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+
+As one of the lucky winners, we receive a 3-month funding from the Ministry of Transport Baden-Württemberg as part of a follow-up grant to the "MobiDataBW Hackathon 2020" hackathon to establish our developed prototype.![Logo of funding Ministry of Transport BW](/images/forderung_bw.png "Ministry of Transport BW")![Logo von MobiData BW](/images/mobidata_bw.png "MobiData BW")
+
+## Innovation Phase
 
 The 3-month founding period, called the innovation phase, started at the beginning of March and lasts until Mai. Within this period, we aim to improve our prototypical WALKability IndEx under the acronym WALKIE.
 
@@ -37,6 +40,6 @@ We are developing the new features together with the [city of Freiburg](https://
 
 As we strongly believe in the power of open data, the developed algorithms will be available on GitHub, and all collected data directly published in Mapillary and OpenStreetMap.
 
-## Project benefits
+## Project Benefits
 
 The tool identifies existing weaknesses and points out potentials for improvement of the pedestrian network, which can be remedied by municipalities with targeted measures to promote more active and sustainable mobility. In the long term, this Walkability Index could also be applied to bicycle traffic and barrier-free accessibility, thus the ride comfort for these two modes of transportation could be incorporated into the planning tool. It is easily transferable to other cities and a statewide promotion of active mobility can be achieved by applying the tool to other cities and regions.

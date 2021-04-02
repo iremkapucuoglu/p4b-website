@@ -1,16 +1,15 @@
-+++
-author = ""
-categories = []
-date = 2021-03-30T22:00:00Z
-description = ""
-draft = true
-image = "/images/hackathon_banner.jpg"
-summary = "Wir gehören zu den glücklichen Siegern des MobiData BW Hackathons! Dort haben wir „WALKIE“ entwickelt, einen Walkability-Index zur Fußgängerfreundlichkeit und einen Algorithmus zur Berechnung potenzieller Fußgängerströme. WALKIE soll in GOAT integriert werden, mit dem Ziel GOAT zu einem nützlichen und innovativen Planungstool für den Fußverkehr zu etablieren. Im Moment befinden wir uns in der Innovationsphase und entwickeln gemeinsam mit unserem Pilotstandort, Freiburg, neue Funktionen."
-thumbnail = "/images/hackathon_banner.jpg"
-title = "Entwicklung eines Walkability-Indexes "
-translationKey = ""
-
-+++
+---
+title: Entwicklung eines Walkability-Index
+author: haxhiu
+categories: []
+date: 2021-03-30T22:00:00Z
+description: ""
+draft: false
+image: "/images/hackathon_banner.jpg"
+summary: "Wir gehören zu den glücklichen Siegern des MobiData BW Hackathons! Dort haben wir „WALKIE“ entwickelt, einen Walkability-Index zur Fußgängerfreundlichkeit und einen Algorithmus zur Berechnung potenzieller Fußgängerströme. WALKIE soll in GOAT integriert werden, mit dem Ziel GOAT zu einem nützlichen und innovativen Planungstool für den Fußverkehr zu etablieren. Im Moment befinden wir uns in der Innovationsphase und entwickeln gemeinsam mit unserem Pilotstandort, Freiburg, neue Funktionen."
+thumbnail: "/images/hackathon_banner.jpg"
+translationKey: ""
+---
 ## MobiData BW Hackathon
 
 Wir haben letztes Jahr am [MobiData BW Hackathon](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/mobidata-bw-hackathon "MobiData BW Hackathon") teilgenommen und waren mit unserem „Walkability Index“ zur Fußgängerfreundlichkeit eines der glücklichen Sieger-Teams. Elias Pajares (unser „Innovationspartner“), Ulrike Jehle, Majk Shkurti, Grigorii Ivanov and Rafael Leonardo Munoz Nieto sind die Köpfe hinter dem Walkability Index.
@@ -23,15 +22,17 @@ Den Startschuss des Events gaben informative Fachimpulse am Freitag, woraufhin d
 
 ![Walkability-Index entwickelt vom GOAT-Team beim MobiData BW Hackathon](/images/hackathon_team.png "GOAT-Team Hackathon")Jede Gruppe stellte ihre Ergebnisse vor und die Jury bewertete die Pitches basierend auf folgende Kriterien: Beitrag zur nachhaltigen Mobilität in Baden-Württemberg, Innovationsgrad und Kreativität, Bezug zu Daten und Ressourcen, Umsetzbarkeit, Präsentation der Ergebnisse.
 
-## Unsere Challenge: „Walkability Index “
+## Unsere Challenge: „Walkability Index“
 
-Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußverkehr in Angriff genommen und einen Prototyp eines WALKability IndEx (WALKIE), sowie einen Algorithmus zur Berechnung potenzieller Fußgängerströme entwickelt. (Das [Video ](https://vimeo.com/485063701 "GOAT - MobiData BW Hackathon - Walkability Index")zeigt den erstellten Prototypen)
+Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußverkehr in Angriff genommen und einen Prototyp eines WALKability IndEx (WALKIE), sowie einen Algorithmus zur Berechnung potenzieller Fußgängerströme entwickelt. Das folgende Video zeigt den erstellten Prototypen:
 
-<iframe class="embed-responsive-item" src="[https://vimeo.com/485063701](https://vimeo.com/485063701 "https://vimeo.com/485063701")" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 Als einer der sieben Sieger-Teams erhielten wir die Möglichkeit, eine 3-monatige Förderung durch das Verkehrsministerium Baden-Württemberg im Rahmen der Anschlussförderung des Hackathon „MobiDataBW Hackathon 2020“ entgegen zu nehmen.
 
-## ![Logo: Förderung durch Ministerium für Verkehr BW](/images/forderung_bw.png "Verkehrsministerium BW")![Logo von MobiData BW](/images/mobidata_bw.png "MobiData BW")Die Innovationssphase
+![Logo: Förderung durch Ministerium für Verkehr BW](/images/forderung_bw.png "Verkehrsministerium BW")![Logo von MobiData BW](/images/mobidata_bw.png "MobiData BW")
+
+## Die Innovationssphase
 
 Der Förderzeitraum, der als Innovationsphase bezeichnet wird, hat Anfang März begonnen und endet im Mai. Unser Ziel ist unseren prototypischen WALKability IndEx (kurz: WALKIE) zu erweitern.
 

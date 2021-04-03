@@ -26,22 +26,23 @@ How many supermarkets can be reached from a certain point in 10 minutes walking?
 
 1. Display all supermarkets by enabling the amenity "Supermarket" in the Thematic Data Filter under the category "Shop".  
 
-![amenity supermarket](/images/training_materials/Isochrone/amenity_supermarket.png) 
+<img src="/images/training_materials/Isochrone/amenity_supermarket.webp" alt="amenity supermarket" style="max-height:200px;"/>
 
 2. Zoom in into the area where you want to calculate the isochrone.
 
 3. Set the isochrone range to 10 minutes. 
 
-![choose isochrone range](/images/training_materials/Isochrone/isochrone_range_walking.png) 
+<img src="/images/training_materials/Isochrone/isochrone_range_walking.webp"  alt="choose isochrone range" style="max-height:200px;"/>
 
 4. Place the starting point for the isochrone.  
 
-![Starting point isochrone](/images/training_materials/Isochrone/starting-point-isochrone.png) 
+<!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
+<img src="/images/training_materials/Isochrone/starting-point-isochrone.webp"  alt="set starting point" style="max-height:150px;"/>
 
 
 5. After the calculation has been carried out, a window with the results opens automatically. From this window you can see the number of supermarkets that can be reached within 10 minutes.  
 
-![Reached supermarkets](/images/training_materials/Isochrone/isochrone_supermarkets.png)
+![Reached supermarkets](/images/training_materials/Isochrone/isochrone_supermarkets.webp)
 
 ##### 2 Bicycle Routing 
 ###### 2.1 Planning question
@@ -49,19 +50,22 @@ How many people can reach the train station within 5 minutes by bike?
 ###### 2.2 Work steps
 1. Change the routing mode to “cycling”.  
 
-![Routing mode cycling](/images/training_materials/Isochrone/cycling-mode.png) 
+<!-- ![](/images/training_materials/Isochrone/cycling-mode.webp) -->
+<img src="/images/training_materials/Isochrone/cycling-mode.webp"  alt="Routing mode cycling" style="max-height:250px;"/>
 
 2. Set the isochrone range to 5 minutes.  
 
-![Adjusting isochrone range](/images/training_materials/Isochrone/isochrone-range.png) 
+<!-- ![choose isochrone range](/images/training_materials/Isochrone/isochrone-range.webp) -->
+<img src="/images/training_materials/Isochrone/isochrone-range.webp"  alt="choose isochrone range" style="max-height:170px;"/>
 
 3. Place the starting point for the isochrone calculation on the station.  
 
-![Starting point isochrone](/images/training_materials/Isochrone/starting-point-isochrone.png)
+<!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
+<img src="/images/training_materials/Isochrone/starting-point-isochrone.webp"  alt="set starting point" style="max-height:150px;"/>
 
 4. After the calculation has been carried out, a window with the results opens automatically. From this window you can see the population that can reach the train station within 5 minutes cycling.  
 
-![Reached populatio](/images/training_materials/Isochrone/isochrone_trainstation.png)
+![Reached population](/images/training_materials/Isochrone/isochrone_trainstation.webp)
 
 
 ##### 3 Wheelchair routing
@@ -73,25 +77,31 @@ How many people can reach the train station within 5 minutes by bike?
 
 1. Select the routing mode "walking".  
 
-![Routing mode walking](/images/training_materials/Isochrone/walking-mode.png)
+<!-- ![](/images/training_materials/Isochrone/walking-mode.webp) -->
+<img src="/images/training_materials/Isochrone/walking-mode.webp"  alt="Routing mode walking" style="max-height:250px;"/>
 
 2. Set the isochrone range to 10 minutes.  
 
-![Adjusting isochrone range](/images/training_materials/Isochrone/isochrone_range_walking.png)
+<!-- ![](/images/training_materials/Isochrone/isochrone_range_walking.webp) -->
+<img src="/images/training_materials/Isochrone/isochrone_range_walking.webp"  alt="choose isochrone range" style="max-height:170px;"/>
 
 3. Place the starting point for the isochrone calculation at the entrance of the Hospital.  
 
-![Starting point isochrone](/images/training_materials/Isochrone/starting-point-isochrone.png)
+<!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
+<img src="/images/training_materials/Isochrone/starting-point-isochrone.webp"  alt="set starting point" style="max-height:150px;"/>
 
 4. Select the routing mode "wheelchair" and repeat the calculation.  
 
-![Routing mode wheelchair](/images/training_materials/Isochrone/wheelchair-mode.png)
+<!-- ![](/images/training_materials/Isochrone/wheelchair-mode.webp) -->
+<img src="/images/training_materials/Isochrone/wheelchair-mode.webp"  alt="Routing mode wheelchair" style="max-height:270px;"/>
 
 5. Now it gets visible, how accessibility differs when regarding a person with reduces mobility (red isochrone) in compare to a pedestrian (blue isochrone).  
 
-![Isochrone comparison](/images/training_materials/Isochrone/isochrone_wheelchair.png)
+<!-- ![](/images/training_materials/Isochrone/isochrone_wheelchair.webp) -->
+<img src="/images/training_materials/Isochrone/isochrone_wheelchair.webp"  alt="isochrone comparison"/>
 
 6. To find the barriers in the network, display the street network used for both isochrones. From this you can see which roads were used for the corresponding routing.  
 
-![Activate additional layers](/images/training_materials/Isochrone/additional-layer.png)
+<!-- ![](/images/training_materials/Isochrone/additional-layer.webp) -->
+<img src="/images/training_materials/Isochrone/additional-layer.webp"  alt="show additional layer" style="max-height:200px;"/>
  

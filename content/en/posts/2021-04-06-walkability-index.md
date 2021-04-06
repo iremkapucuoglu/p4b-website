@@ -7,7 +7,7 @@ date: 2021-04-06T10:00:00.000+00:00
 description: ''
 image: "/images/hackathon_banner.webp"
 summary: We are one of the lucky winners of the MobiData BW Hackathon, where we developed
-  “WALKIE” – a walkability index and an algorithm to calculate potential pedestrian
+  “WALKIE” – a prototypic walkability index and an algorithm to calculate potential pedestrian
   flows. We will continue the development in a 3-month innovation phase.
 thumbnail: "/images/hackathon_thumbnail.webp"
 title: 'Hackathon: Development of a Walkability Index'

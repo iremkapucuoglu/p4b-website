@@ -1,14 +1,19 @@
 ---
 author: haxhiu
 categories: []
-date: 2021-03-30T22:00:00Z
-description: ""
+date: 2021-03-30T22:00:00.000+00:00
+description: ''
+image: ''
+summary: We are one of the lucky winners of the MobiData BW Hackathon, where we developed
+  “WALKIE” – a walkability index and an algorithm to calculate potential pedestrian
+  flows. WALKIE will be implemented in GOAT as we aim to evolve GOAT into a suitable
+  and comprehensive planning tool for walking analysis. Right now, we are in the innovation
+  phase and develop new features with our pilot city, Freiburg.
+thumbnail: ''
+title: 'Hackathon: Development of a Walkability Index'
+translationKey: ''
 draft: true
-image: "/images/hackathon_banner.jpg"
-summary: "We are one of the lucky winners of the MobiData BW Hackathon, where we developed “WALKIE” – a walkability index and an algorithm to calculate potential pedestrian flows. WALKIE will be implemented in GOAT as we aim to evolve GOAT into a suitable and comprehensive planning tool for walking analysis. Right now, we are in the innovation phase and develop new features with our pilot city, Freiburg."
-thumbnail: "/images/hackathon_banner.jpg"
-title: "Hackathon: Development of a Walkability Index"
-translationKey: ""
+
 ---
 ## MobiData BW Hackathon
 
@@ -26,17 +31,19 @@ Following the presentations of individual groups, the jury evaluated them based 
 
 ## Our Challenge: “Walkability Index”
 
-We tackled the challenge “Walkability Index” and developed a respective prototype and an algorithm to calculate potential pedestrian flows. 
+We tackled the challenge “Walkability Index” and developed a respective prototype and an algorithm to calculate potential pedestrian flows.
 
-  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
-As one of the lucky winners, we receive a 3-month funding from the Ministry of Transport Baden-Württemberg as part of a follow-up grant to the "MobiDataBW Hackathon 2020" hackathon to establish our developed prototype.![Logo of funding Ministry of Transport BW](/images/forderung_bw.png "Ministry of Transport BW")![Logo von MobiData BW](/images/mobidata_bw.png "MobiData BW")
+As one of the lucky winners, we receive a 3-month funding from the Ministry of Transport Baden-Württemberg as part of a follow-up grant to the "MobiDataBW Hackathon 2020" hackathon to establish our developed prototype.
+
+![](/images/hackathon.jpg)
 
 ## Innovation Phase
 
 The 3-month founding period, called the innovation phase, started at the beginning of March and lasts until Mai. Within this period, we aim to improve our prototypical WALKability IndEx under the acronym WALKIE.
 
-Our solution is to map the walkability per route segment by considering multiple factors such as the quality of the sidewalk, lighting, vegetation, and the neighborhood’s liveliness by the use of open data sources, such as [OpenStreetMap](https://www.openstreetmap.de/ "OpenStreetMap") and [Mapillary](https://www.mapillary.com/ "Mapillary"). This index will then be interlinked with potential pedestrian flows to identify and prioritize necessary improvements in the walking path network. 
+Our solution is to map the walkability per route segment by considering multiple factors such as the quality of the sidewalk, lighting, vegetation, and the neighborhood’s liveliness by the use of open data sources, such as [OpenStreetMap](https://www.openstreetmap.de/ "OpenStreetMap") and [Mapillary](https://www.mapillary.com/ "Mapillary"). This index will then be interlinked with potential pedestrian flows to identify and prioritize necessary improvements in the walking path network.
 
 We are developing the new features together with the [city of Freiburg](https://digital.freiburg.de/ "Freiburg digital"), which is our pilot city in this project. First, we will transfer GOAT with its existing functions and then gradually implementing the new features. We will announce the release on our website, stay tuned to be one of the first to test it!
 

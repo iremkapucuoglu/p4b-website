@@ -43,9 +43,9 @@ As one of the lucky winners, we receive a 3-month funding from the Ministry of T
 
 The 3-month founding period, called the innovation phase, started at the beginning of March and lasts until Mai. Within this period, we aim to improve our prototypical WALKability IndEx under the acronym WALKIE.
 
-Our solution is to map the walkability per route segment by considering multiple factors such as the quality of the sidewalk, lighting, vegetation, and the neighborhood’s liveliness by the use of open data sources, such as [OpenStreetMap](https://www.openstreetmap.de/ "OpenStreetMap") and [Mapillary](https://www.mapillary.com/ "Mapillary"). This index will then be interlinked with potential pedestrian flows to identify and prioritize necessary improvements in the walking path network.
+Our solution is to visualize the walkability per route segment by considering multiple factors such as the quality of the sidewalk, lighting, vegetation, and the neighborhood’s liveliness by the use of open data sources, such as [OpenStreetMap](https://www.openstreetmap.de/ "OpenStreetMap") and [Mapillary](https://www.mapillary.com/ "Mapillary"). This index will then be interlinked with potential pedestrian flows to identify and prioritize necessary improvements in the walking path network.
 
-We are developing the new features together with the [city of Freiburg](https://digital.freiburg.de/ "Freiburg digital"), which is our pilot city in this project. First, we will transfer GOAT with its existing functions and then gradually implementing the new features. We will announce the release on our website, stay tuned to be one of the first to test it!
+We are developing the new features together with the [City of Freiburg](https://digital.freiburg.de/ "Freiburg digital"), which is our pilot city in this project. First, we will transfer GOAT with its existing functions and then gradually implementing the new features. We will announce the release on our website, stay tuned to be one of the first to test it!
 
 As we strongly believe in the power of open data, the developed algorithms will be available on GitHub, and all collected data directly published in Mapillary and OpenStreetMap.
 

@@ -1,14 +1,20 @@
 ---
-title: "Hackathon: Entwicklung eines Walkability-Index"
+title: 'Hackathon: Entwicklung eines Walkability-Index'
 author: haxhiu
 categories: []
-date: 2021-03-30T22:00:00Z
-description: ""
+date: 2021-03-30T22:00:00.000+00:00
+description: ''
+image: ''
+summary: Wir gehören zu den glücklichen Siegern des MobiData BW Hackathons! Dort haben
+  wir „WALKIE“ entwickelt, einen Walkability-Index zur Fußgängerfreundlichkeit und
+  einen Algorithmus zur Berechnung potenzieller Fußgängerströme. WALKIE soll in GOAT
+  integriert werden, mit dem Ziel GOAT zu einem nützlichen und innovativen Planungstool
+  für den Fußverkehr zu etablieren. Im Moment befinden wir uns in der Innovationsphase
+  und entwickeln gemeinsam mit unserem Pilotstandort, Freiburg, neue Funktionen.
+thumbnail: ''
+translationKey: ''
 draft: true
-image: "/images/hackathon_banner.jpg"
-summary: "Wir gehören zu den glücklichen Siegern des MobiData BW Hackathons! Dort haben wir „WALKIE“ entwickelt, einen Walkability-Index zur Fußgängerfreundlichkeit und einen Algorithmus zur Berechnung potenzieller Fußgängerströme. WALKIE soll in GOAT integriert werden, mit dem Ziel GOAT zu einem nützlichen und innovativen Planungstool für den Fußverkehr zu etablieren. Im Moment befinden wir uns in der Innovationsphase und entwickeln gemeinsam mit unserem Pilotstandort, Freiburg, neue Funktionen."
-thumbnail: "/images/hackathon_banner.jpg"
-translationKey: ""
+
 ---
 ## MobiData BW Hackathon
 
@@ -26,13 +32,11 @@ Jede Gruppe stellte ihre Ergebnisse vor und die Jury bewertete die Pitches basie
 
 ## Unsere Challenge: „Walkability Index“
 
-Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußverkehr in Angriff genommen und einen Prototyp eines WALKability IndEx (WALKIE), sowie einen Algorithmus zur Berechnung potenzieller Fußgängerströme entwickelt. 
+Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußverkehr in Angriff genommen und einen Prototyp eines WALKability IndEx (WALKIE), sowie einen Algorithmus zur Berechnung potenzieller Fußgängerströme entwickelt.
 
-  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
-Als einer der sieben Sieger-Teams erhielten wir die Möglichkeit, eine 3-monatige Förderung durch das Verkehrsministerium Baden-Württemberg im Rahmen der Anschlussförderung des Hackathon „MobiDataBW Hackathon 2020“ entgegen zu nehmen.
-
-![Logo: Förderung durch Ministerium für Verkehr BW](/images/forderung_bw.png "Verkehrsministerium BW")![Logo von MobiData BW](/images/mobidata_bw.png "MobiData BW")
+Als einer der sieben Sieger-Teams erhielten wir die Möglichkeit, eine 3-monatige Förderung durch das Verkehrsministerium Baden-Württemberg im Rahmen der Anschlussförderung des Hackathon „MobiDataBW Hackathon 2020“ entgegen zu nehmen.![](/images/hackathon.jpg)
 
 ## Die Innovationssphase
 

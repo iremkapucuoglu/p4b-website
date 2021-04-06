@@ -22,19 +22,24 @@ How well are the supermarkets currently distributed over the city? In which dist
 
 ###### 1.2 Step-by-Step guide
 1. Display the supermarkets as thematic data.  
-![](/images/training_materials/Multiisochrones/amenity_supermarket.png)
+
+<img src="/images/training_materials/Multiisochrones/amenity_supermarket.webp"  alt="Thematic Data" style="max-height:250px;"/>
 
 2. Switch to the "Multiple" isochrone calculation mode and select the "Study Area" method, which later lists all results differentiated by districts.  
-![](/images/training_materials/Multiisochrones/multi.png)
 
-3. Then select all districts that you want to include in the calculation by clicking on the map.  
-![](/images/training_materials/Multiisochrones/select_study_area.png)
+<img src="/images/training_materials/Multiisochrones/multi.webp"  alt="Multi Isochrone" style="max-height:350px;"/>
+
+3. Then select all districts that you want to include in the calculation by clicking on the map. 
+
+![Select Districts](/images/training_materials/Multiisochrones/select_study_area.webp)
 
 4. Click on "Calculate".  
-![](/images/training_materials/Multiisochrones/calculate.png)
+
+<img src="/images/training_materials/Multiisochrones/calculate.webp"  alt="Calculate" style="max-height:345px;"/>
 
 5. The resulting multi-isochrones shows the catchment areas of the supermarkets (here for the mode "pedestrian" with 5 minutes catchment area in light green and 10 minutes catchment area in dark green). The corresponding table shows, sorted by district, how many people out of the total population can reach a supermarket in 5 or 10 minutes walking distance.  
-![](/images/training_materials/Multiisochrones/result_multiisochrone.png)
+
+![Result](/images/training_materials/Multiisochrones/result_multiisochrone.webp)
 
 
 

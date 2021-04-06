@@ -23,19 +23,24 @@ Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadt
 
 ###### 1.2 Arbeitsschritte
 1. Lassen Sie sich als Thematische Daten die Supermärkte anzeigen.  
-![](/images/training_materials/Multiisochrones/amenity_supermarket.png)
+
+<img src="/images/training_materials/Multiisochrones/amenity_supermarket.webp"  alt="Thematic Data" style="max-height:250px;"/>
 
 2. Wechseln Sie zum Isochronenberechnugsmodus „Multi“ und wählen die Methode „Ortsteil“ aus, diese wird später alle Ergebnisse nach Ortsteilen differenziert auflisten.  
-![](/images/training_materials/Multiisochrones/multi.png)
 
-3. Wählen Sie dann per Mausklick alle Ortsteile in der Karte.  
-![](/images/training_materials/Multiisochrones/select_study_area.png)
+<img src="/images/training_materials/Multiisochrones/multi.webp"  alt="Multi Isochrone" style="max-height:350px;"/>
+
+3. Wählen Sie dann per Mausklick alle Ortsteile in der Karte.
+
+![Select Districts](/images/training_materials/Multiisochrones/select_study_area.webp)
 
 4. Klicken Sie auf „Berechnen“.  
-![](/images/training_materials/Multiisochrones/calculate.png)
+
+<img src="/images/training_materials/Multiisochrones/calculate.webp"  alt="Calculate" style="max-height:345px;"/>
 
 5. Die resultierenden Multi-Isochronen zeigen Ihnen die Einzugsbereiche der Supermärkte (hier für den Modus „Fußgänger“ mit 5 Minuten Einzugsbereich in hellgrün und 10 Minuten Einzugsbereich in dunkelgrün). Die zugehörige Tabelle zeigt nach Ortsteil sortiert, wie viele Menschen von der Gesamtbevölkerung in 5 bzw. 10 Minuten Zufußgehen einen Supermarket erreichen können.  
-![](/images/training_materials/Multiisochrones/result_multiisochrone.png)
+
+![Result](/images/training_materials/Multiisochrones/result_multiisochrone.webp)
 
 
 

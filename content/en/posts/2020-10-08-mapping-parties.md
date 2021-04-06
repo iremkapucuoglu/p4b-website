@@ -1,14 +1,19 @@
 ---
-title:  "Mapping Parties - having fun and improving OSM data"
-# author: [jehle, hassine, pajares]
+title: Mapping Parties - having fun and improving OSM data
 author: jehle
 lang: en
-tags: [en]
-categories: [data]
-thumbnail: /images/blog/mapping_party/thumbnail.webp
-image: /images/blog/mapping_party/image_background - banner.png
-summary: The Chair of Urban Structure and Transport Planning is frequently organizing Mapping Parties with the motivation to actively improve the quality of OpenStreetMap (OSM), which is the most prominent example of an open, crowd-sourced geographic dataset.
-date: 2030-10-08
+tags:
+- en
+categories:
+- data
+thumbnail: "/images/blog/mapping_party/thumbnail.webp"
+image: "/images/blog/mapping_party/image_background - banner.png"
+summary: The Chair of Urban Structure and Transport Planning is frequently organizing
+  Mapping Parties with the motivation to actively improve the quality of OpenStreetMap
+  (OSM), which is the most prominent example of an open, crowd-sourced geographic
+  dataset.
+date: 2030-10-07T22:00:00+00:00
+
 ---
 ## OpenStreetMap
 
@@ -38,7 +43,4 @@ Over 25 participants from different organizations, such as [Technical University
 
 _Figure 3. As a group, we edited over 1,000 objects in 2 hours of mapping_
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/plan4better/) or [Twitter](https://twitter.com/plan4better) to hear more about upcoming mapping events. 
-
-
-
+Follow us on [LinkedIn](https://www.linkedin.com/company/plan4better/) or [Twitter](https://twitter.com/plan4better) to hear more about upcoming mapping events.

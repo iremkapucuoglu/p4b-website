@@ -1,6 +1,8 @@
 ---
 author: haxhiu
-categories: []
+categories:
+- development
+- news
 date: 2021-03-30T22:00:00.000+00:00
 description: ''
 image: ''

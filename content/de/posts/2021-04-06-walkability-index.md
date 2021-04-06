@@ -4,25 +4,21 @@ author: haxhiu
 categories:
 - Entwicklung
 - News
-date: 2021-03-30T22:00:00.000+00:00
+date: 2021-04-06T10:00:00.000+00:00
 description: ''
 image: "/images/hackathon_banner.webp"
 summary: Wir gehören zu den glücklichen Siegern des MobiData BW Hackathons! Dort haben
-  wir „WALKIE“ entwickelt, einen Walkability-Index zur Fußgängerfreundlichkeit und
-  einen Algorithmus zur Berechnung potenzieller Fußgängerströme. WALKIE soll in GOAT
-  integriert werden, mit dem Ziel GOAT zu einem nützlichen und innovativen Planungstool
-  für den Fußverkehr zu etablieren. Im Moment befinden wir uns in der Innovationsphase
-  und entwickeln gemeinsam mit unserem Pilotstandort, Freiburg, neue Funktionen.
+  wir „WALKIE“ entwickelt, einen Walkability-Index und einen Algorithmus zur Berechnung potenzieller Fußgängerströme. In einer 3-monatigen Innovationsphase setzen wir die Entwicklung fort.
 thumbnail: "/images/hackathon_thumbnail.webp"
 translationKey: ''
-draft: true
+draft: false
 
 ---
 ## MobiData BW Hackathon
 
-Wir haben letztes Jahr am [MobiData BW Hackathon](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/mobidata-bw-hackathon "MobiData BW Hackathon") teilgenommen und waren mit unserem „Walkability Index“ zur Fußgängerfreundlichkeit eines der glücklichen Sieger-Teams. Elias Pajares, Ulrike Jehle, Majk Shkurti, Grigorii Ivanov and Rafael Leonardo Munoz Nieto sind die Köpfe hinter dem Walkability Index.
+Wir haben letztes Jahr am [MobiData BW Hackathon](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/mobidata-bw-hackathon "MobiData BW Hackathon") teilgenommen und waren mit unserem „Walkability Index“ zur Fußgängerfreundlichkeit eines der glücklichen Sieger-Teams. [Elias Pajares](https://www.linkedin.com/in/eliaspajares/), [Ulrike Jehle](https://www.linkedin.com/in/ulrike-jehle/), [Majk Shkurti](https://www.linkedin.com/in/majkshkurti/), [Grigorii Ivanov](https://www.linkedin.com/in/grigorii-ivanov-5a218796/) und [Rafael Leonardo Munoz Nieto](https://www.linkedin.com/in/rlmunoz/) sind die Köpfe hinter dem Walkability Index.
 
-Der Hackathon, der vom 27. bis zum 29. November 2020 stattfand, wurde vom Ministerium für Verkehr Baden-Württemberg, der Stadt Freiburg und der Nahverkehrsgesellschaft Baden-Württemberg NVBW organisiert. Das Ziel des Events: die Entwicklungen neuer Lösungen für die zukünftige Mobilität. Insgesamt haben sich 150 Teilnehmende 30 unterschiedlichen Challenges angenommen.
+Der Hackathon, der vom 27. bis zum 29. November 2020 stattfand, wurde vom [Ministerium für Verkehr Baden-Württemberg](https://vm.baden-wuerttemberg.de/de/startseite/), der [Stadt Freiburg](https://www.freiburg.de/pb/,Lde/205243.html) und der [Nahverkehrsgesellschaft Baden-Württemberg NVBW](https://www.nvbw.de/) organisiert. Das Ziel des Events: die Entwicklungen neuer Lösungen für die zukünftige Mobilität. Insgesamt haben sich 150 Teilnehmende 30 unterschiedlichen Challenges angenommen.
 
 ## Der Ablauf des Events
 
@@ -34,7 +30,7 @@ Jede Gruppe stellte ihre Ergebnisse vor und die Jury bewertete die Pitches basie
 
 ## Unsere Challenge: „Walkability Index“
 
-Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußverkehr in Angriff genommen und einen Prototyp eines WALKability IndEx (WALKIE), sowie einen Algorithmus zur Berechnung potenzieller Fußgängerströme entwickelt.
+Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußverkehr in Angriff genommen und einen Prototyp eines Walkability Index, sowie einen Algorithmus zur Berechnung potenzieller Fußgängerströme entwickelt.
 
 <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 

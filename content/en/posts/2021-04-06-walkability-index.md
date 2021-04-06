@@ -3,25 +3,23 @@ author: haxhiu
 categories:
 - development
 - news
-date: 2021-03-30T22:00:00.000+00:00
+date: 2021-04-06T10:00:00.000+00:00
 description: ''
 image: "/images/hackathon_banner.webp"
 summary: We are one of the lucky winners of the MobiData BW Hackathon, where we developed
   “WALKIE” – a walkability index and an algorithm to calculate potential pedestrian
-  flows. WALKIE will be implemented in GOAT as we aim to evolve GOAT into a suitable
-  and comprehensive planning tool for walking analysis. Right now, we are in the innovation
-  phase and develop new features with our pilot city, Freiburg.
+  flows. We will continue the development in a 3-month innovation phase.
 thumbnail: "/images/hackathon_thumbnail.webp"
 title: 'Hackathon: Development of a Walkability Index'
 translationKey: ''
-draft: true
+draft: false
 
 ---
 ## MobiData BW Hackathon
 
-Last year we participated in the [MobiData BW Hackathon](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/mobidata-bw-hackathon "MobiData BW Hackathon") and were one of the winning teams with our “Walkability Index”! Our team members were Elias Pajares, Ulrike Jehle, Majk Shkurti, Grigorii Ivanov and Rafael Leonardo Munoz Nieto.
+Last year we participated in the [MobiData BW Hackathon](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/mobidata-bw-hackathon "MobiData BW Hackathon") and were one of the winning teams with our “Walkability Index”! Our team members were [Elias Pajares](https://www.linkedin.com/in/eliaspajares/), [Ulrike Jehle](https://www.linkedin.com/in/ulrike-jehle/), [Majk Shkurti](https://www.linkedin.com/in/majkshkurti/), [Grigorii Ivanov](https://www.linkedin.com/in/grigorii-ivanov-5a218796/) and [Rafael Leonardo Munoz Nieto](https://www.linkedin.com/in/rlmunoz/).
 
-The hackathon took place on 27.-29th November 2020 and was organized by the Ministry of Transport of Baden-Württemberg, the City of Freiburg, and the Public Transport Company of Baden-Württemberg. The event pursued the goal of developing new solutions for future mobility. In total, 150 participants were tackling 30 different challenges. As a sustainable future mobility is something that we also aim for, we were happy to roll up our sleeves and start coding for a good cause!
+The hackathon took place on 27.-29th November 2020 and was organized by the [Ministry of Transport of Baden-Württemberg](https://vm.baden-wuerttemberg.de/en/home/), the [City of Freiburg](https://www.freiburg.de/pb/,Lde/205243.html), and the [Public Transport Company of Baden-Württemberg](https://www.nvbw.de/). The event pursued the goal of developing new solutions for future mobility. In total, 150 participants were tackling 30 different challenges. As a sustainable future mobility is something that we also aim for, we were happy to roll up our sleeves and start coding for a good cause!
 
 ## The Course of the Event
 

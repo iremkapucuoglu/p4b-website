@@ -52,7 +52,7 @@ template = "links-block"
 heading = "GOAT-live"
 icon = "location"
 page = "en/goatlive.md"
-text = "Here you can find our demo versions of GOAT. They are frequently equipped with new features and up-to-date data."
+text = "Here you can find our demo versions of GOAT. They are frequently enhanced with new features and up-to-date data."
 url = "/goatlive/"
 [[blocks.links]]
 heading = "Videos"

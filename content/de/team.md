@@ -47,7 +47,7 @@ background = "muted"
 block = "team"
 heading = "Gründer*innen"
 template = "team-block"
-text = "Schreiben Sie uns gerne an und kommen Sie  mit den Gründer*innen von Plan4Better in Kontakt."
+text = "Schreiben Sie uns gerne an und kommen Sie mit den Gründer*innen von Plan4Better in Kontakt!"
 [[blocks]]
 background = "default"
 block = "images"

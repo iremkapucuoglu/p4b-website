@@ -58,7 +58,7 @@ url = "/goatlive/"
 heading = "Videos"
 icon = "play-circle"
 page = "en/videos.md"
-text = "Videos for quick start. Here the functions of GOAT are demonstrated exemplarily."
+text = "Videos for a quick start. Here the functions of GOAT are demonstrated exemplarily."
 url = "/videos/"
 [[blocks.links]]
 heading = "Tutorials"

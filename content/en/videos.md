@@ -1,4 +1,5 @@
 +++
+description = ""
 layout = "blocks"
 title = "Videos"
 translationKey = "videos"
@@ -16,6 +17,6 @@ url = ""
 block = "videos"
 heading = "Quickstart Videos"
 template = "videos-block"
-text = "Videos for quick start. Here the functions of GOAT are demonstrated exemplarily."
+text = "Videos for a quick start. Here the functions of GOAT are demonstrated exemplarily."
 
 +++

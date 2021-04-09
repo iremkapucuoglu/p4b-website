@@ -21,7 +21,7 @@ heading = "Was ist GOAT?"
 image = "/images/heatmap.webp"
 layout = "left"
 template = "card-block"
-text = "Geo Open Accessibility Tool, oder einfach GOAT, ist ein Open-Source-Webtool zur interaktiven und dynamischen Erreichbarkeitsplanung. Mit GOAT können Erreichbarkeiten für den Fuß- und Radverkehr modelliert werden. Dadurch zeichnet es sich aus als Instrument für eine einfachere, bessere und offenere Verkehrs- und Stadtplanung. Es werden regelmäßig Erweiterungen vorgenommen, um die Leistung zu verbessern und zusätzliche Funktionalitäten hinzuzufügen."
+text = "Geo Open Accessibility Tool, oder einfach GOAT, ist ein Open-Source-Webtool zur interaktiven und dynamischen Erreichbarkeitsplanung. Mit GOAT können Erreichbarkeiten für den Fuß- und Radverkehr modelliert werden. Dadurch zeichnet es sich aus, als Instrument für eine einfachere, bessere und offenere Verkehrs- und Stadtplanung. Es werden regelmäßig Erweiterungen vorgenommen, um die Leistung zu verbessern und zusätzliche Funktionalitäten hinzuzufügen."
 video = ""
 [blocks.button]
 text = ""
@@ -45,7 +45,6 @@ background = "muted"
 block = "links"
 heading = "Weitere Infos"
 template = "links-block"
-
 [[blocks.links]]
 heading = "GOAT-live"
 icon = "location"
@@ -71,6 +70,5 @@ page = "de/docs.md"
 pages = "de/_index.md"
 text = "Detaillierte Informationen zum technischen Hintergrund und zur Beteiligung am Open-Source-Projekt."
 url = "de/docs/background/"
-
 
 +++

@@ -68,6 +68,7 @@ blocks:
   text: ''
   padding_top: default
   items:
+  - logo: "/images/logo_lhm.webp"
   - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - logo: "/images/logo_mobidata-bw-1.jpg"
   - logo: "/images/logo-tum-2.png"

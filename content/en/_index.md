@@ -65,7 +65,8 @@ blocks:
   - "/images/logo_mobidata-bw-1.jpg"
   - "/images/logo-tum-1.png"
   - "/images/logo_muc.png"
-  - "/images/MunichWays_Logo_Web_72dpi.png"
+  - "/images/logo_freising.png"
+  - "/images/logo_munichways.png"
   text: ''
   padding_top: default
   items:
@@ -73,7 +74,8 @@ blocks:
   - logo: "/images/logo_mobidata-bw-1.jpg"
   - logo: "/images/logo-tum-2.png"
   - logo: "/images/logo_muc.png"
-  - logo: "/images/MunichWays_Logo_Web_72dpi.png"
+  - logo: "/images/logo_freising.png"
+  - logo: "/images/logo_munichways.png"
 - template: logos-block
   block: logos
   background: default

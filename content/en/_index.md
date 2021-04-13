@@ -45,8 +45,8 @@ blocks:
   background: default
   image: "/images/isochrone_amenities.webp"
   text: Walking and cycling require attractive transport infrastructure and destinations
-    at close distance (15-minute city). With the accessibility approach GOAT offers
-    dynamic map-based analysis.
+    at close distance (15-minute city). With the accessibility approach, GOAT offers
+    a dynamic map-based analysis.
   heading: Our Offer
   button:
     url: "/what-is-goat/"
@@ -64,14 +64,18 @@ blocks:
   - "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - "/images/logo_mobidata-bw-1.jpg"
   - "/images/logo-tum-1.png"
-  - "/images/MunichWays_Logo_Web_72dpi.png"
+  - "/images/logo_muc.png"
+  - "/images/logo_freising.png"
+  - "/images/logo_munichways.png"
   text: ''
   padding_top: default
   items:
   - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - logo: "/images/logo_mobidata-bw-1.jpg"
   - logo: "/images/logo-tum-2.png"
-  - logo: "/images/MunichWays_Logo_Web_72dpi.png"
+  - logo: "/images/logo_muc.png"
+  - logo: "/images/logo_freising.png"
+  - logo: "/images/logo_munichways.png"
 - template: logos-block
   block: logos
   background: default

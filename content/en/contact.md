@@ -1,4 +1,5 @@
 +++
+description = ""
 layout = "blocks"
 title = "Contact"
 translationKey = "contact"
@@ -21,6 +22,6 @@ display_phone = false
 heading = "Contact Us"
 subheading = ""
 template = "contact-block"
-text = "If you have any ideas, questions or requests, please feel free to get in touch with us by sending an email or simply using the contact form below. We are looking forward to your messages."
+text = "If you have any ideas, questions, or requests, please feel free to get in touch with us by sending an email or simply using the contact form below. We are looking forward to your messages."
 
 +++

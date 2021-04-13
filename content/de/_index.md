@@ -43,7 +43,9 @@ blocks:
   layout: right
   background: default
   image: "/images/isochrone_amenities.webp"
-  text: Der Fuß- und Radverkehr benötigt eine attraktive Verkehrsinfrastruktur und nahe Ziele im Sinne der 15-Minuten-Stadt. GOAT vereint durch den Erreichbarkeitsansatz diese zwei Dimensionen und liefert über digitale Karten dynamische Analysen.
+  text: Der Fuß- und Radverkehr benötigt eine attraktive Verkehrsinfrastruktur und
+    nahe Ziele im Sinne der 15-Minuten-Stadt. GOAT vereint durch den Erreichbarkeitsansatz
+    diese zwei Dimensionen und liefert über digitale Karten dynamische Analysen.
   heading: Was bieten wir?
   button:
     url: "/what-is-goat/"
@@ -61,14 +63,18 @@ blocks:
   - "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - "/images/logo_mobidata-bw-1.jpg"
   - "/images/logo-tum-1.png"
-  - "/images/MunichWays_Logo_Web_72dpi.png"
+  - "/images/logo_muc.png"
+  - "/images/logo_freising.png"
+  - "/images/logo_munichways.png"
   text: ''
   padding_top: default
   items:
   - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - logo: "/images/logo_mobidata-bw-1.jpg"
   - logo: "/images/logo-tum-2.png"
-  - logo: "/images/MunichWays_Logo_Web_72dpi.png"
+  - logo: "/images/logo_muc.png"
+  - logo: "/images/logo_freising.png"
+  - logo: "/images/logo_munichways.png"
 - template: logos-block
   block: logos
   background: default

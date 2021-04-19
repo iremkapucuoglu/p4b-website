@@ -66,6 +66,7 @@ blocks:
   - "/images/logo-tum-1.png"
   - "/images/logo_muc.png"
   - "/images/logo_freising.png"
+  - "/images/logo_ffb.png"
   - "/images/logo_munichways.png"
   text: ''
   padding_top: default
@@ -75,6 +76,7 @@ blocks:
   - logo: "/images/logo-tum-2.png"
   - logo: "/images/logo_muc.png"
   - logo: "/images/logo_freising.png"
+  - logo: "/images/logo_ffb.png"
   - logo: "/images/logo_munichways.png"
 - template: logos-block
   block: logos

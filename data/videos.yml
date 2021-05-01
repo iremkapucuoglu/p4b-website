@@ -46,7 +46,7 @@
 - image: "/images/walkability_population_heatmap.webp"
   vimeo: 370376888
   title:
-    en: Comparison population density and walkability
+    en: Comparison population density and accessibility
     de: Vergleich Bevölkerungsdichte und Erreichbarkeit
   text:
     en: Compare accessibility levels and populations density in order to assess the
@@ -57,7 +57,7 @@
 - image: "/images/walkability_heatmap.webp"
   vimeo: 311549509
   title:
-    en: Compute and visualize walkability
+    en: Compute and visualize walking accessibility
     de: Heatmap zur fußläufigen Erreichbarkeit
   text:
     en: The dynamic heatmap makes use of gravity-based accessibility measures and

@@ -18,8 +18,8 @@
   text:
     en: Perform your own scenarios by drawing, modifying or deleting links in the
       routing network within seconds and assess changes in accessibility.
-    de: Entwickle eigene Szenarien durch Veränderungen im Routingnetzwerk und visualisiere
-      die Veränderung in der Erreichbarkeit.
+    de: Entwicklung eigener Szenarien durch Veränderungen im Routingnetzwerk und Visualisierung
+      der Erreichbarkeitsveränderungen.
   comments: ''
 - image: "/images/multi_isochrones.webp"
   vimeo: 370382250
@@ -36,11 +36,11 @@
   vimeo: 411721219
   title:
     en: Use GOAT for location planning
-    de: Verwende GOAT in der Standortplanung
+    de: Einsatz von GOAT in der Standortplanung
   text:
     en: You can add, modify and delete points of interest and assess the effects on
       accessibility on the fly within a few seconds.
-    de: Du kannst Points of Interest hinzufügen, modifizieren und löschen, die Veränderung
+    de: Sie können Points of Interest hinzufügen, modifizieren und löschen, die Veränderung
       in der Erreichbarkeit wird dir dynamisch aufgezeigt.
   comments: ''
 - image: "/images/walkability_population_heatmap.webp"

@@ -39,6 +39,16 @@
     de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Freising.
   url: https://freising.open-accessibility.org/
   comments: Freising
+- image: "/images/spgg.webp"
+  title:
+    en: San Pedro Garza García
+    de: San Pedro Garza García
+  text:
+    en: This is an experimental version that was developed within a master thesis project at TUM. The main aim
+     was to test innovative data fusion strategies. 
+    de: Dies ist eine experimentelle Version, die im Rahmen einer Masterarbeit an der TUM entstand. Hauptziel war es, innovative Strategien zur Datenfusion zu testen. 
+  url: https://spgg.open-accessibility.org/
+  comments: San Pedro Garza Garcia
 - image: "/images/hasenbergl.webp"
   title:
     en: Hasenbergl-Lerchenau

@@ -1,16 +1,18 @@
-+++
-author = ""
-categories = []
-date = ""
-description = ""
-draft = true
-image = ""
-summary = ""
-thumbnail = ""
-title = "High quality data, now automatic"
-translationKey = ""
+---
+author: ramirez
+categories: 
+- development
+- data
+date: 2021-05-15T13:00:00.000+00:00
+description: ""
+draft: true
+image: ""
+summary: ""
+thumbnail: ""
+title: "High quality data, now automatic"
+translationKey: ""
 
-+++
+---
 ## The data challenge
 
 One of the key challenges of building a planning instrument such as GOAT is the availability and the quality of the data used for the calculations. As you may remember, we have been using [Mapillary](https://www.mapillary.com/)’s services to tackle this problem. They have been doing an amazing work developing a platform to capture the cities in pictures and most importantly, extracting valuable data from the images.

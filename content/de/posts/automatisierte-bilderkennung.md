@@ -1,11 +1,11 @@
 +++
 author = ""
-categories = []
+categories = [""]
 date = ""
 description = ""
 draft = true
 image = "/images/mapillary_banner.webp"
-summary = ""
+summary = "Mit der Mapillary API erfolgt der erste Schritt Richtung Automatisierung der Datenerfassung durch die automatische Bilderkennung und Bildsegmentierung. GOAT verwendet diese hochwertigen Daten bei der Analyse der fußläufigen Erreichbarkeit und Zugänglichkeit verwendet. "
 thumbnail = "/images/mapillary_thumbnail.webp"
 title = "Automatisierte Bilderkennung"
 translationKey = ""
@@ -55,9 +55,9 @@ Wir wollten nicht lediglich einen Stadtteil in München analysieren, wir wollten
 
 Die Funktion beinhaltet auch eine kurze Zeitpause zwischen den Quadraten, damit die Server nicht überlastet werden. Danach verbinden wir die extrahierten Informationen aus allen Quadraten zu einer einzigen .json-Datei.
 
-Die zweite Herausforderung bezog sich auf die Parameter für die API. Je nach benötigter Daten, erfordert die API einen anderen Satz von Parametern, der manuell geändert wird. Um dies zu lösen, haben wir unsere eigene Objektbibliothek aus der vollständigen Liste der Objekte der [Mapillary API-Dokumentation](https://www.mapillary.com/developer/api-documentation/ "https://www.mapillary.com/developer/api-documentation/") herausgefiltert.
+Die zweite Herausforderung bezog sich auf die Parameter für die API. Je nach benötigten Daten, erfordert die API einen anderen Satz von Parametern, der manuell geändert wird. Um dies zu lösen, haben wir unsere eigene Objektbibliothek aus der vollständigen Liste der Objekte der [Mapillary API-Dokumentation](https://www.mapillary.com/developer/api-documentation/ "https://www.mapillary.com/developer/api-documentation/") herausgefiltert.
 
-Diese gefilterte Bibliothek befindet sich in einer Yaml-Datei und enthält alle für die API erforderlichen Parameter. Jetzt kann das Skript in einem einzigen Durchlauf mehrere Objekte entweder über die Object Detection API oder die Map Features-API aufrufen.
+Diese gefilterte Bibliothek befindet sich in einer Yaml-Datei und enthält alle für die API erforderlichen Parameter. Jetzt kann das Skript in einem einzigen Durchlauf mehrere Objekte entweder über die Object Detection API oder die Map-Features-API aufrufen.
 
 Für ein tieferes Verständnis laden wir Sie ein, einen Blick auf unsere Arbeit zu werfen, in unserem [Repo](https://github.com/goat-community/mapillary-api "https://github.com/goat-community/mapillary-api") in GitHub. Schließlich besteht das Ziel darin, diese Funktionen in eine Lambda-Funktion in Amazon Web Services (AWS) mit zeitlichen und Ereignisauslösern zu setzen.
 

@@ -4,9 +4,9 @@ categories = []
 date = ""
 description = ""
 draft = true
-image = ""
+image = "/images/mapillary_banner.webp"
 summary = ""
-thumbnail = ""
+thumbnail = "/images/mapillary_thumbnail.webp"
 title = "Automatisierte Bilderkennung"
 translationKey = ""
 

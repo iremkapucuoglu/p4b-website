@@ -1,16 +1,16 @@
 ---
 author: ramirez
-categories: 
+categories:
 - development
 - data
 date: 2021-05-15T13:00:00.000+00:00
-description: ""
+description: ''
+image: "/images/mapillary_banner.webp"
+summary: ''
+thumbnail: "/images/mapillary_thumbnail.webp"
+title: High quality data, now automatic
+translationKey: ''
 draft: true
-image: ""
-summary: ""
-thumbnail: ""
-title: "High quality data, now automatic"
-translationKey: ""
 
 ---
 ## The data challenge

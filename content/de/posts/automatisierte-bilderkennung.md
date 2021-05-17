@@ -31,7 +31,7 @@ Darüber hinaus hilft die Street-View-Funktion dabei, die physischen Eigenschaft
 
 Dementsprechend können die Tags der vorhandenen Infrastruktur aktualisiert werden, damit sie mit den Bildern und Verkehrsschildern übereinstimmen.
 
-![](/images/mapillary_fig1-0.jpg)_Abbildung 1. Zwei Sequenzen, die dieselben Zeichen an verschiedenen Stellen identifizieren_
+![Dieselben Verkehrszeichen an unterschiedlichen Stellen geortet](/images/mapillary_fig1-0.jpg "Zwei Sequenzen mit Verkehrszeichen")_Abbildung 1. Zwei Sequenzen, die dieselben Zeichen an verschiedenen Stellen identifizieren_
 
 Manchmal können jedoch unterschiedliche Sequenzen dieselbe Gruppe von Verkehrsschildern identifizieren, sie jedoch an einer völlig anderen Position lokalisieren (siehe Abbildung 1). Hier zeigt die blaue Sequenz, dass sich die Schilder nach der Rechtskurve (aus Nordosten kommend) befinden, in Wirklichkeit befinden sie sich aber vor der Kurve. In diesem Fall hat die grüne Sequenz sie an einer genaueren Position lokalisiert.
 
@@ -43,7 +43,7 @@ Bei diesem Vorgang handelt es sich jedoch noch um eine aufwendige visuelle Über
 
 Schon bald nach dem Ausprobieren der Mapillary-Updates, wurde für OSM, am 28. August 2020, eine weitere Funktion veröffentlicht: „Globaler Zugriff auf Kartendaten mit der Mapillary API“. Dies war der erste Schritt zur Automatisierung der Datenerfassung.
 
-Bevor wir Ihnen unsere Arbeit mit den Daten von Mapillary erläutern, möchten wir Ihnen eine kleine Erklärung zur Funktionsweise der API geben: Sie bietet drei Möglichkeiten, auf ihre Daten zuzugreifen: Erstens, „Images API“, es liefert die Bilder von einem räumlichen Parameter (innerhalb eines begrenzten Quadrats oder eines Punkts mit einem Radius). Zweitens, „Object Detections-API“, dies ist eine Möglichkeit, den Inhalt der Bilder abzufragen. Und „Map Features API“, die Positionen von Objekten als Punkt-Features auf der Karte anzeigt, die aus mehreren Bildern extrahiert wurden.![](/images/mapillary_fig2.jpg)_Abbildung 2: Segmentierung von Maxvorstadt und der Algorithmus von Mapillary_
+Bevor wir Ihnen unsere Arbeit mit den Daten von Mapillary erläutern, möchten wir Ihnen eine kleine Erklärung zur Funktionsweise der API geben: Sie bietet drei Möglichkeiten, auf ihre Daten zuzugreifen: Erstens, „Images API“, es liefert die Bilder von einem räumlichen Parameter (innerhalb eines begrenzten Quadrats oder eines Punkts mit einem Radius). Zweitens, „Object Detections-API“, dies ist eine Möglichkeit, den Inhalt der Bilder abzufragen. Und „Map Features API“, die Positionen von Objekten als Punkt-Features auf der Karte anzeigt, die aus mehreren Bildern extrahiert wurden.![Segmentierung von Maxvorstadt in Mapillary](/images/mapillary_fig2.jpg "Maxvorstadt")_Abbildung 2: Segmentierung von Maxvorstadt und der Algorithmus von Mapillary_
 
 Eine unserer ersten Anwendungen der Mapillary-API war die Erstellung einer Karte von Maxvorstadt, München, unter Verwendung verschiedener Segmente aus der „Object Detections API“. In diesem Fall haben wir nach Bildern, auf denen Autos, der Himmel, Vegetation und Gehwege zu sehen waren, gesucht. Da der Mapillary-Algorithmus das Bild, wie in Abbildung 2 dargestellt, in 65 Objektklassen unterteilt, haben wir die Bilder mit dem höchsten Anteil der relevanten Klassen extrahiert und sie dann mit einer Schätzung der Kernel-Netzwerkdichte mit den Straßen verbunden.
 

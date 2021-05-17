@@ -6,7 +6,9 @@ categories:
 date: 2021-05-15T13:00:00.000+00:00
 description: ''
 image: "/images/mapillary_banner.webp"
-summary: ''
+summary: The data quality is substitutionally increased by the new Mapillary API,
+  which offers an automatic image segmentation and object detection. GOAT uses this
+  high-quality data in its analysis of walkability and accessibility.
 thumbnail: "/images/mapillary_thumbnail.webp"
 title: High quality data, now automatic
 translationKey: ''

@@ -1,6 +1,6 @@
 +++
 author = "ramirez"
-categories = ["Daten", "News"]
+categories = ["Entwicklung", "Daten"]
 date = ""
 description = ""
 draft = true

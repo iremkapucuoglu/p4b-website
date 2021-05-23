@@ -1,11 +1,13 @@
 ---
-title:  Multiisochrones
-permalink: /tutorials/multiisochrones/
+title: Multiisochrones
+permalink: "/tutorials/multiisochrones/"
 weight: 20
 sections:
-  - training
----
+- training
+description: Step-by-step guide for how to use the multi-isochrones feature in GOAT
+  for an exemplary planning task.
 
+---
 #### Description of the feature
 GOAT enables the calculation of multi-isochrones, which show how many residents from a certain neighbourhood have access to a facility (e.g. supermarket, kindergarten, public transport stop) in a certain travel time.
 
@@ -40,15 +42,3 @@ How well are the supermarkets currently distributed over the city? In which dist
 5. The resulting multi-isochrones shows the catchment areas of the supermarkets (here for the mode "pedestrian" with 5 minutes catchment area in light green and 10 minutes catchment area in dark green). The corresponding table shows, sorted by district, how many people out of the total population can reach a supermarket in 5 or 10 minutes walking distance.  
 
 ![Result](/images/training_materials/Multiisochrones/result_multiisochrone.webp)
-
-
-
-
-
-
-
-
-
-
-
- 

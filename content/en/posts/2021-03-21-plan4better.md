@@ -3,13 +3,17 @@ title: Let's plan a balanced future together!
 thumbnail: "/images/blog/plan4better/plan4better_thumbnail.webp"
 image: "/images/blog/plan4better/plan4better_banner.webp"
 date: 2021-03-21T13:00:00.000+00:00
-summary: 'We are absolutely certain that new directions of our work are necessary to boost the development and application of GOAT. To build more sustainable cities and regions worldwide, we founded our start-up and chose a self-explanatory name: Plan4Better!'
+summary: 'We are absolutely certain that new directions of our work are necessary
+  to boost the development and application of GOAT. To build more sustainable cities
+  and regions worldwide, we founded our start-up and chose a self-explanatory name:
+  Plan4Better!'
 categories:
 - news
 author: haxhiu
+description: 'We are commited to our goal and founded a start-up: Plan4Better! This
+  is how it started and our work towards a better future.'
 
 ---
-
 ## How it all started
 
 Our common journey started in research at the TUM, more specifically at the [Chair of Urban Structure and Transport Planning](https://www.bgu.tum.de/en/sv/homepage/). Our enthusiasm about the development of GOAT has never stopped and we are especially curious about the ability to help changing the way cities are built. By the power of the accessibility concept, digital mapping technologies and tons of spatial data.

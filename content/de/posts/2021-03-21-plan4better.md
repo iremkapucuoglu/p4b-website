@@ -3,13 +3,17 @@ title: Gemeinsam eine ausgewogene Zukunft planen!
 thumbnail: "/images/blog/plan4better/plan4better_thumbnail.webp"
 image: "/images/blog/plan4better/plan4better_banner.webp"
 date: 2021-03-21T13:00:00.000+00:00
-summary: 'Um auch weiterhin eine kontinuierliche Entwicklung von GOAT zu gewährleisten und das Tool gleichzeitig in die breite Praxisanwendung zu bringen, haben wir uns dazu entschieden, unsere Aktivitäten neu auszurichten und ein Start-up zu gründen: Plan4Better!'
+summary: 'Um auch weiterhin eine kontinuierliche Entwicklung von GOAT zu gewährleisten
+  und das Tool gleichzeitig in die breite Praxisanwendung zu bringen, haben wir uns
+  dazu entschieden, unsere Aktivitäten neu auszurichten und ein Start-up zu gründen:
+  Plan4Better!'
 categories:
 - News
 author: haxhiu
+description: 'Wir gehen aufs Ganze und gründen ein Start-up: Plan4Better! Hier erfahren
+  Sie mehr über unsere Arbeit, Motivation und Angebot!'
 
 ---
-
 ## Wie alles begann 
 
 Unser gemeinsamer Weg begann als Wissenschaftler an der TUM, genauer gesagt, am [Lehrstuhl für Siedlungsstruktur und Verkehrsplanung](https://www.bgu.tum.de/sv/startseite/). Dort haben wir seit über 3 Jahren voller Enthusiasmus an der Entwicklung von [GOAT](../../was-ist-goat) gearbeitet. Mit Hilfe des Erreichbarkeitsansatzes und einer Vielzahl an Daten konnten wir eine praxistaugliche Version von GOAT entwickeln, die PlanerInnen und EntscheidungsträgerInnen dabei hilft, effektiver für den Fuß- und Radverkehr zu planen. 

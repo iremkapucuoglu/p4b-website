@@ -1,4 +1,5 @@
 +++
+description = "Sie möchten uns kontaktieren? Schreiben Sie uns gerne eine E-Mail an info@plan4better.de oder nutzen das Kontaktformular auf der Seite."
 layout = "blocks"
 title = "Kontakt"
 translationKey = "contact"

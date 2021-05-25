@@ -15,6 +15,8 @@ summary: We love OPEN SOURCE! It is the heart and soul of GOAT since its start. 
   challenges, encouraging users to participate in the OSM project and fill the data
   gaps.
 date: 2020-07-29
+description: The feature of GOAT OSM Mapping Mode allows to enhance OpenStreetMap
+  data directly via GOAT user interface
 
 ---
 ## Open Data Love

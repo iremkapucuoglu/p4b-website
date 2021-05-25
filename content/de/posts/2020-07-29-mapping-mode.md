@@ -15,6 +15,8 @@ summary: Wir lieben Open-Source und Open-Data Projekte! Diese sind seit Beginn a
   ein neues Feature in GOAT entwickelt, das Mapping Challenges anzeigt und Nutzer
   somit anregt, Datenlücken in OSM zu schließen.
 date: 2020-07-29
+description: Die Funktion von GOAT OSM-Mapping-Modus ermöglicht OpenStreetMap Daten
+  über die GOAT-Nutzeroberfläche zu verbessern
 
 ---
 ## Open Data Liebe

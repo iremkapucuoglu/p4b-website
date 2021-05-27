@@ -7,7 +7,7 @@ date: 2021-05-15T13:00:00.000+00:00
 description: ""
 draft: true
 image: ""
-summary: ""
+summary: "One of the key challenges of building a planning instrument such as GOAT is the availability and the quality of the data used for the calculations. We are frequently searching new data sources, such as Mapillary."
 thumbnail: ""
 title: "High quality data, now automatic"
 translationKey: ""

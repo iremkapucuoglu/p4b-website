@@ -28,7 +28,7 @@ Our story with Mapillary began in March 2020, when we completely mapped [Fürste
 
 ## Mapillary plug-in for JOSM
 
-This is an experience report of mapping and updating the pedestrian crossings in Fürstenfeldbruck. First, we got the base layer of crossings from \[overpass-turbo.eu\](file:///Users/Santiago/Downloads/overpass-turbo.eu). This layer includes all crossings mapped in [OpenStreetMap](https://www.openstreetmap.org/#map=5/50.151/9.539) (OSM), so the idea was to compare them with the crossings identified by Mapillary’s AI object detection algorithm.
+This is an experience report of mapping and updating the pedestrian crossings in Fürstenfeldbruck. First, we got the base layer of crossings from [overpass-turbo.eu](https://www.overpass-turbo.eu). This layer includes all crossings mapped in [OpenStreetMap](https://www.openstreetmap.org/#map=5/50.151/9.539) (OSM), so the idea was to compare them with the crossings identified by Mapillary’s AI object detection algorithm.
 
 For this analysis, we used [JOSM](https://josm.openstreetmap.de/). It is an OSM extensible editor for desktop, that allows very easily, and highly scalable, to edit features and attributes of the data. Now, Mapillary’s featurefacilitates to identify the traffic signals and their location within the JOSM interface.
 

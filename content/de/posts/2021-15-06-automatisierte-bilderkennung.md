@@ -1,16 +1,16 @@
-+++
-author = "ramirez"
-categories = ["Entwicklung", "Daten"]
-date = ""
-description = ""
-draft = true
-image = "/images/mapillary_banner.webp"
-summary = "Mit der Mapillary API erfolgt der erste Schritt Richtung Automatisierung der Datenerfassung durch die automatische Bilderkennung und Bildsegmentierung. Diese hochwertigen Daten verwendet GOAT bei der Analyse der fußläufigen Erreichbarkeit und Zugänglichkeit."
-thumbnail = "/images/mapillary_thumbnail.webp"
-title = "Automatisierte Bilderkennung"
-translationKey = ""
+---
+author: ramirez
+categories: ["Entwicklung", "Daten"]
+date:  2021-05-15T13:00:00.000+00:00
+description: ""
+draft: true
+image: "/images/mapillary_banner.webp"
+summary: "Mit der Mapillary API erfolgt der erste Schritt Richtung Automatisierung der Datenerfassung durch die automatische Bilderkennung und Bildsegmentierung. Diese Daten verwendet wir in GOAT zur Verbesserung der Datengrundlage unserer Analysen."
+thumbnail: "/images/mapillary_thumbnail.webp"
+title: "Automatisierte Bilderkennung"
+translationKey: ""
 
-+++
+---
 ## Datenherausforderung
 
 Eine der wichtigsten Herausforderungen beim Aufbau eines Planungsinstruments wie GOAT, ist die Verfügbarkeit und Qualität der verwendeten Daten. Wie Sie sich vielleicht erinnern, verwenden wir u.a. [Mapillary](https://www.mapillary.com/) zur Lösung dieses Problems.

@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "The functions of GOAT are demonstrated explanatory in short and explanatory videos."
 layout = "blocks"
 title = "Videos"
 translationKey = "videos"

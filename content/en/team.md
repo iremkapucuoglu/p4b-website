@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "We are a diverse team of Environmental Engineers, GIS Developers, and Transport Planners."
 layout = "blocks"
 title = "Team"
 translationKey = "team"

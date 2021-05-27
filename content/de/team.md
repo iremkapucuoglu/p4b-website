@@ -1,4 +1,5 @@
 +++
+description = "Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen."
 layout = "blocks"
 title = "Team"
 translationKey = "team"

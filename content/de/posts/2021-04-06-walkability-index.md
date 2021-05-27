@@ -5,13 +5,15 @@ categories:
 - Entwicklung
 - News
 date: 2021-04-06T10:00:00.000+00:00
-description: ''
+description: 'Unser Walkability-Index für MobiData BW Hackathon war ein voller Erfolg!
+  So setzen wir die Entwicklung in der Innovationssphase fort:'
 image: "/images/hackathon_banner.webp"
 summary: Wir gehören zu den glücklichen Siegern des MobiData BW Hackathons! Dort haben
-  wir „WALKIE“ entwickelt, einen prototypischen Walkability-Index, und einen Algorithmus zur Berechnung potenzieller Fußgängerströme. In einer 3-monatigen Innovationsphase setzen wir die Entwicklung fort.
+  wir „WALKIE“ entwickelt, einen prototypischen Walkability-Index, und einen Algorithmus
+  zur Berechnung potenzieller Fußgängerströme. In einer 3-monatigen Innovationsphase
+  setzen wir die Entwicklung fort.
 thumbnail: "/images/hackathon_thumbnail.webp"
 translationKey: ''
-draft: false
 
 ---
 ## MobiData BW Hackathon

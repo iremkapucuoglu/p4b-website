@@ -36,4 +36,4 @@ fields:
   label: Author
   description: Enter username from authors settings.
 pages:
-- content/en/posts/high-quality-data-now-automatic.md
+- content/de/posts/automatisierte-bilderkennung.md

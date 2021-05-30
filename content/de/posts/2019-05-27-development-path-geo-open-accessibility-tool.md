@@ -1,14 +1,23 @@
 ---
-permalink: /de/development-path-geo-open-accessibility-tool/
-title:  "Der Entwicklungspfad von GOAT"
+permalink: "/de/development-path-geo-open-accessibility-tool/"
+title: Der Entwicklungspfad von GOAT
 author: pajares
 lang: de
-tags: [de]
-categories: [News, Entwicklung]
-thumbnail: /images/blog/development_path/thumbnail.webp
-image: /images/blog/development_path/banner.webp
-summary: Das Geo Open Accessibility Tool (GOAT) ist aktuell noch nicht dort, wo wir einmal hin möchten. Neben der fortwährenden Professionalisierung, die unabdingbar für ein wirklich nützliches und stabiles Erreichbarkeitsinstrument ist, werden in regelmäßigen Abständen weitere Funktionen implementiert.  
+tags:
+- de
+categories:
+- News
+- Entwicklung
+thumbnail: "/images/blog/development_path/thumbnail.webp"
+image: "/images/blog/development_path/banner.webp"
+summary: Das Geo Open Accessibility Tool (GOAT) ist aktuell noch nicht dort, wo wir
+  einmal hin möchten. Neben der fortwährenden Professionalisierung, die unabdingbar
+  für ein wirklich nützliches und stabiles Erreichbarkeitsinstrument ist, werden in
+  regelmäßigen Abständen weitere Funktionen implementiert.
 date: 2019-05-27
+description: Der Entwicklungsprozess von GOAT. Viele Funktionen eines Planungsinstruments
+  sind bereits implementiert, andere werden folgen.
+
 ---
 ## Entwicklungsprozess 
 
@@ -80,4 +89,4 @@ Der Grund, weshalb noch nicht weitere Orte abgedeckt werden, sind die hohen Anfo
 
 Bis zu diesem Tag bin ich bisher ausschließlich in der Lage, GOAT für die Stadt München anzubieten. Ich kann mir aber vorstellen, die Online-Version von GOAT für weitere Kreise in der Metropolregion München auszuweiten.  
 
-Ich bin auch sehr offen dafür, GOAT in anderen Städten weltweit als Initiative zur Förderung von bedeutsamer Zusammenarbeit mit anderen zu etablieren. Wenn Sie GOAT in Ihrer Stadt vermissen und daran interessiert sind, Teil der Community zu werden, kontaktieren Sie mich einfach und ich werden Strategien entwickeln, um dies zu ermöglichen.  
+Ich bin auch sehr offen dafür, GOAT in anderen Städten weltweit als Initiative zur Förderung von bedeutsamer Zusammenarbeit mit anderen zu etablieren. Wenn Sie GOAT in Ihrer Stadt vermissen und daran interessiert sind, Teil der Community zu werden, kontaktieren Sie mich einfach und ich werden Strategien entwickeln, um dies zu ermöglichen.

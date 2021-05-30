@@ -15,11 +15,11 @@ translationKey: ""
 
 Eine der wichtigsten Herausforderungen beim Aufbau eines Planungsinstruments wie GOAT, ist die Verfügbarkeit und Qualität der verwendeten Daten. Wie Sie sich vielleicht erinnern, verwenden wir u.a. [Mapillary](https://www.mapillary.com/) zur Lösung dieses Problems.
 
-Das Mapillary Projekt hat eine erstaunliche Arbeit geleistet, indem sie eine Plattform entwickelt haben, um die Realität in Bildern festzuhalten und vor allem wertvolle Daten aus den Bildern zu extrahieren.
+Mapillary ist eine Plattform, über die Bildsequenzen des Straßenraums aufgenommen und mit der open Community geteilt werden können. Aus diesen Bildaufnahmen können wertvolle Daten ausgelesen werden. 
 
-Unsere Geschichte mit Mapillary begann im März 2020, als wir [Fürstenfeldbruck](https://www.open-accessibility.org/mapillary/ "https://www.open-accessibility.org/mapillary/"), eine Stadt 10 km westlich von München, vollständig kartiert haben. Seitdem verwenden wir diese Anwendung zur Verbesserung der Daten, die für unsere Analyse relevant sind. Bis zu diesem Zeitpunkt wurden alle Schritte komplett manuell durchgeführt.
+Unsere Geschichte mit Mapillary begann im März 2020, als wir [Fürstenfeldbruck](https://www.open-accessibility.org/mapillary/ "https://www.open-accessibility.org/mapillary/"), eine Große Kreisstadt 10 km westlich von München, vollständig kartiert haben. Seitdem verwenden wir die von uns und anderen Nutzern erhobenen Bildsequezen zur Verbesserung der Daten, die für unsere Analyse relevant sind. Bis dato wurden alle Schritte (Analyse der Bilder, Objekterkennung, Speichern der ausgelesenen Informationen, etc.) komplett manuell durchgeführt.
 
-Um immer up-to-date zu bleiben, folgen und lesen wir den Mapillary-Blog. Am 24. August 2020 veröffentlichten sie den Beitrag “[Mapillary map features now available globally in OpenStreetMap](https://blog.mapillary.com/update/2020/08/24/global-map-features-openstreetmap.html)”. Nachdem wir die Updates gelesen haben, legten wir direkt los, um die neuen Funktionen auszuprobieren. Anhand des folgenden Beispiels möchten wir gerne aufzeigen, wie es uns bei unserer Arbeit mit GOAT hilft.
+Wir als regelmäßige Mapillary Nutzer sind auch begeisterte Leser des Mapillary-Blogs. Am 24. August 2020 wurde dort der Beitrag “[Mapillary map features now available globally in OpenStreetMap](https://blog.mapillary.com/update/2020/08/24/global-map-features-openstreetmap.html)” veröffentlicht. Nachdem wir die Updates gelesen haben, legten wir direkt los, um die neuen Funktionen auszuprobieren. Anhand des folgenden Beispiels möchten wir gerne aufzeigen, wie es uns bei unserer Arbeit mit GOAT hilft.
 
 ## Mapillary plug-in für JOSM
 

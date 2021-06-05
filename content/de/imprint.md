@@ -1,10 +1,11 @@
 +++
+description = "Plan4Better GmbH Augustenstraße 49 80333 München Deutschland Tel.: +49 89/200070830 E-Mail: info@plan4better.de"
 layout = "blocks"
 title = "Impressum"
 translationKey = ""
 [header]
 background = "default"
-background_image = "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
+background_image = "/images/title_street.webp"
 heading = "Impressum"
 image = ""
 layout = "center"
@@ -21,7 +22,6 @@ template = "content-block"
 text = ""
 
 +++
-
 **Plan4Better GmbH**  
 Augustenstraße 49  
 80333 München  
@@ -32,5 +32,6 @@ E-Mail: [info@plan4better.de](mailto:info@plan4better.de)
 
 Registergericht: Amtsgericht München  
 Registernummer: HRB 262655  
-VAT: DE340305321
+VAT: DE340305321  
 Geschäftsführung (vertretungsberechtigt): Elias Pajares, Ulrike Jehle
+

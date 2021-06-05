@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "Geo Open Accessibility Tool (GOAT) is an open-source web instrument for accessibility planning with focus on sustainability."
 layout = "blocks"
 title = "What is GOAT?"
 translationKey = "what-is-goat"

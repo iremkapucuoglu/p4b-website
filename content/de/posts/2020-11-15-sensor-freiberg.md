@@ -13,6 +13,8 @@ summary: Was verbindet GOAT mit einem Projekt für Lieferroboter? Die Nutzung de
   Infrastruktur! Wir haben eine prototypische Sensorbox eingesetzt, um die automatisierte
   Erhebung von Straßendaten zu erproben.
 date: 2020-11-15
+description: 'Wir teilen hier unsere Erfahrungen mit einer prototypischen Sensorbox
+  zur Automatisierung der Erhebung von Straßendaten. '
 
 ---
 ## Innovative Zukunft

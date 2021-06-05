@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "You can find here all live versions of our planning tool GOAT that are currently maintained as demo versions."
 layout = "blocks"
 title = "GOAT-live"
 translationKey = "goat-live"

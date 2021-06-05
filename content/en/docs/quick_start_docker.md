@@ -1,5 +1,5 @@
 ---
-title: Setup your own GOAT (recommended)
+title: Setup your own GOAT
 permalink: /docs/quick_start_docker/
 sections:
 - technical
@@ -105,11 +105,11 @@ If all steps were successful you will be able to use GOAT by typing the followin
 
 Navigate to your GOAT-folder (in this folder there should be the docker-compose.yml file)
 
-<b>Stop<b>
+<b>Stop</b>
 
 `docker-compose down` (This will stop all running containers)
 
-<b>Start<b>
+<b>Start</b>
 
 `docker-compose up -d` (This will start all containers defined in the docker-compose.yml file)
 

@@ -1,4 +1,5 @@
 +++
+description = "Die Funktionen von GOAT sind hier beispielhaft in kurzen und aussagekräftigen Videos demonstriert."
 layout = "blocks"
 title = "Videos"
 translationKey = "videos"

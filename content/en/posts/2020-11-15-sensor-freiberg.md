@@ -13,6 +13,8 @@ summary: How does the GOAT-team come to a project for on-street delivery robots?
   course, we share the same walking and cycling environment. We used a prototype measuring
   box to automatically detect collect surface and smoothness information of road infrastructure.
 date: 2020-11-15
+description: We share our experiences with a prototype measuring box for automatic
+  street data collection in this article.
 
 ---
 ## Innovative future

@@ -1,4 +1,5 @@
 +++
+description = "Hier finden Sie alle Live-Versionen unseres Planungsinstruments GOAT, die aktuell als Demoversion zur Verfügung stehen. "
 layout = "blocks"
 title = "GOAT-live"
 translationKey = "goat-live"

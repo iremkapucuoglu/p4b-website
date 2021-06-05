@@ -1,11 +1,13 @@
 ---
-title:  Multiisochronen
-permalink: /de/tutorials/multiisochrones/
+title: Multiisochronen
+permalink: "/de/tutorials/multiisochrones/"
 weight: 20
 sections:
-  - training
----
+- training
+description: Anleitung für die Verwendung der Multi-Isochronen-Funktion in GOAT für
+  eine beispielhafte Planungsaufgabe.
 
+---
 #### Beschreibung des Features
 GOAT ermöglicht die Berechnung von Multi-Isochronen. In Verbindung mit Bevölkerungsdaten kann so binnen Sekunden der Anteil der Bevölkeruung identifiziert werden, der in eine gewissen Reisezeit Zugang zu Einrichtung wie Supermärkten, Kindergärten, ÖV-Haltestellen etc. hat.
 
@@ -41,15 +43,3 @@ Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadt
 5. Die resultierenden Multi-Isochronen zeigen Ihnen die Einzugsbereiche der Supermärkte (hier für den Modus „Fußgänger“ mit 5 Minuten Einzugsbereich in hellgrün und 10 Minuten Einzugsbereich in dunkelgrün). Die zugehörige Tabelle zeigt nach Ortsteil sortiert, wie viele Menschen von der Gesamtbevölkerung in 5 bzw. 10 Minuten Zufußgehen einen Supermarket erreichen können.  
 
 ![Result](/images/training_materials/Multiisochrones/result_multiisochrone.webp)
-
-
-
-
-
-
-
-
-
-
-
- 

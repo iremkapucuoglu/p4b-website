@@ -10,7 +10,7 @@ header:
     text: Try Goat
     url: "/goatlive/"
   background: default
-  background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
+  background_image: "/images/title_street.webp"
 blocks:
 - template: card-block
   block: card
@@ -21,7 +21,7 @@ blocks:
     are transforming spatial and transport planning towards a more open, joyful and
     efficient reality. '
   heading: Playground for shaping livable spaces
-  image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
+  image: "/images/team_working.webp"
   video: ''
   background_image: "/images/bg-4.svg"
 - template: features-block

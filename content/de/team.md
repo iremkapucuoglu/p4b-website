@@ -34,7 +34,7 @@ background_color_content = "secondary"
 background_image = ""
 block = "card"
 heading = ""
-image = "/images/image360.jpg"
+image = "/images/team.webp"
 layout = "right"
 padding_top = "default"
 template = "card-block"
@@ -54,7 +54,7 @@ background = "default"
 block = "images"
 columns = "1"
 heading = "Gemeinsam in eine balancierte Zukunft starten!"
-images = ["/images/charles-deluvio-lks7vei-eag-unsplash.jpg"]
+images = ["/images/team_working.webp"]
 template = "images-block"
 text = ""
 

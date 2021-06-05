@@ -10,7 +10,7 @@ header:
     text: GOAT testen
     url: "/goatlive/"
   background: default
-  background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
+  background_image: "/images/title_street.webp"
 blocks:
 - template: card-block
   block: card
@@ -20,7 +20,7 @@ blocks:
     Radverkehr begleiten wir die Stadt- und Verkehrsplanung, sowie die Standortentwicklung,
     in eine offenere, spaßigere und effizientere Zukunft.
   heading: Spielwiese zur Gestaltung lebenswerter Räume
-  image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
+  image: "/images/team_working.webp"
   video: ''
   background_image: "/images/bg-4.svg"
 - template: features-block

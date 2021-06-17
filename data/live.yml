@@ -39,6 +39,15 @@
     de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Freising.
   url: https://freising.open-accessibility.org/
   comments: Freising
+- image: "/images/freiburg.webp"
+  title:
+    en: Freiburg
+    de: Freiburg
+  text:
+    en: This version was developed within the MobiDataBW innovation phase and contains new walkability analysis.
+    de: Diese Version ist im Rahmen der MobiDataBW-Innovationsphase entstanden und enthält neue Analysen zur Walkability.
+  url: https://freiburg.open-accessibility.org/
+  comments: Freiburg
 - image: "/images/spgg.webp"
   title:
     en: San Pedro Garza García

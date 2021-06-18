@@ -13,17 +13,17 @@ In addition this can be adjusted when setting up the application. Depending on t
 When setting up your own GOAT version, the available routing profiles and according default speeds can be adjusted in configuration files when setting up GOAT. However, the speed can be adjusted directly in the user interface.
 
 #### Walking
-<b>Standard<b>
+<b>Standard</b>
 
 Default routing profile for walking, considering all path accessible by foot.
 
 Default walking speed: 5km/h
 
-<b>Elderly<b>
+<b>Elderly</b>
 
 Same as the standard routing profile, but with a reduced walking speed of 3 km/h. 
 
-<b>Safe-night<b>
+<b>Safe-night</b>
 
 The safe-routing excludes all non-illuminated paths. The idea behind this routing profile is to model changes in accessibility over time. Some paths, for example through green areas, are pretty attractive during the day, but as soon as the sun goes down and these paths are not illuminated, they become unattractive to many users. With this safe-night routing option, deficiencies in the illuminated path-network can be found and paths that have an important connection function but are not illuminated can be identified.
 
@@ -41,7 +41,7 @@ This routing profile is only enabled for study areas with very good data on illu
 
 
 #### Cycling
-<b>Standard<b>
+<b>Standard</b>
 
 Default routing profile for cycling, considering all paths accessible by bicycle. 
 
@@ -49,7 +49,7 @@ Default cycling speed: 15km/h
 
 Depending on the surface, smoothness and slope of the different street segments, the cycling speed is adjusted accordingly. 
 
-<b>Pedelec<b>
+<b>Pedelec</b>
 
 Same as the standard routing profile, but with an increased cycling speed of 23 km/h. 
 

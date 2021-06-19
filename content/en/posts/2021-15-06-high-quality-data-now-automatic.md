@@ -17,19 +17,19 @@ draft: false
 
 One of the key challenges of building a planning instrument such as GOAT is the availability and the quality of the data used for the calculations. As you may know, one of the data sources we use to solve this problem is [Mapillary](https://www.mapillary.com/). 
 
-Mapillary is a platform through which image sequences of the streetscape can be captured and shared with the open community. Valuable data can be extracted from these image captures. 
+Mapillary is a platform through which image sequences of the street scape can be captured and shared with the open community. From these images, valuable data can be extracted. 
 
-Our story with Mapillary began in March 2020, [when we completely mapped Fürstenfeldbruck](https://www.open-accessibility.org/mapillary/ "Fürstenfeldbruck in Mapillary"), a town 10 km west of Munich. Since then, we have been using the image sequences collected from us and other users to improve the data relevant to our analysis. Until now, all the steps (analysis of the images, object detection, saving the information read out, etc.) were done completely manually.
+Our story with Mapillary began in March 2020, [when we completely mapped Fürstenfeldbruck](https://www.open-accessibility.org/mapillary/ "Fürstenfeldbruck in Mapillary"), a town 10 km west of Munich. Since then, we have been using the image sequences collected from us and other users to improve the data that is relevant for our analyses. Until now, all the steps (analysis of the images, object detection, saving the gained information, etc.) were done completely manually.
 
 We follow Mapillary’s Blog, and on 24 august 2020, they posted “[Mapillary map features now available globally in OpenStreetMap](https://blog.mapillary.com/update/2020/08/24/global-map-features-openstreetmap.html)”. After reading the updates, we didn’t wait to try out the new features. With the following example, we would like to show how it had helped us.
 
 ## Mapillary plug-in for JOSM
 
-This is an experience report of mapping and updating the pedestrian crossings in Fürstenfeldbruck. First, we got the base layer of crossings from [overpass-turbo.eu](https://www.overpass-turbo.eu). This layer included all crossings mapped in [OpenStreetMap](https://www.openstreetmap.org/#map=5/50.151/9.539) (OSM), so the idea was to compare them with the crossings identified by Mapillary’s AI object detection algorithm.
+This is an experience report of mapping and updating the pedestrian crossings in Fürstenfeldbruck. First, we got the base layer of crossings from [overpass-turbo](https://www.overpass-turbo.eu). This layer included all crossings mapped in [OpenStreetMap](https://www.openstreetmap.org/#map=5/50.151/9.539) (OSM), so the idea was to compare them with the crossings identified by Mapillary’s AI object detection algorithm.
 
-For this analysis, we used [JOSM](https://josm.openstreetmap.de/). It is an OSM extensible editor for desktop, that allows very easily, and highly scalable, to edit features and attributes of the data. Via the [Mapillary-Plugin](https://help.mapillary.com/hc/en-us/articles/115001739989-Mapillary-JOSM-plugin) it is now possible to display the crosswalks and their location detected from the Mapillary images in JOSM.
+For this analysis, we used [JOSM](https://josm.openstreetmap.de/). It is an extensible OSM editor for desktop, that allows very easily, and highly scalable, to edit features and attributes of the data. Via the [Mapillary-Plugin](https://help.mapillary.com/hc/en-us/articles/115001739989-Mapillary-JOSM-plugin) it is now possible to display the crosswalks and their location detected from the Mapillary images in JOSM.
 
-In addition, the street view feature helps verify the physical attributes of the infrastructure and the accuracy of the position of objects (e.g., traffic signs, lane markings). In the case of a crosswalk, we are particularly interested in attributes such as barrier-free access and the type of crossing (traffic light, crosswalk, refugee island, etc.). This information can be taken from the images and accordingly the OSM tags of the existing infrastructure can be enriched.
+In addition, the street view feature helps to verify the physical attributes of the infrastructure and the accuracy of the position of objects (e.g., traffic signs, lane markings). In the case of a crosswalk, we are particularly interested in attributes such as freedom-of-barriers and the type of crossing (traffic light, crosswalk, refugee island, etc.). This information can be derived from the images and accordingly the OSM tags of the existing infrastructure can be enriched.
 
 ![Same signs in different identified in different locations by Mapillary.](/images/blog/high_data_quality/mapillary_fig1.webp "Mapillary locations")_Figure 1 Two sequences identifying the same signs in different locations_
 
@@ -56,9 +56,9 @@ As a result, as shown on the map Figure 2, it is also possible to identify stree
 
 Either way, we went even further! We did not want to analyze only one neighborhood in Munich. We wanted to capture the entire city, or even extend to [other cities where GOAT is currently in use](../../goatlive/). Our first challenge was to call the API for larger areas.
 
-To overcome it, we developed a function to divide the area into a grid of smaller squares. The function also incorporates tiny time breaks in between the squares, so we would not overload the servers. Afterward, we join the extracted information from all the squares into a single .json file.
+To overcome it, we developed a function to divide the area into a grid of smaller squares. The function also incorporates tiny time breaks in between the squares, so we would not overload the servers. Afterward, we join the extracted information from all the squares into a single JSON file.
 
-The second challenge was related to the parameter for the API. Depending on the data required, the API needs a different set of parameters that has to be changed manually. To solve it, we filtered our own library of objects from the complete list of the [Mapillary API Documentation](https://www.mapillary.com/developer/api-documentation/), this filtered library is within a yaml file, which has all the parameters required for the API.
+The second challenge was related to the parameter for the API. Depending on the data required, the API needs a different set of parameters that has to be changed manually. To solve it, we filtered our own library of objects from the complete list of the [Mapillary API Documentation](https://www.mapillary.com/developer/api-documentation/), this filtered library is within a YAML file, which has all the parameters required for the API.
 
 Now, in a single run, the script can call multiple objects either from the Object detection API or the Map Features API. For a deeper understanding, we invite you to take a look into our work, in our [GitHub repo](https://github.com/goat-community/mapillary-api). Finally, the idea is to set these functions into a Lambda function on Amazon Web Services (AWS) with temporal and event triggers.
 

@@ -64,7 +64,9 @@ Now, in a single run, the script can call multiple objects either from the Objec
 
 ## Making use of the data
 
-And how are we going to use this information? For accessibility and walkability analysis. Let's assume we are analyzing perceived walking accessibility in a neighborhood at night. In this type of analysis, we are interested in factors that influence the attractiveness of walking. In this case, that would be lighting. We can retrieve this information, represented by the presence of streetlights, through the Mapillary API, improving the accuracy of the analyses.
+And how are we going to use this information? For accessibility and walkability analysis. Currently, we have used the data from Mapillary to obtain a better data basis for the [Walkability Index](/posts/2021-04-06-walkability-index/) and in this course we have collected more than 20,000 images in the city of Freiburg.
+
+But there are also many other potential applications. Let's assume we are analyzing perceived walking accessibility in a neighborhood at night. In this type of analysis, we are interested in factors that influence the attractiveness of walking. In this case, that would be lighting. We can retrieve this information, represented by the presence of streetlights, through the Mapillary API, improving the accuracy of the analyses.
 
 Another use case could be the improvement of urban green in a city. With the object detection function it is possible to identify on which streets there is no or little vegetation. These street sections can thus be prioritized in the identification of measures and suitable locations for new trees or facade greening can be found there. 
 

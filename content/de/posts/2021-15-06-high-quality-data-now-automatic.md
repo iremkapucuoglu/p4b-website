@@ -66,7 +66,9 @@ Unser nächstes Ziel besteht darin, diese Funktionen in eine Lambda-Funktion in 
 
 ## Nutzung der Daten
 
-Und wie werden wir Informationen nutzen? Zur Analyse der Erreichbarkeit! Nehmen wir an, wir analysieren die empfundene fußläufige Erreichbarkeit in einer Nachbarschaft bei Nacht. Bei dieser Art der Analyse interessieren uns Faktoren, die die Attraktivität des Zufußgehens beeinflussen. In diesem Fall wäre dies die Beleuchtung. Diese Informationen können wir, repräsentiert durch das Vorhandensein von Straßenlaternen, durch die Mapillary API abrufen und somit die Genauigkeit der Analysen verbessern.
+Und wie nutzen wir diese Informationen? Zur Analyse der Erreichbarkeit und Beurteilung des Gehkomforts! Aktuell haben wir die Daten aus Mapillary genutzt, um eine bessere Datengrundlage für den [Walkability Index](/de/posts/2021-04-06-walkability-index/) zu erlangen und in diesem Zuge über 20.000 Bilder in der Stadt Freiburg erfasst.
+
+Doch es gibt auch noch viele weitere Einsatzmöglichkeiten. Nehmen wir an, wir analysieren die empfundene fußläufige Erreichbarkeit in einer Nachbarschaft bei Nacht. Bei dieser Art der Analyse interessieren uns Faktoren, die die Attraktivität des Zufußgehens beeinflussen. In diesem Fall wäre dies die Beleuchtung. Diese Informationen können wir, repräsentiert durch das Vorhandensein von Straßenlaternen, durch die Mapillary API abrufen und somit die Genauigkeit der Analysen verbessern.
 
 Ein anderer Anwendungsfall könnte die Verbesserung von urbanem Grün in einer Stadt sein. Mit der Objekterkennungsfunktion ist es möglich, zu identifizieren, auf welchen Straßen keine bzw. wenig Vegetation vorhanden ist. Diese Straßenabschnitte können somit bei der Maßnahmenfindung priorisiert werden und dort geeignete Standorte für neue Bäume oder eine Fasadenbegrünung gefunden werden. 
 

@@ -15,7 +15,7 @@ translationKey: ""
 
 Eine der wichtigsten Herausforderungen beim Aufbau eines Planungsinstruments wie GOAT, ist die Verfügbarkeit und Qualität der verwendeten Daten. Wie Sie vielleicht wissen, verwenden wir u.a. [Mapillary](https://www.mapillary.com/) zur Lösung dieses Problems.
 
-Mapillary ist eine Plattform, über die Bildsequenzen des Straßenraums aufgenommen und mit der open Community geteilt werden können. Aus diesen Bildaufnahmen können wertvolle Daten ausgelesen werden. 
+Mapillary ist eine Plattform, über die Bildsequenzen des Straßenraums aufgenommen und mit der Community offen geteilt werden können. Aus diesen Bildaufnahmen können wertvolle Daten ausgelesen werden. 
 
 Unsere Geschichte mit Mapillary begann im März 2020, als wir [Fürstenfeldbruck vollständig kartiert haben](https://www.open-accessibility.org/de/mapillary/ "https://www.open-accessibility.org/de/mapillary/"). Seitdem verwenden wir die von uns und anderen Nutzern erhobenen Bildsequezen zur Verbesserung der Daten, die für unsere Analyse relevant sind. Bis dato wurden alle Schritte (Analyse der Bilder, Objekterkennung, Speichern der ausgelesenen Informationen, etc.) komplett manuell durchgeführt.
 
@@ -62,8 +62,6 @@ Diese individualisierte Bibliothek befindet sich in einer YAML-Datei und enthäl
 
 Alle hierzu entwickelten Skript sind in unserem [GitHub-Repo](https://github.com/goat-community/mapillary-api "https://github.com/goat-community/mapillary-api") zu finden. 
 
-Unser nächstes Ziel besteht darin, diese Funktionen in eine Lambda-Funktion in Amazon Web Services (AWS) mit zeitlichem Ereignisauslösern zu implementieren.
-
 ## Nutzung der Daten
 
 Und wie nutzen wir diese Informationen? Zur Analyse der Erreichbarkeit und Beurteilung des Gehkomforts! Aktuell haben wir die Daten aus Mapillary genutzt, um eine bessere Datengrundlage für den [Walkability Index](/de/posts/2021-04-06-walkability-index/) zu erlangen und in diesem Zuge über 20.000 Bilder in der Stadt Freiburg erfasst.
@@ -71,6 +69,3 @@ Und wie nutzen wir diese Informationen? Zur Analyse der Erreichbarkeit und Beurt
 Doch es gibt auch noch viele weitere Einsatzmöglichkeiten. Nehmen wir an, wir analysieren die empfundene fußläufige Erreichbarkeit in einer Nachbarschaft bei Nacht. Bei dieser Art der Analyse interessieren uns Faktoren, die die Attraktivität des Zufußgehens beeinflussen. In diesem Fall wäre dies die Beleuchtung. Diese Informationen können wir, repräsentiert durch das Vorhandensein von Straßenlaternen, durch die Mapillary API abrufen und somit die Genauigkeit der Analysen verbessern.
 
 Ein anderer Anwendungsfall könnte die Verbesserung von urbanem Grün in einer Stadt sein. Mit der Objekterkennungsfunktion ist es möglich, zu identifizieren, auf welchen Straßen keine bzw. wenig Vegetation vorhanden ist. Diese Straßenabschnitte können somit bei der Maßnahmenfindung priorisiert werden und dort geeignete Standorte für neue Bäume oder eine Fasadenbegrünung gefunden werden. 
-
-
-

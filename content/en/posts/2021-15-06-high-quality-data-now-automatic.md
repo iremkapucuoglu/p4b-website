@@ -60,7 +60,7 @@ To overcome it, we developed a function to divide the area into a grid of smalle
 
 The second challenge was related to the parameter for the API. Depending on the data required, the API needs a different set of parameters that has to be changed manually. To solve it, we filtered our own library of objects from the complete list of the [Mapillary API Documentation](https://www.mapillary.com/developer/api-documentation/), this filtered library is within a YAML file, which has all the parameters required for the API.
 
-Now, in a single run, the script can call multiple objects either from the Object detection API or the Map Features API. For a deeper understanding, we invite you to take a look into our work, in our [GitHub repo](https://github.com/goat-community/mapillary-api). Finally, the idea is to set these functions into a Lambda function on Amazon Web Services (AWS) with temporal and event triggers.
+Now, in a single run, the script can call multiple objects either from the Object detection API or the Map Features API. For a deeper understanding, we invite you to take a look into our work, in our [GitHub repo](https://github.com/goat-community/mapillary-api).
 
 ## Making use of the data
 

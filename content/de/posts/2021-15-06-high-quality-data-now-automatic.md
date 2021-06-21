@@ -37,7 +37,7 @@ Trotz der noch notwendigen manuellen Überprüfung erleichterte das Plug-In in J
 
 ## Mapillary API: Bildsegmentierung und Objekterkennung
 
-Schon bald nach dem Ausprobieren der Mapillary-Updates, wurde für OSM, am 28. August 2020, eine weitere Funktion veröffentlicht: “[Global access to map data with the Mapillary API](https://blog.mapillary.com/update/2020/08/28/map-data-mapillary-api.html)”. Dies war der erste Schritt zur Automatisierung der Datenerfassung.
+Schon bald nach dem Ausprobieren des JOSM Plug-ins, wurde am 28. August 2020, eine weitere Funktion veröffentlicht: “[Global access to map data with the Mapillary API](https://blog.mapillary.com/update/2020/08/28/map-data-mapillary-api.html)”. Dies war der erste Schritt zur Automatisierung der Datenerfassung.
 
 Zunächst eine kleine Erklärung zur Funktionsweise der API. Diese bietet drei Möglichkeiten, auf die Daten zuzugreifen: 
 1. _[Images API](https://www.mapillary.com/developer/api-documentation/#images):_ liefert alle Bilder innerhalb eines definierten Bereichs (innerhalb einer Bounding Box oder eines Radius um einen Punkt).

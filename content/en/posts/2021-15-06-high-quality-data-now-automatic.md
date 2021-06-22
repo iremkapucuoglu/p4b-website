@@ -7,7 +7,7 @@ date: 2021-05-15T13:00:00.000+00:00
 description: ''
 image: "/images/blog/high_data_quality/mapillary_banner.webp"
 summary: The Mapillary API is the first step towards automating data collection through automated image recognition and image segmentation. We use this data in GOAT to improve the data basis of our analyses.
-thumbnail: "/images/mapillary_thumbnail.webp"
+thumbnail: "/images/blog/high_data_quality/mapillary_thumbnail.webp"
 title: High quality data, now automatic
 translationKey: ''
 draft: false

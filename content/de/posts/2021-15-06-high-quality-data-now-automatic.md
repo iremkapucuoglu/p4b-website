@@ -36,7 +36,7 @@ Die Street-View-Funktion hilft dabei, die physischen Eigenschaften der Infrastru
 
 Ein teilweise auftretendes Problem ist, dass ein Verkehrszeichen oftmals von mehreren Bildsequenzen erkannt und jeweils an unterschiedlichen Positionen lokalisiert wird (siehe Abbildung 1). Hier zeigt die blaue Sequenz, dass sich die Schilder nach der Rechtskurve (aus Nordosten kommend) befinden, in Wirklichkeit befinden sie sich aber vor der Kurve. In diesem Fall hat die grüne Sequenz sie an einer genaueren Position lokalisiert.
 
-Trotz der noch notwendigen manuellen Überprüfung erleichterte das Plug-In in JOSM die Auswertung der Bilddaten.
+Trotz der noch notwendigen manuellen Überprüfung erleichterte das Plug-in in JOSM die Auswertung der Bilddaten.
 
 ## Mapillary API: Bildsegmentierung und Objekterkennung
 

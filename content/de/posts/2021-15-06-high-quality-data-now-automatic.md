@@ -1,25 +1,28 @@
 ---
 author: ramirez
-categories: ["Entwicklung", "Daten"]
-date:  2021-05-15T13:00:00.000+00:00
-description: ""
+categories:
+- Entwicklung
+- Daten
+date: 2021-05-15T13:00:00.000+00:00
+description: ''
 image: "/images/blog/high_data_quality/mapillary_banner.webp"
-draft: false
-summary: "Mit der Mapillary API erfolgt der erste Schritt Richtung Automatisierung der Datenerfassung durch die automatische Bilderkennung und Bildsegmentierung. Diese Daten verwendet wir in GOAT zur Verbesserung der Datengrundlage unserer Analysen."
+summary: Mit der Mapillary API erfolgt der erste Schritt Richtung Automatisierung
+  der Datenerfassung durch die automatische Bilderkennung und Bildsegmentierung. Diese
+  Daten verwendet wir in GOAT zur Verbesserung der Datengrundlage unserer Analysen.
 thumbnail: "/images/blog/high_data_quality/mapillary_thumbnail.webp"
-title: "Automatisierte Bilderkennung"
-translationKey: ""
+title: Automatisierte Bilderkennung
+translationKey: ''
 
 ---
 ## Datenherausforderung
 
-Eine der größten Herausforderungen beim Aufbau eines Planungsinstruments wie GOAT, ist die Verfügbarkeit und Qualität der verwendeten Daten. GOAT basiert zum Großteil auf Daten von [OpenStreetMap](https://www.openstreetmap.org/#map=5/50.151/9.539), diese stehen jedoch nicht überall in ausreichender Detailgenauigkeit zur Verfügung. 
+Eine der größten Herausforderungen beim Aufbau eines Planungsinstruments wie GOAT, ist die Verfügbarkeit und Qualität der verwendeten Daten. GOAT basiert zum Großteil auf Daten von [OpenStreetMap](https://www.openstreetmap.org/#map=5/50.151/9.539), diese stehen jedoch nicht überall in ausreichender Detailgenauigkeit zur Verfügung.
 
-Um die Datenlücken in OSM zu schließen, verwenden wir u.a. [Mapillary](https://www.mapillary.com/). Mapillary ist eine Plattform, über die Bildsequenzen des Straßenraums aufgenommen und mit der Community offen geteilt werden können. Aus diesen Bildaufnahmen können außerdem zahlreiche Daten ausgelesen werden. 
+Um die Datenlücken in OSM zu schließen, verwenden wir u.a. [Mapillary](https://www.mapillary.com/). Mapillary ist eine Plattform, über die Bildsequenzen des Straßenraums aufgenommen und mit der Community offen geteilt werden können. Aus diesen Bildaufnahmen können außerdem zahlreiche Daten ausgelesen werden.
 
-Unsere Geschichte mit Mapillary begann im März 2020, als wir [Fürstenfeldbruck kartiert haben](https://www.open-accessibility.org/de/mapillary/ "https://www.open-accessibility.org/de/mapillary/"). Seitdem verwenden wir die von uns und anderen Nutzern erhobenen Bildsequezen zur Verbesserung der Daten, die für unsere Analyse relevant sind. Bis dato wurden alle Schritte (Analyse der Bilder, Objekterkennung, Speichern der ausgelesenen Informationen, etc.) komplett manuell durchgeführt.
+Unsere Geschichte mit Mapillary begann im März 2020, als wir [Fürstenfeldbruck kartiert haben](https://www.open-accessibility.org/de/mapillary/ "https://www.open-accessibility.org/de/mapillary/"). Seitdem verwenden wir die von uns und von anderen Nutzern erhobenen Bildsequenzen zur Verbesserung der Daten, die für unsere Analyse relevant sind. Bis dato wurden alle Schritte (Analyse der Bilder, Objekterkennung, Speichern der ausgelesenen Informationen, etc.) komplett manuell durchgeführt.
 
-Wir als regelmäßige Mapillary Nutzer sind natürlich auch Leser des Mapillary-Blogs. Am 24. August 2020 wurde dort der Beitrag “[Mapillary map features now available globally in OpenStreetMap](https://blog.mapillary.com/update/2020/08/24/global-map-features-openstreetmap.html)” veröffentlicht. Nachdem wir die Updates gelesen haben, haben wir gleich die neuen Funktionen ausprobiert. 
+Wir als regelmäßige Mapillary-Nutzer sind natürlich auch Leser des Mapillary-Blogs. Am 24. August 2020 wurde dort der Beitrag “[Mapillary map features now available globally in OpenStreetMap](https://blog.mapillary.com/update/2020/08/24/global-map-features-openstreetmap.html)” veröffentlicht. Nachdem wir die Updates gelesen haben, haben wir gleich die neuen Funktionen ausprobiert.
 
 ## Mapillary Plug-in für JOSM
 
@@ -31,18 +34,19 @@ Die Street-View-Funktion hilft dabei, die physischen Eigenschaften der Infrastru
 
 ![Dieselben Verkehrszeichen an unterschiedlichen Stellen geortet](/images/blog/high_data_quality/mapillary_fig1.webp "Zwei Sequenzen mit Verkehrszeichen")_Abbildung 1. Zwei Bildsequenzen, die dasselbe Verkehrszeichen an zwei verschiedenen Stellen identifizieren_
 
-Ein teilweise auftretendes Problem ist, dass ein Verkehrszeichen oftmals von mehreren Bildsequenzen erkannt und jeweils an unterschiedlichen Position lokalisiert wird (siehe Abbildung 1). Hier zeigt die blaue Sequenz, dass sich die Schilder nach der Rechtskurve (aus Nordosten kommend) befinden, in Wirklichkeit befinden sie sich aber vor der Kurve. In diesem Fall hat die grüne Sequenz sie an einer genaueren Position lokalisiert.
+Ein teilweise auftretendes Problem ist, dass ein Verkehrszeichen oftmals von mehreren Bildsequenzen erkannt und jeweils an unterschiedlichen Positionen lokalisiert wird (siehe Abbildung 1). Hier zeigt die blaue Sequenz, dass sich die Schilder nach der Rechtskurve (aus Nordosten kommend) befinden, in Wirklichkeit befinden sie sich aber vor der Kurve. In diesem Fall hat die grüne Sequenz sie an einer genaueren Position lokalisiert.
 
-Trotz der noch notwendigen manuellen Überprüfung erleichterte das Plug-In in JOSM die Auswertung der Bilddaten. 
+Trotz der noch notwendigen manuellen Überprüfung erleichterte das Plug-In in JOSM die Auswertung der Bilddaten.
 
 ## Mapillary API: Bildsegmentierung und Objekterkennung
 
-Schon bald nach dem Ausprobieren des JOSM Plug-ins, wurde am 28. August 2020 eine weitere Funktion veröffentlicht: “[Global access to map data with the Mapillary API](https://blog.mapillary.com/update/2020/08/28/map-data-mapillary-api.html)”. Dies war der erste Schritt zur Automatisierung der Datenerfassung. 
+Schon bald nach dem Ausprobieren des JOSM Plug-ins, wurde am 28. August 2020 eine weitere Funktion veröffentlicht: “[Global access to map data with the Mapillary API](https://blog.mapillary.com/update/2020/08/28/map-data-mapillary-api.html)”. Dies war der erste Schritt zur Automatisierung der Datenerfassung.
 
-Die API bietet drei Möglichkeiten, auf die Bilddaten und die daraus extrahierten Informationen zuzugreifen: 
-1. _[Images API](https://www.mapillary.com/developer/api-documentation/#images):_ liefert alle Bilder innerhalb eines definierten Bereichs (innerhalb einer Bounding Box oder eines Radius um einen Punkt).
-2. _[Object Detection API](https://help.mapillary.com/hc/en-us/articles/115000967191-Object-detections):_ liefert pro Bild die Segmentierung der darauf zu erkennenden Elemente (z.B. Vegetation, Straße, Häuser). 
-3. _[Map Features API](https://www.mapillary.com/developer/api-documentation/#map-features):_ liefert die aus mehreren Bildern extrahierte Position von Objekten (z.B. Ampel, Fahrradständer, Verkehrsschilder) als Punkt-Features.
+Die API bietet drei Möglichkeiten, auf die Bilddaten und die daraus extrahierten Informationen zuzugreifen:
+
+1. [_Images API_](https://www.mapillary.com/developer/api-documentation/#images)_:_ liefert alle Bilder innerhalb eines definierten Bereichs (innerhalb einer Bounding Box oder eines Radius um einen Punkt).
+2. [_Object Detection API_](https://help.mapillary.com/hc/en-us/articles/115000967191-Object-detections)_:_ liefert pro Bild die Segmentierung der darauf zu erkennenden Elemente (z.B. Vegetation, Straße, Häuser).
+3. [_Map Features API_](https://www.mapillary.com/developer/api-documentation/#map-features)_:_ liefert die aus mehreren Bildern extrahierte Position von Objekten (z.B. Ampel, Fahrradständer, Verkehrsschilder) als Punkt-Features.
 
 ![Segmentierung von Maxvorstadt in Mapillary](/images/blog/high_data_quality/mapillary_fig2.webp "Maxvorstadt")_Abbildung 2: Segmentierung von Maxvorstadt über den Object Detection Algorithmus von Mapillary_
 
@@ -58,9 +62,9 @@ Um den Server nicht zu überlasten, haben wir eine kurze Zeitpause zwischen der 
 
 Die zweite Herausforderung bezog sich auf die Parameter für die API. Je nach benötigten Daten, erfordert die API einen anderen Satz von Parametern, der manuell festgelegt werden muss. Um dies zu lösen, haben wir unsere eigene Objektbibliothek aus der vollständigen Liste der Objekte der [Mapillary API-Dokumentation](https://www.mapillary.com/developer/api-documentation/ "https://www.mapillary.com/developer/api-documentation/") zusammengestellt.
 
-Diese individualisierte Bibliothek befindet sich in einer YAML-Datei und enthält alle für die API erforderlichen Parameter. Somit kann das Skript in einem einzigen Durchlauf mehrere Objekte entweder über die „Object Detection API“ oder die „Map-Features-API“ abrufen.
+Diese individualisierte Bibliothek befindet sich in einer YAML-Datei und enthält alle für die API erforderlichen Parameter. Somit kann das Skript in einem einzigen Durchlauf mehrere Objekte, entweder über die „Object Detection API“ oder die „Map-Features-API“, abrufen.
 
-Alle hierzu entwickelten Skript sind in unserem [GitHub-Repo](https://github.com/goat-community/mapillary-api "https://github.com/goat-community/mapillary-api") zu finden. 
+Alle hierzu entwickelten Skripte sind in unserem [GitHub-Repo](https://github.com/goat-community/mapillary-api "https://github.com/goat-community/mapillary-api") zu finden.
 
 ## Nutzung der Daten
 
@@ -68,5 +72,4 @@ Und wie nutzen wir diese Informationen? Zur Analyse der Erreichbarkeit und Beurt
 
 Doch es gibt auch noch viele weitere Einsatzmöglichkeiten. Nehmen wir an, wir analysieren die empfundene fußläufige Erreichbarkeit in einer Nachbarschaft bei Nacht. Hierfür interessieren uns Faktoren, die die Attraktivität des Zufußgehens beeinflussen. In diesem Fall wäre dies v.a. die Beleuchtung. Diese Informationen können wir, repräsentiert durch das Vorhandensein von Straßenlaternen, durch die Mapillary API abrufen und somit die Genauigkeit der Analysen verbessern.
 
-Ein anderer Anwendungsfall könnte die Analyse des Parkangebots in einer Stadt sein. Mit der Objekterkennungsfunktion ist es möglich, parkende Autos am Straßenrand zu identifizieren. Straßenabschnitte mit einem besonders hohen Anteil an Parkfläche können somit aufgezeigt und zu lebenswerteren Räumen umgestaltet werden. 
-
+Ein anderer Anwendungsfall könnte die Analyse des Parkangebots in einer Stadt sein. Mit der Objekterkennungsfunktion ist es möglich, parkende Autos am Straßenrand zu identifizieren. Straßenabschnitte mit einem besonders hohen Anteil an Parkfläche können somit aufgezeigt und zu lebenswerteren Räumen umgestaltet werden.

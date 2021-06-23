@@ -4,7 +4,7 @@ categories: ["Entwicklung", "Daten"]
 date:  2021-05-15T13:00:00.000+00:00
 description: ""
 image: "/images/blog/high_data_quality/mapillary_banner.webp"
-draft: false
+draft: true
 summary: "Mit der Mapillary API erfolgt der erste Schritt Richtung Automatisierung der Datenerfassung durch die automatische Bilderkennung und Bildsegmentierung. Diese Daten verwendet wir in GOAT zur Verbesserung der Datengrundlage unserer Analysen."
 thumbnail: "/images/blog/high_data_quality/mapillary_thumbnail.webp"
 title: "Automatisierte Bilderkennung"

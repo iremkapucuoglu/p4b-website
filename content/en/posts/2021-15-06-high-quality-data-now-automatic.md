@@ -10,7 +10,7 @@ summary: The Mapillary API is the first step towards automating data collection 
 thumbnail: "/images/blog/high_data_quality/mapillary_thumbnail.webp"
 title: High quality data, now automatic
 translationKey: ''
-draft: false
+draft: true
 
 ---
 ## The data challenge

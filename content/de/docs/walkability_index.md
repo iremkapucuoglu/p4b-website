@@ -7,18 +7,18 @@ weight: 80
 
 ---
 
-Within the project [WALKIE](../../posts/2021-04-06-walkability-index/), we developed a Walkability Index that shows how attractive paths are for pedestrians. This index can be used to identify shortcoming in the local walking path network. 
+Im Rahmen des Projekts [WALKIE](../../posts/2021-04-06-walkability-index/) haben wir einen Walkability-Index entwickelt, der aufzeigt, wie attraktiv Wege für Fußgänger sind. Dieser Index kann verwendet werden, um Defizite im lokalen Fußwegenetz zu identifizieren. 
 
-The Walkability Index consists of 22 items, that are clustered in 6 categories:
+Der Walkability-Index besteht aus 22 Objekten, die in 6 Kategorien zusammengefasst sind:
 
-![Items and weights of the Walkability Index](/images/docs/walkability_index/indicators_en.png "Walkability indicators and weighting factors")
+![Objekte und Gewichtung des Walkability Index](/images/docs/walkability_index/indicators.png "Walkability Objekte and Gewichtungsfaktoren")
 
-The weighting of the items is done based on several scientific studies (references listed below) and according to the data availability. For some items (e.g. sidewalk width), data availability in Open Data sources, such as OSM, is very limited. Therefore, these items are excluded from the index calculation. 
+Die Gewichtung der Objekte erfolgte auf der Grundlage verschiedener wissenschaftlicher Studien (Referenzen siehe unten) und entsprechend der Datenverfügbarkeit. Für einige Objekte (z.B. Gehwegbreite) ist die Datenverfügbarkeit in Open-Data-Quellen, wie OSM, aktuell noch sehr limitiert. Daher werden diese Objekte von der Indexberechnung ausgeschlossen. 
 
-Also after omitting these items, not all the information to be included in the index is available for all paths. If information is missing for one item or a whole category, it is therefore omitted and the other items or categories are given a higher weighting. 
+Auch nach dem Ausschluss dieser Objekte sind nicht alle Informationen, die im Index beinhaltet sind, für alle Wege verfügbar. Wenn Informationen für ein Objekt oder eine ganze Kategorie fehlen, wird diese daher weggelassen und die anderen Objekte oder Kategorien werden höher gewichtet. 
 
 
-### References
+### Referenzen
 
  Ivan Blečić, Arnaldo Cecchini, Tanja Congiu, Giovanna Fancello & Giuseppe A. Trunfio (2015) Evaluating walkability: a capability-wise planning and design support system. International Journal of Geographical Information Science. 29:8. 1350-1374. DOI: 10.1080/13658816.2015.1026824 
 

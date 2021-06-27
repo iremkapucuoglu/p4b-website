@@ -16,11 +16,11 @@ translationKey: ''
 ---
 ## The data challenge
 
-One of the key challenges of building a planning instrument such as GOAT is the availability and the quality of the data used for the calculations. GOAT is largely based on the data from [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=5/50.151/9.539), but these are not available in sufficient detail everywhere.
+One of the key challenges of building a planning instrument such as GOAT is the availability and the quality of the data used for the calculations. GOAT is largely based on the data from [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=5/50.151/9.539), which is not available in sufficient detail everywhere.
 
 We utilize, among others, [Mapillary](https://www.mapillary.com/) to fill the data gaps in OSM. Mapillary is a platform through which image sequences of the streetscape can be captured and shared with the open community. From these images, valuable data can be extracted.
 
-Our story with Mapillary began in March 2020, [when we completely mapped Fürstenfeldbruck](https://www.open-accessibility.org/mapillary/ "Fürstenfeldbruck in Mapillary"), a town 10 km west of Munich. Since then, we have been using the image sequences collected from us and other users to improve the data that is relevant for our analyses. Until now, all the steps (analysis of the images, object detection, saving the gained information, etc.) were done completely manually.
+E.g., in early 2020, [we completely mapped Fürstenfeldbruck in Mapillary](https://www.open-accessibility.org/mapillary/ "Fürstenfeldbruck in Mapillary"), a town 10 km west of Munich. We are using the image sequences collected from us and other users to improve the data that is relevant for our analyses. Until last year, all the steps (analysis of the images, object detection, saving the gained information, etc.) were done manually.
 
 As frequent Mapillary users, we follow Mapillary’s Blog, and on 24 august 2020, they posted “[Mapillary map features now available globally in OpenStreetMap](https://blog.mapillary.com/update/2020/08/24/global-map-features-openstreetmap.html)”. After reading the updates, we didn’t wait to try out the new features. With the following example, we would like to show how it had helped us.
 
@@ -28,9 +28,9 @@ As frequent Mapillary users, we follow Mapillary’s Blog, and on 24 august 2020
 
 This is an experience report of mapping and updating the pedestrian crossings in Fürstenfeldbruck. First, we got the base layer of crossings from [overpass-turbo](https://www.overpass-turbo.eu). This layer included all crossings mapped in OSM, so the idea was to compare them with the crossings identified by Mapillary’s AI object detection algorithm.
 
-For this analysis, we used [JOSM](https://josm.openstreetmap.de/). It is an extensible OSM editor for desktop, that allows very easily, and highly scalable, to edit features and attributes of the data. Via the [Mapillary-Plugin](https://help.mapillary.com/hc/en-us/articles/115001739989-Mapillary-JOSM-plugin) it is now possible to display the crosswalks and their location detected from the Mapillary images in JOSM.
+For this analysis, we used [JOSM](https://josm.openstreetmap.de/). It is an extensible OSM editor for the desktop, that allows very easily, and highly scalable, to edit features and attributes of the data. Via the [Mapillary-Plugin](https://help.mapillary.com/hc/en-us/articles/115001739989-Mapillary-JOSM-plugin) it is now possible to display the crosswalks and their location detected from the Mapillary images in JOSM.
 
-In addition, the street view feature helps to verify the physical attributes of the infrastructure and the accuracy of the position of objects (e.g., traffic signs, lane markings). In the case of a crosswalk, we are particularly interested in attributes such as freedom-of-barriers and the type of crossing (traffic light, crosswalk, refugee island, etc.). This information can be derived from the images and accordingly, the OSM tags of the existing infrastructure can be enriched. Likewise, missing objects in the OSM can be identified and added after data validation.
+In addition, the street view feature helps to verify the physical attributes of the infrastructure and the accuracy of the position of objects (e.g., traffic signs, lane markings). In the case of a crosswalk, we are particularly interested in attributes such as freedom-of-barriers and the type of crossing (traffic light, crosswalk, refugee island, etc.). This information can be derived from the images and accordingly, the OSM tags of the existing infrastructure can be enriched. Likewise, missing objects in OSM can be identified and added after data validation.
 
 ![Same signs in different identified in different locations by Mapillary.](/images/blog/high_data_quality/mapillary_fig1.webp "Mapillary locations")_Figure 1: Two sequences identifying the same signs in different locations_
 
@@ -52,7 +52,7 @@ The API provides 3 ways to access the image data and the information extracted t
 
 One of our first uses of Mapillary’s API was to create a map of Maxvorstadt, Munich, by using different segments from the Object Detections API. In this case, we looked for images showing cars, the sky, vegetation, and sidewalks. Since Mapillary’s algorithm breaks the image into 65 classes of objects as shown in Figure 2, we extracted the images with the highest proportion of the classes of interest.
 
-As a result, as shown on the map Figure 2, it is also possible to identify streets with high vegetation, or dense parking offer. It is interesting to see how multiple streets have a high percentage of “sky”. This may be due to wide streets and large open spaces, such as around the Pinakothek, or simply because most cameras were pointing to the sky.
+As shown on the map in Figure 2, it is also possible to identify streets with high vegetation, or dense parking offer. It is interesting to see how multiple streets have a high percentage of “sky”. This may be due to wide streets and large open spaces, such as around the Pinakothek, or simply because most cameras were pointing to the sky.
 
 ## Automation algorithm
 
@@ -68,7 +68,7 @@ You can find all our scripts developed for this purpose in our [GitHub repo](htt
 
 ## Making use of the data
 
-And how are we going to use this information? For accessibility and walkability analysis. Currently, we have used the data from Mapillary to obtain a better data basis for the [Walkability Index](/posts/2021-04-06-walkability-index/) and in this course, we have collected more than 20,000 images in the city of Freiburg.
+And how are we going to use this information? For accessibility and walkability analysis. Currently, we have used the data from Mapillary to obtain a better data basis for the [Walkability Index](/posts/2021-04-06-walkability-index/) and in this course, we have collected more than 10,000 images in the city of Freiburg.
 
 But there are also many other potential applications. Let's assume we are analyzing perceived walking accessibility in a neighborhood at night. In this type of analysis, we are interested in factors that influence the attractiveness of walking. In this case, that would be the lighting. We can retrieve this information, represented by the presence of streetlights, through the Mapillary API, improving the accuracy of the analyses.
 

@@ -7,7 +7,7 @@ weight: 30
 ---
 
 
-<b>Necessary shapefile<b>
+<b>Necessary shapefile</b>
 
 study_area.shp
 
@@ -25,19 +25,19 @@ You can get administrative boundaries from different sources:
 
 Example query for requesting the city area of München in Overpass:
     
-{% raw %}
+
 ```  
 [out:json][timeout:25];
 (relation["boundary"="administrative"]["name"="München"]({{bbox}}););
 out body;>;
 out skel qt;
 ``` 
-{% endraw %}
 
 
-##### Population disaggregation
 
-<b>Custom data<b>
+### Population disaggregation
+
+<b>Custom data</b>
 
 landuse.shp (optional)
 
@@ -52,9 +52,9 @@ In general it is highly recommended to check for the data quality in your study 
 In case you need an additional landuse data source for a study area within Europe, you can check out the [Urban Atlas](https://land.copernicus.eu/local/urban-atlas/urban-atlas-2018).
 
 
-##### Census extrapolation 
+### Census extrapolation 
 
-<b>Custom data<b>
+<b>Custom data</b>
 
 census.shp
 
@@ -64,34 +64,34 @@ In the case you have census data in your study area but you know the data is out
 
 The 2011 census data for Germany can be downloaded [here](https://www.zensus2011.de/DE/Home/Aktuelles/DemografischeGrunddaten.html).
 
-##### Custom high-resolution population data 
+### Custom high-resolution population data 
 
-<b>Custom data<b>
+<b>Custom data</b>
 
 population.shp
 
 If you have population data as point source you can upload the same into the database.
 
 
-##### Filename conventions
+### Filename conventions
 
 The automated way the scripts process the data make it necessary that the your custom data is labelled correctly. It is important that the filename and certain attributes are labelled as in the following examples. It is possible to import shapefiles with additional columns however the folowing conventions must be followed.
 
 ![](/images/docs/technical_documentation/data_preparation/shapefile_study_area.png)
 
-<b>Name the file <font color="red">study_area.shp</font> and make sure the columns <font color="red">sum_pop</font> and <font color="red">name</font> are existing!<b>
+<b>Name the file <font color="red">study_area.shp</font> and make sure the columns <font color="red">sum_pop</font> and <font color="red">name</font> are existing!</b>
 
 ![](/images/docs/technical_documentation/data_preparation/shapefile_landuse.png)
 
-<b>Name the file <font color="red">landuse.shp</font> and make sure the column <font color="red">landuse</font> is existing!<b>
+<b>Name the file <font color="red">landuse.shp</font> and make sure the column <font color="red">landuse</font> is existing!</b>
 
 ![](/images/docs/technical_documentation/data_preparation/shapefile_census.png)
 
-<b>Name the file <font color="red">census.shp</font> and make sure the column <font color="red">pop</font> is existing!<b>
+<b>Name the file <font color="red">census.shp</font> and make sure the column <font color="red">pop</font> is existing!</b>
 
 ![](/images/docs/technical_documentation/data_preparation/shapefile_population.png)
 
-<b>Name the file <font color="red">population.shp</font> and make sure the column <font color="red">population</font> is existing!<b>
+<b>Name the file <font color="red">population.shp</font> and make sure the column <font color="red">population</font> is existing!</b>
 
 
 You can furthermore permanently upload additional data into your database with the command-line tools shp2pgsql or others.

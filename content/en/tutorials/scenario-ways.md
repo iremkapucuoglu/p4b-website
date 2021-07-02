@@ -32,7 +32,7 @@ How does the construction of a new bicycle bridge across the river changes acces
 
 1. Give the scenario a name and click on "OK".
 
-<img src="/images/training_materials/Scenario_building/name_scenario.webp"  alt="Name scenario" style="max-height:200px;"/>
+<img src="/images/new_bridge_scenario.webp"  alt="Name scenario" style="max-height:200px;"/>
 
 1. Select which layer you want to edit, in this case the "Ways" Layer.
 

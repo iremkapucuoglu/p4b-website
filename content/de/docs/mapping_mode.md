@@ -4,7 +4,7 @@ permalink: de/docs/mapping_mode/
 lang: de
 sections:
 - osm
-weight: 10
+weight: 20
 ---
 Welcome and thank you for your interest in contributing to the quality of open data. With this feature, we are organizing and setting the mapping tasks that are necessary to improve some of the OSM data used by the GOAT tool. The focus is on rather simple mapping tasks, such as adding attributes. This feature is available in our GOAT versions for Munich, Fürstenfeldbruck and Freising. For Freising and Fürstenfeldbruck we created as well some [MapRoulette challenges](https://maproulette.org/browse/challenges/13812) where you are highly welcome to contribute.
 

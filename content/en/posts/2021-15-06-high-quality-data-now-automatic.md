@@ -20,7 +20,7 @@ One of the key challenges of building a planning instrument such as GOAT is the 
 
 We utilize, among others, [Mapillary](https://www.mapillary.com/) to fill the data gaps in OSM. Mapillary is a platform through which image sequences of the streetscape can be captured and shared with the open community. From these images, valuable data can be extracted.
 
-E.g., in early 2020, [we completely mapped Fürstenfeldbruck in Mapillary](https://www.open-accessibility.org/mapillary/ "Fürstenfeldbruck in Mapillary"), a town 10 km west of Munich. We are using the image sequences collected from us and other users to improve the data that is relevant for our analyses. Until last year, all the steps (analysis of the images, object detection, saving the gained information, etc.) were done manually.
+E.g., in early 2020, [we completely mapped Fürstenfeldbruck in Mapillary](../2020-04-25-mapillary), a town 10 km west of Munich. We are using the image sequences collected from us and other users to improve the data that is relevant for our analyses. Until last year, all the steps (analysis of the images, object detection, saving the gained information, etc.) were done manually.
 
 As frequent Mapillary users, we follow Mapillary’s Blog, and on 24 august 2020, they posted “[Mapillary map features now available globally in OpenStreetMap](https://blog.mapillary.com/update/2020/08/24/global-map-features-openstreetmap.html)”. After reading the updates, we couldn't wait to try out the new features. With the following example, we would like to show how it had helped us.
 

@@ -20,7 +20,7 @@ Eine der größten Herausforderungen beim Aufbau eines Planungsinstruments wie G
 
 Um die Datenlücken in OSM zu schließen, verwenden wir u.a. [Mapillary](https://www.mapillary.com/). Mapillary ist eine Plattform, über die Bildsequenzen des Straßenraums aufgenommen und mit der Community offen geteilt werden können. Aus diesen Bildaufnahmen können außerdem zahlreiche Daten ausgelesen werden.
 
-Anfang 2020 haben wir [Fürstenfeldbruck mit Mapillary kartiert](https://www.open-accessibility.org/de/mapillary/ "https://www.open-accessibility.org/de/mapillary/"). Wir verwenden die von uns und von anderen Nutzern erhobenen Bildsequenzen zur Verbesserung der Daten, die für unsere Analyse relevant sind. Bis dato wurden die meisten Schritte (Analyse der Bilder, Objekterkennung, Speichern der ausgelesenen Informationen, etc.) manuell durchgeführt.
+Anfang 2020 haben wir [Fürstenfeldbruck mit Mapillary kartiert](../2020-04-25-mapillary). Wir verwenden die von uns und von anderen Nutzern erhobenen Bildsequenzen zur Verbesserung der Daten, die für unsere Analyse relevant sind. Bis dato wurden die meisten Schritte (Analyse der Bilder, Objekterkennung, Speichern der ausgelesenen Informationen, etc.) manuell durchgeführt.
 
 Wir als regelmäßige Mapillary-Nutzer sind natürlich auch Leser des Mapillary-Blogs. Am 24. August 2020 wurde dort der Beitrag “[Mapillary map features now available globally in OpenStreetMap](https://blog.mapillary.com/update/2020/08/24/global-map-features-openstreetmap.html)” veröffentlicht. Nachdem wir die Updates gelesen haben, haben wir gleich die neuen Funktionen ausprobiert.
 

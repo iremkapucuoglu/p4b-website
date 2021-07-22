@@ -123,4 +123,18 @@
   Website: ''
   team_image: ''
   website: ''
-
+username: hall
+  name: Joelean hall
+  title:
+    en: Intern
+    de: Praktikant
+  image: "/images/p4b_hall.png"
+  bio:
+    en: A masters student at the Technical University of Munich in Sustainable Resource Management, interested in sustainable urban and transport planning projects and applications. An admirer of great cities which are accessible to all.
+    de: 
+  github: ''
+  website: https://www.joeleanhall.com/
+  linkedin: https://www.linkedin.com/in/joelean-hall-1207001b7
+  team_member: true
+  twitter: ''
+  team_image: ''

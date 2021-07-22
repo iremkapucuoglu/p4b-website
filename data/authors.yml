@@ -1,4 +1,19 @@
 ---
+- username: hall
+  name: Joelean Hall
+  title:
+    en: Intern
+    de: Praktikantin
+  bio:
+    en: ''
+    de: ''
+  image: ''
+  team_member: false
+  team_image: ''
+  github: ''
+  website: ''
+  linkedin: ''
+  twitter: ''
 - username: pajares
   name: Elias Pajares
   title:

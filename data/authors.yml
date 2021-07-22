@@ -13,12 +13,12 @@
       und Forschungsaufbau. Als Masterstudentin an der TU München im Fach Nachhaltiges
       Ressourcenmanagement interessiert sie sich für nachhaltige Stadt- und Verkehrsplanungsprojekte
       und -anwendungen.
-  image: ''
-  team_member: false
+  image: "/images/p4b_hall.png"
+  team_member: true
   team_image: ''
   github: ''
-  website: ''
-  linkedin: ''
+  website: https://www.joeleanhall.com/
+  linkedin: https://www.linkedin.com/in/joelean-hall-1207001b7/
   twitter: ''
 - username: pajares
   name: Elias Pajares

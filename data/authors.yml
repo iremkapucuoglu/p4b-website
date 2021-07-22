@@ -6,11 +6,12 @@
     de: Geschäftsführer
   image: "/images/elias_pajares.png"
   bio:
-    en: As initiator of GOAT and transport researcher he is leading the team with Ulrike. As advocate for 
-      liveable cities he loves to develop innovative solutions and trigger sustainable change.
-    de: Als Initiator von GOAT und Verkehrswissenschaftler leitet er das Team gemeinsam mit Ulrike Jehle. 
-      Als Verfechter für lebenswerte Städte begeistert er sich für innovative
-      Lösungen und dem Anstoßen von nachhaltigem Wandel.
+    en: As initiator of GOAT and transport researcher he is leading the team with
+      Ulrike. As advocate for liveable cities he loves to develop innovative solutions
+      and trigger sustainable change.
+    de: Als Initiator von GOAT und Verkehrswissenschaftler leitet er das Team gemeinsam
+      mit Ulrike Jehle. Als Verfechter für lebenswerte Städte begeistert er sich für
+      innovative Lösungen und dem Anstoßen von nachhaltigem Wandel.
   github: https://github.com/EPajares
   website: ''
   linkedin: https://www.linkedin.com/in/eliaspajares/
@@ -24,10 +25,12 @@
     de: Geschäftsführerin
   image: "/images/ulrike_jehle.jpg"
   bio:
-    en: As engineer and scientist she is leading the team with Elias. To shape liveable cities, 
-      she is particularly engaged in strengthening active forms of mobility and foster Open Data.
-    de: Als Umweltingenieurin und Wissenschaftlerin leitet sie das Team mit Elias Pajares. 
-      Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt sie sich für die aktive Mobilität und die Förderung offener Daten ein.
+    en: As engineer and scientist she is leading the team with Elias. To shape liveable
+      cities, she is particularly engaged in strengthening active forms of mobility
+      and foster Open Data.
+    de: Als Umweltingenieurin und Wissenschaftlerin leitet sie das Team mit Elias
+      Pajares. Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt sie sich
+      für die aktive Mobilität und die Förderung offener Daten ein.
   github: https://github.com/UJehle
   website: ''
   linkedin: https://www.linkedin.com/in/ulrike-jehle/
@@ -41,8 +44,10 @@
     de: Technischer Direktor
   image: "/images/majk_shkurti.png"
   bio:
-    en: As experienced WebGIS-developer he is leading the development. His passion lies in making map-based technologies useful and accessible for everyone.
-    de: Als erfahrener WebGIS-Entwickler leitet er die Entwicklung. Mit Leidenschaft verwandelte er kartenbasierte Technologien in sinnvolle und offene Anwendungen.
+    en: As experienced WebGIS-developer he is leading the development. His passion
+      lies in making map-based technologies useful and accessible for everyone.
+    de: Als erfahrener WebGIS-Entwickler leitet er die Entwicklung. Mit Leidenschaft
+      verwandelte er kartenbasierte Technologien in sinnvolle und offene Anwendungen.
   github: https://github.com/majkshkurti
   website: ''
   linkedin: https://www.linkedin.com/in/majkshkurti/
@@ -117,10 +122,13 @@
   image: "/images/haxhiu.jpg"
   bio:
     en: text
-    de: text
+    de: Im Marketing unterstützt sie das Team dabei, Inhalte für Kund*innen und Interessierte
+      bilingual auf den Punkt zu bringen. Als leidenschaftliche Fußgängerin begeistert
+      sie das städteplanerische Potenzial, das GOAT eröffnen kann.
   team_member: false
   github: ''
   Website: ''
   team_image: ''
   website: ''
-
+  linkedin: ''
+  twitter: ''

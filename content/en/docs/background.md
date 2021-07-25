@@ -8,7 +8,7 @@ weight: 10
 
 ### Active mobility matters!
 
-While cycling and walking were seen as insignificant modes of transport in the past, there is a fast-rising interest in establishing conditions that actively promote them. This shift is consequent due to the unmatched benefits that active mobility brings to our cities, local economy, physical health, and the general environment.
+While cycling and walking were seen as insignificant modes of transport in the past, there is now a rising interest in establishing conditions that actively promote them. This shift is necessary for the benefits it brings to our cities, local economy, physical health, and the general environment.
 
 ![](/images/docs/about/modalsplit.png)
 
@@ -16,11 +16,11 @@ Active mobility takes a large share of daily transport activities already. Just 
 In addition, walking and cycling play the crucial role of acting as feeders for public transport systems. In many cities and municipalities across the world, pedestrians and cyclists take a larger share of transportation modes in use. However there is seen a lot of potential to further increase their share and as consequence harvest the wide range of positive impacts more extensively. 
 
 Good conditions for active transport are generally a result of good planning strategies,
-however planning for walking and cycling can be more complicated than expected. Besides an attractive infrastructure, a safe environment and a strong active mobility culture it is important to provide close destinations. This underlines the fact that fostering walking and cycling cannot solely be achieved by infrastructural projects but further requires an integrated approach of urban and transport planning.
+however planning for walking and cycling can be more complicated than expected. Besides an attractive infrastructure, a safe environment and a strong active mobility culture is important to provide close destinations. This underlines the fact that fostering walking and cycling cannot solely be achieved by infrastructural projects but further requires an integrated approach of urban and transport planning.
 
 ### Modelling active mobility
 
-Transport and the urban sector are two strongly interwoven and complex topics. This is the reason why planners and decision makers very often rely on the assistance of planning and decision support systems. Classical transport models are probably the most prominent representatives but also land-use models and integrated land-use and transport models are among them. They are generally used to assess the effect of large infrastructural or urban development projects.
+Transport and the urban sectors are two strongly interwoven and complex topics. This is the reason why planners and decision makers very often rely on the assistance of planning and decision support systems. Classical transport models are probably the most prominent representatives but also land-use models and integrated land-use and transport models are among them. They are generally used to assess the effect of large infrastructural or urban development projects.
 
 Despite the ongoing development of the mentioned tools, they are rarely designed to model walking and cycling. The challenge lies in the necessity to model on the neighborhood level and the need to adequately consider small changes in the urban environment and transport network. Accordingly while for instance, predicting the effect of a new ring road into future traffic volumes might be possible, the effect of a new pedestrian bridge could be hardly quantified.
 

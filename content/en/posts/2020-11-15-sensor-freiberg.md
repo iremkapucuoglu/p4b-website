@@ -11,7 +11,8 @@ thumbnail: "/images/blog/sensor_freiberg/plots - thumbnail.webp"
 image: "/images/blog/sensor_freiberg/plots - banner.webp"
 summary: How does the GOAT-team come to a project for on-street delivery robots? Of
   course, we share the same walking and cycling environment. We used a prototype measuring
-  box to automatically detect collect surface and smoothness information of road infrastructure.
+  box to automatically detect and collect surface and smoothness information of road
+  infrastructure.
 date: 2020-11-15
 description: We share our experiences with a prototype measuring box for automatic
   street data collection in this article.
@@ -27,7 +28,7 @@ _Figure 1. The measurement box developed by the TU Bergakademie Freiberg_
 
 ## Gathering data
 
-How does the GOAT-team come to be part of a project for on-street delivery robots? Of course, we share the same walking and cycling environment. As the main goal of the project is to collect information for cycling and walking infrastructure, we share a very important common interest: reliable and accurate spatial data. For that reason, we have been using the prototype measuring box in our field mapping tasks to collect the information. Here is a sneak peek of going around Munich’s Streets.
+How does the GOAT-team come to be part of a project for on-street delivery robots? Of course, we share the same walking and cycling environment. As the main goal of the project is to collect information for cycling and walking infrastructure, we share a very important common interest: reliable and accurate spatial data. For that reason, we have been using the prototype measuring box in our field mapping tasks to collect the information. Here is a sneak peek of the route along Munich’s streets.
 
 ![Cycling route in Munich captured with the new measuring device](/images/blog/sensor_freiberg/cyclepath.png "Cycling route captured with the new device")
 

@@ -72,4 +72,4 @@ The OpenStreetMap-data (OSM) with which GOAT is built is available worldwide and
 Although GOAT is built with OSM-data other data sources can be conveniently added.
 Due to its modular nature, the GOAT application allows for easy extension and scalability. Since it is developed as a research project, state-of-the art and innovative approaches are widely used.
 
-Everybody is welcome to use and contribute to GOAT. If you are interested in contributing just visit [GitHub](https://github.com/EPajares/GOAT.git).
+Everybody is welcome to use and contribute to GOAT. If you are interested in contributing just visit our [GitHub](https://github.com/goat-community/goat).

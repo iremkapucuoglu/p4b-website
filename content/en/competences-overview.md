@@ -1,4 +1,5 @@
 +++
+description = ""
 layout = "blocks"
 title = "Competences Overview"
 translationKey = "competences-overview"
@@ -42,6 +43,21 @@ icon = "question"
 page = "en/consultancy.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
 url = "/consultancy/"
+[[blocks]]
+background = "default"
+block = "pricing"
+heading = "Custom Version"
+template = "pricing-block"
+text = "Custom Version"
+[[blocks.pricing]]
+heading = "Test"
+list = []
+list_heading = ""
+subheading = "Included things:"
+text = "Text "
+[[blocks.pricing.prices]]
+label = "Setup"
+price = "contact us - 10.000 €"
 
 +++
 ## The passage is attributed to typesetter

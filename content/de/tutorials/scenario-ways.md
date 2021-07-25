@@ -24,9 +24,9 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 <img src="/images/training_materials/Scenario_POIs/create_scenario.webp"  alt="Create scenario" style="max-height:150px;"/>
 
-2. Geben Sie dem Scenario einen Namen und klicken Sie auf "OK".  
+2. Geben Sie dem Szenario einen Namen und klicken Sie auf "OK".  
 
-<img src="/images/training_materials/Scenario_POIs/name_scenario.webp"  alt="Name scenario" style="max-height:200px;"/>
+<img src="/images/training_materials/Scenario_building/name_scenario.webp"  alt="Name scenario" style="max-height:200px;"/>
 
 3. Wählen Sie welchen Layer Sie bearbeiten möchten, in diesem Fall den „Wege“ Layer.  
 

@@ -1,5 +1,5 @@
 ---
-title: Isochrone
+title: Isochrones
 permalink: "/tutorials/isochrone/"
 weight: 10
 sections:

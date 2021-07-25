@@ -119,7 +119,7 @@
   title:
     en: Marketing
     de: Marketing
-  image: "/images/plan4better-team-helga.jpg"
+  image: "/images/team_helga.jpg"
   bio:
     en: In marketing, she supports the team in getting to the heart of content for
       customers and interested parties. As a passionate pedestrian, she is enthusiastic
@@ -127,10 +127,9 @@
     de: Im Marketing unterstützt sie das Team dabei, Inhalte für Kund*innen und Interessierte
       bilingual auf den Punkt zu bringen. Als leidenschaftliche Fußgängerin begeistert
       sie das städteplanerische Potenzial, das GOAT eröffnen kann.
-  team_member: false
+  team_member: true
+  team_image: "/images/team_helga.jpg"
   github: ''
-  Website: ''
-  team_image: ''
   website: ''
 - username: hall
   name: Joelean Hall
@@ -138,16 +137,12 @@
     en: Intern
     de: Praktikantin
   bio:
-    en: As an intern, she supports the team on website updates, GOAT-live development,
-      and research building. As a masters student at the TU München in sustainability,
-      she’s interested in sustainable urban and transport planning projects and applications.
-    de: Als Praktikantin unterstützt sie das Team bei Website-Updates, GOAT-Live-Entwicklung
-      und Forschungsaufbau. Als Masterstudentin an der TU München im Nachhaltigkeit
-      interessiert sie sich für nachhaltige Stadt- und Verkehrsplanungsprojekte und
-      -anwendungen.
-  image: "/images/p4b_hall.png"
+    en: She’s interested in sustainable urban and transport planning projects and applications. As an intern, she supports the team on website updates, data tasks,
+      and research building. 
+    de: Sie interessiert sich für nachhaltige Stadt- und Verkehrsplanungsprojekte. Als Praktikantin unterstützt sie das Team bei Website-Updates, Datenaufbereitung und Recherchen. 
+  image: "/images/team_joelean.png"
   team_member: true
-  team_image: "/images/p4b_hall.png"
+  team_image: "/images/team_joelean.png"
   github: ''
   website: https://www.joeleanhall.com/
   linkedin: https://www.linkedin.com/in/joelean-hall-1207001b7/

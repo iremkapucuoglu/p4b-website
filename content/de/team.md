@@ -46,9 +46,9 @@ url = "https://www.tum.de/en/innovation/entrepreneurship/venture-labs/"
 [[blocks]]
 background = "muted"
 block = "team"
-heading = "Gründer*innen"
+heading = "Team"
 template = "team-block"
-text = "Schreiben Sie uns gerne an und kommen Sie mit den Gründer*innen von Plan4Better in Kontakt!"
+text = "Schreiben Sie uns gerne an und kommen Sie mit dem Team von Plan4Better in Kontakt!"
 [[blocks]]
 background = "default"
 block = "images"

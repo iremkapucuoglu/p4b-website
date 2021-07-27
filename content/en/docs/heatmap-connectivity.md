@@ -3,7 +3,7 @@ description = ""
 sections = ["technical", ""]
 title = "Heatmap - Connectivity"
 translationKey = ""
-weight = 90
+weight = 65
 
 +++
 GOAT also includes another heatmap feature, called connectivity, which demonstrates the road network connections for the walkable environment. This heatmap feature can assist with addressing walkability, particularly in areas of low connectivity for which there may be lower chances for walking as an option.

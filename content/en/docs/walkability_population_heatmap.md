@@ -17,8 +17,7 @@ In addition to the [Local Accessibility Heatmap](../heatmap/), GOAT allows you t
 
 #### 1. Calculation
 
-The comparison heatmap is the result of the intersection of the two heatmaps "Local Accessibility" and "Population Density".
-![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.png)
+The comparison heatmap is the result of the intersection of the two heatmaps "Local Accessibility" and "Population Density." ![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.png)
 
 #### 2. Classification
 

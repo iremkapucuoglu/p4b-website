@@ -51,7 +51,7 @@ Although GOAT is at an early stage of development, it can be used to answer diff
 * How many people can reach a certain destination within 10 minutes walking distance? How does this change if only barrier-free paths can be used? Where are barriers in the network and how could they be removed?
 * How high is the diversity and availability of gastronomy in different neighborhoods?
 
-Many more related questions on transport and land-use planning will follow. GOAT is mainly designed to be useful for planners, researchers, and decision makers, but due to its open nature it invites everybody to use it.
+Many more related questions in transport and land-use planning will follow. GOAT is mainly designed to be useful for planners, researchers, and decision makers, but due to its open nature it invites everybody to use it.
 
 ### Philosophy
 
@@ -59,7 +59,7 @@ GOAT's architecture is completely built with open source software, in addition, 
 
 ![](/images/docs/about/love_osm_os.png)
 
-The OpenStreetMap-data (OSM) with which GOAT is built is available worldwide and free of charge. OSM is seen as an extremely valuable source but it also has to be highlighted, that it is not only targeted to consume the data but also actively be part of the OSM-community. This decision is considered as essential for the health of this project and other projects. It also has to be underlined that the setup of GOAT allows frequent data updates, this makes it easy for users to improve OSM as data warehouse and benefit from rising data quality in the analyses.
+The OpenStreetMap-data (OSM) with which GOAT is built is available worldwide and free of charge. OSM is seen as an extremely valuable source but it also has to be highlighted, that it is not only targeted to consume the data but also actively be part of the OSM-community. This decision is considered essential for the health of this project and other projects. It also has to be underlined that the setup of GOAT allows frequent data updates, this makes it easy for users to improve OSM as data warehouse and benefit from rising data quality in the analyses.
 
 Although GOAT is built with OSM-data, other data sources can be conveniently added. Due to its modular nature, the GOAT application allows for easy extension and scalability. Since it is developed as a research project, state-of-the art and innovative approaches are widely used.
 

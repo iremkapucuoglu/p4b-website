@@ -55,8 +55,7 @@ This means the sensitivity parameter is the same for every category of grocery.
 
 ##### 3.3 Calculation with different sensitivity indices
 
-In the second case we calculate the accessibility to groceries in 15min (β=300000 and
-β=400000). This means the sensitivity parameter depends on the categories of grocery. For this example, we used β= 400000 for the type of grocery hypermarket and β= 300000 for discount supermarket and supermarket.
+In the second case we calculate the accessibility to groceries in 15min (β=300000 and β=400000). This means the sensitivity parameter depends on the categories of grocery. For this example, we used β= 400000 for the type of grocery hypermarket and β= 300000 for discount supermarket and supermarket.
 
 ![](/images/docs/technical_documentation/heatmap/different_sensitivity.png)
 

@@ -1,6 +1,6 @@
 +++
 description = ""
-sections = []
+sections = ["technical", ""]
 title = "Heatmap - Connectivity"
 translationKey = ""
 weight = 90

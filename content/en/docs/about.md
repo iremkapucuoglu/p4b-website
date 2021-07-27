@@ -28,13 +28,13 @@ It is evident that active mobility plays a very important role in urban mobility
 
 Modelling active mobility (walking & cycling) in transport models is challenging and does not normally deliver expected results. Urban planners and decision makers need elaborate support to properly plan and improve active mobility. This gap can be conveniently filled by accessibility models.
 
-Various accessibility tools exist already, however, there still exist big potential for improvements. Especially in the following fields, it is perceived that common accessibility tools lacks functionality:
+Various accessibility tools exist already, however, there are is still a lot of potential for improvements. Especially in the urban planning fields, it is perceived that common accessibility tools lacks several functionalities including:
 
 * Few of them consider active mobility.
 * They often allow no scenario building.
 * They tend to be hard or costly to implement.
 * Few of them are open source.
-* Transferring the tool to another study area can be painful.
+* Transferring the tool to another study area can be cost- and time-consuming.
 * Accessibility tools can be black boxes.
 
 As much as GOAT may not be perfect in functionality and operation at the moment, it has come in place to address these emerging issues and tackle them.

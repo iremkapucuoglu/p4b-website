@@ -24,9 +24,9 @@ GOAT...
 
 ### Why GOAT?
 
-It is evident that active mobility plays a very important role in urban mobility. GOAT as accessibility instruments aims to therefore aids in rising awareness to properly plan for pedestrians and cyclists during urban infrastructural developments. GOAT comes with numerous desirable features that make it ideal for accessibility planning.
+It is evident that active mobility plays a very important role in urban mobility. GOAT as an accessibility instrument aims to aid in raising awareness to properly plan for pedestrians and cyclists during urban infrastructural developments. GOAT comes with numerous desirable features that make it ideal for accessibility planning.
 
-Modelling active mobility (walking & cycling) in transport models is challenging and does not normally deliver the expected results. Urban planners and decision makers need elaborate support to properly plan and improve active mobility. This gap can be conveniently filled by accessibility models.
+Modelling active mobility (walking & cycling) in transport models is challenging and does not normally deliver expected results. Urban planners and decision makers need elaborate support to properly plan and improve active mobility. This gap can be conveniently filled by accessibility models.
 
 Various accessibility tools exist already, however, there still exist big potential for improvements. Especially in the following fields, it is perceived that common accessibility tools lacks functionality:
 

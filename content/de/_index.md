@@ -23,6 +23,7 @@ blocks:
   image: "/images/Plan4Better_SW_web-44.jpg"
   video: ''
   background_image: "/images/bg-4.svg"
+  background_color_content: muted
 - template: card-block
   block: card
   layout: right

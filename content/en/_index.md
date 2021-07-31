@@ -18,7 +18,7 @@ blocks:
   background: default
   text: We are a start-up from Munich that emerged from a spin-off of TUM and was recently awarded with the Innovation Prize of the City of Munich in the category "Emission-free mobility in Munich".
   heading: Startup from Munich
-  image: "/images/Plan4Better_SW_web-44.jpg"
+  image: "/images/Plan4Better_SW_web-44.webp"
   video: ''
   background_image: "/images/bg-4.svg"
   background_color_content: muted

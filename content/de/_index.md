@@ -20,7 +20,7 @@ blocks:
     ist und kürzlich mit dem Innovationspreis der Stadt München in der Kategorie „Emmissionsfreie
     Mobilität in München“ ausgezeichnet wurde.
   heading: Startup aus München
-  image: "/images/Plan4Better_SW_web-44.jpg"
+  image: "/images/Plan4Better_SW_web-44.webp"
   video: ''
   background_image: "/images/bg-4.svg"
   background_color_content: muted

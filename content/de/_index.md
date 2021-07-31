@@ -26,7 +26,7 @@ blocks:
 - template: card-block
   block: card
   layout: right
-  background: default
+  background: muted
   text: Durch die Bereitstellung von verständlichen Planungstools für den Fuß- und
     Radverkehr begleiten wir die Stadt- und Verkehrsplanung, sowie die Standortentwicklung,
     in eine offenere, spaßigere und effizientere Zukunft.

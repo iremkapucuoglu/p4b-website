@@ -1,15 +1,17 @@
 ---
 title: Mapping Mode
-permalink: /docs/mapping_mode/
+permalink: "/docs/mapping_mode/"
 sections:
 - osm
 weight: 20
+
 ---
 Welcome and thank you for your interest in contributing to the quality of open data. With this feature, we are organizing and setting the mapping tasks that are necessary to improve some of the OSM data used by the GOAT tool. The focus is on rather simple mapping tasks, such as adding attributes. This feature is available in our GOAT versions for Munich, Fürstenfeldbruck and Freising. For Freising and Fürstenfeldbruck we created as well some [MapRoulette challenges](https://maproulette.org/browse/challenges/13812) where you are highly welcome to contribute.
 
 In the following, you will find the steps to use GOAT’s editing tool “OSM Mapping Mode”.
 
 #### 1. Open GOAT OSM Mapping Mode
+
 First choose the desired GOAT location [here](https://www.open-accessibility.org/versions).
 In the tool, you will notice the OSM logo in the right-bottom corner.
 
@@ -25,71 +27,71 @@ Now, on the OSM Mapping Tasks menu you will see our tasks available (highlighted
 
 #### 3.	What to do?
 
-We have set up different tasks for objects with missing information, which can be completed using the iD-Editor or other OSM editors such as JOSM. This list of tasks will be frequently updated. Remember always to follow the standards and characteristics established in the OSM-Wiki for each task as this data will be updated for all OSM users. 
+We have set up different tasks for objects with missing information, which can be completed using the iD-Editor or other OSM editors such as JOSM. This list of tasks will be frequently updated. Remember always to follow the standards and characteristics established in the OSM-Wiki for each task as this data will be updated for all OSM users.
 <table class="table table-striped table-hover">
-  <thead>
-    <tr>
-      <th style="width:100px">Tasks</th>
-      <th style="width:250px"> Missing Information</th>
-      <th style="width:170px">Possible Sources</th>
-      <th style="width:80px">OSM Wiki</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="success">
-      <td><b>Buildings – Building Type</b></td>
-      <td>Value for the building type (e.g. apartments, commercial, church, public)</td>
-      <td>•	Mapillary Street View <br>
-          • Personal Site Visit</td>
-      <td><a href="https://wiki.openstreetmap.org/wiki/Key:building">https://wiki.openstreetmap.org/wiki/Key:building</a></td>
-    </tr>
-    <tr class="success">
-      <td><b>Ways – Surface Type</b></td>
-      <td>Value of the surface (e.g. paved, asphalt, paving stones, compacted)</td>
-      <td>•	Aerial images or photos <br>
-          • Mapillary Street View <br>
-          • Personal Site Visit</td>
-      <td><a href="https://wiki.openstreetmap.org/wiki/Key:surface">https://wiki.openstreetmap.org/wiki/Key:surface</a></td>
-    </tr>
-    <tr class="success">
-      <td><b>Ways – Cycleway Segregated</b></td>
-      <td>Segregation between cycleway and footpath (e.g. yes, no)</td>
-      <td>• Mapillary Street View <br>
-          • Personal Site Visit</td>
-      <td><a href="https://wiki.openstreetmap.org/wiki/Key:segregated">https://wiki.openstreetmap.org/wiki/Key:segregated</a></td>
-    </tr>
-    <tr class="success">
-      <td><b>Ways – Cycleway Width</b></td>
-      <td>Width of the cycleway in meters (e.g. 1.0, 1.5, 2.0)</td>
-      <td>• Personal Site Visit</td>
-      <td><a href="https://wiki.openstreetmap.org/wiki/Key:width">https://wiki.openstreetmap.org/wiki/Key:width</a></td>
-    </tr>
-    <tr class="success">
-      <td><b>Ways – Parking Lanes</b></td>
-      <td>Value of the parking lane (e.g. parallel, diagonal, perpendicular, no_parking)</td>
-      <td>•	Aerial images or photos <br>
-          • Mapillary Street View <br>
-          • Personal Site Visit</td>
-      <td><a href="https://wiki.openstreetmap.org/wiki/Key:parking:lane">https://wiki.openstreetmap.org/wiki/Key:parking:lane</a></td>
-    </tr>
-    <tr class="success">
-      <td><b>Ways – Maxspeed</b></td>
-      <td>Maximum Speed Limit (e.g. 30, 50, 100)</td>
-      <td>•	Mapillary Street View <br>
-          • Personal Site Visit</td>
-      <td><a href="https://wiki.openstreetmap.org/wiki/Speed_limits">https://wiki.openstreetmap.org/wiki/Speed_limits</a></td>
-    </tr>
-    <tr class="warning">
-      <td><b>POIs – Opening Hours</b></td>
-      <td>Values of opening hours (take into account weekends, holidays, multiple days, e.g. Mo-Th 08:00-20:00; Fr-Su 10:00-20:00)</td>
-      <td>•	Website of the amenity <br>
-          • Personal Site Visit</td>
-      <td><a href="https://wiki.openstreetmap.org/wiki/Key:opening_hours">https://wiki.openstreetmap.org/wiki/Key:opening_hours</a></td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th style="width:100px">Tasks</th>
+<th style="width:250px"> Missing Information</th>
+<th style="width:170px">Possible Sources</th>
+<th style="width:80px">OSM Wiki</th>
+</tr>
+</thead>
+<tbody>
+<tr class="success">
+<td><b>Buildings – Building Type</b></td>
+<td>Value for the building type (e.g. apartments, commercial, church, public)</td>
+<td>•	Mapillary Street View <br>
+• Personal Site Visit</td>
+<td><a href="https://wiki.openstreetmap.org/wiki/Key:building">https://wiki.openstreetmap.org/wiki/Key:building</a></td>
+</tr>
+<tr class="success">
+<td><b>Ways – Surface Type</b></td>
+<td>Value of the surface (e.g. paved, asphalt, paving stones, compacted)</td>
+<td>•	Aerial images or photos <br>
+• Mapillary Street View <br>
+• Personal Site Visit</td>
+<td><a href="https://wiki.openstreetmap.org/wiki/Key:surface">https://wiki.openstreetmap.org/wiki/Key:surface</a></td>
+</tr>
+<tr class="success">
+<td><b>Ways – Cycleway Segregated</b></td>
+<td>Segregation between cycleway and footpath (e.g. yes, no)</td>
+<td>• Mapillary Street View <br>
+• Personal Site Visit</td>
+<td><a href="https://wiki.openstreetmap.org/wiki/Key:segregated">https://wiki.openstreetmap.org/wiki/Key:segregated</a></td>
+</tr>
+<tr class="success">
+<td><b>Ways – Cycleway Width</b></td>
+<td>Width of the cycleway in meters (e.g. 1.0, 1.5, 2.0)</td>
+<td>• Personal Site Visit</td>
+<td><a href="https://wiki.openstreetmap.org/wiki/Key:width">https://wiki.openstreetmap.org/wiki/Key:width</a></td>
+</tr>
+<tr class="success">
+<td><b>Ways – Parking Lanes</b></td>
+<td>Value of the parking lane (e.g. parallel, diagonal, perpendicular, no_parking)</td>
+<td>•	Aerial images or photos <br>
+• Mapillary Street View <br>
+• Personal Site Visit</td>
+<td><a href="https://wiki.openstreetmap.org/wiki/Key:parking:lane">https://wiki.openstreetmap.org/wiki/Key:parking:lane</a></td>
+</tr>
+<tr class="success">
+<td><b>Ways – Maxspeed</b></td>
+<td>Maximum Speed Limit (e.g. 30, 50, 100)</td>
+<td>•	Mapillary Street View <br>
+• Personal Site Visit</td>
+<td><a href="https://wiki.openstreetmap.org/wiki/Speed_limits">https://wiki.openstreetmap.org/wiki/Speed_limits</a></td>
+</tr>
+<tr class="warning">
+<td><b>POIs – Opening Hours</b></td>
+<td>Values of opening hours (take into account weekends, holidays, multiple days, e.g. Mo-Th 08:00-20:00; Fr-Su 10:00-20:00)</td>
+<td>•	Website of the amenity <br>
+• Personal Site Visit</td>
+<td><a href="https://wiki.openstreetmap.org/wiki/Key:opening_hours">https://wiki.openstreetmap.org/wiki/Key:opening_hours</a></td>
+</tr>
+</tbody>
 </table>
 
-If you have questions on how to edit objects in OSM you can visit our page [Making changes in OSM](../osm_tutorial/) for further information. In case you are still not sure how to map a dedicated feature it is better to just leave the task open. 
+If you have questions on how to edit objects in OSM you can visit our page [Making changes in OSM](../osm_tutorial/) for further information. In case you are still not sure how to map a dedicated feature it is better to just leave the task open.
 
 #### 4.	How to edit?
 
@@ -97,7 +99,7 @@ Once you select the task you want to work on, the map will show the objects that
 
 ![](/images/docs/mapping_mode/building_types.png)
 
-Now you can click one of the elements from the map, this will open a pop-up window showing the current information available. To edit the element and add additional information click on “Edit with OSM”. 
+Now you can click one of the elements from the map, this will open a pop-up window showing the current information available. To edit the element and add additional information click on “Edit with OSM”.
 
 ![](/images/docs/mapping_mode/edit_building_types.png)
 
@@ -109,7 +111,7 @@ Once you have logged in, you will be in the iD-Editor from OpenStreetMap. This o
 
 ![](/images/docs/mapping_mode/osm_building_editing.png)
 
-To make use of Mapillary’s integrated tool within the iD Editor, click on the Map Data button from the menu on the right, and then turn on the option for Mapillary. The green tracks available for street view will appear in the map. 
+To make use of Mapillary’s integrated tool within the iD Editor, click on the Map Data button from the menu on the right, and then turn on the option for Mapillary. The green tracks available for street view will appear in the map.
 
 ![](/images/docs/mapping_mode/mapillary.png)
 
@@ -117,7 +119,7 @@ Click in any of the green points available to see the street view imagery. Try t
 
 ![](/images/docs/mapping_mode/street_view.png)
 
-In our case, the building of interest is the pink one on the right side. From the picture is possible to classify the building type as "residential". In addition, it is possible to add the number of levels of the building. If the building usage is not homogeneous, the tag “building:use” can be given and filled with all usages (e.g. “residential, commercial”). 
+In our case, the building of interest is the pink one on the right side. From the picture is possible to classify the building type as "residential". In addition, it is possible to add the number of levels of the building. If the building usage is not homogeneous, the tag “building:use” can be given and filled with all usages (e.g. “residential, commercial”).
 
 ![](/images/docs/mapping_mode/fill_missing_tags.png)
 

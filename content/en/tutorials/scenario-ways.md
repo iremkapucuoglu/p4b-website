@@ -13,7 +13,7 @@ GOAT allows you to develop your own scenarios, such as network modifications or 
 #### Possible use cases (planning questions)
 
 * How does the construction of a new bicycle bridge across the river change accessibility?
-* How does the accessibility with the wheelchair change with the construction of a barrier-free road?
+* How does accessibility with a wheelchair change with the construction of a barrier-free road?
 * Which option of a new cycle path will serve the highest number of residents?
 
 #### Step-by-step tutorial for the exemplary planning task
@@ -22,7 +22,7 @@ GOAT allows you to develop your own scenarios, such as network modifications or 
 
 ###### 1.1 Planning question
 
-How does the construction of a new bicycle bridge across the river changes accessibility?
+How does the construction of a new bicycle bridge across the river change accessibility?
 
 ###### 1.2 Step-by-Step guide
 
@@ -46,7 +46,7 @@ How does the construction of a new bicycle bridge across the river changes acces
 
 <img src="/images/training_materials/Scenario_building/bridge_building.webp"  alt="Draw" style="max-height:300px;"/>
 
-6. Now you can analyze the effect of the new route connection on accessibility by calculating the standard and scenario isochrones. To do this, select the routing mode "Bike" and set the calculation mode to "Comparison". In the options you can set the travel time, driving speed and the number of calculated isochrones.
+6. Now you can analyze the effect of the new route connection on accessibility by calculating the standard and scenario isochrones. To do this, select the routing mode "Bike" and set the calculation mode to "Comparison." You have the option to set the travel time, driving speed and the number of calculated isochrones.
 
 <img src="/images/training_materials/Scenario_building/comparison.webp"  alt="Comparison" style="max-height:400px;"/>
 

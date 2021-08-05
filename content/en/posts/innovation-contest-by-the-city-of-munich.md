@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
 image = ""
 summary = "We are happy to announce that we received the Munich Innovation Award for the category of “Emission-free Mobility in Munich” from the City of Munich. We'll discuss the competition itself as well as what that means for Plan4Better."
 thumbnail = ""

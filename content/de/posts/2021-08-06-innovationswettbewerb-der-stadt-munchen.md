@@ -37,4 +37,4 @@ Außerdem haben wir eine „Wildcard“ für ein Accelerator-Programm unserer Wa
 
 Wir werden mehr Updates präsentieren können, sobald sich wieder neue Möglichkeiten für uns ergeben. Sollten Sie an diesen interessiert sein, folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/)**.** Bis dahin freuen wir uns schon einmal auf die nächsten Schritte und feiern unser erstes Award-Zertifikat an unserer Wand.
 
-![](/images/award_cert.webp)
+![](/images/awardcertificate.jpg)

@@ -131,15 +131,20 @@
   team_image: "/images/team_helga.jpg"
   github: ''
   website: ''
+  linkedin: https://www.linkedin.com/in/helga-haxhiu-6b267b219/
+  twitter: ''
 - username: hall
   name: Joelean Hall
   title:
     en: Intern
     de: Praktikantin
   bio:
-    en: She’s interested in sustainable urban and transport planning projects and applications. As an intern, she supports the team on website updates, data tasks,
-      and research building. 
-    de: Sie interessiert sich für nachhaltige Stadt- und Verkehrsplanungsprojekte. Als Praktikantin unterstützt sie das Team bei Website-Updates, Datenaufbereitung und Recherchen. 
+    en: She’s interested in sustainable urban and transport planning projects and
+      applications. As an intern, she supports the team on website updates, data tasks,
+      and research building.
+    de: Sie interessiert sich für nachhaltige Stadt- und Verkehrsplanungsprojekte.
+      Als Praktikantin unterstützt sie das Team bei Website-Updates, Datenaufbereitung
+      und Recherchen.
   image: "/images/team_joelean.png"
   team_member: true
   team_image: "/images/team_joelean.png"
@@ -147,5 +152,3 @@
   website: https://www.joeleanhall.com/
   linkedin: https://www.linkedin.com/in/joelean-hall-1207001b7/
   twitter: ''
-
-

@@ -4,11 +4,11 @@ categories:
 - News
 date: 2021-08-06T06:00:00+00:00
 description: ''
-image: "/images/award_pic.webp"
+image: "/images/award.webp"
 summary: 'Wir freuen uns, verkünden zu können, dass wir den Münchener Innovationspreis
   in der Kategorie „Emissionsfreie Mobilität in München“ von der Stadt München verliehen
   bekommen haben. Wir werden den Wettbewerb und dessen Bedeutung für Plan4Better diskutieren. '
-thumbnail: "/images/picture-1.jpg"
+thumbnail: "/images/award_t.webp"
 title: Innovationswettbewerb der Stadt München
 translationKey: ''
 
@@ -37,4 +37,4 @@ Außerdem haben wir eine „Wildcard“ für ein Accelerator-Programm unserer Wa
 
 Wir werden mehr Updates präsentieren können, sobald sich wieder neue Möglichkeiten für uns ergeben. Sollten Sie an diesen interessiert sein, folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/)**.** Bis dahin freuen wir uns schon einmal auf die nächsten Schritte und feiern unser erstes Award-Zertifikat an unserer Wand.
 
-![](/images/awardcertificate.jpg)
+![](/images/certif.jpg)

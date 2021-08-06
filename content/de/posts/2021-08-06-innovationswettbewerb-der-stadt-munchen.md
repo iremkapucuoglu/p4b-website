@@ -2,7 +2,7 @@
 author: hall
 categories:
 - News
-date: 2021-08-06T06:00:00+00:00
+date: 2021-08-06T06:00:00.000+00:00
 description: ''
 image: "/images/award.webp"
 summary: 'Wir freuen uns, verkünden zu können, dass wir den Münchener Innovationspreis

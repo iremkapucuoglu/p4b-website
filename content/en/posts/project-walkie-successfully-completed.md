@@ -2,10 +2,10 @@
 author = ""
 categories = []
 date = ""
-description = ""
+description = "The WALKIE project successfully reached every milestone! "
 draft = true
 image = ""
-summary = "The WALKIE project has successfully reached every milestone! GOAT was extended to include walkability & potential pedestrian flows and was transferred to the pilot city of Freiburg."
+summary = "The WALKIE project has successfully reached every milestone! GOAT was extended to include walkability & potential pedestrian flows."
 thumbnail = ""
 title = "Project WALKIE successfully completed"
 translationKey = ""

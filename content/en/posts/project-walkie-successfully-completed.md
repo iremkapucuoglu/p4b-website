@@ -15,9 +15,9 @@ translationKey = ""
 
 Walking. That has always been and still is THE most sustainable form of mobility. It’s ecological, social and, economic. Therefore bases on all of the three pillars of sustainability. We know that walking requires a secure and comfortable infrastructure for pedestrians and, to improve this kind of infrastructure, we developed the walkability index.
 
-As part of the project [WALKIE](https://plan4better.de/posts/2021-04-06-walkability-index/) (“WALKability IndEx”), we received funding for three months from the [Ministry of Transport Baden-Württemberg](https://vm.baden-wuerttemberg.de/de/startseite/) as a follow-up funding from the [MobiDataBW Hackathon 2020](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/digitale-mobilitaet/mobidata-bw-hackathon/).
+As part of the project [WALKIE](https://plan4better.de/posts/2021-04-06-walkability-index/) (“WALKability IndEx”), we received funding for three months from the [Ministry of Transport Baden-Württemberg](https://vm.baden-wuerttemberg.de/en/home/) as a follow-up funding from the [MobiDataBW Hackathon 2020](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/digitale-mobilitaet/mobidata-bw-hackathon/).
 
-These fundings enabled us to concretize the index in close collaboration with the pilot city [Freiburg]() and subsequently transfer it successfully. Thus, we reached each of our specified milestones and our main goal! We were able to transfer GOAT onto a new city and expanded it with new features, which are capable of displaying the current state of the walkability of the cities as well as potential improvements in a prioritized manner.
+These fundings enabled us to concretize the index in close collaboration with the pilot city [Freiburg](https://digital.freiburg.de/) and subsequently transfer it successfully. Thus, we reached each of our specified milestones and our main goal! We were able to transfer GOAT onto a new city and expanded it with new features, which are capable of displaying the current state of the walkability of the cities as well as potential improvements in a prioritized manner.
 
 ## Concretization of the walkability index:
 
@@ -40,7 +40,7 @@ The numerous individual indicators were rated in an algorithm, evaluated, and ag
 
 For that, we used various data sources: crowdsourcing data as well as data from OpenData platforms of cities and states (f.e. [FreiGIS](https://geoportal.freiburg.de/freigis/)). Furthermore, we collected data from more than 10.000 images of the streets of Freiburg by using the platform [Mapillary](https://www.mapillary.com/).
 
-From this data, we could gather information about the different attributes of streets or the existence of street lights, park benches, and more. The usage of Mapillary AI was especially innovative: automated AI algorithms detect and read the objects from image sequences. We wrote this article where we further explain, how we used Mapillary for the automated object recognition for the individual sections of the routes in Freiburg.
+From this data, we could gather information about the different attributes of streets or the existence of street lights, park benches, and more. The usage of Mapillary AI was especially innovative: automated AI algorithms detect and read the objects from image sequences. We wrote [this article](https://plan4better.de/de/posts/2021-15-06-high-quality-data-now-automatic/) where we further explain, how we used Mapillary for the automated object recognition for the individual sections of the routes in Freiburg.
 
 ![Image sequence of WALKIE](/images/bildsequenzen_freiburg.jpg "Captured image sequences from project WALKIE")
 
@@ -64,7 +64,7 @@ The potential pedestrian flow is visualized by the thickness of the line, which 
 
 ![potential pedestrian flows](/images/goat_fussgangerpotenzialstrome.jpg "Screenshot of the implemented potential pedestrian flows in GOAT ")
 
-_Image 3: Screenshot of the implemented potential pedestrian flows in GOAT_ 
+_Image 3: Screenshot of the implemented potential pedestrian flows in GOAT_
 
 Those two layers can be contrasted and show which paths have a high frequency and low walkability. It gives a clear picture of which streets should be prioritized in urban planning.
 

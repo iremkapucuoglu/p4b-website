@@ -2,24 +2,24 @@
 author: ''
 categories:
 - News
-date: 2021-08-06T10:00:00.000+00:00
+date: 2021-08-06T06:00:00+00:00
 description: ''
-image: "/images/award_pic.webp"
+image: "/images/award.webp"
 summary: 'Wir freuen uns, verkünden zu können, dass wir den Münchener Innovationspreis
   in der Kategorie „Emissionsfreie Mobilität in München“ von der Stadt München verliehen
   bekommen haben. Wir werden den Wettbewerb und dessen Bedeutung für Plan4Better diskutieren. '
-thumbnail: "/images/award_pic.webp"
+thumbnail: "/images/award_t.webp"
 title: Innovationswettbewerb der Stadt München
 translationKey: ''
 
 ---
-Wir freuen uns, verkünden zu können, dass wir den [**Münchener Innovationspreis**](https://muenchen.digital/blog/innovationspreis-2021/) in der Kategorie „**Emissionsfreie Mobilität in München**“ von der [Stadt München](https://www.muenchen.de/rathaus/wirtschaft/tech/digitalisierung-plattformen/Innovationswettbewerb.html) verliehen bekommen haben. Das Finale wurde am 22. Juli abgehalten und von Katrin Habenschaden, der 2. Bürgermeisterin Münchens, präsentiert. Wir möchten hiermit ein paar Details zum Wettbewerb teilen und erläutern, was dieser für die Zukunft von Plan4Better bedeutet!
+Wir freuen uns, verkünden zu können, dass wir den [Münchener Innovationspreis](https://muenchen.digital/blog/innovationspreis-2021/) in der Kategorie **„Emissionsfreie Mobilität in München**“ von der [Stadt München](https://www.muenchen.de/rathaus/wirtschaft/tech/digitalisierung-plattformen/Innovationswettbewerb.html) verliehen bekommen haben. Das Finale wurde am 22. Juli abgehalten und von Katrin Habenschaden, der 2. Bürgermeisterin Münchens, präsentiert. Wir möchten hiermit ein paar Details zum Wettbewerb teilen und erläutern, was dieser für die Zukunft von Plan4Better bedeutet!
 
 ## **Der Wettbewerb**
 
 Die Startup-Community wurde durch den Wettbewerb aufgerufen, nachhaltige Lösungen für kommunale Angelegenheiten zu präsentieren. So entschieden auch wir uns, eine Bewerbung im Frühling 2021 einzureichen. Daraufhin wurden wir benachrichtigt, dass wir unter den Finalist*innen seien und somit im Sommer die Chance bekommen sollten, unsere Ideen der Jury vorzustellen.
 
-Zum Pitch wurden wir im späten Juli eingeladen und konnten diesen im [**Munich Urban Colab**](https://www.munich-urban-colab.de/) **Gebäude** halten. Das ist ein neu eröffneter Gebäudekomplex, der als Büro- und Eventfläche für Startups genutzt wird und unterschiedlichste Startups in einem Co-Working-Space zusammenbringen soll. Da das **Urban Colab** kurz zuvor erst eröffnet wurde, hatten wir die Ehre, dort Teil einer der ersten vor Ort Veranstaltungen zu sein.
+Zum Pitch wurden wir im späten Juli eingeladen und konnten diesen im [Munich Urban Colab](https://www.munich-urban-colab.de/) Gebäude halten. Das ist ein neu eröffneter Gebäudekomplex, der als Büro- und Eventfläche für Startups genutzt wird und unterschiedlichste Startups in einem Co-Working-Space zusammenbringen soll. Da das **Urban Colab** kurz zuvor erst eröffnet wurde, hatten wir die Ehre, dort Teil einer der ersten vor Ort Veranstaltungen zu sein.
 
 Der Wettbewerb zog sich über den gesamten Tag und bestand aus zwei Runden. Gegen Mittag stellten wir in einer 5-Minuten-Präsentation die Features von GOAT vor und beantworteten in den anschließenden 10 Minuten die Fragen der Jury. Später am Abend wurden alle Teams zu einer Art Duell auf der Bühne eingeladen, bei dem alle Teams ihre jeweilige Lösung in einem 1-Minute-Pitch präsentierten.
 
@@ -37,4 +37,4 @@ Außerdem haben wir eine „Wildcard“ für ein Accelerator-Programm unserer Wa
 
 Wir werden mehr Updates präsentieren können, sobald sich wieder neue Möglichkeiten für uns ergeben. Sollten Sie an diesen interessiert sein, folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/)**.** Bis dahin freuen wir uns schon einmal auf die nächsten Schritte und feiern unser erstes Award-Zertifikat an unserer Wand.
 
- ![](/images/award_cert.webp)
+![](/images/certif.jpg)

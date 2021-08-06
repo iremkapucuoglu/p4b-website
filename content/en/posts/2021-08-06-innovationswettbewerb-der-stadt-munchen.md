@@ -1,18 +1,16 @@
 +++
-author = ""
-categories = []
-date = ""
+author = "hall"
+categories = ["News"]
+date = 2021-08-06T06:00:00Z
 description = ""
-image = ""
+image = "/images/award.webp"
 summary = "We are happy to announce that we received the Munich Innovation Award for the category of “Emission-free Mobility in Munich” from the City of Munich. We'll discuss the competition itself as well as what that means for Plan4Better."
-thumbnail = ""
+thumbnail = "/images/award_t.webp"
 title = "Innovation Contest by the City of Munich"
 translationKey = ""
 
 +++
 We are happy to announce that we received the [Munich Innovation Award](https://muenchen.digital/blog/innovationspreis-2021/) for the category of “Emission-free Mobility in Munich” from the [City of Munich](https://www.muenchen.de/rathaus/wirtschaft/tech/digitalisierung-plattformen/Innovationswettbewerb.html). The final event was held on July 22nd, presented by the 2nd Mayor of Munich, Katrin Habenschaden. We’d like to share some details of the competition and what this means for the future of Plan4Better!
-
-![](/images/innovation.jpg)
 
 ## The Competition
 
@@ -36,4 +34,4 @@ In addition, we won a “wild card” for an accelerator program of our choice -
 
 We will have more updates as the opportunities keep presenting themselves so if you are interested - follow us on [LinkedIn](https://www.linkedin.com/company/plan4better/). For now, we are looking forward to the next steps and celebrating our first award certificate on our wall 😊
 
-![](/images/innovation2.jpg)
+![](/images/certif.jpg)

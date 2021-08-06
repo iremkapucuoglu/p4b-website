@@ -36,7 +36,5 @@ fields:
   label: Author
   description: Enter username from authors settings.
 pages:
-- content/de/posts/innovationswettbewerb-der-stadt-munchen.md
 - content/de/posts/walkie-projekt-erfolgreich-beendet.md
-- content/en/posts/innovation-contest-by-the-city-of-munich.md
 - content/en/posts/project-walkie-successfully-completed.md

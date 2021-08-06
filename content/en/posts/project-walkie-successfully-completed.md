@@ -1,0 +1,79 @@
++++
+author = ""
+categories = []
+date = ""
+description = ""
+draft = true
+image = ""
+summary = ""
+thumbnail = ""
+title = "Project WALKIE successfully completed"
+translationKey = ""
+
++++
+## New features for GOAT: walkability index and potential pedestrian flows
+
+Walking. That has always been and still is THE most sustainable form of mobility. It’s ecological, social and, economic. Therefore bases on all of the three pillars of sustainability. We know that walking requires a secure and comfortable infrastructure for pedestrians and, to improve this kind of infrastructure, we developed the walkability index.
+
+As part of the project [WALKIE](https://plan4better.de/posts/2021-04-06-walkability-index/) (“WALKability IndEx”), we received funding for three months from the [Ministry of Transport Baden-Württemberg](https://vm.baden-wuerttemberg.de/de/startseite/) as a follow-up funding from the [MobiDataBW Hackathon 2020](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/digitale-mobilitaet/mobidata-bw-hackathon/).
+
+These fundings enabled us to concretize the index in close collaboration with the pilot city [Freiburg]() and subsequently transfer it successfully. Thus, we reached each of our specified milestones and our main goal! We were able to transfer GOAT onto a new city and expanded it with new features, which are capable of displaying the current state of the walkability of the cities as well as potential improvements in a prioritized manner.
+
+## Concretization of the walkability index:
+
+The digital webtool GOAT was already capable of displaying the availability of sidewalks. Our involvement of the walkability index makes it now possible to calculate the attractiveness for pedestrians. The idea for the development of WALKIE and the prototype came while participating in the MobiDataBW Hackathon in November 2020.
+
+Our team used the innovation phase (March to June 2021) for further development of the index. And for consolidation of the new features of GOAT for the city of Freiburg. Now, WALKIE is a meaningful, multi-criteria walkability index, which quantitatively displays walkability.
+
+Firstly, the quality criteria for walkability and its evaluation were determined, based on the preexisting scientific findings. As a result, the walkability index was developed and divided into six categories and 22 subcategories.
+
+**The walkability categories:**
+
+* Walking comfort
+* Protection from the road traffic
+* Lighting & subjective security
+* Liveliness & walking environment
+* Vegetation & waters
+* Urban equipment
+
+The numerous individual indicators were rated in an algorithm, evaluated, and aggregated to a total walkability score. These scores were calculated from 0 to 100. On this scale, 0 symbolizes a low and 100 a high walkability.
+
+For that, we used various data sources: crowdsourcing data as well as data from OpenData platforms of cities and states (f.e. [FreiGIS](https://geoportal.freiburg.de/freigis/)). Furthermore, we collected data from more than 10.000 images of the streets of Freiburg by using the platform [Mapillary](https://www.mapillary.com/).
+
+From this data, we could gather information about the different attributes of streets or the existence of street lights, park benches, and more. The usage of Mapillary AI was especially innovative: automated AI algorithms detect and read the objects from image sequences. We wrote this article where we further explain, how we used Mapillary for the automated object recognition for the individual sections of the routes in Freiburg.
+
+![Image sequence of WALKIE](/images/bildsequenzen_freiburg.jpg "Captured image sequences from project WALKIE")
+
+_Image 1: Captured image sequences from project WALKIE_
+
+The close and constructive collaboration with the pilot city Freiburg was crucial for the development of WALKIE and the successful project progress. For this, our team met up with the representatives of the unit DIGIT (Digital & IT) of the city Freiburg multiple times and implemented their feedback in the development of WALKIE. Moreover, the locally accessible data was implemented into GOAT and a [special version of GOAT for the city Freiburg](https://freiburg.open-accessibility.org/) was developed.
+
+In this version of GOAT, the walkability index was published for the first time. With it we were able to display the walkability score per section of the path in Freiburg. The green paths have a high score, which means they are especially pedestrian friendly. The orange paths have a lower walkability score and therefore could be optimized. Thus, weak points can be identified and easily visualized.
+
+![walkability index in GOAT](/images/bildsequenzen_walkability.jpg "Screenshot of the implemented walkability index in GOAT")
+
+_Image 2: Screenshot of the implemented walkability index in GOAT_
+
+## Potential pedestrian flows – which streets are high frequented?
+
+The frequentation of streets plays a crucial role in prioritizing improvement measures made by the government. For this purpose, we developed an additional indicator that points out the potential pedestrian flows.
+
+As an application example, we would like to use potential pedestrian flows for school routes to elementary schools of Freiburg. The proportion of children between the age of 6 and 9 is known. It allowed us to estimate the number of children in each residential building. In the next step, we calculated the shortest route from the buildings to the respective district elementary school and got the individual flows. These were summed to determine the aggregated potential pedestrian flows.
+
+The potential pedestrian flow is visualized by the thickness of the line, which shows how many children potentially walk this path.
+
+![potential pedestrian flows](/images/goat_fussgangerpotenzialstrome.jpg "Screenshot of the implemented potential pedestrian flows in GOAT ")
+
+_Image 3: Screenshot of the implemented potential pedestrian flows in GOAT_ 
+
+Those two layers can be contrasted and show which paths have a high frequency and low walkability. It gives a clear picture of which streets should be prioritized in urban planning.
+
+The walkability for the route to school is an example and can be transferred to other relevant study areas. We are confident about the usefulness of this indicator, as the urban planners of the city of Freiburg tested the new features of GOAT and found it beneficial and effective. GOAT will remain available for Freiburg for three more months after the end of the project.
+
+Here you can find the newly developed GOAT version and try out the new features for the study area Freiburg.
+
+## What are our next steps?
+
+The team is currently in contact with DIGIT Freiburg to explore new possible fields of application for GOAT and define new requirements for the tool.
+
+![Förderungen für GOAT](/images/hackathon.jpg "Förderungen für GOAT")

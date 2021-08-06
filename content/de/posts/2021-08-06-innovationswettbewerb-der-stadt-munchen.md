@@ -1,18 +1,19 @@
 ---
-author : ""
-categories : [News]
-date : 2021-08-06T10:00:00.000+00:00
-description : ""
-image : ""
-summary : "Wir freuen uns, verkünden zu können, dass wir den Münchener Innovationspreis in der Kategorie „Emissionsfreie Mobilität in München“ von der Stadt München verliehen bekommen haben. Wir werden den Wettbewerb und dessen Bedeutung für Plan4Better diskutieren. "
-thumbnail : ""
-title : "Innovationswettbewerb der Stadt München"
-translationKey : ""
+author: ''
+categories:
+- News
+date: 2021-08-06T10:00:00.000+00:00
+description: ''
+image: "/images/award_pic.webp"
+summary: 'Wir freuen uns, verkünden zu können, dass wir den Münchener Innovationspreis
+  in der Kategorie „Emissionsfreie Mobilität in München“ von der Stadt München verliehen
+  bekommen haben. Wir werden den Wettbewerb und dessen Bedeutung für Plan4Better diskutieren. '
+thumbnail: "/images/award_pic.webp"
+title: Innovationswettbewerb der Stadt München
+translationKey: ''
 
 ---
 Wir freuen uns, verkünden zu können, dass wir den [**Münchener Innovationspreis**](https://muenchen.digital/blog/innovationspreis-2021/) in der Kategorie „**Emissionsfreie Mobilität in München**“ von der [Stadt München](https://www.muenchen.de/rathaus/wirtschaft/tech/digitalisierung-plattformen/Innovationswettbewerb.html) verliehen bekommen haben. Das Finale wurde am 22. Juli abgehalten und von Katrin Habenschaden, der 2. Bürgermeisterin Münchens, präsentiert. Wir möchten hiermit ein paar Details zum Wettbewerb teilen und erläutern, was dieser für die Zukunft von Plan4Better bedeutet!
-
-![](/images/innovation.jpg)
 
 ## **Der Wettbewerb**
 
@@ -32,8 +33,8 @@ Ein gemeinsamer Tagesabschluss bei ein paar Gläsern Wein zur Feier rundeten den
 
 In einer einjährigen „Umsetzungsphase“ werden wir GOAT weiterentwickeln und unseren Entwicklungsprozess mit der Stadt München festigen. In gemeinsamen Workshops zum Thema „ Wie können wir München in eine 15-Minuten-Stadt transformieren?“, soll unter Nutzung von GOAT untersucht werden, wie gut die Ziele des täglich Bedarfs über die Stadt verteilt sind und wo hier noch Verbesserungspotential besteht. Der intensive Austausch und die wertvollen Einblicken in die Planungsabläufe der Stadt helfen uns dabei, unsere Indikatoren und Analyse-Optionen in GOAT zu verbessern und diese so näher an den realen Bedarf unserer Nutzer zu bringen.
 
-Außerdem haben wir eine „Wildcard“ für ein Accelerator-Programm unserer Wahl gewonnen. Ein guter Zeitpunkt, da wir uns ohnehin gerade erst für den **XPRENEURS Batch #10 der UnternehmerTUM** beworben hatten.
+Außerdem haben wir eine „Wildcard“ für ein Accelerator-Programm unserer Wahl gewonnen. Ein guter Zeitpunkt, da wir uns ohnehin gerade erst für den [XPRENEURS Batch #10](https://www.unternehmertum.de/en/services/xpreneurs) der [UnternehmerTUM](https://www.unternehmertum.de/en/) beworben hatten.
 
-Wir werden mehr Updates präsentieren können, sobald sich wieder neue Möglichkeiten für uns ergeben. **Sollten Sie an diesen interessiert sein, folgen Sie uns auf LinkedIn.** Bis dahin freuen wir uns schon einmal auf die nächsten Schritte und feiern unser erstes Award-Zertifikat an unserer Wand.
+Wir werden mehr Updates präsentieren können, sobald sich wieder neue Möglichkeiten für uns ergeben. Sollten Sie an diesen interessiert sein, folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/)**.** Bis dahin freuen wir uns schon einmal auf die nächsten Schritte und feiern unser erstes Award-Zertifikat an unserer Wand.
 
-![](/images/innovation2.jpg)
+ ![](/images/award_cert.webp)

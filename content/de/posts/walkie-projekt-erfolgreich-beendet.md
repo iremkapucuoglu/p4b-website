@@ -2,7 +2,7 @@
 author = ""
 categories = []
 date = ""
-description = "Das Projekt WALKIE hat alle Meilensteine erfolgreich erreicht! "
+description = "Das Projekt WALKIE hat alle Meilensteine erreicht! "
 draft = true
 image = ""
 summary = "Das Projekt WALKIE hat alle Meilensteine erfolgreich erreicht! GOAT wurde um Walkability & Fußgängerpotenzialströme erweitert und auf Freiburg übertragen."

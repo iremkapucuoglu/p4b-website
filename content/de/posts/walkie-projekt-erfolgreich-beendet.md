@@ -2,26 +2,26 @@
 author = ""
 categories = []
 date = ""
-description = ""
+description = "Das Projekt WALKIE hat alle Meilensteine erfolgreich erreicht! "
 draft = true
 image = ""
-summary = ""
+summary = "Das Projekt WALKIE hat alle Meilensteine erfolgreich erreicht! GOAT wurde um Walkability & Fußgängerpotenzialströme erweitert und auf die Pilotstadt Freiburg übertragen."
 thumbnail = ""
-title = "WALKIE Projekt erfolgreich beendet "
+title = "WALKIE Projekt erfolgreich abgeschlossen "
 translationKey = ""
 
 +++
 ## Neue Features von GOAT: Walkability Index und Fußgängerpotenzialströme
 
-Zu Fuß gehen ist die wohl nachhaltigste Form der Mobilität, denn es ist ökologisch, sozial, ökonomisch und basiert somit auf allen drei Säulen der Nachhaltigkeit. Dafür ist eine sichere und komfortable Fußgängerinfrastruktur notwendig - und zur Verbesserung dieser haben wir einen Walkability Index entwickelt. 
+Zu Fuß gehen ist die wohl nachhaltigste Form der Mobilität, denn es ist ökologisch, sozial, ökonomisch und basiert somit auf allen drei Säulen der Nachhaltigkeit. Dafür ist eine sichere und komfortable Fußgängerinfrastruktur notwendig - und zur Verbesserung dieser haben wir einen Walkability Index entwickelt.
 
-Im Rahmen des Projektes [WALKIE](https://plan4better.de/posts/2021-04-06-walkability-index/) („WALKability IndEx“) haben wir eine dreimonatige Förderung durch das [Verkehrsministerium Baden-Württemberg](https://vm.baden-wuerttemberg.de/de/startseite/) im Rahmen der Anschlussförderung des [MobiDataBW Hackathons 2020](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/digitale-mobilitaet/mobidata-bw-hackathon/) erhalten. Diese ermöglichte uns den Index in enger Zusammenarbeit mit der Pilotkommune [Freiburg](https://digital.freiburg.de/) zu konkretisieren und im Anschluss erfolgreich auf diese zu übertragen. 
+Im Rahmen des Projektes [WALKIE](https://plan4better.de/de/posts/2021-04-06-walkability-index/ "WALKIE") („WALKability IndEx“) haben wir eine dreimonatige Förderung durch das [Verkehrsministerium Baden-Württemberg](https://vm.baden-wuerttemberg.de/de/startseite/) im Rahmen der Anschlussförderung des [MobiDataBW Hackathons 2020](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/digitale-mobilitaet/mobidata-bw-hackathon/) erhalten. Diese ermöglichte uns den Index in enger Zusammenarbeit mit der Pilotkommune [Freiburg](https://digital.freiburg.de/) zu konkretisieren und im Anschluss erfolgreich auf diese zu übertragen.
 
 Somit haben wir sowohl alle angegebenen Meilensteine als auch das Hauptziel erreicht! GOAT wurde auf eine neue Stadt übertragen und konnte um neue Features erweitert werden, welche sowohl die aktuelle Fußgängerfreundlichkeit (engl. Walkability) der Städte, als auch Verbesserungspotenziale, priorisiert darstellen können.
 
 ## Konkretisierung des Walkability-Index:
 
-Das digitale Webtool GOAT war zuvor bereits in der Lage, die Verfügbarkeit von Gehwegen darzustellen. Mit der Einbindung des Walkability Indexes wird nun auch die Attraktivität für Fußgänger berücksichtigt. 
+Das digitale Webtool GOAT war zuvor bereits in der Lage, die Verfügbarkeit von Gehwegen darzustellen. Mit der Einbindung des Walkability Indexes wird nun auch die Attraktivität für Fußgänger berücksichtigt.
 
 Die Idee zur Entwicklung von WALKIE sowie ein erster Prototyp entstanden im Rahmen des MobiDataBW Hackathons im November 2020. Das Team nutzte die darauffolgende Innovationsphase (März-Juni 2021) zur Weiterentwicklung und Verstetigung der Funktionen, mit der Stadt Freiburg als Pilotstandort. WALKIE ist nun ein aussagekräftiger, multi-kriterieller Walkability Index, der die Attraktivität des Zufußgehens quantitativ abbildet.
 
@@ -38,7 +38,7 @@ Die Walkability-Kategorien:
 
 Die zahlreichen Einzelindikatoren wurden in einem Algorithmus bewertet, gewichtet und zu einem Gesamt-Walkability-Score aggregiert. Dabei wurden Scores zwischen 0 und 100 errechnet, wobei 0 eine niedrige und 100 eine hohe Fußgängerfreundlichkeit bedeuten.
 
-Wir haben unterschiedliche Datenquellen benutzt. Zum einen durch Crowdsorcing erhobene Datensätze, aber auch die OpenData-Plattformen von Stadt und Land (z.B. [FreiGIS](https://geoportal.freiburg.de/freigis/)). Darüber hinaus haben wir für die Stadt Freiburg über 10.000 Bildaufnahmen des Straßenraums über die Plattform [Mapillary](https://www.mapillary.com/) erhoben. 
+Wir haben unterschiedliche Datenquellen benutzt. Zum einen durch Crowdsorcing erhobene Datensätze, aber auch die OpenData-Plattformen von Stadt und Land (z.B. [FreiGIS](https://geoportal.freiburg.de/freigis/)). Darüber hinaus haben wir für die Stadt Freiburg über 10.000 Bildaufnahmen des Straßenraums über die Plattform [Mapillary](https://www.mapillary.com/) erhoben.
 
 Daraus konnten wir u.a. Infos zu den verschiedenen Attributen der Straßen oder zum Vorhandensein von Straßenlaternen, Parkbänken, etc. herauslesen. Besonders innovativ war dabei die Nutzung der Mapillary-API: automatisierte KI-Algorithmen erkennen und lesen die Objekte aus den Bildsequenzen aus. In [diesem Blogartikel](https://plan4better.de/de/posts/2021-15-06-high-quality-data-now-automatic/ "Automatisierte Bilderkennung") erklären wir genauer, wie wir Mapillary für die automatisierte Objekterkennung für die einzelnen Wegabschnitte in Freiburg genutzt haben![](/images/bildsequenzen_freiburg.jpg)_Abbildung 1: Erfasste Bildsequenzen im Rahmen des WALKIE Projektes_
 
@@ -64,7 +64,7 @@ _Abbildung 3: Screenshot des in GOAT implementierten Fußgängerpotenzialströme
 
 Werden die zwei Layer gegenübergestellt, kann die Frage beantwortet werden, welche Wege eine hohe Frequentierung und zeitgleich eine geringe Walkability haben. Diese sollten bei der Planung priorisiert werden.
 
-Die hier beispielhaft dargestellte Walkability für den Schulweg kann auf weitere Untersuchungsgebiete übertragen werden. Die Planer*innen der Stadt Freiburg haben im Rahmen des Projektes in einem Workshop GOAT mit den neuen Indikatoren getestet und als nützlich und positiv bewertet. Mit Projektende steht GOAT für weitere 3 Monate offen für Freiburg zur Verfügung. 
+Die hier beispielhaft dargestellte Walkability für den Schulweg kann auf weitere Untersuchungsgebiete übertragen werden. Die Planer*innen der Stadt Freiburg haben im Rahmen des Projektes in einem Workshop GOAT mit den neuen Indikatoren getestet und als nützlich und positiv bewertet. Mit Projektende steht GOAT für weitere 3 Monate offen für Freiburg zur Verfügung.
 
 [Hier ](https://freiburg.open-accessibility.org/ "GOAT Version Freiburg")können Sie selbst einen Blick auf die entwickelte GOAT-Version werfen und die neuen Features für das Untersuchungsgebiet Freiburg ausprobieren!
 

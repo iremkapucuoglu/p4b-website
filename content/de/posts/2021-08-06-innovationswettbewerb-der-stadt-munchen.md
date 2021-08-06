@@ -8,7 +8,7 @@ image: "/images/award_pic.webp"
 summary: 'Wir freuen uns, verkünden zu können, dass wir den Münchener Innovationspreis
   in der Kategorie „Emissionsfreie Mobilität in München“ von der Stadt München verliehen
   bekommen haben. Wir werden den Wettbewerb und dessen Bedeutung für Plan4Better diskutieren. '
-thumbnail: "/images/awardcertificate.jpg"
+thumbnail: "/images/picture-1.jpg"
 title: Innovationswettbewerb der Stadt München
 translationKey: ''
 

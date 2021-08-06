@@ -40,15 +40,15 @@ Die zahlreichen Einzelindikatoren wurden in einem Algorithmus bewertet, gewichte
 
 Wir haben unterschiedliche Datenquellen benutzt. Zum einen durch Crowdsorcing erhobene Datensätze, aber auch die OpenData-Plattformen von Stadt und Land (z.B. [FreiGIS](https://geoportal.freiburg.de/freigis/)). Darüber hinaus haben wir für die Stadt Freiburg über 10.000 Bildaufnahmen des Straßenraums über die Plattform [Mapillary](https://www.mapillary.com/) erhoben. 
 
-Daraus konnten wir u.a. Infos zu den verschiedenen Attributen der Straßen oder zum Vorhandensein von Straßenlaternen, Parkbänken, etc. herauslesen. Besonders innovativ war dabei die Nutzung der Mapillary-API: automatisierte KI-Algorithmen erkennen und lesen die Objekte aus den Bildsequenzen aus. In [diesem Blogartikel](https://plan4better.de/de/posts/2021-15-06-high-quality-data-now-automatic/ "Automatisierte Bilderkennung") erklären wir genauer, wie wir Mapillary für die automatisierte Objekterkennung für die einzelnen Wegabschnitte in Freiburg genutzt haben.
-
-_Bild_
+Daraus konnten wir u.a. Infos zu den verschiedenen Attributen der Straßen oder zum Vorhandensein von Straßenlaternen, Parkbänken, etc. herauslesen. Besonders innovativ war dabei die Nutzung der Mapillary-API: automatisierte KI-Algorithmen erkennen und lesen die Objekte aus den Bildsequenzen aus. In [diesem Blogartikel](https://plan4better.de/de/posts/2021-15-06-high-quality-data-now-automatic/ "Automatisierte Bilderkennung") erklären wir genauer, wie wir Mapillary für die automatisierte Objekterkennung für die einzelnen Wegabschnitte in Freiburg genutzt haben![](/images/bildsequenzen_freiburg.jpg)_Abbildung 1: Erfasste Bildsequenzen im Rahmen des WALKIE Projektes_
 
 Die enge und konstruktive Zusammenarbeit mit der Pilotstadt Freiburg war erheblich für die Entwicklung von WALKIE und den erfolgreichen Projektverlauf. Dazu hat sich das Team mehrmals mit Vertretenden der Einheit DIGIT (Digitales und IT) der Stadt Freiburg getroffen und ihr Feedback in den Entwicklungsprozess von WALKIE eingebunden. Außerdem wurden die lokal verfügbaren Daten in GOAT eingebunden und eine [auf die Stadt Freiburg abgestimmte GOAT-Version](https://freiburg.open-accessibility.org/) entwickelt.
 
 In dieser GOAT-Version wurde auch der Walkability Index erstmals veröffentlicht. Somit kann pro Wegabschnitt in Freiburg die Walkability dargestellt werden. Die grünen Wege haben einen hohen Score, d.h. sie sind besonders fußgängerfreundlich. Bei orangenen Wegen ist ein niedriger Walkability Score berechnet und es besteht somit Verbesserungspotenzial. So können Schwachstellen sehr gut und verständlich visualisiert werden.
 
-_Bild_
+_![Visualisierung von GOAT Walkability Index für Freiburg](/images/bildsequenzen_walkability.jpg "Walkability Index")_
+
+_Abbildung 2: Screenshot des in GOAT implementierten Walkability Index_
 
 ## Fußgängerpotenzialströme – Welche Straßen sind hoch frequentiert?
 
@@ -58,7 +58,9 @@ Als Anwendungsbeispiel wurden für die Stadt Freiburg Fußgängerpotenzialström
 
 Dies wird durch die Dicke der Linie visualisiert – diese zeigt auf, wie viele Kinder potenziell diesen Weg gehen.
 
-_Bild_
+_![GOAT Fußgängerpotenzialströme Freiburg](/images/goat_fussgangerpotenzialstrome.jpg "Fußgängerpotenzialströme")_
+
+_Abbildung 3: Screenshot des in GOAT implementierten Fußgängerpotenzialströme_
 
 Werden die zwei Layer gegenübergestellt, kann die Frage beantwortet werden, welche Wege eine hohe Frequentierung und zeitgleich eine geringe Walkability haben. Diese sollten bei der Planung priorisiert werden.
 

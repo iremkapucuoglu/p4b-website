@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = []
+categories = ["News", "Entwicklung"]
 date = ""
 description = "Das Projekt WALKIE hat alle Meilensteine erreicht! "
 draft = true

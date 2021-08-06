@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = []
+categories = ["news", "development"]
 date = ""
 description = "The WALKIE project successfully reached every milestone! "
 draft = true

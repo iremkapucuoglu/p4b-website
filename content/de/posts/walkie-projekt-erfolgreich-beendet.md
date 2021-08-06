@@ -4,9 +4,9 @@ categories = ["News", "Entwicklung"]
 date = ""
 description = "Das Projekt WALKIE hat alle Meilensteine erreicht! "
 draft = true
-image = "/images/banner_walkability.webp"
+image = "/images/walkie_banner.webp"
 summary = "Das Projekt WALKIE hat alle Meilensteine erfolgreich erreicht! GOAT wurde um Walkability & Fußgängerpotenzialströme erweitert und auf Freiburg übertragen."
-thumbnail = "/images/thumbnail_walkability.webp"
+thumbnail = "/images/walkie_thumbnail.webp"
 title = "WALKIE Projekt erfolgreich abgeschlossen "
 translationKey = ""
 

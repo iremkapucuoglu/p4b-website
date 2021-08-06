@@ -4,9 +4,9 @@ categories = ["news", "development"]
 date = ""
 description = "The WALKIE project successfully reached every milestone! "
 draft = true
-image = "/images/banner_walkability.webp"
+image = "/images/walkie_banner.webp"
 summary = "The WALKIE project has successfully reached every milestone! GOAT was extended to include walkability & potential pedestrian flows."
-thumbnail = "/images/thumbnail_walkability.webp"
+thumbnail = "/images/walkie_thumbnail.webp"
 title = "Project WALKIE successfully completed"
 translationKey = ""
 

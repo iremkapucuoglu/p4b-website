@@ -34,6 +34,6 @@ We will have a one-year “implementation phase” in which we further develop G
 
 In addition, we won a “wild card” for an accelerator program of our choice - once we have just applied for the [XPRENEURS Batch #10](https://www.unternehmertum.de/en/services/xpreneurs) of [UnternehmerTUM](https://www.unternehmertum.de/en/) anyway, this is very timely.
 
-We will have more updates as the opportunities keep presenting themselves so if you are interested - follow us on [LinkedIn](https://www.linkedin.com/company/plan4better/). For now, we are looking forward to the next steps and celebrating our first award certificate on our wall 😊
+We will have more updates as the opportunities keep presenting themselves so if you are interested - follow us on [LinkedIn](https://www.linkedin.com/company/plan4better/) or [Twitter](https://twitter.com/plan4better). For now, we are looking forward to the next steps and celebrating our first award certificate on our wall 😊.
 
 ![](/images/certif.jpg)

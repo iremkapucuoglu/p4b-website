@@ -5,9 +5,7 @@ categories:
 date: 2021-08-06T06:00:00.000+00:00
 description: ''
 image: "/images/award.webp"
-summary: 'Wir freuen uns, verkünden zu können, dass wir den Münchner Innovationspreis
-  in der Kategorie „Emissionsfreie Mobilität in München“ von der Stadt München verliehen
-  bekommen haben. Hier erläutern wir den Wettbewerb und seine Bedeutung für Plan4Better.'
+summary: 'Wir haben den Münchner Innovationspreis in der Kategorie „Emissionsfreie Mobilität in München“ von der Stadt München gewonnen! Hier erläutern wir den Wettbewerb und seine Bedeutung für Plan4Better.'
 thumbnail: "/images/award_t.webp"
 title: Innovationswettbewerb der Stadt München
 translationKey: ''
@@ -37,6 +35,6 @@ In einer einjährigen „Umsetzungsphase“ werden wir GOAT weiterentwickeln und
 
 Außerdem haben wir eine „Wildcard“ für ein Accelerator-Programm unserer Wahl gewonnen. Ein guter Zeitpunkt, da wir uns ohnehin gerade erst für den [XPRENEURS Batch #10](https://www.unternehmertum.de/en/services/xpreneurs) der [UnternehmerTUM](https://www.unternehmertum.de/en/) beworben hatten.
 
-Falls es weitere Neuigkeiten gibt, werden wird diese über unsere Social Media Kanäle teilen. Sollten Sie an diesen interessiert sein, folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/) und [Twitter](https://twitter.com/plan4better). Bis dahin freuen wir uns schon einmal auf die nächsten Schritte und feiern unser erstes Award-Zertifikat an unserer Wand.
+Falls es weitere Neuigkeiten gibt, werden wird diese über unsere Social Media Kanäle teilen. Sollten Sie an diesen interessiert sein, folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/) und [Twitter](https://twitter.com/plan4better). Bis dahin freuen wir uns schon einmal auf die nächsten Schritte und feiern unser erstes Award-Zertifikat an unserer Wand 😊.
 
 ![](/images/certif.jpg)

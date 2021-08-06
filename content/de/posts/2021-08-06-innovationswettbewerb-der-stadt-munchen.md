@@ -13,7 +13,7 @@ title: Innovationswettbewerb der Stadt München
 translationKey: ''
 
 ---
-Wir freuen uns, verkünden zu können, dass wir den [**Münchener Innovationspreis**](https://muenchen.digital/blog/innovationspreis-2021/) in der Kategorie **„Emissionsfreie Mobilität in München**“ von der [Stadt München](https://www.muenchen.de/rathaus/wirtschaft/tech/digitalisierung-plattformen/Innovationswettbewerb.html) verliehen bekommen haben. Das Finale wurde am 22. Juli abgehalten und von Katrin Habenschaden, der 2. Bürgermeisterin Münchens, präsentiert. Wir möchten hiermit ein paar Details zum Wettbewerb teilen und erläutern, was dieser für die Zukunft von Plan4Better bedeutet!
+Wir freuen uns, verkünden zu können, dass wir den [Münchener Innovationspreis](https://muenchen.digital/blog/innovationspreis-2021/) in der Kategorie **„Emissionsfreie Mobilität in München**“ von der [Stadt München](https://www.muenchen.de/rathaus/wirtschaft/tech/digitalisierung-plattformen/Innovationswettbewerb.html) verliehen bekommen haben. Das Finale wurde am 22. Juli abgehalten und von Katrin Habenschaden, der 2. Bürgermeisterin Münchens, präsentiert. Wir möchten hiermit ein paar Details zum Wettbewerb teilen und erläutern, was dieser für die Zukunft von Plan4Better bedeutet!
 
 ## **Der Wettbewerb**
 

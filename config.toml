@@ -1,4 +1,5 @@
 baseURL = "https://plan4better.de/"
+defaultContentLanguage = "de"
 languageCode = "en-us"
 title = "Plan4Better"
 [languages.de]

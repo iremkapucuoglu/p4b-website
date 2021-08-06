@@ -16,13 +16,26 @@ blocks:
   block: card
   layout: left
   background: default
+  text: Wir sind ein Startup aus München, das aus einer Ausgründung der TUM entstanden
+    ist und kürzlich mit dem Innovationspreis der Stadt München in der Kategorie „Emmissionsfreie
+    Mobilität in München“ ausgezeichnet wurde.
+  heading: Startup aus München
+  image: "/images/Plan4Better_SW_web-44.webp"
+  video: ''
+  background_image: "/images/bg-4.svg"
+  background_color_content: muted
+- template: card-block
+  block: card
+  layout: right
+  background: default
   text: Durch die Bereitstellung von verständlichen Planungstools für den Fuß- und
     Radverkehr begleiten wir die Stadt- und Verkehrsplanung, sowie die Standortentwicklung,
     in eine offenere, spaßigere und effizientere Zukunft.
   heading: Spielwiese zur Gestaltung lebenswerter Räume
   image: "/images/team_working.webp"
   video: ''
-  background_image: "/images/bg-4.svg"
+  background_image: "/images/bg-12.svg"
+  background_color_content: muted
 - template: features-block
   block: features
   background: default

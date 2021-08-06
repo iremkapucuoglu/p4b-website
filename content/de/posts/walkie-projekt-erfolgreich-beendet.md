@@ -51,3 +51,21 @@ In dieser GOAT-Version wurde auch der Walkability Index erstmals veröffentlicht
 _Bild_
 
 ## Fußgängerpotenzialströme – Welche Straßen sind hoch frequentiert?
+
+Die Frequentierung der Straßen ist für die Priorisierung der Verbesserungsmaßnahmen ebenfalls ein wichtiger Anhaltspunkt. Dafür wurde ein weiterer Indikator entwickelt, der die Fußgängerpotenzialströme aufzeigt.
+
+Als Anwendungsbeispiel wurden für die Stadt Freiburg Fußgängerpotenzialströme für Schulwege zu Grundschulen gewählt. Der Anteil an Kindern zwischen 6 und 9 Jahren war bekannt, dadurch konnte pro Wohnhaus abgeschätzt werden, wie viele Kinder in diesem wohnen. Im nächsten Schritt wurde von allen Wohnhäusern aus der kürzeste Weg zur jeweiligen Bezirksgrundschule berechnet. Die einzelnen Ströme wurden aufsummiert und ergeben die aggregierten Fußgängerpotenzialströme.
+
+Dies wird durch die Dicke der Linie visualisiert – diese zeigt auf, wie viele Kinder potenziell diesen Weg gehen.
+
+_Bild_
+
+Werden die zwei Layer gegenübergestellt, kann die Frage beantwortet werden, welche Wege eine hohe Frequentierung und zeitgleich eine geringe Walkability haben. Diese sollten bei der Planung priorisiert werden.
+
+Die hier beispielhaft dargestellte Walkability für den Schulweg kann auf weitere Untersuchungsgebiete übertragen werden. Die Planer*innen der Stadt Freiburg haben im Rahmen des Projektes in einem Workshop GOAT mit den neuen Indikatoren getestet und als nützlich und positiv bewertet. Mit Projektende steht GOAT für weitere 3 Monate offen für Freiburg zur Verfügung. 
+
+[Hier ](https://freiburg.open-accessibility.org/ "GOAT Version Freiburg")können Sie selbst einen Blick auf die entwickelte GOAT-Version werfen und die neuen Features für das Untersuchungsgebiet Freiburg ausprobieren!
+
+## Wie geht es weiter?
+
+Das Team steht derzeit weiterhin mit dem DIGIT Freiburg im Kontakt, um - über das WALKIE Projekt hinaus - mögliche Einsatzfelder von GOAT zu untersuchen und die Anforderungen an das Tool zu definieren.![](/images/hackathon.jpg)

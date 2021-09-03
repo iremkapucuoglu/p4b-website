@@ -16,7 +16,9 @@ blocks:
   block: card
   layout: left
   background: default
-  text: We are a start-up from Munich that emerged from a spin-off of TUM and was recently awarded with the Innovation Prize of the City of Munich in the category "Emission-free mobility in Munich".
+  text: We are a start-up from Munich that emerged from a spin-off of TUM and was
+    recently awarded with the Innovation Prize of the City of Munich in the category
+    "Emission-free mobility in Munich".
   heading: A Munich startup
   image: "/images/Plan4Better_SW_web-44.webp"
   video: ''
@@ -70,6 +72,14 @@ blocks:
 - template: logos-block
   block: logos
   background: default
+  padding_top: default
+  items:
+  - logo: "/images/e_web_11-1.webp"
+  heading: Sustainable Development Goals
+  text: ''
+- template: logos-block
+  block: logos
+  background: default
   heading: Partners
   logos:
   - "/images/20171221_logo_digitalfreiburg_rz_2c.png"
@@ -106,5 +116,6 @@ blocks:
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digital planning support systems to shape sustainable mobility and liveable
   spaces.
+draft: true
 
 ---

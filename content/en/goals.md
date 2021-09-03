@@ -1,8 +1,8 @@
 +++
 description = "We are inspired by the SDG goals we aim to accomplish."
 layout = "blocks"
-title = "Goals"
-translationKey = ""
+title = "Mission"
+translationKey = "mission"
 [header]
 background = "default"
 background_image = ""

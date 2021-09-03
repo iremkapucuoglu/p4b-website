@@ -79,7 +79,7 @@ blocks:
   - logo: "/images/e_web_11-1.webp"
   - logo: "/images/e_web_13.webp"
   heading: Sustainable Development Goals
-  text: ''
+  text: Check out our page on our SDGs
 - template: logos-block
   block: logos
   background: default

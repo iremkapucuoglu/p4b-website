@@ -74,7 +74,10 @@ blocks:
   background: default
   padding_top: default
   items:
+  - logo: "/images/e_web_03.webp"
+  - logo: "/images/e_web_04.webp"
   - logo: "/images/e_web_11-1.webp"
+  - logo: "/images/e_web_13.webp"
   heading: Sustainable Development Goals
   text: ''
 - template: logos-block

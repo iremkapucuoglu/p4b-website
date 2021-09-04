@@ -61,7 +61,7 @@ blocks:
     diese zwei Dimensionen und liefert über digitale Karten dynamische Analysen.
   heading: Was bieten wir?
   button:
-    url: "/what-is-goat/"
+    url: "/was-ist-goat/"
     text: Erfahre mehr zu GOAT
   background_image: "/images/bg-9.svg"
 - template: recent-posts-block

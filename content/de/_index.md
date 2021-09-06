@@ -70,6 +70,17 @@ blocks:
   heading: Aktuelle Blog-Posts
 - template: logos-block
   block: logos
+  background: secondary
+  padding_top: default
+  items:
+  - logo: "/images/e_web_03-1.webp"
+  - logo: "/images/e_web_04-1.webp"
+  - logo: "/images/e_web_11-2.webp"
+  - logo: "/images/e_web_13-1.webp"
+  heading: Sustainable Development Goals
+  text: Mit unserem Planungsinstrument GOAT addressieren wir die folgenden SDGs.
+- template: logos-block
+  block: logos
   background: default
   heading: Partner
   logos:

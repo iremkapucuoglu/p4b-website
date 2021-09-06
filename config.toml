@@ -76,7 +76,7 @@ url = "/team/"
 weight = 4
 [[languages.de.menu.center]]
 name = "Ziele"
-url = "/goals/"
+url = "/mission/"
 weight = 5
 [[languages.de.menu.center]]
 name = "Kontakt"

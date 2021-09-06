@@ -75,7 +75,7 @@ name = "Team"
 url = "/team/"
 weight = 4
 [[languages.de.menu.center]]
-name = "Ziele"
+name = "Mission"
 url = "/mission/"
 weight = 5
 [[languages.de.menu.center]]

@@ -75,9 +75,13 @@ name = "Team"
 url = "/team/"
 weight = 4
 [[languages.de.menu.center]]
+name = "Ziele"
+url = "/goals/"
+weight = 5
+[[languages.de.menu.center]]
 name = "Kontakt"
 url = "/kontakt/"
-weight = 5
+weight = 6
 [[languages.de.menu.footer]]
 name = "Team"
 url = "/team/"

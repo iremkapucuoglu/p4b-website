@@ -16,7 +16,9 @@ blocks:
   block: card
   layout: left
   background: default
-  text: We are a start-up from Munich that emerged from a spin-off of TUM and was recently awarded with the Innovation Prize of the City of Munich in the category "Emission-free mobility in Munich".
+  text: We are a start-up from Munich that emerged from a spin-off of TUM and was
+    recently awarded with the Innovation Prize of the City of Munich in the category
+    "Emission-free mobility in Munich".
   heading: A Munich startup
   image: "/images/Plan4Better_SW_web-44.webp"
   video: ''
@@ -60,13 +62,24 @@ blocks:
     a dynamic map-based analysis.
   heading: Our Offer
   button:
-    url: "/what-is-goat/"
+    url: "/en/what-is-goat/"
     text: Learn more about GOAT
   background_image: "/images/bg-9.svg"
 - template: recent-posts-block
   block: recent-posts
   background: muted
   heading: Recent Posts
+- template: logos-block
+  block: logos
+  background: secondary
+  padding_top: default
+  items:
+  - logo: "/images/e_web_03-1.webp"
+  - logo: "/images/e_web_04-1.webp"
+  - logo: "/images/e_web_11-2.webp"
+  - logo: "/images/e_web_13-1.webp"
+  heading: Sustainable Development Goals
+  text: We are inspired by the SDG goals we aim to accomplish.
 - template: logos-block
   block: logos
   background: default
@@ -79,6 +92,7 @@ blocks:
   - "/images/logo_freising.png"
   - "/images/logo_ffb.png"
   - "/images/logo_munichways.png"
+  - "/images/logo_xpreneurs.png"
   text: ''
   padding_top: default
   items:
@@ -89,6 +103,7 @@ blocks:
   - logo: "/images/logo_freising.png"
   - logo: "/images/logo_ffb.png"
   - logo: "/images/logo_munichways.png"
+  - logo: "/images/logo_xpreneurs.png"
 - template: logos-block
   block: logos
   background: default
@@ -106,5 +121,6 @@ blocks:
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digital planning support systems to shape sustainable mobility and liveable
   spaces.
+
 
 ---

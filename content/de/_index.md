@@ -80,6 +80,7 @@ blocks:
   - "/images/logo_freising.png"
   - "/images/logo_ffb.png"
   - "/images/logo_munichways.png"
+  - "/images/logo_xpreneurs.png"
   text: ''
   padding_top: default
   items:
@@ -90,6 +91,7 @@ blocks:
   - logo: "/images/logo_freising.png"
   - logo: "/images/logo_ffb.png"
   - logo: "/images/logo_munichways.png"
+  - logo: "/images/logo_xpreneurs.png"
 - template: logos-block
   block: logos
   background: default

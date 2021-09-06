@@ -9,10 +9,15 @@ background_image = ""
 heading = "Mission"
 image = ""
 layout = "center"
-text = "blabla"
-[header.button]
+text = "Our mission is inspired by the Sustainable Development Goals (SDG) we aim to accomplish. SDGs are widely known to guide companies towards a more sustainable and successful future. Specific targets we reference are provided by the SDG Compass site."
+[[blocks]]
+background = "default"
+block = "images"
+columns = "1"
+heading = ""
+images = ["/images/e_sdg_logo_without_un_emblem_horizontal_transparent_web.webp"]
+template = "images-block"
 text = ""
-url = ""
 [[blocks]]
 background = "default"
 block = "images"

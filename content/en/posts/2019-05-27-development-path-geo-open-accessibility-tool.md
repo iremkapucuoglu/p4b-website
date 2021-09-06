@@ -1,14 +1,22 @@
 ---
 layout: post
-title:  "Development path of GOAT"
+title: Development path of GOAT
 author: pajares
 lang: en
-tags: [en]
-categories: [news, development]
-thumbnail: /images/blog/development_path/thumbnail.webp
-image: /images/blog/development_path/banner.webp
-summary: GOAT is by far not where we would like it to be. Apart from the on-going professionalization which is seen as crucial to provide a truly useful and stable accessibility instrument, additional features will be implemented on a regular basis.
+tags:
+- en
+categories:
+- news
+- development
+thumbnail: "/images/blog/development_path/thumbnail.webp"
+image: "/images/blog/development_path/banner.webp"
+summary: GOAT is by far not where we would like it to be. Apart from the on-going
+  professionalization which is seen as crucial to provide a truly useful and stable
+  accessibility instrument, additional features will be implemented on a regular basis.
 date: 2019-05-27
+description: 'GOAT''s development process. Many functions of a useful planning tool
+  are already implemented, others will follow. This is how it all started:'
+
 ---
 ## Development Process
 
@@ -81,4 +89,4 @@ The reason for not extending coverage to other places is related to the claims I
 
 To this date, I can only be in a position to provide the services of GOAT within the boundaries of the city of Munich. However, in the coming months I can imagine to extend the online-version of GOAT to some other counties in the metropolitan regions of Munich.
 
-I would also be very open to launch GOAT in other cities worldwide as an initiative to foster meaningful cooperation with others. If you miss GOAT in your city and you are interested in becoming part of the community, just get in touch and we could develop strategies to make this possible! 
+I would also be very open to launch GOAT in other cities worldwide as an initiative to foster meaningful cooperation with others. If you miss GOAT in your city and you are interested in becoming part of the community, just get in touch and we could develop strategies to make this possible!

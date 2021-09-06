@@ -3,18 +3,22 @@ title: Let's plan a balanced future together!
 thumbnail: "/images/blog/plan4better/plan4better_thumbnail.webp"
 image: "/images/blog/plan4better/plan4better_banner.webp"
 date: 2021-03-21T13:00:00.000+00:00
-summary: 'We are absolutely certain that new directions of our work are necessary to boost the development and application of GOAT. To build more sustainable cities and regions worldwide, we founded our start-up and chose a self-explanatory name: Plan4Better!'
+summary: 'We are absolutely certain that new directions of our work are necessary
+  to boost the development and application of GOAT. To build more sustainable cities
+  and regions worldwide, we founded our start-up and chose a self-explanatory name:
+  Plan4Better!'
 categories:
 - news
-author: jehle
+author: haxhiu
+description: 'We are commited to our goal and founded a start-up: Plan4Better! This
+  is how it started and our work towards a better future.'
 
 ---
-
 ## How it all started
 
 Our common journey started in research at the TUM, more specifically at the [Chair of Urban Structure and Transport Planning](https://www.bgu.tum.de/en/sv/homepage/). Our enthusiasm about the development of GOAT has never stopped and we are especially curious about the ability to help changing the way cities are built. By the power of the accessibility concept, digital mapping technologies and tons of spatial data.
 
-The hard and intensive work on building [GOAT](../../what-is-goat) culminated in a useful accessibility instrument, which will facilitate planners and decision makers to plan more effective for walking and cycling. 
+The hard and intensive work on building [GOAT](../../what-is-goat) culminated in a useful accessibility instrument, which will facilitate planners and decision makers to plan more effective for walking and cycling.
 
 We are absolute convinced that new directions of work are necessary for continuous development and the application in practice to build more sustainable and balanced cities and regions worldwide. Therefore, we founded our start-up and chose a self-explaining name for it: Plan4Better!
 
@@ -24,9 +28,9 @@ Our core [team](../../../team) consists of Elias Pajares, Ulrike Jehle and Majk 
 
 ## Our Motivation
 
-What was our motivation to found a start-up? It is rooted on four pillars: firstly, as already mentioned, we want to contribute to sustainable mobility. The second is our commitment to contribute to open data as well as to open source. Furthermore, we want to bring innovation to practice and in practical terms, we want to support municipalities in the planning process by crafting and providing map-based digital tools to build a balanced future for municipalities.
+What was our motivation to found a start-up? It is rooted in our missions: first, as already mentioned, we want to contribute to sustainable mobility. The second is our commitment to contribute to open data as well as to open source. Third, we want to bring innovation to practice and in practical terms, we want to support municipalities in the planning process by crafting and providing map-based digital tools to build a balanced future at the municipal level.
 
-We summarize cutting-edge analyses in an enjoyable and easy-to-use interface. All in all, we pursue the vision, that Plan4Better becomes the hidden champion to design sustainable and attractive spaces. We already had the opportunity to use GOAT together with numerous practitioners from various municipalities/consultancies and we received an overall overwhelming feedback! GOAT is urgently needed, as the industry is lacking digital planning tools which are mature, dynamic and affordable to shape active mobility. This motivated us to go all in! 
+We summarize cutting-edge analyses in an enjoyable and easy-to-use interface. All in all, we pursue the vision, that Plan4Better becomes the hidden champion to design sustainable and attractive spaces. We already had the opportunity to use GOAT together with numerous practitioners from various municipalities/consultancies and we received an overall overwhelming feedback! GOAT is urgently needed, as the industry is lacking digital planning tools which are mature, dynamic and affordable to shape active mobility. This motivated us to go all in!
 
 ## Our Offer
 

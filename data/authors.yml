@@ -6,17 +6,18 @@
     de: Geschäftsführer
   image: "/images/elias_pajares.png"
   bio:
-    en: As initiator of GOAT and transport researcher he is leading the team with Ulrike. As advocate for 
-      liveable cities he loves to develop innovative solutions and trigger sustainable change.
-    de: Als Initiator von GOAT und Verkehrswissenschaftler leitet er das Team gemeinsam mit Ulrike Jehle. 
-      Als Verfechter für lebenswerte Städte begeistert er sich für innovative
-      Lösungen und dem Anstoßen von nachhaltigem Wandel.
+    en: As initiator of GOAT and transport researcher he is leading the team with
+      Ulrike. As advocate for liveable cities he loves to develop innovative solutions
+      and trigger sustainable change.
+    de: Als Initiator von GOAT und Verkehrswissenschaftler leitet er das Team gemeinsam
+      mit Ulrike Jehle. Als Verfechter für lebenswerte Städte begeistert er sich für
+      innovative Lösungen und dem Anstoßen von nachhaltigem Wandel.
   github: https://github.com/EPajares
   website: ''
   linkedin: https://www.linkedin.com/in/eliaspajares/
   team_member: true
   twitter: https://twitter.com/PajaresElias
-  team_image: "/images/image317.jpg"
+  team_image: "/images/team_elias.jpg"
 - username: jehle
   name: Ulrike Jehle
   title:
@@ -24,16 +25,18 @@
     de: Geschäftsführerin
   image: "/images/ulrike_jehle.jpg"
   bio:
-    en: As engineer and scientist she is leading the team with Elias. To shape liveable cities, 
-      she is particularly engaged in strengthening active forms of mobility and foster Open Data.
-    de: Als Umweltingenieurin und Wissenschaftlerin leitet sie das Team mit Elias Pajares. 
-      Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt Sie sich für die aktive Mobilität und die Förderung offener Daten ein.
+    en: As engineer and scientist she is leading the team with Elias. To shape liveable
+      cities, she is particularly engaged in strengthening active forms of mobility
+      and foster Open Data.
+    de: Als Umweltingenieurin und Wissenschaftlerin leitet sie das Team mit Elias
+      Pajares. Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt sie sich
+      für die aktive Mobilität und die Förderung offener Daten ein.
   github: https://github.com/UJehle
   website: ''
   linkedin: https://www.linkedin.com/in/ulrike-jehle/
   team_member: true
   twitter: https://twitter.com/JehleUlrike
-  team_image: "/images/image208.jpg"
+  team_image: "/images/team_ulrike.jpg"
 - username: shkurti
   name: Majk Shkurti
   title:
@@ -41,14 +44,16 @@
     de: Technischer Direktor
   image: "/images/majk_shkurti.png"
   bio:
-    en: As experienced WebGIS-developer he is leading the development. His passion lies in making map-based technologies useful and accessible for everyone.
-    de: Als erfahrener WebGIS-Entwickler leitet er die Entwicklung. Mit Leidenschaft verwandelte er kartenbasierte Technologien in sinnvolle und offene Anwendungen.
+    en: As experienced WebGIS-developer he is leading the development. His passion
+      lies in making map-based technologies useful and accessible for everyone.
+    de: Als erfahrener WebGIS-Entwickler leitet er die Entwicklung. Mit Leidenschaft
+      verwandelte er kartenbasierte Technologien in sinnvolle und offene Anwendungen.
   github: https://github.com/majkshkurti
   website: ''
   linkedin: https://www.linkedin.com/in/majkshkurti/
   team_member: true
   twitter: ''
-  team_image: "/images/image134.jpg"
+  team_image: "/images/team_majk.jpg"
 - username: hassine
   name: Emna Ben Hassine
   title:
@@ -92,8 +97,8 @@
 - username: ramirez
   name: German Santiago Linares Ramirez
   title:
-    en: Student Assistant
-    de: Wissenschaftliche Hilfskraft
+    en: Guest Author
+    de: Gastautor
   image: "/images/ramirez.jpg"
   bio:
     en: He is a Civil and Industrial Engineer with passion for active mobility, cities,
@@ -109,3 +114,41 @@
   Website: ''
   team_image: ''
   website: ''
+- username: haxhiu
+  name: Helga Haxhiu
+  title:
+    en: Marketing
+    de: Marketing
+  image: "/images/haxhiu.jpg"
+  bio:
+    en: In marketing, she supports the team in getting to the heart of content for
+      customers and interested parties. As a passionate pedestrian, she is enthusiastic
+      about the urban planning potential that GOAT can open up.
+    de: Im Marketing unterstützt sie das Team dabei, Inhalte für Kund*innen und Interessierte
+      bilingual auf den Punkt zu bringen. Als leidenschaftliche Fußgängerin begeistert
+      sie das städteplanerische Potenzial, das GOAT eröffnen kann.
+  team_member: true
+  team_image: "/images/team_helga.jpg"
+  github: ''
+  website: ''
+  linkedin: https://www.linkedin.com/in/helga-haxhiu-6b267b219/
+  twitter: ''
+- username: hall
+  name: Joelean Hall
+  title:
+    en: Intern
+    de: Praktikantin
+  bio:
+    en: She’s interested in sustainable urban and transport planning projects and
+      applications. As an intern, she supports the team on website updates, data tasks,
+      and research building.
+    de: Sie interessiert sich für nachhaltige Stadt- und Verkehrsplanungsprojekte.
+      Als Praktikantin unterstützt sie das Team bei Website-Updates, Datenaufbereitung
+      und Recherchen.
+  image: "/images/team_joelean_bw-3-1.webp"
+  team_member: true
+  team_image: "/images/team_joelean.png"
+  github: ''
+  website: https://www.joeleanhall.com/
+  linkedin: https://www.linkedin.com/in/joelean-hall-1207001b7/
+  twitter: ''

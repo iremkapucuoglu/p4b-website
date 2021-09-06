@@ -4,7 +4,7 @@ permalink: /de/docs/osm_tutorial/
 lang: de
 sections:
 - osm
-weight: 20
+weight: 10
 ---
 
 

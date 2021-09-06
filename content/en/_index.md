@@ -10,20 +10,33 @@ header:
     text: Try Goat
     url: "/goatlive/"
   background: default
-  background_image: "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
+  background_image: "/images/title_street.webp"
 blocks:
 - template: card-block
   block: card
   layout: left
+  background: default
+  text: We are a start-up from Munich that emerged from a spin-off of TUM and was
+    recently awarded with the Innovation Prize of the City of Munich in the category
+    "Emission-free mobility in Munich".
+  heading: A Munich startup
+  image: "/images/Plan4Better_SW_web-44.webp"
+  video: ''
+  background_image: "/images/bg-4.svg"
+  background_color_content: muted
+- template: card-block
+  block: card
+  layout: right
   background: default
   text: 'Our aim is to help planners and decision-makers to promote active mobility
     and plan for a balanced future. By providing understandable planning tools, we
     are transforming spatial and transport planning towards a more open, joyful and
     efficient reality. '
   heading: Playground for shaping livable spaces
-  image: "/images/charles-deluvio-lks7vei-eag-unsplash.jpg"
+  image: "/images/team_working.webp"
   video: ''
-  background_image: "/images/bg-4.svg"
+  background_image: "/images/bg-12.svg"
+  background_color_content: muted
 - template: features-block
   block: features
   background: default
@@ -45,8 +58,8 @@ blocks:
   background: default
   image: "/images/isochrone_amenities.webp"
   text: Walking and cycling require attractive transport infrastructure and destinations
-    at close distance (15-minute city). With the accessibility approach GOAT offers
-    dynamic map-based analysis.
+    at close distance (15-minute city). With the accessibility approach, GOAT offers
+    a dynamic map-based analysis.
   heading: Our Offer
   button:
     url: "/what-is-goat/"
@@ -58,18 +71,39 @@ blocks:
   heading: Recent Posts
 - template: logos-block
   block: logos
+  background: secondary
+  padding_top: default
+  items:
+  - logo: "/images/e_web_03-1.webp"
+  - logo: "/images/e_web_04-1.webp"
+  - logo: "/images/e_web_11-2.webp"
+  - logo: "/images/e_web_13-1.webp"
+  heading: Sustainable Development Goals
+  text: We are inspired by the SDG goals we aim to accomplish.
+- template: logos-block
+  block: logos
   background: default
   heading: Partners
   logos:
   - "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - "/images/logo_mobidata-bw-1.jpg"
   - "/images/logo-tum-1.png"
+  - "/images/logo_muc.png"
+  - "/images/logo_freising.png"
+  - "/images/logo_ffb.png"
+  - "/images/logo_munichways.png"
+  - "/images/logo_xpreneurs.png"
   text: ''
   padding_top: default
   items:
   - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
   - logo: "/images/logo_mobidata-bw-1.jpg"
   - logo: "/images/logo-tum-2.png"
+  - logo: "/images/logo_muc.png"
+  - logo: "/images/logo_freising.png"
+  - logo: "/images/logo_ffb.png"
+  - logo: "/images/logo_munichways.png"
+  - logo: "/images/logo_xpreneurs.png"
 - template: logos-block
   block: logos
   background: default
@@ -84,6 +118,9 @@ blocks:
   - logo: "/images/logo-mfund.png"
   - logo: "/images/logo-bmvi.png"
     text: 'Gefördert durch:'
-    text_2: 'aufgrund eines Beschlusses des Deutschen Bundestages'
+    text_2: aufgrund eines Beschlusses des Deutschen Bundestages
+description: Digital planning support systems to shape sustainable mobility and liveable
+  spaces.
+
 
 ---

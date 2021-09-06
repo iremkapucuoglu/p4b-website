@@ -1,10 +1,11 @@
 +++
+description = ""
 layout = "blocks"
 title = "Competences Overview"
 translationKey = "competences-overview"
 [header]
 background = "default"
-background_image = "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
+background_image = "/images/title_street.webp"
 heading = "Competences Overview"
 image = ""
 layout = "center"
@@ -42,6 +43,21 @@ icon = "question"
 page = "en/consultancy.md"
 text = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries"
 url = "/consultancy/"
+[[blocks]]
+background = "default"
+block = "pricing"
+heading = "Custom Version"
+template = "pricing-block"
+text = "Custom Version"
+[[blocks.pricing]]
+heading = "Test"
+list = []
+list_heading = ""
+subheading = "Included things:"
+text = "Text "
+[[blocks.pricing.prices]]
+label = "Setup"
+price = "contact us - 10.000 €"
 
 +++
 ## The passage is attributed to typesetter
@@ -64,7 +80,7 @@ The purpose of _lorem ipsum_ is to create a natural looking block of text (sente
 
 _Lorem ipsum_, or _lipsum_ as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's _De Finibus Bonorum et Malorum_ for use in a type specimen book. It usually begins with:
 
-![](/images/bastien-nvs-qysbqek0bts-unsplash.jpg)
+![](/images/title_street.webp)
 
 The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our [generator](https://loremipsum.io/#generator "Lorem Ipsum Generator") to get your own, or read on for the authoritative history of _lorem ipsum_.
 

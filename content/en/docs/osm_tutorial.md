@@ -3,11 +3,11 @@ title: Making changes in OSM
 permalink: /docs/osm_tutorial/
 sections:
 - osm
-weight: 20
+weight: 10
 ---
 
 
-GOAT works with OSM data. This means that if the OSM data is faulty, your model will also be faulty. If data errors are found in the model, it is best to clean them up directly in OSM. For most cities OSM data is quite good, but in some places many adjustments are necessary.
+GOAT works with OSM data. This means that if the OSM data is faulty, the model will also be faulty. If data errors are found in the model, it is best to clean them up directly in OSM. For most cities OSM data is quite good, but in some places many adjustments are necessary.
 
 There are many different ways to edit OSM data. You can do the editing directly in the browser, e.g. with the embedded iD editor, or use external editor tools like [JOSM](https://josm.openstreetmap.de/). This documentation shows the basic steps of editing OSM data with the iD Editor. 
 

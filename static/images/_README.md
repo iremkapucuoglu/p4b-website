@@ -1,3 +1,9 @@
+## Uniform image sizes
+
+Blogposts:
+For Thumbnail images, we use 600x450px
+For Banner images, we use 900x450px
+
 ## Compress images before uploading
 
 [https://www.birme.net/](https://www.birme.net/)

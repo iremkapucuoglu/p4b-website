@@ -1,4 +1,5 @@
 baseURL = "https://plan4better.de/"
+defaultContentLanguage = "de"
 languageCode = "en-us"
 title = "Plan4Better"
 [languages.de]
@@ -74,9 +75,13 @@ name = "Team"
 url = "/team/"
 weight = 4
 [[languages.de.menu.center]]
+name = "Mission"
+url = "/mission/"
+weight = 5
+[[languages.de.menu.center]]
 name = "Kontakt"
 url = "/kontakt/"
-weight = 5
+weight = 6
 [[languages.de.menu.footer]]
 name = "Team"
 url = "/team/"
@@ -101,19 +106,19 @@ weight = 1
 button = "primary-outline"
 [[languages.de.menu.social]]
 name = "Twitter"
-url = "#"
+url = "https://twitter.com/plan4better"
 weight = 1
 [languages.de.menu.social.params]
 icon = "twitter"
 [[languages.de.menu.social]]
 name = "Linkedin"
-url = "#"
+url = "https://www.linkedin.com/company/plan4better/"
 weight = 2
 [languages.de.menu.social.params]
 icon = "linkedin"
 [[languages.de.menu.social]]
 name = "GitHub"
-url = "#"
+url = "https://github.com/goat-community/"
 weight = 3
 [languages.de.menu.social.params]
 icon = "github"
@@ -217,9 +222,13 @@ name = "Team"
 url = "/team/"
 weight = 4
 [[languages.en.menu.center]]
+name = "Mission"
+url = "/mission/"
+weight = 5
+[[languages.en.menu.center]]
 name = "Contact"
 url = "/contact/"
-weight = 5
+weight = 6
 [[languages.en.menu.footer]]
 name = "Team"
 url = "/team/"
@@ -244,13 +253,13 @@ weight = 1
 button = "primary-outline"
 [[languages.en.menu.social]]
 name = "Twitter"
-url = "https://twitter.com/GoatTool"
+url = "https://twitter.com/plan4better"
 weight = 1
 [languages.en.menu.social.params]
 icon = "twitter"
 [[languages.en.menu.social]]
 name = "Linkedin"
-url = "https://www.linkedin.com/company/goat-tool/"
+url = "https://www.linkedin.com/company/plan4better/"
 weight = 2
 [languages.en.menu.social.params]
 icon = "linkedin"
@@ -276,7 +285,7 @@ email = "info@plan4better.de"
 mailchimp_form_action = ""
 mailchimp_hidden_name = ""
 ogimage = "images/og-image.png"
-twitter = "@GoatTool"
+twitter = "@plan4better"
 phone = "+49 89 2000 708 30"
 site_logo = "images/logo.png"
 site_logo_light = "images/logo-light.png"

@@ -1,4 +1,5 @@
 +++
+description = "Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen."
 layout = "blocks"
 title = "Team"
 translationKey = "team"
@@ -33,7 +34,7 @@ background_color_content = "secondary"
 background_image = ""
 block = "card"
 heading = ""
-image = "/images/image360.jpg"
+image = "/images/team.webp"
 layout = "right"
 padding_top = "default"
 template = "card-block"
@@ -45,15 +46,15 @@ url = "https://www.tum.de/en/innovation/entrepreneurship/venture-labs/"
 [[blocks]]
 background = "muted"
 block = "team"
-heading = "Gründer*innen"
+heading = "Team"
 template = "team-block"
-text = "Schreiben Sie uns gerne an und kommen Sie  mit den Gründer*innen von Plan4Better in Kontakt."
+text = "Schreiben Sie uns gerne an und kommen Sie mit dem Team von Plan4Better in Kontakt!"
 [[blocks]]
 background = "default"
 block = "images"
 columns = "1"
-heading = "Follow us towards a balanced future!"
-images = ["/images/charles-deluvio-lks7vei-eag-unsplash.jpg"]
+heading = "Gemeinsam in eine balancierte Zukunft starten!"
+images = ["/images/team_working.webp"]
 template = "images-block"
 text = ""
 

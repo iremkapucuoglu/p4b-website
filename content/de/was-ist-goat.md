@@ -1,4 +1,5 @@
 +++
+description = "Geo Open Accessibility Tool (GOAT) ist ein Open-Source-Webtool zur Erreichbarkeitsplanung mit Fokus auf Nachhaltigkeit."
 layout = "blocks"
 title = "Was ist GOAT?"
 translationKey = "what-is-goat"
@@ -21,7 +22,7 @@ heading = "Was ist GOAT?"
 image = "/images/heatmap.webp"
 layout = "left"
 template = "card-block"
-text = "Geo Open Accessibility Tool, oder einfach GOAT, ist ein Open-Source-Webtool zur interaktiven und dynamischen Erreichbarkeitsplanung. Mit GOAT können Erreichbarkeiten für den Fuß- und Radverkehr modelliert werden. Dadurch zeichnet es sich aus als Instrument für eine einfachere, bessere und offenere Verkehrs- und Stadtplanung. Es werden regelmäßig Erweiterungen vorgenommen, um die Leistung zu verbessern und zusätzliche Funktionalitäten hinzuzufügen."
+text = "Geo Open Accessibility Tool, oder einfach GOAT, ist ein Open-Source-Webtool zur interaktiven und dynamischen Erreichbarkeitsplanung. Mit GOAT können Erreichbarkeiten für den Fuß- und Radverkehr modelliert werden. Dadurch zeichnet es sich aus, als Instrument für eine einfachere, bessere und offenere Verkehrs- und Stadtplanung. Es werden regelmäßig Erweiterungen vorgenommen, um die Leistung zu verbessern und zusätzliche Funktionalitäten hinzuzufügen."
 video = ""
 [blocks.button]
 text = ""
@@ -43,9 +44,8 @@ url = ""
 [[blocks]]
 background = "muted"
 block = "links"
-heading = "Learn more"
+heading = "Weitere Infos"
 template = "links-block"
-
 [[blocks.links]]
 heading = "GOAT-live"
 icon = "location"
@@ -56,7 +56,7 @@ url = "/goatlive/"
 heading = "Videos"
 icon = "play-circle"
 page = "de/videos.md"
-text = "Videos geben einen Überblick zu den Funktionen und Einsatzmöglichkeiten."
+text = "Videos geben einen Überblick zu den Funktionen und Einsatzmöglichkeiten von GOAT."
 url = "de/videos/"
 [[blocks.links]]
 heading = "Tutorials"
@@ -71,6 +71,5 @@ page = "de/docs.md"
 pages = "de/_index.md"
 text = "Detaillierte Informationen zum technischen Hintergrund und zur Beteiligung am Open-Source-Projekt."
 url = "de/docs/background/"
-
 
 +++

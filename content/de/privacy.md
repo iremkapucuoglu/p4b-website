@@ -4,7 +4,7 @@ title = "Datenschutzerklärung"
 translationKey = ""
 [header]
 background = "default"
-background_image = "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
+background_image = "/images/title_street.webp"
 heading = "Datenschutzerklärung"
 image = ""
 layout = "center"

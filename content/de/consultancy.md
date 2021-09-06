@@ -4,9 +4,9 @@ title = "Consultancy"
 translationKey = "consultancy"
 [header]
 background = "default"
-background_image = "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
+background_image = "/images/title_street.webp"
 heading = "Pricing"
-image = "/images/bastien-nvs-qysbqek0bts-unsplash.jpg"
+image = "/images/title_street.webp"
 layout = "center"
 text = "Duis aute irure dolor in reprehenderit in lorem dolores olum voluptate velit esse cillum dolore eu fugiat in reprehenderit nulla."
 [header.button]

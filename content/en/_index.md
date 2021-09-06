@@ -79,10 +79,11 @@ blocks:
   - logo: "/images/e_web_11-2.webp"
   - logo: "/images/e_web_13-1.webp"
   heading: Sustainable Development Goals
-  text: We are inspired by the SDG goals we aim to accomplish
+  text: We are inspired by the SDG goals we aim to accomplish.
 - template: links-block
   block: links
   background: default
+  padding_top: default
   heading: ''
   links:
   - text: Check out our SDG mission
@@ -126,6 +127,6 @@ blocks:
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digital planning support systems to shape sustainable mobility and liveable
   spaces.
-draft: true
+
 
 ---

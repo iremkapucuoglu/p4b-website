@@ -219,7 +219,7 @@ url = "/team/"
 weight = 4
 [[languages.en.menu.center]]
 name = "Mission"
-url = "/goals/"
+url = "/mission/"
 weight = 5
 [[languages.en.menu.center]]
 name = "Contact"

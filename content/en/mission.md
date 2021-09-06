@@ -9,13 +9,13 @@ background_image = ""
 heading = "Mission"
 image = ""
 layout = "center"
-text = "Our mission is inspired by the Sustainable Development Goals (SDG) of the United Nations we aim to accomplish. SDGs are widely known to guide companies towards a more sustainable and successful future. Specific targets we reference are provided by the SDG Compass site."
+text = "Our mission is inspired by the Sustainable Development Goals (SDG) we aim to accomplish. The SDGs of the United Nations guide companies towards a more sustainable and successful future. Specific targets we reference are provided by the SDG Compass site."
 [[blocks]]
 background = "default"
 block = "images"
 columns = "1"
 heading = ""
-images = ["/images/E_SDG_logo_without_UN_emblem_horizontal_Transparent_WEB.webp"]
+images = ["/images/sdgs.webp"]
 template = "images-block"
 text = ""
 [[blocks]]
@@ -28,7 +28,7 @@ image = "/images/e_web_03-1.webp"
 layout = "left"
 padding_top = "small"
 template = "card-block"
-text = "By assisting with planning decisions and promoting active mobility choices such as walking and cycling, local communities can have access to healthier alternatives of transportation. These alternatives can have a greater impact on mental health and well-being by reducing the risks of preventable diseases such as obesity and heart problems and getting residents active on their way to their daily activities. This accomplishes the SDG target 3.4."
+text = "By assisting with planning decisions in favor of active mobility, i.e. walking and cycling, local communities can have access to healthy transportation modes. These modes get residents active on their way to their daily activities. Thus, having a positive impact on mental health and well-being by reducing the risks of preventable diseases such as obesity and heart problems. This accomplishes the SDG target 3.4."
 video = ""
 [blocks.button]
 text = ""

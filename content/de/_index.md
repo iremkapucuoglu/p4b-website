@@ -71,6 +71,17 @@ blocks:
 - template: logos-block
   block: logos
   background: default
+  padding_top: default
+  items:
+  - logo: "/images/e_web_03-1.webp"
+  - logo: "/images/e_web_04-1.webp"
+  - logo: "/images/e_web_11-2.webp"
+  - logo: "/images/e_web_13-1.webp"
+  heading: Nachhaltige Entwicklungsziele (SDGs)
+  text: Wir sind inspiriert von den SDG-Zielen, die wir erreichen wollen.
+- template: logos-block
+  block: logos
+  background: default
   heading: Partner
   logos:
   - "/images/20171221_logo_digitalfreiburg_rz_2c.png"

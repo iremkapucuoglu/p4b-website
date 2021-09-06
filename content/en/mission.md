@@ -9,10 +9,7 @@ background_image = ""
 heading = "Mission"
 image = ""
 layout = "center"
-text = "blabla"
-[header.button]
-text = ""
-url = ""
+text = "Our mission is inspired by the Sustainable Development Goals (SDG) we aim to accomplish. SDGs are widely known to guide companies towards a more sustainable and successful future. Specific targets we reference are provided by the SDG Compass site."
 [[blocks]]
 background = "default"
 block = "images"

@@ -80,14 +80,6 @@ blocks:
   - logo: "/images/e_web_13-1.webp"
   heading: Sustainable Development Goals
   text: We are inspired by the SDG goals we aim to accomplish.
-- template: links-block
-  block: links
-  background: default
-  padding_top: default
-  heading: ''
-  links:
-  - text: Check out our SDG mission
-    icon: link
 - template: logos-block
   block: logos
   background: default

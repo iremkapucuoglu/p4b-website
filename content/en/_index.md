@@ -62,7 +62,7 @@ blocks:
     a dynamic map-based analysis.
   heading: Our Offer
   button:
-    url: "/what-is-goat/"
+    url: "/en/what-is-goat/"
     text: Learn more about GOAT
   background_image: "/images/bg-9.svg"
 - template: recent-posts-block

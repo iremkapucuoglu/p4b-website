@@ -74,10 +74,10 @@ blocks:
   background: default
   padding_top: default
   items:
-  - logo: "/images/e_web_03.webp"
-  - logo: "/images/e_web_04.webp"
-  - logo: "/images/e_web_11-1.webp"
-  - logo: "/images/e_web_13.webp"
+  - logo: "/images/e_web_03-1.webp"
+  - logo: "/images/e_web_04-1.webp"
+  - logo: "/images/e_web_11-2.webp"
+  - logo: "/images/e_web_13-1.webp"
   heading: Sustainable Development Goals
   text: We are inspired by the SDG goals we aim to accomplish
 - template: links-block

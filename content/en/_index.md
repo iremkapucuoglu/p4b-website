@@ -16,6 +16,18 @@ blocks:
   block: card
   layout: left
   background: default
+  text: We are a start-up from Munich that emerged from a spin-off of TUM and was
+    recently awarded with the Innovation Prize of the City of Munich in the category
+    "Emission-free mobility in Munich".
+  heading: A Munich startup
+  image: "/images/Plan4Better_SW_web-44.webp"
+  video: ''
+  background_image: "/images/bg-4.svg"
+  background_color_content: muted
+- template: card-block
+  block: card
+  layout: right
+  background: default
   text: 'Our aim is to help planners and decision-makers to promote active mobility
     and plan for a balanced future. By providing understandable planning tools, we
     are transforming spatial and transport planning towards a more open, joyful and
@@ -23,7 +35,8 @@ blocks:
   heading: Playground for shaping livable spaces
   image: "/images/team_working.webp"
   video: ''
-  background_image: "/images/bg-4.svg"
+  background_image: "/images/bg-12.svg"
+  background_color_content: muted
 - template: features-block
   block: features
   background: default
@@ -56,6 +69,24 @@ blocks:
   block: recent-posts
   background: muted
   heading: Recent Posts
+- template: logos-block
+  block: logos
+  background: default
+  padding_top: default
+  items:
+  - logo: "/images/e_web_03-1.webp"
+  - logo: "/images/e_web_04-1.webp"
+  - logo: "/images/e_web_11-2.webp"
+  - logo: "/images/e_web_13-1.webp"
+  heading: Sustainable Development Goals
+  text: We are inspired by the SDG goals we aim to accomplish
+- template: links-block
+  block: links
+  background: default
+  heading: ''
+  links:
+  - text: Check out our SDG mission
+    icon: link
 - template: logos-block
   block: logos
   background: default
@@ -95,5 +126,6 @@ blocks:
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digital planning support systems to shape sustainable mobility and liveable
   spaces.
+draft: true
 
 ---

@@ -1,4 +1,5 @@
 baseURL = "https://plan4better.de/"
+defaultContentLanguage = "de"
 languageCode = "en-us"
 title = "Plan4Better"
 [languages.de]
@@ -101,19 +102,19 @@ weight = 1
 button = "primary-outline"
 [[languages.de.menu.social]]
 name = "Twitter"
-url = "#"
+url = "https://twitter.com/plan4better"
 weight = 1
 [languages.de.menu.social.params]
 icon = "twitter"
 [[languages.de.menu.social]]
 name = "Linkedin"
-url = "#"
+url = "https://www.linkedin.com/company/plan4better/"
 weight = 2
 [languages.de.menu.social.params]
 icon = "linkedin"
 [[languages.de.menu.social]]
 name = "GitHub"
-url = "#"
+url = "https://github.com/goat-community/"
 weight = 3
 [languages.de.menu.social.params]
 icon = "github"

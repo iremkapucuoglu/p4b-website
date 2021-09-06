@@ -1,4 +1,4 @@
 ---
 title: Blog
-url: "/blog/"
+url: "/en/blog/"
 ---

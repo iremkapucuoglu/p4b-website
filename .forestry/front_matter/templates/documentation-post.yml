@@ -38,4 +38,3 @@ fields:
   description: 'Sidebar section (category) this article belongs to. '
 pages:
 - content/en/docs/heatmap-connectivity.md
-- content/en/docs/publications.md

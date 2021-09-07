@@ -137,7 +137,7 @@ text = "GOAT is an interactive webtool for accessibility analysis on walking and
 [[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
-url = "/what-is-goat/"
+url = "/en/what-is-goat/"
 weight = 2
 [[languages.en.menu.center]]
 name = "GOAT-live"

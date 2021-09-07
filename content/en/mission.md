@@ -15,7 +15,7 @@ background = "default"
 block = "images"
 columns = "1"
 heading = ""
-images = ["/images/E_SDG_logo_without_UN_emblem_horizontal_Transparent_WEB.webp"]
+images = ["/images/e_sdg_logo_without_un_emblem_horizontal_transparent_web.webp"]
 template = "images-block"
 text = ""
 [[blocks]]

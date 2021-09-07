@@ -15,7 +15,9 @@ background = "default"
 block = "images"
 columns = "1"
 heading = ""
-images = ["/images/e_sdg_logo_without_un_emblem_horizontal_transparent_web.webp"]
+=======
+images = ["/images/sdgs.webp"]
+>>>>>>> upstream/development
 template = "images-block"
 text = ""
 [[blocks]]
@@ -28,7 +30,7 @@ image = "/images/e_web_03-1.webp"
 layout = "left"
 padding_top = "small"
 template = "card-block"
-text = "Durch die Unterstützung von Planungsentscheidungen zugunsten der aktiven Mobilität, d.h. dem Fuß- und Radverkehr, wird den Menschen vor Ort ein besserer Zugang zu gesundheitsfördernden Mobilitätsoptionen ermöglicht. Zufußgehen und Radfahren fördert die psychische und physische Gesundheit sowie das allgemeine Wohlbefinden. Risiken vermeidbarer Krankheiten, wie Fettleibigkeit und Herzprobleme, werden verringert und die Bewohner auf ihren alltäglichen Weg aktiver. Damit wird das SDG-Ziel 3.4 erreicht."
+text = "Durch die Unterstützung von Planungsentscheidungen zugunsten der aktiven Mobilität, d.h. dem Fuß- und Radverkehr, wird den Menschen vor Ort ein besserer Zugang zu gesundheitsfördernden Mobilitätsoptionen ermöglicht. Zufußgehen und Radfahren fördert die psychische und physische Gesundheit sowie das allgemeine Wohlbefinden. Risiken vermeidbarer Krankheiten, wie Übergewicht und Herzprobleme, werden verringert und die Bewohner auf ihren alltäglichen Weg aktiver. Damit wird das SDG-Ziel 3.4 erreicht."
 video = ""
 [blocks.button]
 text = ""

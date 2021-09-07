@@ -1,8 +1,8 @@
 +++
 description = ""
-sections = []
+sections = ["publication"]
 title = "Publications"
 translationKey = "publication"
-weight = 0
+weight = 90
 
 +++

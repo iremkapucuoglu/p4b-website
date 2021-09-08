@@ -15,9 +15,7 @@ background = "default"
 block = "images"
 columns = "1"
 heading = ""
-=======
 images = ["/images/sdgs.webp"]
->>>>>>> upstream/development
 template = "images-block"
 text = ""
 [[blocks]]

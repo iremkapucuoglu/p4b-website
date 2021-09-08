@@ -50,6 +50,14 @@ heading = "Team"
 template = "team-block"
 text = "Meet the team of Plan4Better and don't hesitate to get in touch."
 [[blocks]]
+background = "muted"
+block = "images"
+columns = "1"
+heading = "Job offers"
+images = []
+template = "images-block"
+text = "We frequently have some open Intern positions in the field of transport planning, software development and business administration. If interested, send an application consisting of a motivation letter and CV to info@plan4better.de."
+[[blocks]]
 background = "default"
 block = "images"
 columns = "1"

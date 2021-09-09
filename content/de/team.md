@@ -50,6 +50,14 @@ heading = "Team"
 template = "team-block"
 text = "Schreiben Sie uns gerne an und kommen Sie mit dem Team von Plan4Better in Kontakt!"
 [[blocks]]
+background = "muted"
+block = "images"
+columns = "1"
+heading = "Stellenangebote"
+images = []
+template = "images-block"
+text = "Wir haben regelmäßig einige offene Praktikantenstellen im Bereich Verkehrsplanung, Softwareentwicklung und Betriebswirtschaft. Senden Sie bei Interesse eine Bewerbung bestehend aus Motivationsschreiben und Lebenslauf an info@plan4better.de."
+[[blocks]]
 background = "default"
 block = "images"
 columns = "1"

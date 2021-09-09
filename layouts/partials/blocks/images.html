@@ -9,6 +9,9 @@
           {{ with .text }}
             <div class="uk-text-lead uk-margin-top">{{ . }}</div>
           {{ end }}
+          {{ with .mail }}
+          <div class="uk-margin-small-top uk-text-lead"><a href="mailto:{{ . }}">{{ . }}</a></div>
+          {{ end }}
         </div>
       </div>
     {{ end }}

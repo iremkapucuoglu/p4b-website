@@ -56,7 +56,7 @@ columns = "1"
 heading = "Job offers"
 images = []
 template = "images-block"
-text = "We frequently have some open Intern positions in the field of transport planning, software development and business administration. If interested, send an application consisting of a motivation letter and CV to info@plan4better.de."
+text = "Join our team! We frequently have some open Intern and Working Student positions in the field of urban and transport planning, software development and business administration. If interested, send an application consisting of a motivation letter and CV to info@plan4better.de."
 [[blocks]]
 background = "default"
 block = "images"

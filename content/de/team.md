@@ -56,12 +56,12 @@ columns = "1"
 heading = "Stellenangebote"
 images = []
 template = "images-block"
-text = "Wir haben regelmäßig einige offene Praktikantenstellen im Bereich Verkehrsplanung, Softwareentwicklung und Betriebswirtschaft. Senden Sie bei Interesse eine Bewerbung bestehend aus Motivationsschreiben und Lebenslauf an info@plan4better.de."
+text = "Werden Sie Teil unseres Teams! Wir haben regelmäßig offene Praktikanten- und Werkstudentenstellen im Bereich Verkehrs-/ Stadtplanung, Softwareentwicklung und Betriebswirtschaft. Senden Sie bei Interesse gerne eine Inititiativbewerbung mit Motivationsschreiben und Lebenslauf an info@plan4better.de."
 [[blocks]]
 background = "default"
 block = "images"
 columns = "1"
-heading = "Gemeinsam in eine balancierte Zukunft starten!"
+heading = "Gemeinsam in eine vielversprechende Zukunft starten!"
 images = ["/images/team_working.webp"]
 template = "images-block"
 text = ""

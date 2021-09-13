@@ -114,6 +114,25 @@
   Website: ''
   team_image: ''
   website: ''
+- username: ivanov
+  name: Grigorii Ivanov
+  title:
+    en: GIS Developer
+    de: GIS Entwickler
+  bio:
+    en: As a GIS developer, he is engaged in the collection and processing of data
+      for GOAT. As an environmental engineer, he is interested in sustainable
+      urban and transport planning.
+    de: Als GIS-Entwickler beschäftigt er sich mit der Erfassung und Verarbeitung
+      von Daten für GOAT. Als Umweltingenieur interessiert er sich für nachhaltige
+      Stadt- und Verkehrsplanung.
+  image: ''
+  team_member: true
+  team_image: "/images/microsoftteams-image-6-1.webp"
+  github: https://github.com/gregoriiv
+  website: ''
+  linkedin: https://www.linkedin.com/in/grigorii-ivanov-5a218796/
+  twitter: ''
 - username: haxhiu
   name: Helga Haxhiu
   title:

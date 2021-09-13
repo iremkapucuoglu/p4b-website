@@ -50,12 +50,13 @@ heading = "Team"
 template = "team-block"
 text = "Schreiben Sie uns gerne an und kommen Sie mit dem Team von Plan4Better in Kontakt!"
 [[blocks]]
-background = "default"
+background = "muted"
 block = "images"
 columns = "1"
-heading = "Gemeinsam in eine balancierte Zukunft starten!"
-images = ["/images/team_working.webp"]
+heading = "Stellenangebote"
+images = []
 template = "images-block"
-text = ""
+text = "Werden Sie Teil unseres Teams! Wir haben regelmäßig offene Praktikanten- und Werkstudentenstellen im Bereich Verkehrs-/ Stadtplanung, Softwareentwicklung und Betriebswirtschaft. Senden Sie bei Interesse gerne eine Inititiativbewerbung mit Motivationsschreiben und Lebenslauf an"
+mail = "info@plan4better.de"
 
 +++

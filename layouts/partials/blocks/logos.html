@@ -18,7 +18,14 @@
           {{ with .text }}
             <div class="uk-text-xsmall uk-margin-small-bottom">{{ . }}</div>
           {{ end }}
+          {{ if .url }}
+          <a href="{{ .url | absURL }}" {{ if strings.HasPrefix .url "http" }} target="_blank"{{ end }}>
+            <img src="{{ .logo | absURL }}" alt="Logo">
+          </a>
+          {{ else }}
           <img src="{{ .logo | absURL }}" alt="Logo">
+          {{ end }}
+  
           {{ with .text_2 }}
             <div class="uk-text-xsmall uk-margin-small-top">{{ . }}</div>
           {{ end }}

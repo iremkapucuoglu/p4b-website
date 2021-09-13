@@ -50,12 +50,14 @@ heading = "Team"
 template = "team-block"
 text = "Meet the team of Plan4Better and don't hesitate to get in touch."
 [[blocks]]
-background = "default"
+background = "muted"
 block = "images"
 columns = "1"
-heading = "Follow us towards a balanced future!"
-images = ["/images/team_working.webp"]
+heading = "Job offers"
+images = []
 template = "images-block"
-text = ""
+text = "Join our team! We frequently have some open Intern and Working Student positions in the field of urban and transport planning, software development and business administration. If interested, send an application consisting of a motivation letter and CV to"
+mail = "info@plan4better.de"
+
 
 +++

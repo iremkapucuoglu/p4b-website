@@ -58,13 +58,5 @@ images = []
 template = "images-block"
 text = "Werden Sie Teil unseres Teams! Wir haben regelmäßig offene Praktikanten- und Werkstudentenstellen im Bereich Verkehrs-/ Stadtplanung, Softwareentwicklung und Betriebswirtschaft. Senden Sie bei Interesse gerne eine Inititiativbewerbung mit Motivationsschreiben und Lebenslauf an"
 mail = "info@plan4better.de"
-[[blocks]]
-background = "default"
-block = "images"
-columns = "1"
-heading = "Gemeinsam in eine vielversprechende Zukunft starten!"
-images = ["/images/team_working.webp"]
-template = "images-block"
-text = ""
 
 +++

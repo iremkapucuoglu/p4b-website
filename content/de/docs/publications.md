@@ -1,12 +1,12 @@
 ---
-title: Publikationen
+title: Wissenschaftliche Publikationen
 permalink: "/docs/publications/"
 sections:
 - about
 weight: 40
 
 ---
-Hier finden Sie einen Überblick über die veröffentlichten Publikationen zur Entwicklung und Anwendung von GOAT.
+Hier finden Sie einen Überblick über die veröffentlichten wissenschaftlichen Publikationen zur Entwicklung und Anwendung von GOAT.
 
 ________________________________
 ### Accessibility by proximity: Addressing the lack of interactive accessibility instruments for active mobility

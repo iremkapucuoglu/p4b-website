@@ -19,7 +19,7 @@
             <div class="uk-text-xsmall uk-margin-small-bottom">{{ . }}</div>
           {{ end }}
           {{ if .url }}
-          <a href="{{ .url | absURL }}" target="_blank">
+          <a href="{{ .url | absURL }}" {{ if strings.HasPrefix .url "http" }} target="_blank"{{ end }}>
             <img src="{{ .logo | absURL }}" alt="Logo">
           </a>
           {{ else }}

@@ -123,6 +123,7 @@ fields:
     min: 
     max: 
 pages:
+- content/en/Presse.md
 - content/en/competences-overview.md
 - content/en/consultancy.md
 - content/en/contact.md

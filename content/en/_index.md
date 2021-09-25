@@ -16,8 +16,8 @@ blocks:
   block: card
   layout: left
   background: default
-  text: We are a start-up from Munich that emerged from a spin-off of TUM and was
-    recently awarded with the Innovation Prize of the City of Munich in the category
+  text: We are a start-up from Munich that emerged from a project at the Technical University of Munich and was
+    recently awarded the Innovation Prize from the City of Munich in the category
     "Emission-free mobility in Munich".
   heading: A Munich startup
   image: "/images/Plan4Better_SW_web-44.webp"

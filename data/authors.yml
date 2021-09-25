@@ -121,8 +121,8 @@
     de: GIS Entwickler
   bio:
     en: As a GIS developer, he is engaged in the collection and processing of data
-      for GOAT. As an environmental engineer, he is interested in sustainable
-      urban and transport planning.
+      for GOAT. As an environmental engineer, he is interested in sustainable urban
+      and transport planning.
     de: Als GIS-Entwickler beschäftigt er sich mit der Erfassung und Verarbeitung
       von Daten für GOAT. Als Umweltingenieur interessiert er sich für nachhaltige
       Stadt- und Verkehrsplanung.
@@ -170,4 +170,38 @@
   github: ''
   website: https://www.joeleanhall.com/
   linkedin: https://www.linkedin.com/in/joelean-hall-1207001b7/
+  twitter: ''
+- username: bozanovic
+  name: David Bozanovic
+  title:
+    en: Intern
+    de: Praktikant
+  bio:
+    en: David is a start-up enthusiast and supports the team in the Business Development.
+      Together with Plan4Better he wants to actively contribute towards a more sustainable
+      future of mobility.
+    de: David begeistert sich für die Start-Up Welt und unterstützt das Team im Bereich
+      des Business Development. Mit Plan4Better möchte er aktiv zu einer nachhaltigeren
+      Mobilität beitragen.
+  image: ''
+  team_member: true
+  team_image: "/images/microsoftteams-image-7.png"
+  linkedin: https://www.linkedin.com/in/davidbozanovic/
+  github: ''
+  website: ''
+  twitter: ''
+- username: otter
+  name: Philipp Otter
+  title:
+    en: Intern
+    de: Praktikant
+  bio:
+    en: ''
+    de: ''
+  image: ''
+  team_member: false
+  team_image: ''
+  github: ''
+  website: ''
+  linkedin: ''
   twitter: ''

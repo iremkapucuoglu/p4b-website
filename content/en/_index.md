@@ -5,20 +5,20 @@ header:
   layout: left
   heading: Let's balance the future together!
   text: Digital planning support tools to shape sustainable cities and regions.
-  image: "/images/heatmap-muc.webp"
+  image: "/images/heatmap-muc-1.webp"
   button:
     text: Try Goat
     url: "/goatlive/"
   background: default
-  background_image: "/images/title_street.webp"
+  background_image: "/images/title_street-1.webp"
 blocks:
 - template: card-block
   block: card
   layout: left
   background: default
-  text: We are a start-up from Munich that emerged from a project at the Technical University of Munich and was
-    recently awarded the Innovation Prize from the City of Munich in the category
-    "Emission-free mobility in Munich".
+  text: We are a start-up from Munich that emerged from a project at the Technical
+    University of Munich and was recently awarded the Innovation Prize from the City
+    of Munich in the category "Emission-free mobility in Munich".
   heading: A Munich startup
   image: "/images/Plan4Better_SW_web-44.webp"
   video: ''
@@ -125,6 +125,5 @@ blocks:
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digital planning support systems to shape sustainable mobility and liveable
   spaces.
-
 
 ---

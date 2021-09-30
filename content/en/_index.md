@@ -20,7 +20,7 @@ blocks:
     University of Munich and was recently awarded the Innovation Prize from the City
     of Munich in the category "Emission-free mobility in Munich".
   heading: A Munich startup
-  image: "/images/Plan4Better_SW_web-44.webp"
+  image: "/images/plan4better_sw_web-44-1.webp"
   video: ''
   background_image: "/images/bg-4.svg"
   background_color_content: muted
@@ -33,7 +33,7 @@ blocks:
     are transforming spatial and transport planning towards a more open, joyful and
     efficient reality. '
   heading: Playground for shaping livable spaces
-  image: "/images/team_working.webp"
+  image: "/images/team_working-1.webp"
   video: ''
   background_image: "/images/bg-12.svg"
   background_color_content: muted
@@ -56,7 +56,7 @@ blocks:
   block: card
   layout: right
   background: default
-  image: "/images/isochrone_amenities.webp"
+  image: "/images/isochrone_amenities-1.webp"
   text: Walking and cycling require attractive transport infrastructure and destinations
     at close distance (15-minute city). With the accessibility approach, GOAT offers
     a dynamic map-based analysis.
@@ -71,7 +71,7 @@ blocks:
   heading: Recent Posts
 - template: logos-block
   block: logos
-  background: secondary
+  background: ''
   padding_top: default
   items:
   - logo: "/images/e_web_03-1.webp"
@@ -100,14 +100,14 @@ blocks:
   text: ''
   padding_top: default
   items:
-  - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
-  - logo: "/images/logo_mobidata-bw-1.jpg"
-  - logo: "/images/logo-tum-2.png"
-  - logo: "/images/logo_muc.png"
-  - logo: "/images/logo_freising.png"
+  - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.webp"
+  - logo: "/images/mobidata_bw.webp"
+  - logo: "/images/logo-tum.webp"
+  - logo: "/images/logo_lhm.webp"
+  - logo: "/images/logo_freising.webp"
   - logo: "/images/logo_ffb.png"
-  - logo: "/images/logo_munichways.png"
-  - logo: "/images/logo_xpreneurs.png"
+  - logo: "/images/logo_munichways.webp"
+  - logo: "/images/logo_xpreneurs.webp"
 - template: logos-block
   block: logos
   background: default
@@ -119,8 +119,8 @@ blocks:
   text: The development of GOAT was funded by the BMVI from November 2019 to February
     2021 at TUM as part of mFUND funding line 1.
   items:
-  - logo: "/images/logo-mfund.png"
-  - logo: "/images/logo-bmvi.png"
+  - logo: "/images/logo-mfund.webp"
+  - logo: "/images/logo-bmvi.webp"
     text: 'Gefördert durch:'
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digital planning support systems to shape sustainable mobility and liveable

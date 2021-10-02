@@ -155,8 +155,8 @@
 - username: hall
   name: Joelean Hall
   title:
-    en: Intern
-    de: Praktikantin
+    en: Working Student
+    de: Werkstudent
   bio:
     en: She’s interested in sustainable urban and transport planning projects and
       applications. As an intern, she supports the team on website updates, data tasks,
@@ -196,12 +196,18 @@
     en: Intern
     de: Praktikant
   bio:
-    en: ''
-    de: ''
+    en: He finds it exciting to create simulations or models based on data and use
+      them to create analyses for concrete proposals to improve the traffic situation
+      and quality of life within our cities. As an intern, he supports the programming
+      team to further improve GOAT.
+    de: Er findet es spannend, Simulationen oder Modelle auf Basis von Daten zu entwickeln
+      und daraus Analysen für konkrete Vorschläge zur Verbesserung der Verkehrssituation
+      und der Lebensqualität in unseren Städten zu erstellen. Als Praktikant unterstützt
+      er das Programmierteam, um GOAT weiter zu verbessern.
   image: ''
   team_member: false
   team_image: ''
   github: ''
   website: ''
-  linkedin: ''
+  linkedin: https://www.linkedin.com/in/philippotter96/
   twitter: ''

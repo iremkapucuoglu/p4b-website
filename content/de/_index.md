@@ -5,12 +5,12 @@ header:
   layout: left
   heading: Gemeinsam eine ausgewogene Zukunft planen!
   text: Digitale Planungswerkzeuge zur Gestaltung nachhaltiger Städte und Regionen.
-  image: "/images/heatmap-muc.webp"
+  image: "/images/heatmap-muc-1.webp"
   button:
     text: GOAT testen
     url: "/goatlive/"
   background: default
-  background_image: "/images/title_street.webp"
+  background_image: "/images/title_street-1.webp"
 blocks:
 - template: card-block
   block: card
@@ -20,7 +20,7 @@ blocks:
     ist und kürzlich mit dem Innovationspreis der Stadt München in der Kategorie „Emmissionsfreie
     Mobilität in München“ ausgezeichnet wurde.
   heading: Startup aus München
-  image: "/images/Plan4Better_SW_web-44.webp"
+  image: "/images/plan4better_sw_web-44-1.webp"
   video: ''
   background_image: "/images/bg-4.svg"
   background_color_content: muted
@@ -32,7 +32,7 @@ blocks:
     Radverkehr begleiten wir die Stadt- und Verkehrsplanung, sowie die Standortentwicklung,
     in eine offenere, spaßigere und effizientere Zukunft.
   heading: Spielwiese zur Gestaltung lebenswerter Räume
-  image: "/images/team_working.webp"
+  image: "/images/team_working-1.webp"
   video: ''
   background_image: "/images/bg-12.svg"
   background_color_content: muted
@@ -55,7 +55,7 @@ blocks:
   block: card
   layout: right
   background: default
-  image: "/images/isochrone_amenities.webp"
+  image: "/images/isochrone_amenities-1.webp"
   text: Der Fuß- und Radverkehr benötigt eine attraktive Verkehrsinfrastruktur und
     nahe Ziele im Sinne der 15-Minuten-Stadt. GOAT vereint durch den Erreichbarkeitsansatz
     diese zwei Dimensionen und liefert über digitale Karten dynamische Analysen.
@@ -70,7 +70,7 @@ blocks:
   heading: Aktuelle Blog-Posts
 - template: logos-block
   block: logos
-  background: secondary
+  background: ''
   padding_top: default
   items:
   - logo: "/images/e_web_03-1.webp"
@@ -99,14 +99,14 @@ blocks:
   text: ''
   padding_top: default
   items:
-  - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
-  - logo: "/images/logo_mobidata-bw-1.jpg"
-  - logo: "/images/logo-tum-2.png"
-  - logo: "/images/logo_muc.png"
-  - logo: "/images/logo_freising.png"
+  - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.webp"
+  - logo: "/images/mobidata_bw.webp"
+  - logo: "/images/logo-tum.webp"
+  - logo: "/images/logo_lhm.webp"
+  - logo: "/images/logo_freising.webp"
   - logo: "/images/logo_ffb.png"
-  - logo: "/images/logo_munichways.png"
-  - logo: "/images/logo_xpreneurs.png"
+  - logo: "/images/logo_munichways.webp"
+  - logo: "/images/logo_xpreneurs.webp"
 - template: logos-block
   block: logos
   background: default
@@ -118,8 +118,8 @@ blocks:
   text: Die Entwicklung von GOAT wurde vom BMVI von November 2019 bis Februar 2021
     im Rahmen der mFUND-Initiative (Förderlinie 1) an der TUM gefördert.
   items:
-  - logo: "/images/logo-mfund.png"
-  - logo: "/images/logo-bmvi.svg"
+  - logo: "/images/logo-mfund.webp"
+  - logo: "/images/logo-bmvi.webp"
     text: 'Gefördert durch:'
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digitale Planungswerkzeuge für die Gestaltung nachhaltiger Mobilität

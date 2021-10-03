@@ -24,7 +24,7 @@ content = ""
 heading = "Previous projects"
 padding_top = "default"
 template = "content-block"
-text = "This is a collection of all study areas and projects, where GOAT was applied in the past."
+text = "Live demo versions of GOAT were provided for more study areas in the past for testing purposes. A collection can be found here:"
 [[blocks]]
 background = "default"
 background_color_content = "default"

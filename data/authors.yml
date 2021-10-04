@@ -205,8 +205,8 @@
       und der Lebensqualität in unseren Städten zu erstellen. Als Praktikant unterstützt
       er das Programmierteam, um GOAT weiter zu verbessern.
   image: ''
-  team_member: false
-  team_image: ''
+  team_member: true
+  team_image: "/images/img_4961-1.webp"
   github: ''
   website: ''
   linkedin: https://www.linkedin.com/in/philippotter96/

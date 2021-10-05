@@ -7,7 +7,18 @@ weight: 40
 
 ---
 Hier finden Sie einen Überblick über die veröffentlichten wissenschaftlichen Publikationen zur Entwicklung und Anwendung von GOAT.
+________________________________
+### Population Disaggregation on the Building Level Based on Outdated Census Data
 
+https://doi.org/10.3390/ijgi10100662
+
+<b>Authors</b>: Elias Pajares, Rafael Muñoz Nieto, Liqiu Meng and Gebhard Wulfhorst
+
+<b>Date</b>: 1 October 2021
+
+<b>Keywords</b>: Population disaggregation; Accessibility; Open data
+
+<b>Abstract</b>: A wide range of disciplines require population data with high spatial resolution. In particular, accessibility instruments for active mobility need data on the building access level. Data availability varies by context. Spatially detailed national census counts often present the challenge that they are outdated. Therefore, this study proposes a novel approach to hybrid population disaggregation. It updates outdated census tracts and disaggregates population on the building access level. Open and widely available data sets are used. A bottom-up population estimation for new development areas is combined with a top-down dasymetric mapping process to update outdated census tracts. A particular focus lies on the high flexibility of the developed procedure. Accordingly, users can utilize diverse data and adapt settings to a specific study context. Instead of requiring ubiquitous 3D building data, often unavailable free of charge, the approach suggests collecting building levels only in new development areas. The open-source software development was done using PostgreSQL/PostGIS as part of the co-creative development of the accessibility instrument GOAT in three German municipalities. A comparison with reference data from the population registry of one district was realized. On the building level, an R2 of 0.82, and on the grid level (100 m × 100 m), an R2 of 0.89 is reached. The approach stands out when land-use information is outdated; however, a spatially detailed census grid exists, but no ubiquitous 3D building information is available. Enhancements are proposed, such as improving the dasymetric mapping with machine learning and remote sensing techniques. Moreover, more reliable detection of new building development in already built-up areas is suggested to account better for urban densification.
 ________________________________
 ### Accessibility by proximity: Addressing the lack of interactive accessibility instruments for active mobility
 

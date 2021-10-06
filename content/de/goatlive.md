@@ -21,10 +21,10 @@ text = "GOAT ist ein übertragbares und hochflexibles Tool, das für verschieden
 [[blocks]]
 block = "content"
 content = ""
-heading = "Frühere Projekte:"
+heading = "Frühere Projekte"
 padding_top = "default"
 template = "content-block"
-text = "Zu Testzwecken wurden mehrere Live-Demoversionen von GOAT in unterschiedlichen Untersuchungsgebieten erstellt. Hier können Sie eine Auswahl finden:"
+text = "Im Rahmen von verschiedenen Projekten wurde GOAT auf unterschiedliche Untersuchungsgebiete übertragen. Eine Auswahl finden Sie im folgenden:"
 [[blocks]]
 background = "default"
 background_color_content = "default"

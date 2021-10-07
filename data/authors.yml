@@ -138,7 +138,7 @@
   title:
     en: Marketing
     de: Marketing
-  image: "/images/haxhiu.jpg"
+  image: "/images/haxhiu.webp"
   bio:
     en: In marketing, she supports the team in getting to the heart of content for
       customers and interested parties. As a passionate pedestrian, she is enthusiastic
@@ -199,9 +199,9 @@
     en: Philipp finds it exciting to create analyses based on simulations or models
       to improve the traffic situation and quality of life in our cities. As an intern
       he supports the programming team.
-    de: Er findet es spannend Analysen basierend auf Simulationen oder Modellen
-      zu erstellen, um die Verkehrssituation und Lebensqualität in unseren Städten
-      zu verbessern. Als Praktikant unterstützt er das Programmierteam.
+    de: Er findet es spannend Analysen basierend auf Simulationen oder Modellen zu
+      erstellen, um die Verkehrssituation und Lebensqualität in unseren Städten zu
+      verbessern. Als Praktikant unterstützt er das Programmierteam.
   image: ''
   team_member: true
   team_image: "/images/team_philipp.webp"

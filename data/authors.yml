@@ -4,7 +4,7 @@
   title:
     en: Co-CEO
     de: Geschäftsführer
-  image: "/images/elias_pajares.png"
+  image: "/images/team/pajares.webp"
   bio:
     en: As initiator of GOAT and transport researcher he is leading the team with
       Ulrike. As advocate for liveable cities he loves to develop innovative solutions
@@ -17,13 +17,13 @@
   linkedin: https://www.linkedin.com/in/eliaspajares/
   team_member: true
   twitter: https://twitter.com/PajaresElias
-  team_image: "/images/team_elias.jpg"
+  team_image: "/images/team/team_elias.jpg"
 - username: jehle
   name: Ulrike Jehle
   title:
     en: Co-CEO
     de: Geschäftsführerin
-  image: "/images/ulrike_jehle.jpg"
+  image: "/images/team/ulrike_jehle.jpg"
   bio:
     en: As engineer and scientist she is leading the team with Elias. To shape liveable
       cities, she is particularly engaged in strengthening active forms of mobility
@@ -36,13 +36,13 @@
   linkedin: https://www.linkedin.com/in/ulrike-jehle/
   team_member: true
   twitter: https://twitter.com/JehleUlrike
-  team_image: "/images/team_ulrike.jpg"
+  team_image: "/images/team/team_ulrike.jpg"
 - username: shkurti
   name: Majk Shkurti
   title:
     en: CTO
     de: Technischer Direktor
-  image: "/images/majk_shkurti.png"
+  image: "/images/team/majk_shkurti.png"
   bio:
     en: As experienced WebGIS-developer he is leading the development. His passion
       lies in making map-based technologies useful and accessible for everyone.
@@ -53,13 +53,13 @@
   linkedin: https://www.linkedin.com/in/majkshkurti/
   team_member: true
   twitter: ''
-  team_image: "/images/team_majk.jpg"
+  team_image: "/images/team/team_majk.jpg"
 - username: hassine
   name: Emna Ben Hassine
   title:
     en: Student Assistant
     de: Wissenschaftliche Hilfskraft
-  image: "/images/hassine.jpg"
+  image: "/images/team/hassine.jpg"
   bio:
     en: Student assistant and environmental engineer with enthusiasm for Sustainable
       Urban Mobility. She believes that active mobility is the key to bring back the
@@ -79,7 +79,7 @@
   title:
     en: Student Assistant
     de: Wissenschaftliche Hilfskraft
-  image: "/images/munoz.png"
+  image: "/images/team/munoz.png"
   bio:
     en: He is a transport consultant and Student Assistant at TUM. GIS, and Smart
       cities enthusiast. In GOAT, he has contributed to the data refinement and data
@@ -99,7 +99,7 @@
   title:
     en: Guest Author
     de: Gastautor
-  image: "/images/ramirez.webp"
+  image: "/images/team/ramirez.webp"
   bio:
     en: He is a Civil and Industrial Engineer with passion for active mobility, cities,
       and sustainability. In GOAT he contributes to documentation, communications,
@@ -128,7 +128,7 @@
       Stadt- und Verkehrsplanung.
   image: ''
   team_member: true
-  team_image: "/images/team_gregory.webp"
+  team_image: "/images/team/team_gregory.webp"
   github: https://github.com/gregoriiv
   website: ''
   linkedin: https://www.linkedin.com/in/grigorii-ivanov-5a218796/
@@ -138,7 +138,7 @@
   title:
     en: Marketing
     de: Marketing
-  image: "/images/haxhiu.webp"
+  image: "/images/team/haxhiu.webp"
   bio:
     en: In marketing, she supports the team in getting to the heart of content for
       customers and interested parties. As a passionate pedestrian, she is enthusiastic
@@ -147,7 +147,7 @@
       bilingual auf den Punkt zu bringen. Als leidenschaftliche Fußgängerin begeistert
       sie das städteplanerische Potenzial, das GOAT eröffnen kann.
   team_member: true
-  team_image: "/images/team_helga.jpg"
+  team_image: "/images/team/team_helga.jpg"
   github: ''
   website: ''
   linkedin: https://www.linkedin.com/in/helga-haxhiu-6b267b219/
@@ -164,9 +164,9 @@
     de: Sie interessiert sich für nachhaltige Stadt- und Verkehrsplanungsprojekte.
       Als Praktikantin unterstützt sie das Team bei Website-Updates, Datenaufbereitung
       und Recherchen.
-  image: "/images/team_joelean_bw-3.webp"
+  image: "/images/team/team_joelean_bw-3.webp"
   team_member: true
-  team_image: "/images/team_joelean.png"
+  team_image: "/images/team/team_joelean.png"
   github: ''
   website: https://www.joeleanhall.com/
   linkedin: https://www.linkedin.com/in/joelean-hall-1207001b7/
@@ -185,7 +185,7 @@
       Mobilität beitragen.
   image: ''
   team_member: true
-  team_image: "/images/team_david.webp"
+  team_image: "/images/team/team_david.webp"
   linkedin: https://www.linkedin.com/in/davidbozanovic/
   github: ''
   website: ''
@@ -204,7 +204,7 @@
       verbessern. Als Praktikant unterstützt er das Programmierteam.
   image: ''
   team_member: true
-  team_image: "/images/team_philipp.webp"
+  team_image: "/images/team/team_philipp.webp"
   github: ''
   website: ''
   linkedin: https://www.linkedin.com/in/philippotter96/

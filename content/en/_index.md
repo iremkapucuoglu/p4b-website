@@ -3,8 +3,8 @@ title: Home
 layout: blocks
 header:
   layout: left
-  heading: Let's balance the future together!
-  text: Digital planning support tools to shape sustainable cities and regions.
+  heading: Let's plan sustainable cities and regions!
+  text: Digital planning tools to foster active mobility and local accessibility.
   image: "/images/heatmap-muc-1.webp"
   button:
     text: Try Goat
@@ -74,13 +74,13 @@ blocks:
   background: ''
   padding_top: default
   items:
-  - logo: "/images/e_web_03-1.webp"
+  - logo: "/images/e_web_03-2.webp"
     url: "/mission"
-  - logo: "/images/e_web_04-1.webp"
+  - logo: "/images/e_web_04-2.webp"
     url: "/mission"
-  - logo: "/images/e_web_11-2.webp"
+  - logo: "/images/e_web_11-3.webp"
     url: "/mission"
-  - logo: "/images/e_web_13-1.webp"
+  - logo: "/images/e_web_13-2.webp"
     url: "/mission"
   heading: Sustainable Development Goals
   text: We are inspired by the SDG goals we aim to accomplish.

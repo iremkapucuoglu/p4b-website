@@ -99,7 +99,7 @@
   title:
     en: Guest Author
     de: Gastautor
-  image: "/images/ramirez.jpg"
+  image: "/images/ramirez.webp"
   bio:
     en: He is a Civil and Industrial Engineer with passion for active mobility, cities,
       and sustainability. In GOAT he contributes to documentation, communications,
@@ -128,7 +128,7 @@
       Stadt- und Verkehrsplanung.
   image: ''
   team_member: true
-  team_image: "/images/microsoftteams-image-6-1.webp"
+  team_image: "/images/team_gregory.webp"
   github: https://github.com/gregoriiv
   website: ''
   linkedin: https://www.linkedin.com/in/grigorii-ivanov-5a218796/
@@ -138,7 +138,7 @@
   title:
     en: Marketing
     de: Marketing
-  image: "/images/haxhiu.jpg"
+  image: "/images/haxhiu.webp"
   bio:
     en: In marketing, she supports the team in getting to the heart of content for
       customers and interested parties. As a passionate pedestrian, she is enthusiastic
@@ -156,7 +156,7 @@
   name: Joelean Hall
   title:
     en: Working Student
-    de: Werkstudent
+    de: Werkstudentin
   bio:
     en: She’s interested in sustainable urban and transport planning projects and
       applications. As an intern, she supports the team on website updates, data tasks,
@@ -164,7 +164,7 @@
     de: Sie interessiert sich für nachhaltige Stadt- und Verkehrsplanungsprojekte.
       Als Praktikantin unterstützt sie das Team bei Website-Updates, Datenaufbereitung
       und Recherchen.
-  image: "/images/team_joelean_bw-3-1.webp"
+  image: "/images/team_joelean_bw-3.webp"
   team_member: true
   team_image: "/images/team_joelean.png"
   github: ''
@@ -185,7 +185,7 @@
       Mobilität beitragen.
   image: ''
   team_member: true
-  team_image: "/images/microsoftteams-image-7.png"
+  team_image: "/images/team_david.webp"
   linkedin: https://www.linkedin.com/in/davidbozanovic/
   github: ''
   website: ''
@@ -196,17 +196,15 @@
     en: Intern
     de: Praktikant
   bio:
-    en: He finds it exciting to create simulations or models based on data and use
-      them to create analyses for concrete proposals to improve the traffic situation
-      and quality of life within our cities. As an intern, he supports the programming
-      team to further improve GOAT.
-    de: Er findet es spannend, Simulationen oder Modelle auf Basis von Daten zu entwickeln
-      und daraus Analysen für konkrete Vorschläge zur Verbesserung der Verkehrssituation
-      und der Lebensqualität in unseren Städten zu erstellen. Als Praktikant unterstützt
-      er das Programmierteam, um GOAT weiter zu verbessern.
+    en: Philipp finds it exciting to create analyses based on simulations or models
+      to improve the traffic situation and quality of life in our cities. As an intern
+      he supports the programming team.
+    de: Er findet es spannend Analysen basierend auf Simulationen oder Modellen zu
+      erstellen, um die Verkehrssituation und Lebensqualität in unseren Städten zu
+      verbessern. Als Praktikant unterstützt er das Programmierteam.
   image: ''
-  team_member: false
-  team_image: ''
+  team_member: true
+  team_image: "/images/team_philipp.webp"
   github: ''
   website: ''
   linkedin: https://www.linkedin.com/in/philippotter96/

@@ -7,8 +7,8 @@
   text:
     en: Calculate walking isochrones at different places and compare their results.
       In addition, intersect the isochrones with population numbers and amenities.
-    de: Berechnung des fußläufigen Einzugsbereichs, mit Informationen zur erreichbaren
-      Bevölkerung und den erreichbaren Points-of-Interest.
+    de: Berechnung von Reisezeitisochronen (Einzugsbereiche zu Fuß oder mit dem Fahrrad), mit Informationen zu erreichbarer
+      Bevölkerung und Points-of-Interest.
   comments: first video
 - image: "/images/isochrones_scenario.webp"
   vimeo: 311550100

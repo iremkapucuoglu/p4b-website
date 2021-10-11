@@ -3,8 +3,8 @@ title: Home
 layout: blocks
 header:
   layout: left
-  heading: Gemeinsam eine ausgewogene Zukunft planen!
-  text: Digitale Planungswerkzeuge zur Gestaltung nachhaltiger Städte und Regionen.
+  heading: Planen Sie mit uns nachhaltige Städte und Regionen!
+  text: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen Erreichbarkeit.
   image: "/images/heatmap-muc-1.webp"
   button:
     text: GOAT testen

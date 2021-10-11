@@ -3,8 +3,8 @@ title: Home
 layout: blocks
 header:
   layout: left
-  heading: Let's balance the future together!
-  text: Digital planning support tools to shape sustainable cities and regions.
+  heading: Let's plan sustainable cities and regions!
+  text: Digital planning tools to foster active mobility and local accessibility.
   image: "/images/heatmap-muc-1.webp"
   button:
     text: Try Goat

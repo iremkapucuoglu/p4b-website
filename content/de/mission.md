@@ -9,7 +9,7 @@ background_image = ""
 heading = "Mission"
 image = ""
 layout = "center"
-text = "Unsere Motivation, die uns in der Entwicklung von GOAT begleitet, ist geprägt durch die Sustainable Development Goals (SDG) der United Nations. Ziel der SDGs is es, Unternehmen in einer nachhaltigen und erfolgreichen Entwicklung zu fördern. Die spezifischen SDGs, auf die wir hier verweisen, wurden der SDG-Kompass-Seite entnommen."
+text = "Durch die Bereitstellung von faktenbasierten Analysen helfen wir dabei, den Fuß- und Radverkehr effizienter zu planen, sowie Nachbarschaften besser zu vernetzen und lebenswerter zu gestalten. Unsere Motivation ist es, damit einen Beitrag zur nachhaltigen Gestaltung unserer Städte und Regionen zu leisten. Unsere Ziele finden sich auch in den unten aufgeführten Sustainable Development Goals (SDGs) der United Nations wieder."
 [[blocks]]
 background = "default"
 block = "images"

@@ -6,7 +6,7 @@ description = "GOAT überzeugt die Jury bei der Smart Country Convention! Wir si
 draft = true
 image = "/images/smartcountryaward.webp"
 summary = "Plan4Better erhält den Startup Award in der Kategorie Smart City im Rahmen der Smart Country Convention in Berlin!"
-thumbnail = ""
+thumbnail = "/images/smartcountryconvention_thumbnail.webp"
 title = "Startup Award bei Smart Country Convention"
 translationKey = ""
 

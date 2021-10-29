@@ -1,7 +1,7 @@
 +++
 author = ""
 categories = []
-date = ""
+date = 2021-10-28T22:00:00Z
 description = "GOAT wins over the jury at the Smart Country Convention! We are the recipients of the Startup Award in the Smart City category."
 draft = true
 image = ""

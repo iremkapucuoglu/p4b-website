@@ -6,7 +6,7 @@ description = "GOAT wins over the jury at the Smart Country Convention! We are t
 draft = true
 image = "/images/smartcountryaward.webp"
 summary = "Plan4Better receives the Startup Award in the category Smart City at the Smart Country Convention in Berlin!"
-thumbnail = ""
+thumbnail = "/images/smartcountryconvention_thumbnail.webp"
 title = "Startup Award at Smart Country Convention"
 translationKey = ""
 
@@ -22,3 +22,5 @@ We are happy about the positive feedback towards our evidence-based planning too
 A big kudos to [Bitkom ](https://www.bitkom.org/EN "Bitkom")for the good organization and the interesting event – we enjoyed being part of it!
 
 We wish the fellow finalists [Treesense ](https://treesense.net/ "Treesense")and HEIDI all the best and want to thank them for the exciting competition!
+
+Feel free to follow us on [Twitter ](https://twitter.com/plan4better?lang=de "Twitter Plan4Better")or on [LinkedIn](https://www.linkedin.com/company/plan4better/ "LinkedIn Plan4Better") to keep up with our next steps with GOAT!

@@ -22,3 +22,5 @@ Vielen Dank an die Jury bestehend aus Sven Butler, Dr. Franka Birke, Eric Weber,
 Ein großes Lob an [Bitkom ]()für die gute Organisation und das interessante Event!
 
 Den weiteren Finalisten [Treesense ](https://treesense.net/ "Treesense")und HEIDI wünschen für alles Gute und bedanken uns für den spannenden Wettbewerb!
+
+Folgen Sie uns gerne auf [Twitter ](https://twitter.com/plan4better?lang=de "Plan4Better Twitter")oder auf [LinkedIn](https://www.linkedin.com/company/plan4better/ "LinkedIn Plan4Better"), um unsere nächsten Schritte mit GOAT zu verfolgen!

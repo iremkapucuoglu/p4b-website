@@ -1,6 +1,6 @@
 +++
 author = "haxhiu"
-categories = ["news"]
+categories = []
 date = 2021-10-28T22:00:00Z
 description = "GOAT überzeugt die Jury bei der Smart Country Convention! Wir sind die Gewinner des Startup Awards in der Kategorie Smart City."
 draft = true
@@ -13,7 +13,7 @@ translationKey = ""
 +++
 Fantastische Neuigkeiten – wir sind die GewinnerInnen des Startup Awards in der Kategorie Smart City, welcher bei der [Smart Country Convention in Berlin]() verliehen wurde!
 
-Den Themenschwerpunkt des Pitches legten wir auf die Einsatzmöglichkeit unseres digitalen Planungstools GOAT bei der Planung neuer Grundschulen. In nur drei Minuten Pitch und nach zwei Minuten Fragenhagel der Expertenrunde konnten wir die Jury davon überzeugen, dass GOAT ein immenses Potenzial birgt, um die Verteilung von Grundschulen in der Stadt fairer zu gestalten. Dies können wir erreichen, wenn neue Grundschulen dort gebaut werden, wo sie auch am dringendsten benötigt werden.
+Den Themenschwerpunkt des Pitches legten wir auf die Einsatzmöglichkeit unseres digitalen Planungstools GOAT bei der Planung neuer Grundschulen. In nur drei Minuten Pitch und nach zwei Minuten Fragenhagel der Expertenrunde konnten wir die Jury davon überzeugen, dass GOAT ein immenses Potenzial birgt, um die Erreichbarkeit von Grundschulen in der Stadt fairer zu gestalten. Dies können wir erreichen, wenn neue Grundschulen dort gebaut werden, wo sie auch am dringendsten benötigt werden.
 
 Wir freuen uns, dass die Planung nachhaltiger Städte mit unserem evidenzbasierten Planungstool auf eine so gute Resonanz trifft – das zeigt uns, dass wir mit unserem Tool auf dem richtigen Weg sind und motiviert uns, voller Elan weiter zu machen.
 

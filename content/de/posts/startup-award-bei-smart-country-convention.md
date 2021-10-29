@@ -1,7 +1,7 @@
 +++
-author = ""
+author = "haxhiu"
 categories = []
-date = ""
+date = 2021-10-28T22:00:00Z
 description = "GOAT überzeugt die Jury bei der Smart Country Concention! Wir sind die Gewinner des Startup Awards in der Kategorie Smart City."
 draft = true
 image = ""

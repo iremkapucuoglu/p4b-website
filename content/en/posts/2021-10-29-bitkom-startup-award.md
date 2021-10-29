@@ -6,7 +6,7 @@ date : 2021-10-28T22:00:00Z
 description : "Plan4Better wins over the jury at the Smart Country Convention! We are the recipients of the Startup Award in the Smart City category."
 draft : false
 image : "/images/blog/bitkom/bitkom_banner.webp"
-summary : "Great news! Plan4Better receives the Smart Country Startup Award in the category “Smart City” at the Smart Country Convention by Bitkom in Berlin."
+summary : "Great news! Plan4Better received the Smart Country Startup Award in the category “Smart City” at the Smart Country Convention by Bitkom in Berlin."
 thumbnail : "/images/blog/bitkom/bitkom_thumbnail.webp"
 title : "Startup Award at Smart Country Convention"
 translationKey : ""

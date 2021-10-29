@@ -4,7 +4,7 @@ categories : ["News"]
 date : 2021-08-06T06:00:00Z
 description : ""
 image : "/images/award.webp"
-summary : "We are happy to announce that we received the Munich Innovation Award for the category of “Emission-free Mobility in Munich” from the City of Munich. We'll discuss the competition itself as well as what that means for Plan4Better."
+summary : "We are happy to announce that we received the Munich Innovation Award for the category of “Emission-free Mobility in Munich” from the City of Munich."
 thumbnail : "/images/award_t.webp"
 title : "Innovation Contest by the City of Munich"
 translationKey : ""

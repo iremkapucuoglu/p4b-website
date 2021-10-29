@@ -2,7 +2,7 @@
 author = ""
 categories = []
 date = ""
-description = ""
+description = "GOAT wins over the jury at the Smart Country Convention! We are the recipients of the Startup Award in the Smart City category."
 draft = true
 image = ""
 summary = ""

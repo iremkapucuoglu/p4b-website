@@ -2,7 +2,7 @@
 author = "haxhiu"
 categories = []
 date = 2021-10-28T22:00:00Z
-description = "GOAT überzeugt die Jury bei der Smart Country Concention! Wir sind die Gewinner des Startup Awards in der Kategorie Smart City."
+description = "GOAT überzeugt die Jury bei der Smart Country Convention! Wir sind die Gewinner des Startup Awards in der Kategorie Smart City."
 draft = true
 image = ""
 summary = "Plan4Better erhält den Startup Award in der Kategorie Smart City im Rahmen der Smart Country Convention in Berlin!"

@@ -35,6 +35,6 @@ _![Jury and the Finalists](/images/blog/bitkom/bitkom_group_image.webp "Jury and
 _Figure 2. Group picture with the jury and the finalists of the award_
 
 
-A big kudos to [Bitkom](https://www.bitkom.org/EN "Bitkom") for the good organization and the interesting event – we enjoyed being part of it! Thanks also to the partners [KMPG](https://home.kpmg/de/de/home.html) and [Smart City Berlin](https://smart-city-berlin.de/).
+A big kudos to [Bitkom](https://www.bitkom.org/EN "Bitkom") for the good organization and the interesting event – we enjoyed being part of it! Thanks also to the partners [KPMG](https://home.kpmg/de/de/home.html) and [Smart City Berlin](https://smart-city-berlin.de/).
 
 We wish the fellow finalists [Treesense](https://treesense.net/ "Treesense") and [HEIDI](https://heidi-app.de/ "HEImat DIgital") all the best and want to thank them for the exciting competition! It was a pleasure.

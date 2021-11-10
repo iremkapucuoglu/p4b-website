@@ -1,21 +1,22 @@
-+++
-author = "bozanovic"
-categories = []
-date = 2021-11-09T23:00:00Z
-description = ""
-draft = true
-image = "/images/xprenuers_banner-2.webp"
-summary = "Wir sind Teil des Batchs #10 des Inkubator-Programms XPRENEURS der UnternehmerTUM. Hier erklären wir näher wie das Programm abläuft und welche Ziele wir uns in diesem Zusammenhang gesetzt haben."
-thumbnail = "/images/xprenuers_banner.webp"
-title = "XPRENEURS Incubator"
-translationKey = ""
+---
+author : "bozanovic"
+categories : 
+- News
+date : 2021-11-10T09:00:00Z
+description : ""
+draft : false
+image : "/images/xpreneurs_banner.webp"
+summary : "Wir sind Teil des Batchs #10 des Inkubator-Programms XPRENEURS der UnternehmerTUM. Hier erklären wir näher wie das Programm abläuft und welche Ziele wir uns in diesem Zusammenhang gesetzt haben."
+thumbnail : "/images/xpreneurs_banner.webp"
+title : "XPRENEURS Inkubator"
+translationKey : ""
 
-+++
-## **Inkubator-Programm XPRENEURS**
+---
+## Inkubator-Programm XPRENEURS
 
 Wir sind Teil des Batchs #10 des Inkubator-Programms XPRENEURS der [UnternehmerTUM](https://www.unternehmertum.de/). Hier erklären wir näher wie das Programm abläuft und welche Ziele wir uns in diesem Zusammenhang gesetzt haben.
 
-## **Ziel und Ablauf von XPRENUERS**
+## Ziel und Ablauf von XPRENEURS
 
 [XPRENEURS](https://xpreneurs.io/) ist ein Programm zur Unterstützung technologiebasierter Start-ups auf ihrem Weg in den Markt. Dabei helfen sie im drei-monatigen Programm den Start-ups unter anderem bei der Validierung der Business Modelle, der Generierung von ersten Umsätzen und dem Funding.
 
@@ -33,7 +34,7 @@ Auch der Austausch mit den anderen Start-ups kommt nicht zu kurz. Alle paar Woch
 
 Beendet wird das 3-monatige Programm mit einem [Demo-Day](https://www.unternehmertum.de/events/ultimate-demo-day), bei dem alle Start-ups ihre finalen Pitches vor einem breiten Publikum bestehend aus potentiellen Investoren und Kunden präsentieren und zeigen wie gut sie sich in den drei Monaten entwickelt haben.
 
-## **Diese Ziele haben wir uns für XPRENEURS gesetzt**
+## Diese Ziele haben wir uns für XPRENEURS gesetzt
 
 Durch unseren Sieg beim [Innovationspreis der Stadt München](https://plan4better.de/posts/2021-08-06-innovationswettbewerb-der-stadt-munchen/) in der Kategorie „Emissionsfreie Mobilität in München“ haben wir eine Wildcard für ein Inkubator-Programm unserer Wahl gewonnen. Dadurch, dass wir uns bereits für XPRENEURS im Vorfeld beworben haben, haben wir uns auch gleich für dieses Programm entschieden. Neben den bereits genannten Benefits bietet XPRENEURS den Teams auch Office Space in dem neu erbauten [Munich Urban Colab](https://www.munich-urban-colab.de/) im Herzen von München in die wir auch gleich eingezogen sind.
 

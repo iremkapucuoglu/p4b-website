@@ -6,10 +6,9 @@ date: 2021-11-10T09:00:00.000+00:00
 description: 'Wir sind Teil des Batchs #10 des Inkubator-Programms XPRENEURS der UnternehmerTUM.'
 image: "/images/blog/xpreneurs/xpreneurs_banner.webp"
 summary: 'Wir sind Teil des Batchs #10 des Inkubator-Programms XPRENEURS der UnternehmerTUM.
-  Hier erklären wir näher wie das Programm abläuft und welche Ziele wir uns in diesem
-  Zusammenhang gesetzt haben.'
+  Hier erklären wir näher wie das Programm abläuft und welche Ziele wir uns gesetzt haben.'
 thumbnail: "/images/blog/xpreneurs/xpreneurs_thumbnail.webp"
-title: Mit dem XPRENEURS-Inkubator zur Marktreife 
+title: Mit dem XPRENEURS-Inkubator zur Marktreife
 translationKey: ''
 
 ---

@@ -33,7 +33,7 @@ The exchange with the other start-ups is also a huge benefit of the program. Eve
 
 The 3-month program ends with a [Demo Day](), where all start-ups present their final pitches to a broad audience of potential investors and customers and show how well they have developed in the last three months.
 
-## Goals we have set for XPRENUERS
+## Our goals for XPRENUERS
 
 By winning the [Innovation Award of the City of Munich](https://plan4better.de/posts/2021-08-06-innovationswettbewerb-der-stadt-munchen/) in the category "Emission-free mobility in Munich", we won a wildcard for an incubator program of our choice. As we had already applied for XPRENEURS in advance, we decided to join this program right away. In addition to the benefits already mentioned, XPRENEURS also offers office space in the newly built Munich Urban Colab in the heart of Munich, in which we also moved in at the start of the program.
 

@@ -68,7 +68,7 @@ Alle hierzu entwickelten Skripte sind in unserem [GitHub-Repo](https://github.co
 
 ## Nutzung der Daten
 
-Und wie nutzen wir diese Informationen? Zur Analyse der Erreichbarkeit und Beurteilung des Gehkomforts! Aktuell haben wir die Daten aus Mapillary genutzt, um eine bessere Datengrundlage für den [Walkability Index](/de/posts/2021-04-06-walkability-index/) zu erlangen und in diesem Zuge über 10.000 Bilder in der Stadt Freiburg erfasst.
+Und wie nutzen wir diese Informationen? Zur Analyse der Erreichbarkeit und Beurteilung des Gehkomforts! Aktuell haben wir die Daten aus Mapillary genutzt, um eine bessere Datengrundlage für den [Walkability Index](/posts/2021-04-06-walkability-index/) zu erlangen und in diesem Zuge über 10.000 Bilder in der Stadt Freiburg erfasst.
 
 Doch es gibt auch noch viele weitere Einsatzmöglichkeiten. Nehmen wir an, wir analysieren die empfundene fußläufige Erreichbarkeit in einer Nachbarschaft bei Nacht. Hierfür interessieren uns Faktoren, die die Attraktivität des Zufußgehens beeinflussen. In diesem Fall wäre dies v.a. die Beleuchtung. Diese Informationen, repräsentiert durch das Vorhandensein von Straßenlaternen, können wir durch die Mapillary API abrufen und somit die Genauigkeit der Analysen verbessern.
 

@@ -4,7 +4,7 @@ categories = ["news"]
 date = 2021-11-09T23:00:00Z
 description = ""
 draft = true
-image = "/images/xprenuers_banner-1.webp"
+image = "/images/xprenuers_banner-2.webp"
 summary = "We are part of batch #10 of the incubator program XPRENEURS by UnternehmerTUM. Here, we’ll explain in more detail how the program works and what goals we have set for ourselves. "
 thumbnail = "/images/xprenuers_banner.webp"
 title = "XPRENEURS Incubator"
@@ -15,7 +15,7 @@ translationKey = ""
 
 We are part of batch #10 of the incubator program **XPRENEURS** by **UnternehmerTUM**. Here, we’ll explain in more detail how the program works and what goals we have set for ourselves.
 
-## Goals and program of XPRENUERS
+## Program and goals of XPRENUERS
 
 [XPRENEURS](https://xpreneurs.io/) is a program to support technology-based start-ups on their way to market. During the three-month program, XPRENEURS helps the start-ups with the validation of business models, and the generation of initial sales and funding, among other things.
 

@@ -15,7 +15,7 @@ translationKey = ""
 
 We are part of batch #10 of the incubator program **XPRENEURS** by **UnternehmerTUM**. Here, we’ll explain in more detail how the program works and what goals we have set for ourselves.
 
-## Program and goals of XPRENUERS
+## Program and aim of XPRENUERS
 
 [XPRENEURS](https://xpreneurs.io/) is a program to support technology-based start-ups on their way to market. During the three-month program, XPRENEURS helps the start-ups with the validation of business models, and the generation of initial sales and funding, among other things.
 
@@ -33,7 +33,7 @@ The exchange with the other start-ups is also a huge benefit of the program. Eve
 
 The 3-month program ends with a [Demo Day](), where all start-ups present their final pitches to a broad audience of potential investors and customers and show how well they have developed in the last three months.
 
-## Our goals for XPRENUERS
+## Goals we have set for XPRENUERS
 
 By winning the [Innovation Award of the City of Munich](https://plan4better.de/posts/2021-08-06-innovationswettbewerb-der-stadt-munchen/) in the category "Emission-free mobility in Munich", we won a wildcard for an incubator program of our choice. As we had already applied for XPRENEURS in advance, we decided to join this program right away. In addition to the benefits already mentioned, XPRENEURS also offers office space in the newly built Munich Urban Colab in the heart of Munich, in which we also moved in at the start of the program.
 

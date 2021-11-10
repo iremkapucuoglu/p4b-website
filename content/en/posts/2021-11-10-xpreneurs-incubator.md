@@ -3,7 +3,7 @@ author: bozanovic
 categories:
 - news
 date: 2021-11-10T09:00:00.000+00:00
-description: ''
+description: 'We are part of batch #10 of the incubator program XPRENEURS by UnternehmerTUM.'
 image: "/images/blog/xpreneurs/xpreneurs_banner.webp"
 summary: 'We are part of batch #10 of the incubator program XPRENEURS by UnternehmerTUM.
   Here, we’ll explain in more detail how the program works and what goals we have
@@ -45,4 +45,6 @@ By winning the [Innovation Award of the City of Munich](https://plan4better.de/p
 
 We want to use XPRENEURS to optimize our existing business model and develop a targeted sales strategy. In addition, we want to exchange ideas with like-minded founders and connect with valuable contacts.
 
-With our coach Leo we have broken down our goals into smaller milestones and can therefore approach them iteratively. Among other things, we have already hired new team members and revised our pricing strategy. We are looking forward to our next milestones that we will reach together with XPRENEURS and would like to thank all participants, coaches and mentors for their support. Special thanks go to our coach [Leo](https://www.linkedin.com/in/juanleonardo/) and our two mentors [Bernd Bäzner](https://www.linkedin.com/in/bernd-baezner-34a78/) and [Martin Johann Fröhlich](https://www.linkedin.com/in/martin-johann-fröhlich-68543599/) for their active support. See you at Demo Day!
+With our coach Leo we have broken down our goals into smaller milestones and can therefore approach them iteratively. Among other things, we have already hired new team members and revised our pricing strategy. We are looking forward to our next milestones that we will reach together with XPRENEURS and would like to thank all participants, coaches and mentors for their support. Special thanks go to our coach [Leo](https://www.linkedin.com/in/juanleonardo/) and our two mentors [Bernd Bäzner](https://www.linkedin.com/in/bernd-baezner-34a78/) and [Martin Johann Fröhlich](https://www.linkedin.com/in/martin-johann-fröhlich-68543599/) for their active support. 
+
+See you at Demo Day!

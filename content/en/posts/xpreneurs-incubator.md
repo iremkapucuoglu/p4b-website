@@ -1,14 +1,14 @@
 +++
 author = "bozanovic"
-categories = []
+categories = ["news"]
 date = 2021-11-09T23:00:00Z
-description = "We are part of batch #10 of the incubator program XPRENEURS by UnternehmerTUM. Here, we’ll explain in more detail how the program works and what goals we have set for ourselves. "
+description = ""
 draft = true
 image = "/images/xprenuers_banner-1.webp"
-summary = ""
+summary = "We are part of batch #10 of the incubator program XPRENEURS by UnternehmerTUM. Here, we’ll explain in more detail how the program works and what goals we have set for ourselves. "
 thumbnail = "/images/xprenuers_banner.webp"
 title = "XPRENEURS Incubator"
-translationKey = "news"
+translationKey = ""
 
 +++
 ## Incubator Program XPRENEURS

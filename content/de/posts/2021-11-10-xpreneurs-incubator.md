@@ -22,11 +22,15 @@ Wir sind Teil des Batchs #10 des Inkubator-Programms XPRENEURS der [UnternehmerT
 
 Das Kick-Off des Programms wurde mit einer coolen Wanderung und Übernachtung in der Priener Hütte am Geigelstein bei Chiemgau verbunden, bei der sich alle Teams und Coaches in der Natur und bei zahlreichen Pitching-Spielen besser kennengelernt haben.
 
+![](/images/blog/xpreneurs/xpreneurs_hike.webp)
+_Abbildung 1. Kick-off Event auf der Priener Hütte_
+
 Nach dem Kick-Off wurde jedem Team, abhängig von der jeweiligen Phase, den Bedürfnissen und des Bereichs in dem das Start-up tätig ist, ein Coach zugewiesen, mit dem man sich alle zwei Wochen trifft, die Arbeit der letzten zwei Wochen bespricht und neue Meilensteine für das nächste Treffen setzt. Zusätzlich zum Coach wird jedes Team von einem oder mehreren externen Mentoren unterstützt, die Experten in der Branche sind und durch ihre jahrelange Erfahrung nochmal gezielt bei verschiedenen Fragestellungen unterstützen können.
 
 Drei Wochen nach dem Kick-Off fand das erste von drei sogenannten [XCONNECT](https://www.linkedin.com/feed/update/urn:li:activity:6859750499831320576/) Events statt, bei dem sich alle 11 Start-ups in einem 2-Minuten Pitch vorgestellt haben und den anwesenden Mentoren, Coaches und potentiellen Investoren kommuniziert haben welche Ziele sie sich für XPRENEURS gesetzt haben. Im Anschluss gab es ein gelungenes Networking Event mit dem ein oder anderen Gläschen Wein. 
 
 ![](/images/xpreneurs_xconnect.webp)
+_Abbildung 2. XCONNECT Networking-Event im Munich Urban Colab_
 
 Was XPRENEURS so besonders macht ist das unglaubliche Netzwerk, welches den Start-ups zur Verfügung gestellt wird. Das Netzwerk umfasst dabei Investoren, Gründer, Anwälte, Berater und viele weitere Experten aus den unterschiedlichsten Branchen. Einige dieser Experten halten mehrmals in der Woche Workshops zu spezifischen Themen und stehen auch häufig im Anschluss für 1-on-1 Sessions für die Teams zur Verfügung. In den Workshops werden unter anderem Themen wie Vertrieb, Recht, Funding und Team Building näher erläutert. Um das Networking zu erleichtern, organsiert das Team von XPRENEURS neben den XCONNECT Events auch weitere Networking Events wie beispielsweise ein Investorenabendessen im Löwenbräukeller oder eine Pokernacht für die Teams.
 

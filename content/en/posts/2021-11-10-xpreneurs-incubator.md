@@ -4,7 +4,7 @@ categories : ["news"]
 date : 2021-11-10T09:00:00Z
 description : ""
 draft : false
-image : "/images/xpreneurs_banner-2.webp"
+image : "/images/xpreneurs_banner.webp"
 summary : "We are part of batch #10 of the incubator program XPRENEURS by UnternehmerTUM. Here, we’ll explain in more detail how the program works and what goals we have set for ourselves. "
 thumbnail : "/images/xpreneurs_banner.webp"
 title : "XPRENEURS Incubator"
@@ -21,11 +21,15 @@ We are part of batch #10 of the incubator program **XPRENEURS** by **Unternehmer
 
 The kick-off was combined with a cool hike and overnight stay at the Priener Hütte at Geigelstein near Chiemgau, where all teams and coaches got to know each other while being in nature and participating in numerous pitching games.
 
+![](/images/blog/xpreneurs/xpreneurs_hike.webp)
+_Figure 1. Kick-off event at Priener Hütte_
+
 After the kick-off, each team was assigned a coach, depending on their stage, needs and the area in which their start-up operates, with whom they meet with every two weeks, discuss the work of the last two weeks and set new milestones for the next meeting. In addition to the coach, each team is supported by one or more external mentors who are experts in the industry and, through their years of experience, can provide further specific support on various issues.
 
 Three weeks after the kick-off, the first of three so-called [XCONNECT](https://www.linkedin.com/feed/update/urn:li:activity:6859750499831320576/) events took place, where all 11 start-ups presented themselves in a 2-minute pitch and communicated their goals for XPRENEURS to the mentors, coaches and potential investors present. Afterwards, there was a successful networking event with a glass of wine or two.
 
 ![](/images/xpreneurs_xconnect.webp)
+_Figure 2. XCONNECT networking event at Munich Urban Colab_
 
 What makes XPRENEURS so special is the incredible network that is made available to the start-ups. The network includes investors, founders, lawyers, consultants and many other experts from various industries. Some of these experts hold workshops on specific topics several times a week and are also often available for 1-on-1 sessions for the teams afterwards. During the workshops, topics such as sales, law, funding, and team building, are explained in more detail. To enhance networking, the XPRENEURS team also organizes other networking events in addition to the XCONNECT events, such as an investor dinner at the Löwenbräukeller or a poker night for the teams.
 

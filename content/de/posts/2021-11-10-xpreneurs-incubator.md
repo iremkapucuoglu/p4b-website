@@ -8,7 +8,7 @@ image: "/images/xpreneurs_banner.webp"
 summary: 'Wir sind Teil des Batchs #10 des Inkubator-Programms XPRENEURS der UnternehmerTUM.
   Hier erklären wir näher wie das Programm abläuft und welche Ziele wir uns in diesem
   Zusammenhang gesetzt haben.'
-thumbnail: "/images/xprenuers_banner_gr.webp"
+thumbnail: "/images/xprenuers_banner_gr-1.webp"
 title: XPRENEURS Inkubator
 translationKey: ''
 

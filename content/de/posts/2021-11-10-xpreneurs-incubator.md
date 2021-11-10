@@ -1,15 +1,16 @@
 ---
-author : "bozanovic"
-categories : 
+author: bozanovic
+categories:
 - News
-date : 2021-11-10T09:00:00Z
-description : ""
-draft : false
-image : "/images/xpreneurs_banner.webp"
-summary : "Wir sind Teil des Batchs #10 des Inkubator-Programms XPRENEURS der UnternehmerTUM. Hier erklären wir näher wie das Programm abläuft und welche Ziele wir uns in diesem Zusammenhang gesetzt haben."
-thumbnail : "/images/xpreneurs_banner.webp"
-title : "XPRENEURS Inkubator"
-translationKey : ""
+date: 2021-11-10T09:00:00.000+00:00
+description: ''
+image: "/images/xpreneurs_banner.webp"
+summary: 'Wir sind Teil des Batchs #10 des Inkubator-Programms XPRENEURS der UnternehmerTUM.
+  Hier erklären wir näher wie das Programm abläuft und welche Ziele wir uns in diesem
+  Zusammenhang gesetzt haben.'
+thumbnail: "/images/xprenuers_banner_gr.webp"
+title: XPRENEURS Inkubator
+translationKey: ''
 
 ---
 ## Inkubator-Programm XPRENEURS
@@ -40,4 +41,4 @@ Durch unseren Sieg beim [Innovationspreis der Stadt München](https://plan4bette
 
 Wir wollen XPRENEURS dafür nutzen unser bestehendes Geschäftsmodell zu optimieren und eine zielgerichtete Vertriebsstrategie zu entwickeln. Zudem wollen wir uns mit gleichgesinnten Gründern austauschen und wertvolle Kontakte knüpfen.
 
-Mit unserem Coach Leo haben wir unsere Ziele in kleinere Meilensteine runtergebrochen und können uns somit diesen iterativ nähern. Unter anderem haben wir bereits neue Team-Mitglieder eingestellt und unser Pricing überarbeitet. Wir freuen uns auf unsere weiteren Meilensteine, die wir zusammen mit XPRENEURS erreichen werden und möchten uns herzlichst bei allen Beteiligten, Coaches und Mentoren für die Unterstützung bedanken. Insbesonderer Dank gilt unseren unserem Coach Leo und unseren beiden Mentoren [Bernd Bäzner](https://www.linkedin.com/in/bernd-baezner-34a78/) und [Martin Johann Fröhlich](https://www.linkedin.com/in/martin-johann-fröhlich-68543599/) für die tatkräftige Unterstützung. Wir sehen uns beim Demo Day! 
+Mit unserem Coach Leo haben wir unsere Ziele in kleinere Meilensteine runtergebrochen und können uns somit diesen iterativ nähern. Unter anderem haben wir bereits neue Team-Mitglieder eingestellt und unser Pricing überarbeitet. Wir freuen uns auf unsere weiteren Meilensteine, die wir zusammen mit XPRENEURS erreichen werden und möchten uns herzlichst bei allen Beteiligten, Coaches und Mentoren für die Unterstützung bedanken. Insbesonderer Dank gilt unseren unserem Coach Leo und unseren beiden Mentoren [Bernd Bäzner](https://www.linkedin.com/in/bernd-baezner-34a78/) und [Martin Johann Fröhlich](https://www.linkedin.com/in/martin-johann-fröhlich-68543599/) für die tatkräftige Unterstützung. Wir sehen uns beim Demo Day!

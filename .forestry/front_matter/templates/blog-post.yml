@@ -36,4 +36,5 @@ fields:
   label: Author
   description: Enter username from authors settings.
 pages:
+- content/de/posts/xpreneurs-incubator.md
 - content/en/posts/xpreneurs-incubator.md

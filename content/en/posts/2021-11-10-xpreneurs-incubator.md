@@ -4,18 +4,18 @@ categories:
 - news
 date: 2021-11-10T09:00:00.000+00:00
 description: ''
-image: "/images/xpreneurs_banner.webp"
+image: "/images/blog/xpreneurs/xpreneurs_banner.webp"
 summary: 'We are part of batch #10 of the incubator program XPRENEURS by UnternehmerTUM.
   Here, we’ll explain in more detail how the program works and what goals we have
   set for ourselves. '
-thumbnail: "/images/xprenuers_banner_gr-1.webp"
-title: XPRENEURS Incubator
+thumbnail: "/images/blog/xpreneurs/xpreneurs_thumbnail.webp"
+title: Getting market-ready with XPRENEURS Incubator
 translationKey: ''
 
 ---
 ## Incubator Program XPRENEURS
 
-We are part of batch #10 of the incubator program **XPRENEURS** by **UnternehmerTUM**. Here, we’ll explain in more detail how the program works and what goals we have set for ourselves.
+We are part of batch #10 of the incubator program XPRENEURS by [UnternehmerTUM](https://www.unternehmertum.de/). Here, we’ll explain in more detail how the program works and what goals we have set for ourselves.
 
 ## Program and aim of XPRENEURS
 
@@ -41,7 +41,7 @@ The 3-month program ends with a [Demo Day](https://www.unternehmertum.de/events/
 
 ## Goals we have set for XPRENEURS
 
-By winning the [Innovation Award of the City of Munich](https://plan4better.de/posts/2021-08-06-innovationswettbewerb-der-stadt-munchen/) in the category "Emission-free mobility in Munich", we won a wildcard for an incubator program of our choice. As we had already applied for XPRENEURS in advance, we decided to join this program right away. In addition to the benefits already mentioned, XPRENEURS also offers office space in the newly built Munich Urban Colab in the heart of Munich, in which we also moved in at the start of the program.
+By winning the [Innovation Award of the City of Munich](https://plan4better.de/posts/2021-08-06-innovationswettbewerb-der-stadt-munchen/) in the category "Emission-free mobility in Munich", we won a wildcard for an incubator program of our choice. As we had already applied for XPRENEURS in advance, we decided to join this program right away. In addition to the benefits already mentioned, XPRENEURS also offers office space in the newly built [Munich Urban Colab](https://www.munich-urban-colab.de/) in the heart of Munich, in which we also moved in at the start of the program.
 
 We want to use XPRENEURS to optimize our existing business model and develop a targeted sales strategy. In addition, we want to exchange ideas with like-minded founders and connect with valuable contacts.
 

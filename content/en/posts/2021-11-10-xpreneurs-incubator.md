@@ -37,7 +37,7 @@ What makes XPRENEURS so special is the incredible network that is made available
 
 The exchange with the other start-ups is also a huge benefit of the program. Every few weeks, an XCHANGE event takes place, where tips and tricks are exchanged in a relaxed atmosphere.
 
-The 3-month program ends with a [Demo Day](), where all start-ups present their final pitches to a broad audience of potential investors and customers and show how well they have developed in the last three months.
+The 3-month program ends with a [Demo Day](https://www.unternehmertum.de/events/ultimate-demo-day), where all start-ups present their final pitches to a broad audience of potential investors and customers and show how well they have developed in the last three months.
 
 ## Goals we have set for XPRENEURS
 

@@ -57,19 +57,19 @@ heading = "Videos"
 icon = "play-circle"
 page = "de/videos.md"
 text = "Videos geben einen Überblick zu den Funktionen und Einsatzmöglichkeiten von GOAT."
-url = "de/videos/"
+url = "videos/"
 [[blocks.links]]
 heading = "Tutorials"
 icon = "file-text"
 page = "de/tutorials.md"
 text = "Schritt-für-Schritt Anleitung zur Nutzung von GOAT um typische Planungsfragen aus der Praxis zu bearbeiten."
-url = "de/tutorials/isochrone/"
+url = "tutorials/isochrone/"
 [[blocks.links]]
 heading = "Docs"
 icon = "code"
 page = "de/docs.md"
 pages = "de/_index.md"
 text = "Detaillierte Informationen zum technischen Hintergrund und zur Beteiligung am Open-Source-Projekt."
-url = "de/docs/background/"
+url = "docs/background/"
 
 +++

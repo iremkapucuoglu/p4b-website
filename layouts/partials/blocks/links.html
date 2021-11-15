@@ -26,7 +26,11 @@
               </div>
               <div class="uk-width-auto uk-flex uk-flex-middle"><span class="uk-margin-small-right" data-uk-icon="icon: chevron-right; ratio: 1.5"></span></div>
             </div>
-            <a class="uk-position-cover" href="{{ .url | relURL }}"></a>
+            {{if .download_url}}
+              <a class="uk-position-cover" href="{{ .download_url }}" download></a>
+            {{else}}
+              <a class="uk-position-cover" href="{{ .url | relURL }}"></a>
+            {{end}}
           </div>
         </div>
       {{ end }}

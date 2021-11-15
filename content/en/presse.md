@@ -59,7 +59,7 @@ https://www.tum.de/en/about-tum/news/press-releases/details/36992
 t3n - *08. November 2021*  
 https://t3n.de/news/smart-city-autos-keine-rolle-1425412/
 
-**Plan4Better siegt beim Smart Country Startup Award 2021**
+**Plan4Better siegt beim Smart Country Startup Award 2021**  
 Bitkom - *27. October 2021*  
 https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021
 

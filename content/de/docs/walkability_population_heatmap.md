@@ -13,15 +13,15 @@ Zusätzlich zur [Lokalen Erreichbarkeits Heatmap](../heatmap/) ermöglicht GOAT 
 - Wo ist Potenzial für (Nach-)Verdichtung? 
 - Wo ist eine Verbesserung der Erreichbarkeit zu bestimmten Einrichtungen oder ÖV Haltestellen notwendig?
 
-![](/images/docs/technical_documentation/walkability_population_index/walkability_population_map.png)
+![](/images/docs/technical_documentation/walkability_population_index/walkability_population_map.webp)
 
 #### 1. Berechnung
 Die Vergleichs-Heatmap von Erreichbarkeit und Bevölkerungsdichte ergibt sich aus der Schnittmenge der beiden Heatmaps "Lokale Erreichbarkeit" und "Bevölkerungsdichte".
-![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.png)
+![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.webp)
 
 #### 2. Klassifizierung
 Zur Klassifizierung der Erreichbarkeitswerte, die für jedes Hexagon berechnet wurden, wird eine Einteilung basierend auf Perzentilen verwendet. Die folgende Tabelle zeigt examplarisch, wie sich die Erreichbarkeitswerte zusammensetzen.
-![](/images/docs/technical_documentation/walkability_population_index/percentile.png)
+![](/images/docs/technical_documentation/walkability_population_index/percentile.webp)
 
 Die Vergleichs-Heatmap wird wie folgt berechnet:
 
@@ -30,7 +30,7 @@ Die Vergleichs-Heatmap wird wie folgt berechnet:
 und zeigt folgendes Ergebnis:
 
 
-![](/images/docs/technical_documentation/walkability_population_index/calculated_index.png)
+![](/images/docs/technical_documentation/walkability_population_index/calculated_index.webp)
 
 
 

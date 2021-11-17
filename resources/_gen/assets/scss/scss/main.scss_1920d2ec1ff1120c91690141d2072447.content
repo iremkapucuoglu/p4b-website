@@ -4149,7 +4149,7 @@ select.uk-form-width-xsmall {
 /*
  * Activate slide-out animation
  */
-.uk-offcanvas-container-animation:not(.uk-offcanvas-flip) {
+:not(.uk-offcanvas-flip).uk-offcanvas-container-animation {
   left: 270px; }
 
 .uk-offcanvas-flip.uk-offcanvas-container-animation {
@@ -4157,7 +4157,7 @@ select.uk-form-width-xsmall {
 
 /* Tablet landscape and bigger */
 @media (min-width: 960px) {
-  .uk-offcanvas-container-animation:not(.uk-offcanvas-flip) {
+  :not(.uk-offcanvas-flip).uk-offcanvas-container-animation {
     left: 350px; }
   .uk-offcanvas-flip.uk-offcanvas-container-animation {
     left: -350px; } }

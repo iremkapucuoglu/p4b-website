@@ -10,7 +10,7 @@ Within the project [WALKIE](../../posts/2021-04-06-walkability-index/), we devel
 
 The Walkability Index consists of 22 items, that are clustered in 6 categories:
 
-![Items and weights of the Walkability Index](/images/docs/walkability_index/indicators_en.png "Walkability indicators and weighting factors")
+![Items and weights of the Walkability Index](/images/docs/technical_documentation/walkability_index/indicators_en.webp "Walkability indicators and weighting factors")
 
 The weighting of the items is done based on several scientific studies (references listed below) and according to the data availability. For some items (e.g. sidewalk width), data availability in Open Data sources (such as OSM) is very limited. Therefore, these items are excluded from the index calculation.
 

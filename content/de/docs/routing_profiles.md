@@ -29,7 +29,7 @@ The safe-routing excludes all non-illuminated paths. The idea behind this routin
 
 As there are two options to map the illuminance in OSM (by mapping the street lamps or by assigning the tag "lit" to the road sequence) both have to be considered in order to classify which road segments are illuminated and which are not. First, the way attributes are checked. Since the tag "lit" is not always specified, but the information of the other tags allows conclusions about the street lighting, the paths are classified according to the following scheme:
 
-![](/images/docs/technical_documentation/routing_profiles/classification_schema_illumination.png)
+![](/images/docs/technical_documentation/routing_profiles/classification_schema_illumination.webp)
 
 This scheme was designed on the basis of common patterns in the OSM-data in Germany. As these may be different in other countries, all those conditions can be adjusted in the configuration files of GOAT.
 

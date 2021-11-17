@@ -8,22 +8,22 @@ weight: 60
 ---
 GOAT allows you to calculate and visualize gravity-based accessibility measures, which are visualized as heatmaps. Based on pre-calculated travel times the heatmap is computed dynamically based on the selection of the user. A hexagonal grid is used for visualization.
 
-![](/images/docs/technical_documentation/heatmap/heatmap.png)
+![](/images/docs/technical_documentation/heatmap/heatmap.webp)
 
 #### 1. Calculation
 
 The calculation of the heatmap is calculated with the help of gravity-based measures and can be operationalized as:
 
-![](/images/docs/technical_documentation/heatmap/place-based_accessibility_measures.png)
+![](/images/docs/technical_documentation/heatmap/place-based_accessibility_measures.webp)
 
 where the accessibility <b>A</b> of origin <b>i</b> is the sum of all opportunities <b>O</b> available at destinations <b>j</b> weighted by some function of the travel time <b> t<sub>ij</sub></b>  between <b>i</b> and <b>j</b>. GOAT uses the modified gaussian function as an impedance function for the calculation:
 
-![](/images/docs/technical_documentation/heatmap/Gaussian_function.png)
+![](/images/docs/technical_documentation/heatmap/Gaussian_function.webp)
 
 Travel times are computed in seconds. The cut-off value of 15 minutes is used for the mode walking, this means that destination that are further away then 15 minutes are not considered in the calculation of the index. The sensitivity parameter defines how accessibility changes with increasing travel time. As the sensitivity parameter is decisive when measuring accessibility, GOAT allows you to adjust them. The following graphs show the influence of the sensitivity parameter on accessibility.
 
-![](/images/docs/technical_documentation/heatmap/sensitivity_index_20000.png)
-![](/images/docs/technical_documentation/heatmap/sensitivity_index_30000.png)
+![](/images/docs/technical_documentation/heatmap/sensitivity_index_20000.webp)
+![](/images/docs/technical_documentation/heatmap/sensitivity_index_30000.webp)
 
 #### 2. Classification
 
@@ -36,28 +36,28 @@ In order to classify the accessibility levels that were computed for each grid c
 The following example illustrates how the gravity-based heatmap is computed.
 The travel times are calculated for each grid cell to the concerning destination on the street network.
 
-![](/images/docs/technical_documentation/heatmap/grid_groceries.png)
+![](/images/docs/technical_documentation/heatmap/grid_groceries.webp)
 
 For one grid cell the calculation could be done as in the following examples:
 
 Uniform sensitivity parameter:
-![](/images/docs/technical_documentation/heatmap/accessiblity_uniform_sensitivity-index.png)
+![](/images/docs/technical_documentation/heatmap/accessiblity_uniform_sensitivity-index.webp)
 
 Varying sensitivity parameter for Hypermarket:
-![](/images/docs/technical_documentation/heatmap/accessiblity_different_sensitivity-indices.png)
+![](/images/docs/technical_documentation/heatmap/accessiblity_different_sensitivity-indices.webp)
 
 ##### 3.2 Calculation with uniform sensitivity parameter
 
 In the first case we want to calculate the accessibility to groceries in 15min (β=300000).
 This means the sensitivity parameter is the same for every category of grocery.
 
-![](/images/docs/technical_documentation/heatmap/uniform_sensitivity.png)
+![](/images/docs/technical_documentation/heatmap/uniform_sensitivity.webp)
 
 ##### 3.3 Calculation with different sensitivity indices
 
 In the second case we calculate the accessibility to groceries in 15min (β=300000 and β=400000). This means the sensitivity parameter depends on the categories of grocery. For this example, we used β= 400000 for the type of grocery hypermarket and β= 300000 for discount supermarket and supermarket.
 
-![](/images/docs/technical_documentation/heatmap/different_sensitivity.png)
+![](/images/docs/technical_documentation/heatmap/different_sensitivity.webp)
 
 If both examples are compared significant changes in accessibility can be observed, as in the second example the sensitivity parameter is chosen in favor of hypermarkets.
 

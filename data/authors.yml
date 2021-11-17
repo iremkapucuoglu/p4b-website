@@ -17,13 +17,13 @@
   linkedin: https://www.linkedin.com/in/eliaspajares/
   team_member: true
   twitter: https://twitter.com/PajaresElias
-  team_image: "/images/team/team_elias.jpg"
+  team_image: "/images/team/team_elias.webp"
 - username: jehle
   name: Ulrike Jehle
   title:
     en: Co-CEO
     de: Geschäftsführerin
-  image: "/images/team/ulrike_jehle.jpg"
+  image: "/images/team/ulrike_jehle.webp"
   bio:
     en: As engineer and scientist she is leading the team with Elias. To shape liveable
       cities, she is particularly engaged in strengthening active forms of mobility
@@ -36,13 +36,13 @@
   linkedin: https://www.linkedin.com/in/ulrike-jehle/
   team_member: true
   twitter: https://twitter.com/JehleUlrike
-  team_image: "/images/team/team_ulrike.jpg"
+  team_image: "/images/team/team_ulrike.webp"
 - username: shkurti
   name: Majk Shkurti
   title:
     en: CTO
     de: Technischer Direktor
-  image: "/images/team/majk_shkurti.png"
+  image: "/images/team/majk_shkurti.webp"
   bio:
     en: As experienced WebGIS-developer he is leading the development. His passion
       lies in making map-based technologies useful and accessible for everyone.
@@ -53,13 +53,13 @@
   linkedin: https://www.linkedin.com/in/majkshkurti/
   team_member: true
   twitter: ''
-  team_image: "/images/team/team_majk.jpg"
+  team_image: "/images/team/team_majk.webp"
 - username: hassine
   name: Emna Ben Hassine
   title:
     en: Student Assistant
     de: Wissenschaftliche Hilfskraft
-  image: "/images/team/hassine.jpg"
+  image: "/images/team/hassine.png"
   bio:
     en: Student assistant and environmental engineer with enthusiasm for Sustainable
       Urban Mobility. She believes that active mobility is the key to bring back the
@@ -147,7 +147,7 @@
       bilingual auf den Punkt zu bringen. Als leidenschaftliche Fußgängerin begeistert
       sie das städteplanerische Potenzial, das GOAT eröffnen kann.
   team_member: true
-  team_image: "/images/team/team_helga.jpg"
+  team_image: "/images/team/team_helga.webp"
   github: ''
   website: ''
   linkedin: https://www.linkedin.com/in/helga-haxhiu-6b267b219/
@@ -166,7 +166,7 @@
       und Recherchen.
   image: "/images/team/team_joelean_bw-3.webp"
   team_member: true
-  team_image: "/images/team/team_joelean.png"
+  team_image: "/images/team/team_joelean.webp"
   github: ''
   website: https://www.joeleanhall.com/
   linkedin: https://www.linkedin.com/in/joelean-hall-1207001b7/
@@ -208,4 +208,21 @@
   github: ''
   website: ''
   linkedin: https://www.linkedin.com/in/philippotter96/
+  twitter: ''
+- username: xue
+  name: Jiaying Xue
+  title:
+    en: Intern
+    de: Praktikantin
+  bio:
+    en: Jiaying has a passion for exploring mobilty data, spatial data analysis and sustainable urbanism. 
+      As a cartography student, she helps with mobility research and geo-data visualization.
+    de: Jiaying beschäftigt sich leidenschaftlich mit nachhaltiger Stadtentwicklung, Mobilitätsdatenanalysen 
+      und räumlichen Daten. Als Kartographie-Studentin hilft sie bei der Mobilitätsforschung und der Visualisierung von Geodaten.
+  image: ''
+  team_member: true
+  team_image: "/images/team/team_jiaying.webp"
+  github: ''
+  website: ''
+  linkedin: https://www.linkedin.com/in/jiaying-xue
   twitter: ''

@@ -24,13 +24,13 @@ OpenStreetMap war, wie immer, eine hilfreiche Informationsquelle, dennoch haben 
 
 Da in Fürstenfeldbruck lediglich ein kleiner Teil des Straßennetzwerkes im Vorfeld bereits in Mapillary erfasst war, haben wir uns dazu entschieden, raus zu gehen und die Bilder selbst aufzunehmen. Dieser Screenshot zeigt, welchen Bereich wir bisher abgedeckt haben:
 
-![Die Abdeckung von Fürstenfeldbruck in Mapillary.](/images/blog/mapillary/mapillary_ffb.png "Erfasste Wege in Fürstenfeldbruck")
+![Die Abdeckung von Fürstenfeldbruck in Mapillary.](/images/blog/mapillary/mapillary_ffb.webp "Erfasste Wege in Fürstenfeldbruck")
 
 _Abbildung 1. Das Gebiet in Fürstenfeldbruck und die erfassten Wege_
 
 Um zu lernen, mit Mapillary zu arbeiten, haben wir zunächst einige Tests in München durchgeführt, bevor wir nach Fürstenfeldbruck gefahren sind. Dabei haben wir unterschiedliche Kameras und Haltevorrichtungen zur Befestigung des Handys bzw. der GoPro am Fahrrad, sowie verschiedene Einstellungen für die Aufnahme und unterschiedliche Funktionen der App ausprobiert. Vor allem der hohe Batterieverbrauch und der hohe Speicherplatzbedarf für die Bilder stellten sich als Herausforderungen dar. Als bestes Setup erwies sich die GoPro für die Bilder in Kombination mit einem Handy zur Aufnahme der GPS-Tracks und zur Orientierung (Norden – Süden) sowie eine zusätzliche Powerbank.
 
-![Fahrrad mit befestigter GoPro in einer S-Bahn.](/images/blog/mapillary/mapillary_bike.jpg "Mit dem Fahrrad auf dem Weg nach Fürstenfeldbruck.")
+![Fahrrad mit befestigter GoPro in einer S-Bahn.](/images/blog/mapillary/mapillary_bike.webp "Mit dem Fahrrad auf dem Weg nach Fürstenfeldbruck.")
 
 _Abbildung 2. Fahrrad mit GoPro in der S-Bahn, aufgenommen auf dem Weg nach Fürstenfeldbruck_
 
@@ -40,7 +40,7 @@ Bisher haben wir innerhalb dieses Gebietes 210 km in 8 Tagen erfasst. Verglichen
 
 Um diese Aufgabe zu organisieren, haben wir bei Mapillary die Funktion „Capture projects“ genutzt. Mit dieser Funktion kann der Nutzende die Umrisse des Bereichs, der erfasst werden soll, definieren. In unserem Fall Fürstenfeldbruck. Im Anschluss daran, werden die Umrisse in Teilbereiche unterteilt, die als „tasks“, also als Aufgaben, bezeichnet und den „Drivern“ (Mitgliedern der Gruppe) zugeteilt (Abbildung 3). Bevor wir in das Untersuchungsgebiet gefahren sind, musste jedes Mitglied zunächst die App „Mapillary Driver“ herunterladen. Dort können alle „Driver“ sehen, welcher Teilbereich ihnen zugewiesen wurde und welche Straßen noch erhoben werden müssen. So war es sehr einfach, die Aufgaben zu koordinieren und das komplette Gebiet mit Bildaufnahmen abzudecken.
 
-![Unterteilung von Fürstenfeldbruck in tasks in Mapillary Driver.](/images/blog/mapillary/mapillary_tasks.png "Karte von Fürstenfeldbruck")
+![Unterteilung von Fürstenfeldbruck in tasks in Mapillary Driver.](/images/blog/mapillary/mapillary_tasks.webp "Karte von Fürstenfeldbruck")
 
 _Abbildung 3. Das Gebiet in Fürstenfeldbruck, aufgeteilt nach Aufgaben und Zuordnung der einzelnen Fahrer*Innen_
 
@@ -56,7 +56,7 @@ _Abbildung 4. Die Mapillary Bilder können nun direkt in GOAT eingesehen werden_
 
 So können Details überprüft werden, wie die Qualität von Geh- und Radwegen; Flächennutzung (wie auf den untenstehenden Bildern dargestellt, ist es möglich, Wohngebiete mit 30er Zonen oder verkehrsberuhigten Straßen, Gewerbegebiete zur Analyse der Parkplatzverteilung oder Fußgängerwege und die Qualität der Straßenoberfläche zu identifizieren); Schulen, Gesundheitshäuser und sogar Fahrradständer.
 
-![Bilder von verschiedenen Landnutzungsgebieten in Fürstefeldbruck.](/images/blog/mapillary/mapillary_sequences.png "Bildsequenzen aus Fürstenfeldbruck.")
+![Bilder von verschiedenen Landnutzungsgebieten in Fürstefeldbruck.](/images/blog/mapillary/mapillary_sequences.webp "Bildsequenzen aus Fürstenfeldbruck.")
 
 _Abbildung 5. Erfasste Bildsequenzen innerhalb unterschiedlicher Landnutzungsbereiche_
 
@@ -64,7 +64,7 @@ _Abbildung 5. Erfasste Bildsequenzen innerhalb unterschiedlicher Landnutzungsber
 
 Die Mapillary-Aufnahmen wurden genutzt, um die Qualität von OpenStreetMap-Daten zu verbessern. Wie auf dem Bild unten dargestellt, können Mapillary Bilder einfach und direkt bei der Bearbeitung in OSM genutzt werden. Die aufgenommenen Bilder im Gebiet Fürstenfeldbruck werden als grüne Punkte dargestellt.
 
-![Mapillary-Bilder von Fürstenfeldbruck werden zur Bearbeitung in OSM verwendet.](/images/blog/mapillary/mapillary_osm.png "OSM-Daten mit Mapillaryaufnahmen verbessern.")
+![Mapillary-Bilder von Fürstenfeldbruck werden zur Bearbeitung in OSM verwendet.](/images/blog/mapillary/mapillary_osm.webp "OSM-Daten mit Mapillaryaufnahmen verbessern.")
 
 _Abbildung 6. Nutzung von Mapillaryaufnahmen zur Verbesserung der OSM-Daten_
 

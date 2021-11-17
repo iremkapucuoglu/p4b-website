@@ -24,13 +24,13 @@ As always, OpenStreetMap has been a great source of information, a lot of detail
 
 Since in Fürstenfeldbruck only a few parts of the road network were captured beforehand, we decided to go outside and take the pictures ourselves. This screenshot shows our coverage:
 
-![Fürstenfeldbruck's coverage in Mapillary.](/images/blog/mapillary/mapillary_ffb.png "Pictured links in Fürstenfeldbruck.")
+![Fürstenfeldbruck's coverage in Mapillary.](/images/blog/mapillary/mapillary_ffb.webp "Pictured links in Fürstenfeldbruck.")
 
 _Figure 1. Fürstenfeldbruck Area and pictured links_
 
 To learn how to work with Mapillary, we made some tests in Munich before going to Fürstenfeldbruck. During the test, we tried different kinds of cameras, holding devices to attach the phone/GoPro to the bicycle, settings for recording, and different features of the app. Especially the high battery consumption and the high memory requirements for storing all images were challenging.  The best set-up proved to be a GoPro for the pictures connected to a mobile phone for recording the GPS track and orientation (north-south), additionally equipped with a power bank.
 
-![Bicycle with GoPro in a S-Bahn.](/images/blog/mapillary/mapillary_bike.jpg "Bicycle in S-Bahn going to Fürstenfeldbruck.")
+![Bicycle with GoPro in a S-Bahn.](/images/blog/mapillary/mapillary_bike.webp "Bicycle in S-Bahn going to Fürstenfeldbruck.")
 
 _Figure 2. Bicycle with the GoPro in the S-Bahn on our way to Fürstenfeldbruck_
 
@@ -40,7 +40,7 @@ So far, within the area, we have pictured 210 km in 8 days. Compared to the esti
 
 To organize this task, Mapillary has a feature called “Capture projects”. With this feature, the user defines the general area that he wants to cover as a shape, in our case Fürstenfeldbruck. Then, the shape is divided into subareas, each of them is called a "task" and is assigned to the “drivers” that are members of the group (Figure 3). Before going to the city, everybody downloaded an app called “Mapillary Driver”, where every driver can see to which area they are assigned and for which streets pictures are missing. In that way, it is very easy to complete all the tasks.
 
-![Area of Fürstenfeldbruck devided by tasks and assigements in Mapillary Driver.](/images/blog/mapillary/mapillary_tasks.png "Map of Fürstenfeldbruck")
+![Area of Fürstenfeldbruck devided by tasks and assigements in Mapillary Driver.](/images/blog/mapillary/mapillary_tasks.webp "Map of Fürstenfeldbruck")
 
 _Figure 3. Fürstenfeldbruck area divided by tasks and the assignment to each driver_
 
@@ -56,7 +56,7 @@ _Figure 4. The Mapillary images can now be viewed directly in GOAT_
 
 This allows to verify details such as the quality of sidewalks or cycle paths; land use, as shown in the pictures below where it is possible to identify residential areas with 30 zones or calmed roads, commercial areas to analyze parking distribution or footpaths, and the quality of the road surface; schools, health buildings, points of interest and even the possibility to find bicycle racks.
 
-![Pictures of differend land-use areas in Fürstefeldbruck.](/images/blog/mapillary/mapillary_sequences.png "Captured sequences in Fürstendeldbruck.")
+![Pictures of differend land-use areas in Fürstefeldbruck.](/images/blog/mapillary/mapillary_sequences.webp "Captured sequences in Fürstendeldbruck.")
 
 _Figure 5. Captured sequences within different land-use areas_
 
@@ -64,7 +64,7 @@ _Figure 5. Captured sequences within different land-use areas_
 
 Mapillary data was used to improve the quality of OpenStreetMap data. As shown in the picture below, Mapillary photos can easily and directly be used when editing in OSM. The taken photos in the Fürstenfeldbruck area are shown as green dots.
 
-![Mapillary pictures of Fürstenfeldbruck are being used for editing in OSM.](/images/blog/mapillary/mapillary_osm.png "Improvemtnt of OSM with Mapillary data")
+![Mapillary pictures of Fürstenfeldbruck are being used for editing in OSM.](/images/blog/mapillary/mapillary_osm.webp "Improvemtnt of OSM with Mapillary data")
 
 _Figure 6. Using Mapillary pictures to improve OSM data_
 

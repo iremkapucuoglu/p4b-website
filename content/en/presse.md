@@ -29,12 +29,61 @@ page = ""
 text = "Here you can download our logos, team pictures and screenshots of GOAT."
 download_url = "/download/images.zip"
 [[blocks]]
-block = "content"
-content = ""
+block = "news"
 heading = "Recent press releases"
 padding_top = "small"
-template = "content-block"
+template = "news-block"
 text = ""
+[[blocks.news]]
+heading = "Plan4Better: Erreichbarkeit macht mobil"
+thumbnail = "/images/presse/deutsche_glasfaser.webp"
+source = ""
+url = "https://www.deutsche-glasfaser.de/blog/plan4better-erreichbarkeit-macht-mobil/"
+date = "15. November 2021"
+
+[[blocks.news]]
+heading = "Shorter distances for a 15-minute city"
+thumbnail = "/images/presse/tum.webp"
+source = ""
+url = "https://www.tum.de/en/about-tum/news/press-releases/details/36992"
+date = "10. November 2021"
+
+[[blocks.news]]
+heading = "Das Auto soll kaum noch eine Rolle spielen"
+thumbnail = "/images/presse/t3n.webp"
+source = ""
+url = "https://www.tum.de/en/about-tum/news/press-releases/details/36992"
+date = "08. November 2021"
+
+[[blocks.news]]
+heading = "Plan4Better siegt beim Smart Country Startup Award 2021"
+thumbnail = "/images/presse/bitkom.webp"
+source = ""
+url = "https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021"
+date = "27. October 2021"
+
+[[blocks.news]]
+heading = "Innovationspreis 2021 der Landeshauptstadt München verliehen"
+thumbnail = "/images/presse/muenchende.webp"
+source = "Rathaus Umschau München"
+url = "https://ru.muenchen.de/2021/141/Innovationspreis-2021-der-Landeshauptstadt-Muenchen-verliehen-97125"
+date = "27. July 2021"
+
+[[blocks.news]]
+heading = "Münchner Innovationspreis 2021: Gewinner gekürt"
+thumbnail = "/images/presse/munich-startup.webp"
+source = ""
+url = "https://www.munich-startup.de/74796/innovationspreis-2021-gewinner/"
+date = "27. July 2021"
+
+[[blocks.news]]
+heading = "Münchner Innovationspreise 2021"
+thumbnail = "/images/presse/muenchende.webp"
+source = "Muenchen.de"
+url = "https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Arbeit-und-Wirtschaft/News/innovationspreis-muenchen2021.html"
+date = "26. July 2021"
+
+
 [[blocks]]
 background = "muted"
 block = "contact"
@@ -47,33 +96,6 @@ template = "contact-block"
 text = "If you are also interested in writing about us or simply want to get to know us better, please feel free to get in touch with us. We are looking forward to your messages."
 +++
 
-**Plan4Better: Erreichbarkeit macht mobil**  
-Deutsche Glasfaser Unternehmensgruppe - *15. November 2021*  
-https://www.deutsche-glasfaser.de/blog/plan4better-erreichbarkeit-macht-mobil/
-
-**Shorter distances for a 15-minute city**  
-TUM - *10. November 2021*  
-https://www.tum.de/en/about-tum/news/press-releases/details/36992
-
-**Städte 2.0: „Das Auto soll kaum noch eine Rolle spielen“**  
-t3n - *08. November 2021*  
-https://t3n.de/news/smart-city-autos-keine-rolle-1425412/
-
-**Plan4Better siegt beim Smart Country Startup Award 2021**  
-Bitkom - *27. October 2021*  
-https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021
-
-**Innovationspreis 2021 der Landeshauptstadt München verliehen**  
-Rathaus Umschau München - *27. July 2021*  
-https://ru.muenchen.de/2021/141/Innovationspreis-2021-der-Landeshauptstadt-Muenchen-verliehen-97125
-
-**Münchner Innovationspreis 2021: Gewinner gekürt**  
-Munich Startup - *27. July 2021*  
-https://www.munich-startup.de/74796/innovationspreis-2021-gewinner/
-
-**Münchner Innovationspreise 2021**  
-Muenchen.de - *26. July 2021*  
-https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Arbeit-und-Wirtschaft/News/innovationspreis-muenchen2021.html
 
 
 

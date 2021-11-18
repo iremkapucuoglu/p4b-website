@@ -104,7 +104,7 @@ blocks:
   - logo: "/images/index/logo-tum.webp"
   - logo: "/images/index/logo_lhm.webp"
   - logo: "/images/index/logo_freising.webp"
-  - logo: "/images/index/logo_ffb.png"
+  - logo: "/images/index/logo_ffb.webp"
   - logo: "/images/index/logo_munichways.webp"
   - logo: "/images/index/logo_xpreneurs.webp"
 - template: logos-block

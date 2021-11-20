@@ -98,6 +98,10 @@ weight = 3
 name = "Datenschutzerklärung"
 url = "/privacy/"
 weight = 3
+[[languages.de.menu.footer]]
+name = "Presse"
+url = "/presse/"
+weight = 4
 [[languages.de.menu.right]]
 name = "GOAT testen"
 url = "/goatlive/"
@@ -245,6 +249,10 @@ weight = 3
 name = "Privacy"
 url = "/privacy/"
 weight = 3
+[[languages.en.menu.footer]]
+name = "Press"
+url = "/press/"
+weight = 4
 [[languages.en.menu.right]]
 name = "Try GOAT"
 url = "/goatlive/"

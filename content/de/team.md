@@ -51,12 +51,27 @@ template = "team-block"
 text = "Schreiben Sie uns gerne an und kommen Sie mit dem Team von Plan4Better in Kontakt!"
 [[blocks]]
 background = "muted"
+block = "links"
+heading = "Stellenangebote"
+template = "links-block"
+text = "Werden Sie Teil unseres Teams! Wir haben regelmäßig offene Praktikanten- und Werkstudentenstellen im Bereich Verkehrs-/ Stadtplanung, Softwareentwicklung und Betriebswirtschaft. Aktuell haben wir zwei offene Stellen:"
+padding_top = "remove"
+[[blocks.links]]
+heading = "Praktikum: Marketing und Kreativarbeit"
+icon = "info"
+page = ""
+text = "Praktikant*in für Content Creation, Digital Marketing, UI/UX gesucht! Stellenanzeige hier runterladen."
+download_url = "/download/jobpostings/jobposting_P4B_intern_marketing.pdf"
+padding_top = "remove"
+[[blocks]]
+background = "muted"
 block = "images"
 columns = "1"
-heading = "Stellenangebote"
+heading = ""
 images = []
 template = "images-block"
-text = "Werden Sie Teil unseres Teams! Wir haben regelmäßig offene Praktikanten- und Werkstudentenstellen im Bereich Verkehrs-/ Stadtplanung, Softwareentwicklung und Betriebswirtschaft. Senden Sie bei Interesse gerne eine Inititiativbewerbung mit Motivationsschreiben und Lebenslauf an"
+text = "Senden Sie bei Interesse gerne eine Bewerbung mit Motivationsschreiben und Lebenslauf an"
 mail = "info@plan4better.de"
+padding_top = "remove"
 
 +++

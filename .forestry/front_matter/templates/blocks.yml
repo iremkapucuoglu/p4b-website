@@ -112,6 +112,7 @@ fields:
   - logos-block
   - recent-posts-block
   - links-block
+  - news-block
   - videos-block
   - live-block
   - content-block

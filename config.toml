@@ -79,9 +79,13 @@ name = "Mission"
 url = "/mission/"
 weight = 5
 [[languages.de.menu.center]]
+name = "Presse"
+url = "/presse/"
+weight = 6
+[[languages.de.menu.center]]
 name = "Kontakt"
 url = "/kontakt/"
-weight = 6
+weight = 7
 [[languages.de.menu.footer]]
 name = "Team"
 url = "/team/"
@@ -97,7 +101,7 @@ weight = 3
 [[languages.de.menu.footer]]
 name = "Datenschutzerklärung"
 url = "/privacy/"
-weight = 3
+weight = 4
 [[languages.de.menu.right]]
 name = "GOAT testen"
 url = "/goatlive/"
@@ -226,9 +230,13 @@ name = "Mission"
 url = "/mission/"
 weight = 5
 [[languages.en.menu.center]]
+name = "Press"
+url = "/press/"
+weight = 6
+[[languages.en.menu.center]]
 name = "Contact"
 url = "/contact/"
-weight = 6
+weight = 7
 [[languages.en.menu.footer]]
 name = "Team"
 url = "/team/"
@@ -244,7 +252,7 @@ weight = 3
 [[languages.en.menu.footer]]
 name = "Privacy"
 url = "/privacy/"
-weight = 3
+weight = 4
 [[languages.en.menu.right]]
 name = "Try GOAT"
 url = "/goatlive/"

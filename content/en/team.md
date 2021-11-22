@@ -55,7 +55,7 @@ block = "links"
 heading = "Job offers"
 template = "links-block"
 text = "Join our team! We frequently have some open Intern and Working Student positions, among others in the field of urban and transport planning, software development and business administration. Currently, we have two open positions:"
-padding_top = "remove"
+padding = "uk-padding-small"
 [[blocks.links]]
 heading = "Internship Marketing"
 icon = "download"
@@ -79,7 +79,7 @@ images = []
 template = "images-block"
 text = "If interested, send an application consisting of a motivation letter and CV to"
 mail = "info@plan4better.de"
-padding_top = "remove"
+padding = "uk-padding-remove-vertical"
 
 
 +++

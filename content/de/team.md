@@ -80,5 +80,6 @@ template = "images-block"
 text = "Senden Sie bei Interesse gerne eine Bewerbung mit Motivationsschreiben und Lebenslauf an"
 mail = "info@plan4better.de"
 padding_top = "remove"
+padding = "uk-padding-small"
 
 +++

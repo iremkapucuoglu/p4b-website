@@ -79,7 +79,7 @@ images = []
 template = "images-block"
 text = "If interested, send an application consisting of a motivation letter and CV to"
 mail = "info@plan4better.de"
-padding = "uk-padding-remove-vertical"
+padding = "uk-padding-small"
 
 
 +++

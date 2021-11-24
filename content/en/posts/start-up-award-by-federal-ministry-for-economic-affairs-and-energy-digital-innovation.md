@@ -23,7 +23,7 @@ The event was held virtually and was broadcast on YouTube and LinkedIn. However,
 
 ## One-Line-Pitch: Presentation in one minute
 
-The winning teams were able to present themselves and their innovations with one-line-pitches. Ulrike Jehle explained the functionality, the development process, and the added value of our digital reachability tool GOAT for Plan4Better.
+The winning teams were able to present themselves and their innovations with one-line-pitches. Ulrike Jehle explained the functionality, the development process, and the added value of our digital reachability tool [GOAT ](https://plan4better.de/en/what-is-goat/ "GOAT")for Plan4Better.
 
 The jury emphasized the significant added value of GOAT in urban planning, especially in the design of footpaths and cycle paths and neighborhood planning of public utilities. Other outstanding criteria were the technical competence of the founders and the high technical standards of Plan4Better.
 
@@ -33,4 +33,4 @@ Further innovations from different areas such as industry, medicine, tourism, wo
 
 ## We say thank you.
 
-Many thanks for the organization also to the team from VDI / VDE Innovation und Technik GmbH. Congratulations and all the best to the other winners! We are happy about the wealth of innovation in Germany and are hopeful for a sustainable future.
+Many thanks for the organization also to the team from [VDI / VDE Innovation und Technik GmbH](https://vdivde-it.de/en/company "VDI/VDE"). Congratulations and all the best to the other winners! We are happy about the wealth of innovation in Germany and are hopeful for a sustainable future.

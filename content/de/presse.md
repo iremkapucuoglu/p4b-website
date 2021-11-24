@@ -30,7 +30,7 @@ text = "Hier können Sie unsere Logos, Team-Fotos und Screenshots von GOAT herun
 download_url = "/download/images.zip"
 [[blocks]]
 block = "news"
-heading = "Aktuelle Pressemitteilungen"
+heading = "Aktuelle Pressemeldungen"
 padding_top = "small"
 template = "news-block"
 text = ""

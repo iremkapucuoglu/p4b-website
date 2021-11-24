@@ -27,6 +27,10 @@ Die Veranstaltung wurde Corona-konform virtuell gehalten und konnte auf dem YouT
 
 Die Gewinner-Teams konnten sich und ihre Innovationen in Form von One-Line-Pitches vorstellen. Unsere Co-CEO Ulrike Jehle hat für Plan4Better in einer Minute die Funktionalität, den Entwicklungsprozess sowie den Mehrwert von unserem digitalen Erreichbarkeitsinstrument [GOAT](https://plan4better.de/was-ist-goat/ "Was ist GOAT") kurz und knapp auf den Punkt gebracht.
 
+![](/images/screenshot_5.png)
+
+_Bild 2: Ulrike Jehle nimmt den Gründungspreis entgegen_
+
 Wir freuen uns, dass die Jury bei der Bewertung von Plan4Better besonders den deutlichen Mehrwert im Bereich Stadtplanung in der Gestaltung von Fuß- und Radwegen sowie Nachbarschaftsplanung öffentlicher Versorgungseinrichtungen hervorhob. Ebenso wie das fachlich sehr kompetente Gründungsteam und den hohen technischen Anspruch von Plan4Better. Oder um es mit den Worten von Dr. Tettenborn vom BMWi zu sagen: „Nachhaltigkeit at its best“ – das ist genau das, was wir anstreben!
 
 Weitere Innovationen aus unterschiedlichen Bereichen wie der Industrie, Medizin, Tourismus, Arbeitsbedingungen usw. wurden in den Kategorien „Gründungspreis“, „Gründungspreis +“ und ein Sonderpreis „Digitale Städte und Regionen“ gekürt. Für Letzteren hielt Dr. Christine Kahlen die Laudito, sie ist die Unterabteilungsleitern für nationale und europäische digitale Agenda.

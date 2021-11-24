@@ -29,6 +29,10 @@ The event was held virtually and was broadcast on YouTube and LinkedIn. However,
 
 The winning teams were able to present themselves and their innovations with one-line-pitches. Ulrike Jehle explained the functionality, the development process, and the added value of our digital reachability tool [GOAT ](https://plan4better.de/en/what-is-goat/ "GOAT")for Plan4Better.
 
+![](/images/screenshot_5.png)
+
+_Picture 2: Ulrike Jehle presenting the pitch_
+
 The jury emphasized the significant added value of GOAT in urban planning, especially in the design of footpaths and cycle paths and neighborhood planning of public utilities. Other outstanding criteria were the technical competence of the founders and the high technical standards of Plan4Better.
 
 To put it in words, which Dr. Tettenborn from the Ministry used in his moderation: "Sustainability at its best" - that's what we are aiming for!

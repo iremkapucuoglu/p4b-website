@@ -13,13 +13,13 @@ translationKey = ""
 +++
 ## Start-up Award: Digital Innovation
 
-We received the start-up prize of the start-up competition awarded by the Federal Ministry of Economic Affairs and Energy: Digital Innovation. We are happy and want to say THANK YOU!
+We received the start-up prize of the start-up competition awarded by the [Federal Ministry of Economic Affairs and Energy: Digital Innovation](https://www.de.digital/DIGITAL/Navigation/EN/Home/home.html "BMWi"). We are happy and want to say THANK YOU!
 
 Out of 387 ideas we were one of the winning start-ups, receiving a prize of 7,000 EUR.
 
 The event was held virtually and was broadcast on YouTube and LinkedIn. However, the co-hosts Ms. Alexa von Busse and Dr. Alexander Tettenborn, head of division within the Federal Ministry of Economic Affairs and Energy, transported the pleasant atmosphere right through the screen.
 
-Thomas Jarzombek, Commissioner for the Digital Industry and Start-ups of the Federal Ministry for Economic Affairs and Energy (BMWi) gave a keynote speech that was informative and encouraging. He emphasized the potential of the start-up award, which not only serves as a financial booster but is also a great way to network with investors from the business community!
+[Thomas Jarzombek, ](https://www.bmwi.de/Redaktion/EN/Artikel/Curriculum-Vitae/curriculum-vitae-jarzombek.html "Thomas Jarzombek")Commissioner for the Digital Industry and Start-ups of the Federal Ministry for Economic Affairs and Energy (BMWi) gave a keynote speech that was informative and encouraging. He emphasized the potential of the start-up award, which not only serves as a financial booster but is also a great way to network with investors from the business community!
 
 ## One-Line-Pitch: Presentation in one minute
 

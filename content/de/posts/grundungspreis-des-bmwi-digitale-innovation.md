@@ -1,8 +1,8 @@
 +++
 author = ""
 categories = []
-date = ""
-description = ""
+date = 2021-11-23T23:00:00Z
+description = "Eine weitere Auszeichung für Plan4Better! Wir freuen uns über den Gründungspreis des BMWi und sagen Danke!"
 draft = true
 image = ""
 summary = ""

@@ -13,7 +13,7 @@ translationKey = ""
 +++
 ## Der Gründungspreis des BMWi
 
-387 Gründer-Ideen wurden eingereicht – unsere Idee war eine der besten. Wir freuen uns sehr und sagen DANKE! Beim Gründungswettbewerb des BMWi wurden wir heute aus eben diesem großen Teilnehmerfeld ausgewählt und mit dem Gründungspreis im Wert von 7.000 Euro ausgezeichnet.
+387 Gründer-Ideen wurden eingereicht – unsere Idee war eine der besten. Wir freuen uns sehr und sagen DANKE! Beim [Gründungswettbewerb des BMWi](https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Veranstaltungen/2021/24112021_GW_Preisverleihung_Sommerrunde_2021.html "Gründungswettbewerb BMWi") wurden wir heute aus eben diesem großen Teilnehmerfeld ausgewählt und mit dem Gründungspreis im Wert von 7.000 Euro ausgezeichnet.
 
 Die Veranstaltung wurde Corona-konform virtuell gehalten und konnte auf dem YouTube- oder LinkedIn-Kanal verfolgt werden. Die Co-Moderatoren Alexa von Busse und der BMWi-Referent Dr. Alexander Tettenborn schafften es aber auch über den Bildschirm eine angenehme Atmosphäre zu transportieren.
 

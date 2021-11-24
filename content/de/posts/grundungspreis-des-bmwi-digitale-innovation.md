@@ -15,6 +15,10 @@ translationKey = ""
 
 387 Gründer-Ideen wurden eingereicht – unsere Idee war eine der besten. Wir freuen uns sehr und sagen DANKE! Beim [Gründungswettbewerb des BMWi](https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Veranstaltungen/2021/24112021_GW_Preisverleihung_Sommerrunde_2021.html "Gründungswettbewerb BMWi") wurden wir heute aus eben diesem großen Teilnehmerfeld ausgewählt und mit dem Gründungspreis im Wert von 7.000 Euro ausgezeichnet.
 
+![](/images/gruundungspreis.png)
+
+_Bild 1: Alexa von Busse, BMWi-Referent Dr. Alexander Tettenborn Start-up-Beauftragter Thomas Jarzombek_
+
 Die Veranstaltung wurde Corona-konform virtuell gehalten und konnte auf dem YouTube- oder LinkedIn-Kanal verfolgt werden. Die Co-Moderatoren Alexa von Busse und der BMWi-Referent Dr. Alexander Tettenborn schafften es aber auch über den Bildschirm eine angenehme Atmosphäre zu transportieren.
 
 [Thomas Jarzombek](https://www.bmwi.de/Redaktion/DE/Dossier/Visitenkarten/visitenkarte-jarzombek.html "Thomas Jarzombek"), Beauftragter für die Digitale Wirtschaft und Startups des Bundesministeriums für Wirtschaft und Energie (BMWi) hielt zudem eine Keynote, die sowohl informativ als auch mutmachend war. Er betonte das Potenzial des Gründungspreises, der nicht nur als finanzieller Booster dient, sondern auch eine gute Möglichkeit ist, sich mit Investor*innen aus der Wirtschaft zu vernetzen!

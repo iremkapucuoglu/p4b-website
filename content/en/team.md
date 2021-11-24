@@ -51,13 +51,35 @@ template = "team-block"
 text = "Meet the team of Plan4Better and don't hesitate to get in touch."
 [[blocks]]
 background = "muted"
+block = "links"
+heading = "Job offers"
+template = "links-block"
+text = "Join our team! We frequently have some open Intern and Working Student positions, among others in the field of urban and transport planning, software development and business administration. Currently, we have two open positions:"
+padding = "uk-padding-small"
+[[blocks.links]]
+heading = "Internship Marketing"
+icon = "download"
+page = ""
+text = "Intern for Content Creation, Digital Marketing, UI/UX wanted! Download the job description here."
+download_url = "/download/jobpostings/jobposting_P4B_intern_marketing.pdf"
+padding_top = "remove"
+[[blocks.links]]
+heading = "Internship Software Development"
+icon = "download"
+page = ""
+text = "Intern for Backend Development and Data Analysis wanted! Download the job description here."
+download_url = "/download/jobpostings/jobposting_P4B_intern_development.pdf"
+padding_top = "remove"
+[[blocks]]
+background = "muted"
 block = "images"
 columns = "1"
-heading = "Job offers"
+heading = ""
 images = []
 template = "images-block"
-text = "Join our team! We frequently have some open Intern and Working Student positions in the field of urban and transport planning, software development and business administration. If interested, send an application consisting of a motivation letter and CV to"
+text = "If interested, send an application consisting of a motivation letter and CV to"
 mail = "info@plan4better.de"
+padding = "uk-padding-small"
 
 
 +++

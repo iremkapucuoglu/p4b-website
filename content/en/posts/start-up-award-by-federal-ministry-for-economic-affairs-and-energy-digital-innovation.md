@@ -2,10 +2,10 @@
 author = ""
 categories = []
 date = ""
-description = ""
+description = "We are honored to receive the BMWi Start-Up Award and say thank you!"
 draft = true
 image = ""
-summary = ""
+summary = "Yet another award for Plan4Better!"
 thumbnail = ""
 title = "Start-up Award by Federal Ministry for Economic Affairs and Energy - Digital Innovation"
 translationKey = ""

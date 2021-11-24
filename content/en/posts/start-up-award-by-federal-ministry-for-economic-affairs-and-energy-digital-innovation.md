@@ -4,9 +4,9 @@ categories = []
 date = ""
 description = "We are honored to receive the BMWi Start-Up Award and say thank you!"
 draft = true
-image = ""
+image = "/images/banner-bmwi.jpg"
 summary = "Yet another award for Plan4Better!"
-thumbnail = ""
+thumbnail = "/images/thumbnail-bwmi-preis.jpg"
 title = "Start-up Award by Federal Ministry for Economic Affairs and Energy - Digital Innovation"
 translationKey = ""
 
@@ -16,6 +16,10 @@ translationKey = ""
 We received the start-up prize of the start-up competition awarded by the [Federal Ministry of Economic Affairs and Energy: Digital Innovation](https://www.de.digital/DIGITAL/Navigation/EN/Home/home.html "BMWi"). We are happy and want to say THANK YOU!
 
 Out of 387 ideas we were one of the winning start-ups, receiving a prize of 7,000 EUR.
+
+![](/images/gruundungspreis.png)
+
+_Picture 1: Alexa von Busse, head of division BMWi Dr. Alexander Tettenborn und Start-up-comissioner Thomas Jarzombek_
 
 The event was held virtually and was broadcast on YouTube and LinkedIn. However, the co-hosts Ms. Alexa von Busse and Dr. Alexander Tettenborn, head of division within the Federal Ministry of Economic Affairs and Energy, transported the pleasant atmosphere right through the screen.
 

@@ -96,6 +96,7 @@ blocks:
   - "/images/index/logo_ffb.webp"
   - "/images/index/logo_munichways.webp"
   - "/images/index/logo_xpreneurs.webp"
+  - "/images/index/GST_RGB.webp"
   text: ''
   padding_top: default
   items:
@@ -107,6 +108,7 @@ blocks:
   - logo: "/images/index/logo_ffb.webp"
   - logo: "/images/index/logo_munichways.webp"
   - logo: "/images/index/logo_xpreneurs.webp"
+  - logo: "/images/index/GST_RGB.webp"
 - template: logos-block
   block: logos
   background: default

@@ -17,7 +17,7 @@ translationKey = ""
 
 Die Veranstaltung wurde Corona-konform virtuell gehalten und konnte auf dem YouTube- oder LinkedIn-Kanal verfolgt werden. Die Co-Moderatoren Alexa von Busse und der BMWi-Referent Dr. Alexander Tettenborn schafften es aber auch über den Bildschirm eine angenehme Atmosphäre zu transportieren.
 
-[Thomas Jarzombek](https://www.bmwi.de/Redaktion/DE/Dossier/Visitenkarten/visitenkarte-jarzombek.html "Thomas Jarzombek"), Beauftragter für die Digitale Wirtschaft und Start-ups des Bundesministeriums für Wirtschaft und Energie (BMWi) hielt zudem eine Keynote, die sowohl informativ als auch mutmachend war. Er betonte das Potenzial des Gründungspreises, der nicht nur als finanzieller Booster dient, sondern auch eine gute Möglichkeit ist, sich mit Investor*innen aus der Wirtschaft zu vernetzen!
+[Thomas Jarzombek](https://www.bmwi.de/Redaktion/DE/Dossier/Visitenkarten/visitenkarte-jarzombek.html "Thomas Jarzombek"), Beauftragter für die Digitale Wirtschaft und Startups des Bundesministeriums für Wirtschaft und Energie (BMWi) hielt zudem eine Keynote, die sowohl informativ als auch mutmachend war. Er betonte das Potenzial des Gründungspreises, der nicht nur als finanzieller Booster dient, sondern auch eine gute Möglichkeit ist, sich mit Investor*innen aus der Wirtschaft zu vernetzen!
 
 ## One-Line-Pitch: Vorstellung in einer Minute
 

@@ -4,9 +4,9 @@ categories = []
 date = 2021-11-23T23:00:00Z
 description = "Eine weitere Auszeichung für Plan4Better!"
 draft = true
-image = ""
+image = "/images/banner-bmwi.jpg"
 summary = "Wir freuen uns über den Gründungspreis des BMWi und sagen Danke!"
-thumbnail = ""
+thumbnail = "/images/thumbnail-bwmi-preis.jpg"
 title = "Gründungspreis des BMWi – Digitale Innovation"
 translationKey = ""
 

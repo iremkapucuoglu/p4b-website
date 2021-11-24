@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "haxhiu"
 categories = []
 date = ""
 description = "We are honored to receive the BMWi Start-Up Award and say thank you!"

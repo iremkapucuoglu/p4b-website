@@ -85,6 +85,18 @@ blocks:
   text: Mit unserem Planungsinstrument GOAT addressieren wir die folgenden SDGs.
 - template: logos-block
   block: logos
+  background: ''
+  padding_top: default
+  items:
+  - logo: "/images/index/innovation_award.webp"
+    url: "https://muenchen.digital/blog/innovationspreis-2021/"
+  - logo: "/images/index/smart_country_logo.webp"
+    url: "https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021"
+  heading: Auszeichnungen
+  padding_top: remove
+  text: ''
+- template: logos-block
+  block: logos
   background: default
   heading: Partner
   logos:
@@ -96,8 +108,9 @@ blocks:
   - "/images/index/logo_ffb.webp"
   - "/images/index/logo_munichways.webp"
   - "/images/index/logo_xpreneurs.webp"
+  - "/images/index/GST_RGB.webp"
   text: ''
-  padding_top: default
+  padding_top: remove
   items:
   - logo: "/images/index/freiburg_logo.webp"
   - logo: "/images/index/mobidata_bw.webp"
@@ -107,6 +120,7 @@ blocks:
   - logo: "/images/index/logo_ffb.webp"
   - logo: "/images/index/logo_munichways.webp"
   - logo: "/images/index/logo_xpreneurs.webp"
+  - logo: "/images/index/GST_RGB.webp"
 - template: logos-block
   block: logos
   background: default

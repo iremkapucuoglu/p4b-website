@@ -91,8 +91,10 @@ blocks:
   items:
   - logo: "/images/index/innovation_award.webp"
     url: "https://muenchen.digital/blog/innovationspreis-2021/"
-  - logo: "/images/index/smart_country_logo.webp"
+  - logo: "/images/index/bitkom_award.webp"
     url: "https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021"
+  - logo: "/images/index/gruendungspreis_en.webp"
+    url: "https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html"
   heading: Awards
   padding_top: remove
   text: ''

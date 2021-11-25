@@ -30,10 +30,18 @@ text = "Hier können Sie unsere Logos, Team-Fotos und Screenshots von GOAT herun
 download_url = "/download/images.zip"
 [[blocks]]
 block = "news"
-heading = "Aktuelle Pressemitteilungen"
+heading = "Aktuelle Pressemeldungen"
 padding_top = "small"
 template = "news-block"
 text = ""
+
+[[blocks.news]]
+heading = "Plan4Better: Stadtplanungstool für Rad- und Gehwege"
+thumbnail = "/images/presse/munich-startup.webp"
+source = ""
+url = "https://www.munich-startup.de/77983/plan4better-stadtplanungstool-fuer-rad-und-gehwege/"
+date = "23. November 2021"
+
 [[blocks.news]]
 heading = "Plan4Better: Erreichbarkeit macht mobil"
 thumbnail = "/images/presse/deutsche_glasfaser.webp"

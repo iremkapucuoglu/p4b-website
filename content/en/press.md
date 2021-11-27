@@ -60,7 +60,7 @@ date = "10. November 2021"
 heading = "Pressemitteilung: Startschuss für das Projekt GOAT 3.0"
 thumbnail = "/images/presse/p4b.webp"
 source = "Plan4Better"
-download_url = "/download/press/2021-11-03_Pressemitteilung_Start_Goat3.0.pdf"
+url = "/download/press/2021-11-03_Pressemitteilung_Start_Goat3.0.pdf"
 date = "08. November 2021"
 
 [[blocks.news]]

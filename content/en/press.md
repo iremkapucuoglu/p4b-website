@@ -38,7 +38,7 @@ text = ""
 [[blocks.news]]
 heading = "Plan4Better: Stadtplanungstool für Rad- und Gehwege"
 thumbnail = "/images/presse/munich-startup.webp"
-source = ""
+source = "Munich Startup"
 url = "https://www.munich-startup.de/77983/plan4better-stadtplanungstool-fuer-rad-und-gehwege/"
 date = "23. November 2021"
 
@@ -55,6 +55,13 @@ thumbnail = "/images/presse/tum.webp"
 source = "Technical University of Munich"
 url = "https://www.tum.de/en/about-tum/news/press-releases/details/36992"
 date = "10. November 2021"
+
+[[blocks.news]]
+heading = "Pressemitteilung: Startschuss für das Projekt GOAT 3.0"
+thumbnail = "/images/presse/p4b.webp"
+source = "Plan4Better"
+url = "/download/press/2021-11-03_Pressemitteilung_Start_Goat3.0.pdf"
+date = "08. November 2021"
 
 [[blocks.news]]
 heading = "Das Auto soll kaum noch eine Rolle spielen"

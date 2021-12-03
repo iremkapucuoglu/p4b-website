@@ -61,4 +61,4 @@ Diese Implementierung kann als erster Versuch zur besseren Modellierung der zeit
 
 Die GOAT-Version von Hasenbergl-Lerchenau enthält alle neuen Funktionen und kann [hier](https://hasenbergl.open-accessibility.org/) getestet werden.
 
-Die komplette Masterarbeit kann [hier](https://mediatum.ub.tum.de/604993?query=Ulrike+Jehle&show_id=1542813)runtergeladen werden.
+Die komplette Masterarbeit kann [hier](https://mediatum.ub.tum.de/604993?query=Ulrike+Jehle&show_id=1542813) runtergeladen werden.

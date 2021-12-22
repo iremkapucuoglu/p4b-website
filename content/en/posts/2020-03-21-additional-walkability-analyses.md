@@ -58,6 +58,4 @@ With the realized changes, all four accessibility components could be incorporat
 
 This implementation should be seen as first attempt to better model the temporal and individual component of accessibility for pedestrians, but further improvements will be realized in the future. We are also very open to your feedback!
 
-This version for Hasenbergl-Lerchenau contains all new features and can be tested [here](https://hasenbergl.open-accessibility.org/).
-
 Furthermore, the complete Thesis can be downloaded [here](https://mediatum.ub.tum.de/604993?query=Ulrike+Jehle&show_id=1542813).

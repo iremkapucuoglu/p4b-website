@@ -59,6 +59,4 @@ Mit den implementierten Änderungen konnten alle vier Erreichbarkeits-Komponente
 
 Diese Implementierung kann als erster Versuch zur besseren Modellierung der zeitlichen und individuellen Komponente der fußläufigen Erreichbarkeit angesehen werden. Weitere Ergänzungen und Verbesserungen werden in Zukunft folgen. Wir sind sehr offen für Feedback und freuen uns auf Ihre Anregungen!
 
-Die GOAT-Version von Hasenbergl-Lerchenau enthält alle neuen Funktionen und kann [hier](https://hasenbergl.open-accessibility.org/) getestet werden.
-
-Die komplette Masterarbeit kann [hier](https://mediatum.ub.tum.de/604993?query=Ulrike+Jehle&show_id=1542813)runtergeladen werden.
+Die komplette Masterarbeit kann [hier](https://mediatum.ub.tum.de/604993?query=Ulrike+Jehle&show_id=1542813) runtergeladen werden.

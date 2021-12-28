@@ -174,8 +174,8 @@
 - username: bozanovic
   name: David Bozanovic
   title:
-    en: Intern
-    de: Praktikant
+    en: Working Student
+    de: Werkstudent
   bio:
     en: David is a start-up enthusiast and supports the team in the Business Development.
       Together with Plan4Better he wants to actively contribute towards a more sustainable
@@ -203,7 +203,7 @@
       erstellen, um die Verkehrssituation und Lebensqualität in unseren Städten zu
       verbessern. Als Praktikant unterstützt er das Programmierteam.
   image: ''
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_philipp.webp"
   github: ''
   website: ''

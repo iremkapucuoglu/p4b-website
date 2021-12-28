@@ -1,5 +1,5 @@
 ---
-title: What is GOAT?
+title: Our Story
 permalink: "/docs/about/"
 sections:
 - about
@@ -61,6 +61,7 @@ GOAT's architecture is completely built with open source software, in addition, 
 
 The OpenStreetMap-data (OSM) with which GOAT is built is available worldwide and free of charge. OSM is seen as an extremely valuable source but it also has to be highlighted, that it is not only targeted to consume the data but also actively be part of the OSM-community. This decision is considered essential for the health of this project and others. It also has to be mentioned that the setup of GOAT allows frequent data updates, which makes it easy for users to improve OSM as a data warehouse and benefit from rising data quality in the analyses.
 
-Although GOAT is built with OSM-data, other data sources can be conveniently added. Due to its modular nature, the GOAT application allows for easy extension and scalability. Since it is developed as a research project, state-of-the art and innovative approaches are widely used.
+Although GOAT is built with OSM-data (land-use, points of interests), other data sources can be conveniently added. Currently, we source from the Federal Agency for Cartography and Geodesy on boundaries and the Federal Statistical Office on census population data. 
+Due to its modular nature, the GOAT application allows for easy extension and scalability. Since it is developed as a research project, state-of-the art and innovative approaches are widely used.
 
 Everybody is welcome to use and contribute to GOAT. If you are interested in contributing just visit our [GitHub](https://github.com/goat-community/goat).

@@ -215,10 +215,12 @@
     en: Intern
     de: Praktikantin
   bio:
-    en: Jiaying has a passion for exploring mobilty data, spatial data analysis and sustainable urbanism. 
-      As a cartography student, she helps with mobility research and geo-data visualization.
-    de: Jiaying beschäftigt sich leidenschaftlich mit nachhaltiger Stadtentwicklung, Mobilitätsdatenanalysen 
-      und räumlichen Daten. Als Kartographie-Studentin hilft sie bei der Mobilitätsforschung und der Visualisierung von Geodaten.
+    en: Jiaying has a passion for exploring mobilty data, spatial data analysis and
+      sustainable urbanism. As a cartography student, she helps with mobility research
+      and geo-data visualization.
+    de: Jiaying beschäftigt sich leidenschaftlich mit nachhaltiger Stadtentwicklung,
+      Mobilitätsdatenanalysen und räumlichen Daten. Als Kartographie-Studentin hilft
+      sie bei der Mobilitätsforschung und der Visualisierung von Geodaten.
   image: ''
   team_member: true
   team_image: "/images/team/team_jiaying.webp"
@@ -226,3 +228,22 @@
   website: ''
   linkedin: https://www.linkedin.com/in/jiaying-xue
   twitter: ''
+- username: meining
+  name: Sophie Meining
+  title:
+    en: 'Intern '
+    de: Praktikantin
+  image: ''
+  team_member: true
+  team_image: ''
+  github: ''
+  website: ''
+  linkedin: https://www.linkedin.com/in/sophie-meining-192862227/
+  twitter: ''
+  bio:
+    de: 'Sophie begeistert sich für Innovationen und die Umsetzung von nachhaltigen
+      Ideen. Als Praktikantin bei Plan4Better kümmert Sie sich um Marketing und Content
+      Creation.  '
+    en: 'Sophie is passionate about innovation and the implementation of sustainable
+      ideas. As an intern at Plan4Better, she takes care of marketing and content
+      creation. '

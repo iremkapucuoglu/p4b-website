@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Nachhaltige Städte und Regionen planen
 layout: blocks
 header:
   layout: left
@@ -131,8 +131,7 @@ blocks:
   - "/images/index/logo-bmvi.webp"
   heading: Gefördert durch
   padding_top: remove
-  text: Die Entwicklung von GOAT wurde vom BMVI von November 2019 bis Februar 2021
-    im Rahmen der mFUND-Initiative (Förderlinie 1) an der TUM gefördert.
+  text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober 2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.
   items:
   - logo: "/images/index/logo-mfund.webp"
   - logo: "/images/index/logo-bmvi.webp"

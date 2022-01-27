@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Plan sustainable cities and regions
 layout: blocks
 header:
   layout: left
@@ -132,8 +132,8 @@ blocks:
   - "/images/index/logo-bmvi.webp"
   heading: Funded by
   padding_top: remove
-  text: The development of GOAT was funded by the BMVI from November 2019 to February
-    2021 at TUM as part of mFUND funding line 1.
+  text: The development of GOAT is funded by the BMDV from November 2021 to October
+    2024 as part of mFUND funding line 2. 
   items:
   - logo: "/images/index/logo-mfund.webp"
   - logo: "/images/index/logo-bmvi.webp"

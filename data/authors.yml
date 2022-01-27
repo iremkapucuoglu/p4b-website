@@ -174,8 +174,8 @@
 - username: bozanovic
   name: David Bozanovic
   title:
-    en: Intern
-    de: Praktikant
+    en: Working Student
+    de: Werkstudent
   bio:
     en: David is a start-up enthusiast and supports the team in the Business Development.
       Together with Plan4Better he wants to actively contribute towards a more sustainable
@@ -203,7 +203,7 @@
       erstellen, um die Verkehrssituation und Lebensqualität in unseren Städten zu
       verbessern. Als Praktikant unterstützt er das Programmierteam.
   image: ''
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_philipp.webp"
   github: ''
   website: ''
@@ -212,13 +212,15 @@
 - username: xue
   name: Jiaying Xue
   title:
-    en: Intern
-    de: Praktikantin
+    en: Working Student
+    de: Werkstudentin
   bio:
-    en: Jiaying has a passion for exploring mobilty data, spatial data analysis and sustainable urbanism. 
-      As a cartography student, she helps with mobility research and geo-data visualization.
-    de: Jiaying beschäftigt sich leidenschaftlich mit nachhaltiger Stadtentwicklung, Mobilitätsdatenanalysen 
-      und räumlichen Daten. Als Kartographie-Studentin hilft sie bei der Mobilitätsforschung und der Visualisierung von Geodaten.
+    en: Jiaying has a passion for exploring mobilty data, spatial data analysis and
+      sustainable urbanism. As a cartography student, she helps with mobility research
+      and geo-data visualization.
+    de: Jiaying beschäftigt sich leidenschaftlich mit nachhaltiger Stadtentwicklung,
+      Mobilitätsdatenanalysen und räumlichen Daten. Als Kartographie-Studentin hilft
+      sie bei der Mobilitätsforschung und der Visualisierung von Geodaten.
   image: ''
   team_member: true
   team_image: "/images/team/team_jiaying.webp"
@@ -226,3 +228,22 @@
   website: ''
   linkedin: https://www.linkedin.com/in/jiaying-xue
   twitter: ''
+- username: meining
+  name: Sophie Meining
+  title:
+    en: 'Intern '
+    de: Praktikantin
+  image: "/images/sophie_meiningsw.webp"
+  team_member: true
+  team_image: "/images/sophie_meining.webp"
+  github: ''
+  website: ''
+  linkedin: https://www.linkedin.com/in/sophie-meining-192862227/
+  twitter: ''
+  bio:
+    de: 'Sophie begeistert sich für Innovationen und die Umsetzung von nachhaltigen
+      Ideen. Als Praktikantin bei Plan4Better kümmert Sie sich um Marketing und Content
+      Creation.  '
+    en: 'Sophie is passionate about innovation and the implementation of sustainable
+      ideas. As an intern at Plan4Better, she takes care of marketing and content
+      creation. '

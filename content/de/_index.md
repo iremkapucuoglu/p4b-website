@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Nachhaltige Städte und Regionen planen
 layout: blocks
 header:
   layout: left

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Plan sustainable cities and regions
 layout: blocks
 header:
   layout: left

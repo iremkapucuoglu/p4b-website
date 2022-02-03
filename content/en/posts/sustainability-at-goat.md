@@ -6,7 +6,7 @@ description = ""
 draft = true
 image = ""
 summary = "With GOAT, we want to make a contribution to the SDGs. But what does that mean in practice? In this blog post, we explain how we promote sustainable development."
-thumbnail = ""
+thumbnail = "/images/e-sdg-poster-2019_without-un-emblem_print.jpg"
 title = "Sustainability at GOAT"
 translationKey = ""
 

@@ -29,15 +29,11 @@ Nachhaltigkeit steht in diesem Sinne für den Ausbau von Frieden, Wohlstand und 
 
 Eine nachhaltige Entwicklung kann somit nur funktionieren, wenn wir die Dimensionen als Zusammenspiel von vielen einzelnen Komponenten betrachten – deshalb haben wir mit GOAT eine Software entwickelt, die direkt auf fünf Entwicklungsziele wirkt.
 
-· Ziel 3: Gesundheit und Wohlergehen
-
-· Ziel 4: Hochwertige Bildung
-
-· Ziel 9: Industrie, Innovation und Infrastruktur
-
-· Ziel 11: Nachhaltige Städte und Gemeinden
-
-· Ziel 13: Maßnahmen zum Klimaschutz
+* Ziel 3: Gesundheit und Wohlergehen
+* Ziel 4: Hochwertige Bildung
+* Ziel 9: Industrie, Innovation und Infrastruktur
+* Ziel 11: Nachhaltige Städte und Gemeinden
+* Ziel 13: Maßnahmen zum Klimaschutz
 
 Mehr Informationen zu den SDG: [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/ "https://www.un.org/sustainabledevelopment/")
 

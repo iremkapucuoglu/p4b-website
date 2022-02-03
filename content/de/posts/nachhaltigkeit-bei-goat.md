@@ -2,10 +2,10 @@
 author = "meining"
 categories = ["Other", "Entwicklung"]
 date = ""
-description = ""
+description = "Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung fördern. "
 draft = true
 image = ""
-summary = ""
+summary = "Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung fördern. "
 thumbnail = ""
 title = "Nachhaltigkeit bei GOAT"
 translationKey = ""

@@ -11,7 +11,7 @@ title = "Nachhaltigkeit bei GOAT"
 translationKey = ""
 
 +++
-# Nachhaltigkeit bei GOAT. Was bedeutet Nachhaltigkeit für uns?
+## Nachhaltigkeit bei GOAT. Was bedeutet Nachhaltigkeit für uns?
 
 ## Was bedeutet Nachhaltigkeit?
 
@@ -85,11 +85,10 @@ Sie wollen mehr über GOAT erfahren? Kontaktieren Sie uns.
 
 ## Referenzen
 
-  
 17 Ziele. Ziel 11: Nachhaltige Städte und Gemeinden. Online verfügbar unter [https://17ziele.de/ziele/11.html](https://17ziele.de/ziele/11.html "https://17ziele.de/ziele/11.html"), zuletzt aufgerufen am 28.01.2022.
 
 Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) (2021). Agenda 2030 – Die globalen Ziel für nachhaltige Entwicklung. Online verfügbar unter [https://www.bmz.de/de/agenda-2030](https://www.bmz.de/de/agenda-2030 "https://www.bmz.de/de/agenda-2030"), zuletzt aufgerufen am 28.01.2022.
 
 Oberhofer, Elke (2015). 20 Minuten pro Tag: Spazierengehen verlängert das Leben. Springer Medizin Verlag, Ärzte Zeitung. Online verfügbar unter [https://www.aerztezeitung.de/Medizin/Spazierengehen-verlaengert-das-Leben-250822.html](https://www.aerztezeitung.de/Medizin/Spazierengehen-verlaengert-das-Leben-250822.html "https://www.aerztezeitung.de/Medizin/Spazierengehen-verlaengert-das-Leben-250822.html"), zuletzt aufgerufen am 28.01.2022.
 
-World Commission on Environment and Development (WCED) (1987). Our Common Future_._ Oxford University Press.
+World Commission on Environment and Development (WCED) (1987). Our Common Future. Oxford University Press.

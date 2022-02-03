@@ -11,24 +11,23 @@ title = "Nachhaltigkeit bei GOAT"
 translationKey = ""
 
 +++
-## **Nachhaltigkeit bei GOAT. Was bedeutet Nachhaltigkeit für uns?**
+# Nachhaltigkeit bei GOAT. Was bedeutet Nachhaltigkeit für uns?
 
-**Was bedeutet Nachhaltigkeit?**
+## Was bedeutet Nachhaltigkeit?
 
 **„Nachhaltigkeit heißt: Kann man auf Dauer so weitermachen, wie man es heute macht? Wenn man das nicht kann, dann ist es nicht nachhaltig“ Anselm Görres, Forum Ökologisch-Soziale Marktwirtschaft (17Ziele).**
 
 Der Begriff Nachhaltigkeit geht auf den „Brundtland-Bericht" der Weltkommission für Umwelt und Entwicklung der Vereinten Nationen von 1987 zurück. Hier wird definiert: Eine nachhaltige Entwicklung bedeutet, die Befriedigung der heutigen Bedürfnisse, ohne die Erreichung dieser in Zukunft einzuschränken. Nachhaltigkeit wird in die drei Dimensionen Wirtschaft, Ökologie und Ökonomie gegliedert (WCED 1987).
 
-  
- Schon aus diesem Bericht geht also vor: Nachhaltigkeit betrifft uns alle.
+Schon aus diesem Bericht geht also vor: Nachhaltigkeit betrifft uns alle.
 
-**Was sind die 17 nachhaltigen Entwicklungsziele?**
+## Was sind die 17 nachhaltigen Entwicklungsziele?
 
 Seit der Veröffentlichung des Brundtland-Berichts steigt die Aufmerksamkeit für eine nachhaltige Entwicklung. Mit der Agenda 2030 wurden von den Vereinten Nationen 17 Ziele festgelegt, um weltweit eine nachhaltige Entwicklung zu erreichen. Diese Ziele werden die 17 Sustainable Development Goals (SDG), deutsch nachhaltige Entwicklungsziele, genannt (BMZ 2021).
 
 Nachhaltigkeit steht in diesem Sinne für den Ausbau von Frieden, Wohlstand und Klimaschutz und umfasst somit soziale, ökologische und ökonomische Nachhaltigkeit. Im Zentrum stehen die Menschenwürde, der Schutz des Planeten, Wohlstand für alle, Frieden und der Aufbau von globalen Partnerschaften (BMZ 2021).
 
-Eine nachhaltige Entwicklung kann somit nur funktionieren, wenn wir die Dimensionen als Zusammenspiel von vielen einzelnen Komponenten betrachten – deshalb haben wir mit GOAT eine Software entwickelt, die direkt auf fünf Entwicklungsziele wirkt. 
+Eine nachhaltige Entwicklung kann somit nur funktionieren, wenn wir die Dimensionen als Zusammenspiel von vielen einzelnen Komponenten betrachten – deshalb haben wir mit GOAT eine Software entwickelt, die direkt auf fünf Entwicklungsziele wirkt.
 
 · Ziel 3: Gesundheit und Wohlergehen
 
@@ -42,33 +41,33 @@ Eine nachhaltige Entwicklung kann somit nur funktionieren, wenn wir die Dimensio
 
 Mehr Informationen zu den SDG: [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/ "https://www.un.org/sustainabledevelopment/")
 
-**Wie wird Nachhaltigkeit bei GOAT umgesetzt?**
+## Wie wird Nachhaltigkeit bei GOAT umgesetzt?
 
-**Verbesserung** **gesunder Mobilitätsarten**
+### Verbesserung gesunder Mobilitätsarten
 
 Mit GOAT fördern wir Planungsentscheidungen, welche die aktive Mobilität, d.h. den Fuß- und Radverkehr, unterstützen. Dadurch wird für Menschen, sowohl in Städten als auch auf dem Land, ein besserer Zugang zu aktiven Bewegungsformen realisiert.
 
 Zufußgehen und Radfahren fördern die körperliche und mentale Gesundheit und tragen zu einer positiven Verfassung bei. Zudem können Risiken vermeidbarer Krankheiten, wie Übergewicht und Herzprobleme gemindert werden. Wussten Sie zum Beispiel schon, dass die Lebenserwartung um 0,7 Jahre steigt, wenn wir uns täglich bewegen (Oberhofer 2015)?
 
-**Identifizierung und Adressierung benachteiligter Gebiete**
+### Identifizierung und Adressierung benachteiligter Gebiete
 
 Durch Erreichbarkeitsanalysen können Bereiche mit eingeschränktem Zugang zu Bildungseinrichtungen, wie Kindergärten und Grundschulen, abgebildet werden.
 
 Die Heatmaps in GOAT zeigen, wie eine Nachbarschaft hinsichtlich ihrer Erreichbarkeit zu Bildungseinrichtungen, in Abhängigkeit von Bevölkerungsdichte und Gehentfernung, verbessert werden kann.
 
-**Innovative Infrastruktur**
+### Innovative Infrastruktur
 
 Als Mobility-Start-up fördern wir mit innovativen Produkten die Planung von nachhaltiger Infrastruktur.
 
 Unsere Planungssoftware GOAT ermöglicht es, für bedeutende Infrastruktur, wie Brücken, Gebäude und öffentliche Einrichtungen, einen Standort zu finden, sodass sie von möglichst vielen Fußgänger:innen und Radfahrer:innen erreicht werden können. GOAT orientiert sich hierbei an dem Konzept der [15-Minuten-Stadt](https://plan4better.de/posts/2020-12-08-15minutecity/ "Die 15-Minuten-Stadt mit GOAT planen").
 
-**Nachhaltige Städteplanung**
+### Nachhaltige Städteplanung
 
 Der Kern von GOAT ist die Planung von nachhaltigen Städten und Gemeinden. Indem wir ein einfach zu bedienendes Planungsinstrument zur Verfügung stellen, helfen wir Planer:innen in der Bewertung von Maßnahmen zur Förderung aktiver Mobilitätskonzepte, der Gestaltung vitaler Räume, der Schaffung vernetzter Communities sowie der Sicherstellung einer einfachen Erreichbarkeit von Zielen des täglichen Bedarfs und Grünflächen.
 
 Hierfür haben wir bereits einige Pilotprojekte in Städten wie München, Istanbul und Freiburg durchgeführt. Weitere Informationen finden Sie [hier](https://plan4better.de/goatlive/ "GOAT live").
 
-**Förderung umweltschonender Mobilitätsformen**
+### Förderung umweltschonender Mobilitätsformen
 
 Im Rahmen des Ziels für Maßnahmen zum Klimaschutz fördern wir emissionsarme Mobilitätsarten, um nachhaltigere städtische und ländliche Räume zu schaffen.
 
@@ -76,7 +75,7 @@ Der Ausbau und die Verbesserung von Fuß- und Radwegen, sowie die Bereitstellung
 
 Eine weitere umweltschonende Mobilitätsform ist der öffentliche Personennahverkehr. Hier kann GOAT genutzt werden, um die Erreichbarkeit zu den ÖPNV-Haltestellen oder zu Bikesharing-Stationen zu verbessern. So kann beispielsweise analysiert werden, wo noch eine Bushaltestelle fehlt, damit mehr Menschen den Bus nutzen.
 
-**Nachhaltige Verantwortung**
+### Nachhaltige Verantwortung
 
 Als Unternehmen haben wir uns bewusst dazu entschieden die nachhaltig zu handeln und unseren Teil beizutragen. Wir freuen uns, mit GOAT einen Beitrag zu 5 der Entwicklungsziele zu leisten.
 
@@ -84,8 +83,10 @@ Die SDG dienen hierbei als wichtige Leitlinien, um unser Handeln im Sinne der Na
 
 Sie wollen mehr über GOAT erfahren? Kontaktieren Sie uns.
 
-Referenzen:  
- 17 Ziele. Ziel 11: Nachhaltige Städte und Gemeinden. Online verfügbar unter [https://17ziele.de/ziele/11.html](https://17ziele.de/ziele/11.html "https://17ziele.de/ziele/11.html"), zuletzt aufgerufen am 28.01.2022.
+## Referenzen
+
+  
+17 Ziele. Ziel 11: Nachhaltige Städte und Gemeinden. Online verfügbar unter [https://17ziele.de/ziele/11.html](https://17ziele.de/ziele/11.html "https://17ziele.de/ziele/11.html"), zuletzt aufgerufen am 28.01.2022.
 
 Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) (2021). Agenda 2030 – Die globalen Ziel für nachhaltige Entwicklung. Online verfügbar unter [https://www.bmz.de/de/agenda-2030](https://www.bmz.de/de/agenda-2030 "https://www.bmz.de/de/agenda-2030"), zuletzt aufgerufen am 28.01.2022.
 

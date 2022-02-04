@@ -79,5 +79,14 @@ padding_top = "default"
 template = "card-block"
 text = "Im Rahmen des Klimaschutzziels fördern wir emissionsarme Mobilitätsformen, um nachhaltigere städtische und ländliche Räume zu schaffen. Der Ausbau und die Verbesserung von Fuß- und Radwegen, sowie die Bereitstellung naher Ziele, können die CO2-Emissionen reduzieren und zu einer saubereren Umwelt für die Bevölkerung beitragen. Damit wird das Ziel 13.1 zur Stärkung der Widerstandsfähigkeit gegenüber dem Klimawandel innerhalb der Länder erfüllt."
 video = ""
+[[blocks]]
+background = "default"
+background_color_content = "default"
+block = "card"
+heading = "Sustainable infrastructure"
+layout = "left"
+padding_top = "small"
+template = "card-block"
+text = "As a mobility start-up, we promote the planning of sustainable infrastructure with innovative products. Our planning software GOAT makes it possible to find a location for important infrastructure, such as bridges, buildings and public facilities, so that they can be reached by as many pedestrians and cyclists as possible. GOAT is based on the concept of the 15-minute city. This meets the objectives of 9.1."
 
 +++

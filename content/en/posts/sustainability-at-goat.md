@@ -15,7 +15,7 @@ translationKey = ""
 
 ## What does sustainability mean?
 
-"Sustainability means: can you continue doing things the way you are doing them today in the long run? If you can't, then it's not sustainable" Anselm Görres, Forum Ökologisch-Soziale Marktwirtschaft (17Goals).
+> "Sustainability means: can you continue doing things the way you are doing them today in the long run? If you can't, then it's not sustainable" Anselm Görres, Forum Ökologisch-Soziale Marktwirtschaft (17Goals).
 
 The term sustainability goes back to the 1987 "Brundtland Report" of the United Nations World Commission on Environment and Development. Here it is defined: Sustainable development means satisfying present needs without limiting the attainment of those needs in the future. Sustainability is divided into the three dimensions economy, ecology, and economy (WCED 1987).
 

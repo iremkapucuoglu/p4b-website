@@ -4,9 +4,9 @@ categories = ["Other", "Entwicklung"]
 date = ""
 description = "Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung fördern. "
 draft = true
-image = ""
+image = "/images/nerea-marti-sesarino-_npskraty0a-unsplash.jpg"
 summary = "Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung fördern. "
-thumbnail = ""
+thumbnail = "/images/nerea-marti-sesarino-_npskraty0a-unsplash.jpg"
 title = "Nachhaltigkeit bei GOAT"
 translationKey = ""
 
@@ -36,6 +36,8 @@ Eine nachhaltige Entwicklung kann somit nur funktionieren, wenn wir die Dimensio
 * Ziel 13: Maßnahmen zum Klimaschutz
 
 ![](/images/e-sdg-poster-2019_without-un-emblem_web.webp)
+
+_Abbildung 1: Sustainable Development GOALS der Vereinten Nationen_
 
 Mehr Informationen zu den SDG: [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/ "https://www.un.org/sustainabledevelopment/")
 

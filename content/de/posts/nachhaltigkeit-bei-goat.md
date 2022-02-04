@@ -4,9 +4,9 @@ categories = ["Other"]
 date = ""
 description = ""
 draft = true
-image = "/images/nerea-marti-sesarino-_npskraty0a-unsplash.jpg"
+image = ""
 summary = "Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung fördern. "
-thumbnail = "/images/nerea-marti-sesarino-_npskraty0a-unsplash.jpg"
+thumbnail = ""
 title = "Nachhaltigkeit bei GOAT"
 translationKey = ""
 

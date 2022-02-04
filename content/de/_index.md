@@ -77,6 +77,8 @@ blocks:
     url: "/mission"
   - logo: "/images/index/SDG4.webp"
     url: "/mission"
+  - logo: "/images/index/SDG9.webp"
+    url: "/mission"
   - logo: "/images/index/SDG11.webp"
     url: "/mission"
   - logo: "/images/index/SDG13.webp"

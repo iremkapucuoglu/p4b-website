@@ -146,7 +146,7 @@
     de: Im Marketing unterstützt sie das Team dabei, Inhalte für Kund*innen und Interessierte
       bilingual auf den Punkt zu bringen. Als leidenschaftliche Fußgängerin begeistert
       sie das städteplanerische Potenzial, das GOAT eröffnen kann.
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_helga.webp"
   github: ''
   website: ''

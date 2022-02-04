@@ -78,6 +78,8 @@ blocks:
     url: "/mission"
   - logo: "/images/index/SDG4.webp"
     url: "/mission"
+  - logo: "/images/index/SDG9.webp"
+    url: "/mission"
   - logo: "/images/index/SDG11.webp"
     url: "/mission"
   - logo: "/images/index/SDG13.webp"
@@ -87,16 +89,17 @@ blocks:
 - template: logos-block
   block: logos
   background: ''
-  padding_top: default
-  items:
-  - logo: "/images/index/innovation_award.webp"
-    url: "https://muenchen.digital/blog/innovationspreis-2021/"
-  - logo: "/images/index/bitkom_award.webp"
-    url: "https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021"
-  - logo: "/images/index/gruendungspreis_new.webp"
-    url: "https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html"
-  heading: Awards
   padding_top: remove
+  items:
+  - logo: "/images/top-50-startups-2021-siegel.png"
+    url: https://www.top50startups.de/start-ups/ranking/2021
+  - logo: "/images/index/innovation_award.webp"
+    url: https://muenchen.digital/blog/innovationspreis-2021/
+  - logo: "/images/index/bitkom_award.webp"
+    url: https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021
+  - logo: "/images/index/gruendungspreis_new.webp"
+    url: https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html
+  heading: Awards
   text: ''
 - template: logos-block
   block: logos
@@ -133,7 +136,7 @@ blocks:
   heading: Funded by
   padding_top: remove
   text: The development of GOAT is funded by the BMDV from November 2021 to October
-    2024 as part of mFUND funding line 2. 
+    2024 as part of mFUND funding line 2.
   items:
   - logo: "/images/index/logo-mfund.webp"
   - logo: "/images/index/logo-bmvi.webp"

@@ -8,7 +8,7 @@ draft : false
 image : "/images/blog/gruendungspreis/banner-bmwi.webp"
 summary : "We received the startup prize of the startup competition awarded by the Federal Ministry of Economic Affairs and Energy - Digital Innovation. We are happy and want to say THANK YOU!"
 thumbnail : "/images/blog/gruendungspreis/thumbnail-bwmi-preis.webp"
-title : "Startup Award - Digital Innovation"
+title : "Startup Award – Digital Innovation"
 translationKey : ""
 
 ---

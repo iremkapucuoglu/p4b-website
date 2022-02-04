@@ -1,6 +1,6 @@
 +++
 author = "meining"
-categories = ["other", "Development"]
+categories = ["other"]
 date = ""
 description = ""
 draft = true
@@ -37,7 +37,7 @@ Sustainable development can thus only work if we consider the dimensions as an i
 
 ![](/images/e-sdg-poster-2019_without-un-emblem_web.webp)
 
-Figure 1: Sustainable Development Goals by the United Nations
+_Figure 1: Sustainable Development Goals by the United Nations_
 
 More information about the SDG: [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/ "https://www.un.org/sustainabledevelopment/")
 

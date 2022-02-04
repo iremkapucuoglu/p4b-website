@@ -36,6 +36,13 @@ template = "news-block"
 text = ""
 
 [[blocks.news]]
+heading = "Ranking der Top 50 Start-ups 2021"
+thumbnail = "/images/presse/top-50.webp"
+source = "Top 50 Start-ups"
+url = "https://www.top50startups.de/start-ups/ranking/2021"
+date = "31. Januar 2022"
+
+[[blocks.news]]
 heading = "Plan4Better: Stadtplanungstool für Rad- und Gehwege"
 thumbnail = "/images/presse/munich-startup.webp"
 source = "Munich Startup"

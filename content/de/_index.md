@@ -138,7 +138,7 @@ blocks:
   text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober 2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.
   items:
   - logo: "/images/index/logo-mfund.webp"
-  - logo: "/images/index/logo-bmvi.webp"
+  - logo: "/images/index/BMDV_Logo.webp"
     text: 'Gefördert durch:'
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digitale Planungswerkzeuge für die Gestaltung nachhaltiger Mobilität

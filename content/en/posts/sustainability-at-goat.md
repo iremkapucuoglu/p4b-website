@@ -4,9 +4,9 @@ categories = ["other"]
 date = ""
 description = ""
 draft = true
-image = "/images/nerea-marti-sesarino-_npskraty0a-unsplash.jpg"
+image = "/images/sustainability_banner.webp"
 summary = "With GOAT, we want to make a contribution to the SDGs. But what does that mean in practice? In this blog post, we explain how we promote sustainable development."
-thumbnail = "/images/nerea-marti-sesarino-_npskraty0a-unsplash.jpg"
+thumbnail = "/images/sustainability_thumbnail.webp"
 title = "Sustainability at GOAT"
 translationKey = ""
 

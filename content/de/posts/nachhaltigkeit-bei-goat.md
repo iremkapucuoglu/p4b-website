@@ -45,6 +45,8 @@ Mit GOAT fördern wir Planungsentscheidungen, welche die aktive Mobilität, d.h.
 
 Zufußgehen und Radfahren fördern die körperliche und mentale Gesundheit und tragen zu einer positiven Verfassung bei. Zudem können Risiken vermeidbarer Krankheiten, wie Übergewicht und Herzprobleme gemindert werden. Wussten Sie zum Beispiel schon, dass die Lebenserwartung um 0,7 Jahre steigt, wenn wir uns täglich bewegen (Oberhofer 2015)?
 
+![](/images/undraw_ride_a_bicycle_re_6tjy.webp "Abbildung 1: Verbesserung gesunder Mobilitätsformen")
+
 ### Identifizierung und Adressierung benachteiligter Gebiete
 
 Durch Erreichbarkeitsanalysen können Bereiche mit eingeschränktem Zugang zu Bildungseinrichtungen, wie Kindergärten und Grundschulen, abgebildet werden.
@@ -62,6 +64,8 @@ Unsere Planungssoftware GOAT ermöglicht es, für bedeutende Infrastruktur, wie 
 Der Kern von GOAT ist die Planung von nachhaltigen Städten und Gemeinden. Indem wir ein einfach zu bedienendes Planungsinstrument zur Verfügung stellen, helfen wir Planer:innen in der Bewertung von Maßnahmen zur Förderung aktiver Mobilitätskonzepte, der Gestaltung vitaler Räume, der Schaffung vernetzter Communities sowie der Sicherstellung einer einfachen Erreichbarkeit von Zielen des täglichen Bedarfs und Grünflächen.
 
 Hierfür haben wir bereits einige Pilotprojekte in Städten wie München, Istanbul und Freiburg durchgeführt. Weitere Informationen finden Sie [hier](https://plan4better.de/goatlive/ "GOAT live").
+
+![](/images/undraw_a_day_at_the_park_re_9kxj.webp)
 
 ### Förderung umweltschonender Mobilitätsformen
 

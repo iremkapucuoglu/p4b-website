@@ -1,12 +1,12 @@
 +++
 author = "meining"
 categories = ["Other"]
-date = ""
+date = 2022-02-03T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/sustainability_banner.webp"
 summary = "Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung fördern. "
-thumbnail = ""
+thumbnail = "/images/sustainability_thumbnail.webp"
 title = "Nachhaltigkeit bei GOAT"
 translationKey = ""
 

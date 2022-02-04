@@ -90,6 +90,8 @@ blocks:
   background: ''
   padding_top: default
   items:
+  - logo: "/images/top-50-startups-2021-siegel.png"
+    url: https://www.top50startups.de/start-ups/ranking/2021
   - logo: "/images/index/innovationspreis.webp"
     url: "https://muenchen.digital/blog/innovationspreis-2021/"
   - logo: "/images/index/bitkom_award.webp"

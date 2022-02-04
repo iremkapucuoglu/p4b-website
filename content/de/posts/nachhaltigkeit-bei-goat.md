@@ -35,6 +35,8 @@ Eine nachhaltige Entwicklung kann somit nur funktionieren, wenn wir die Dimensio
 * Ziel 11: Nachhaltige Städte und Gemeinden
 * Ziel 13: Maßnahmen zum Klimaschutz
 
+![](/images/e-sdg-poster-2019_without-un-emblem_web.webp)
+
 Mehr Informationen zu den SDG: [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/ "https://www.un.org/sustainabledevelopment/")
 
 ## Wie wird Nachhaltigkeit bei GOAT umgesetzt?

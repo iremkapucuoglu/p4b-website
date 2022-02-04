@@ -92,6 +92,7 @@ blocks:
   padding_top: remove
   items:
   - logo: "/images/top-50-startups-2021-siegel.png"
+  - logo: "/images/top-50-startups-2021-siegel.png"
   - logo: "/images/index/innovation_award.webp"
     url: https://muenchen.digital/blog/innovationspreis-2021/
   - logo: "/images/index/bitkom_award.webp"

@@ -4,9 +4,9 @@ categories = ["other", "Development"]
 date = ""
 description = ""
 draft = true
-image = ""
+image = "/images/nerea-marti-sesarino-_npskraty0a-unsplash.jpg"
 summary = "With GOAT, we want to make a contribution to the SDGs. But what does that mean in practice? In this blog post, we explain how we promote sustainable development."
-thumbnail = "/images/e-sdg-poster-2019_without-un-emblem_print.jpg"
+thumbnail = "/images/nerea-marti-sesarino-_npskraty0a-unsplash.jpg"
 title = "Sustainability at GOAT"
 translationKey = ""
 
@@ -35,6 +35,10 @@ Sustainable development can thus only work if we consider the dimensions as an i
 * Goal 11: Sustainable cities and communities
 * Goal 13: Climate action
 
+![](/images/e-sdg-poster-2019_without-un-emblem_web.webp)
+
+Figure 1: Sustainable Development Goals by the United Nations
+
 More information about the SDG: [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/ "https://www.un.org/sustainabledevelopment/")
 
 ## How is sustainability implemented at GOAT?
@@ -44,6 +48,8 @@ More information about the SDG: [https://www.un.org/sustainabledevelopment/](htt
 With GOAT, we encourage planning decisions that support active mobility, i.e., walking and biking. This enables better access to active forms of physical activity for people, both urban and rural.
 
 Walking and biking promote physical and mental health and contribute to a positive state of mind. It can also reduce risks of preventable diseases, such as obesity and heart problems. For example, did you know that life expectancy increases by 0.7 years when we exercise daily (Oberhofer 2015)?
+
+![](/images/undraw_ride_a_bicycle_re_6tjy.webp)
 
 ### Identifying and addressing disadvantaged areas
 
@@ -62,6 +68,8 @@ Our planning software GOAT makes it possible to locate significant infrastructur
 The core of GOAT is the planning of sustainable cities and communities. By providing an easy-to-use planning tool, we help planners evaluate measures to promote active mobility concepts, design vital spaces, create connected communities, and ensure easy access to day-to-day requirements and green spaces.
 
 With this in mind, we have already conducted several pilot projects in cities such as Munich, Istanbul and Freiburg. You can find more information [here](https://plan4better.de/en/goatlive/ "GOAT live").
+
+![](/images/undraw_a_day_at_the_park_re_9kxj.webp)
 
 ### Promoting environmentally friendly forms of mobility
 

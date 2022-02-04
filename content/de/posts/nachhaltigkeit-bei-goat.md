@@ -1,8 +1,8 @@
 +++
 author = "meining"
-categories = ["Other", "Entwicklung"]
+categories = ["Other"]
 date = ""
-description = "Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung fördern. "
+description = ""
 draft = true
 image = "/images/nerea-marti-sesarino-_npskraty0a-unsplash.jpg"
 summary = "Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung fördern. "
@@ -15,7 +15,7 @@ translationKey = ""
 
 ## Was bedeutet Nachhaltigkeit?
 
-**„Nachhaltigkeit heißt: Kann man auf Dauer so weitermachen, wie man es heute macht? Wenn man das nicht kann, dann ist es nicht nachhaltig“ Anselm Görres, Forum Ökologisch-Soziale Marktwirtschaft (17Ziele).**
+> „Nachhaltigkeit heißt: Kann man auf Dauer so weitermachen, wie man es heute macht? Wenn man das nicht kann, dann ist es nicht nachhaltig“ Anselm Görres, Forum Ökologisch-Soziale Marktwirtschaft (17Ziele).
 
 Der Begriff Nachhaltigkeit geht auf den „Brundtland-Bericht" der Weltkommission für Umwelt und Entwicklung der Vereinten Nationen von 1987 zurück. Hier wird definiert: Eine nachhaltige Entwicklung bedeutet, die Befriedigung der heutigen Bedürfnisse, ohne die Erreichung dieser in Zukunft einzuschränken. Nachhaltigkeit wird in die drei Dimensionen Wirtschaft, Ökologie und Ökonomie gegliedert (WCED 1987).
 

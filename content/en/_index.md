@@ -139,7 +139,7 @@ blocks:
     2024 as part of mFUND funding line 2.
   items:
   - logo: "/images/index/logo-mfund.webp"
-  - logo: "/images/index/logo-bmvi.webp"
+  - logo: "/images/index/BMDV_Logo.webp"
     text: 'Gefördert durch:'
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digital planning support systems to shape sustainable mobility and liveable

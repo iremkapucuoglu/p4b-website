@@ -19,7 +19,9 @@ translationKey = ""
 
 Unser neues Büro befindet sich im Münchner Werksviertel – zentral gelegen am Ostbahnhof und der perfekte Ort für Start-ups. Neben einem Zentrum für digitale Wirtschaft und Innovation, bietet das Werksviertel auch Raum für Kreativität, Kultur, soziales Engagement und Freizeit. Wir freuen uns insbesondere über den Fokus auf nachhaltige Stadtentwicklung, denn das [Werksviertel](https://werksviertel-mitte.de/ "Werksviertel") setzt auf die Kombination aus umfunktionierten Industriegebäuden und Neubauten.
 
-Abbildung 1: Vom Munich Urban Colab zum WERK1
+![](/images/movewerk1-fusszone_76851024.webp)
+
+Abbildung 1: Unser Weg zum Büro durch das Werksvierte
 
 Diese Woche konnten wir unser Büro im [WERK1](https://www.werk1.com/coworking-muenchen-werk1/ "Werk1"), dem “Startup- freundlichsten Ort Münchens“ beziehen. Wir freuen uns sehr, dass wir jetzt mit Plan4Better unseren eigenen Ort haben, um gemeinsam an unserer Planungssoftware [GOAT](/was-ist-goat/ "GOAT") und weiteren, spannenden Projekte zu arbeiten.
 
@@ -34,8 +36,6 @@ Selbstverständlich haben wir erstmal die Erreichbarkeit vom WERK1 in GOAT über
 ![](/images/movewerk1_15minmap.webp)
 
 Abb. 2: Wie weit wir innerhalb von 15 Minuten zu Fuß vom WERK1 kommen.
-
-![](/images/movewerk1-fusszone_76851024.webp)
 
 Abb. 3: Unser Weg zum Büro durch das Werksviertel
 

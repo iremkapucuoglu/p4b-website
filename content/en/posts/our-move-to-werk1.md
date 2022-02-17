@@ -17,6 +17,8 @@ translationKey = ""
 
 Our new office is located in Munich's Werksviertel - centrally located near Ostbahnhof and the perfect place for startups. In addition to being a center for digital business and innovation, the Werksviertel also offers space for creativity, culture, social engagement and leisure. We are particularly excited about the focus on sustainable urban development, as the Werksviertel ([https://werksviertel-mitte.de/](https://werksviertel-mitte.de/ "https://werksviertel-mitte.de/")) relies on the combination of converted industrial buildings and new construction.
 
+![](/images/movewerk1-fusszone_76851024.webp)
+
 This week we were able to move into our office in WERK1 ([https://www.werk1.com/coworking-muenchen-werk1/](https://www.werk1.com/coworking-muenchen-werk1/ "https://www.werk1.com/coworking-muenchen-werk1/")), "The Startup Friendliest Place in Munich". We are very happy that we now have our own place with Plan4Better to work together on our planning software GOAT (/what-is-goat/) and other exciting projects.
 
 ## Goodbye, Colab

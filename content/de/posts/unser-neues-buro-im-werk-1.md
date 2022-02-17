@@ -7,7 +7,7 @@ draft = true
 image = ""
 summary = "Wir sind umgezogen! Das neue Office befindet sich im Werk1 und wir sind somit noch besser zu Fuß und mit dem Rad erreichbar. "
 thumbnail = ""
-title = "Unser neues Büro im Werk 1"
+title = "Unser neues Büro im WERK1"
 translationKey = ""
 
 +++

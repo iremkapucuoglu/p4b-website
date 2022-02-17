@@ -1,12 +1,12 @@
 +++
 author = "meining"
 categories = ["News"]
-date = ""
+date = 2022-02-16T23:00:00Z
 description = ""
 draft = true
-image = "/images/umzugwerk1_900x450.png"
+image = "/images/movewerk1_9006450.webp"
 summary = "Wir sind umgezogen! Das neue Office befindet sich im WERK1 – dort haben wir eine super Erreichbarkeit zum ÖPNV und zu zahlreichen Essensoptionen. "
-thumbnail = "/images/movewerk1_6002450.webp"
+thumbnail = "/images/movewerk1_6007450.webp"
 title = "Unser neues Büro im WERK1"
 translationKey = ""
 

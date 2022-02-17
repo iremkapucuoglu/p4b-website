@@ -11,8 +11,6 @@ title = "Unser neues Büro im WERK1"
 translationKey = ""
 
 +++
-## Unser neues Büro im WERK1
-
 ## Die Umgebung: Das Münchner Werksviertel
 
 Unser neues Büro befindet sich im Münchner Werksviertel – zentral gelegen am Ostbahnhof und der perfekte Ort für Start-ups. Neben einem Zentrum für digitale Wirtschaft und Innovation, bietet das Werksviertel auch Raum für Kreativität, Kultur, soziales Engagement und Freizeit. Wir freuen uns insbesondere über den Fokus auf nachhaltige Stadtentwicklung, denn das [Werksviertel](https://werksviertel-mitte.de/ "Werksviertel") setzt auf die Kombination aus umfunktionierten Industriegebäuden und Neubauten.

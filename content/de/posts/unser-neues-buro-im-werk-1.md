@@ -19,7 +19,7 @@ Unser neues Büro befindet sich im Münchner Werksviertel – zentral gelegen am
 
 ![](/images/movewerk1-fusszone_76851024.webp)
 
-Abbildung 1: Unser Weg zum Büro durch das Werksviertel
+_Abbildung 1: Unser Weg zum Büro durch das Werksviertel_
 
 Diese Woche konnten wir unser Büro im [WERK1](https://www.werk1.com/coworking-muenchen-werk1/ "Werk1"), dem “Startup- freundlichsten Ort Münchens“ beziehen. Wir freuen uns sehr, dass wir jetzt mit Plan4Better unseren eigenen Ort haben, um gemeinsam an unserer Planungssoftware [GOAT](/was-ist-goat/ "GOAT") und weiteren, spannenden Projekte zu arbeiten.
 
@@ -33,6 +33,6 @@ Selbstverständlich haben wir erstmal die Erreichbarkeit vom WERK1 in GOAT über
 
 ![](/images/movewerk1_15minmap.webp)
 
-Abb. 2: Wie weit wir innerhalb von 15 Minuten zu Fuß vom WERK1 kommen.
+_Abb. 2: Wie weit wir innerhalb von 15 Minuten zu Fuß vom WERK1 kommen._
 
 Wir sind gespannt auf unsere Zeit imWERK1 und freuen uns über jeden Besuch. Die Kaffeemaschine steht schon bereit!

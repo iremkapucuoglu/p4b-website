@@ -31,6 +31,8 @@ Mit jedem Neuanfang kommt leider auch ein kleiner Abschied: Wir verlassen das Mu
 
 Selbstverständlich haben wir erstmal die Erreichbarkeit vom WERK1 in GOAT überprüft. Trotz der großen Gleisachse am Ostbahnhof, weist das Gebiet eine gute Konnektivität für den Fuß- und Radverkehr auf. Unser täglicher Weg zum Büro führt, vorbei an vielen Läden, Restaurants und Veranstaltungsorten, durch eine attraktive Fußgängerzone. Außerdem sind wir durch den Ostbahnhof optimal an öffentliche Verkehrsmittel angebunden.
 
+![](/images/movewerk1_15minmap.webp)
+
 Abb. 2: Wie weit wir innerhalb von 15 Minuten zu Fuß vom WERK1 kommen.
 
-Wir sind gespannt auf unsere Zeit imWERK1 und freuen uns über jeden Besuch. Die Kaffeemaschine steht schon bereit! 
+Wir sind gespannt auf unsere Zeit imWERK1 und freuen uns über jeden Besuch. Die Kaffeemaschine steht schon bereit!

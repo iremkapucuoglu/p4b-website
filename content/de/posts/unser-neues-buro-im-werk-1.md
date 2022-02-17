@@ -33,6 +33,6 @@ Selbstverständlich haben wir erstmal die Erreichbarkeit vom WERK1 in GOAT über
 
 ![](/images/movewerk1_15minmap.webp)
 
-_Abb. 2: Wie weit wir innerhalb von 15 Minuten zu Fuß vom WERK1 kommen._
+_Abbildung 2: Wie weit wir innerhalb von 15 Minuten zu Fuß vom WERK1 kommen._
 
-Wir sind gespannt auf unsere Zeit imWERK1 und freuen uns über jeden Besuch. Die Kaffeemaschine steht schon bereit!
+Wir sind gespannt auf unsere Zeit im WERK1 und freuen uns über jeden Besuch. Die Kaffeemaschine steht schon bereit!

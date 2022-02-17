@@ -35,4 +35,8 @@ Selbstverständlich haben wir erstmal die Erreichbarkeit vom WERK1 in GOAT über
 
 Abb. 2: Wie weit wir innerhalb von 15 Minuten zu Fuß vom WERK1 kommen.
 
+![](/images/movewerk1-fusszone_76851024.webp)
+
+Abb. 3: Unser Weg zum Büro durch das Werksviertel
+
 Wir sind gespannt auf unsere Zeit imWERK1 und freuen uns über jeden Besuch. Die Kaffeemaschine steht schon bereit!

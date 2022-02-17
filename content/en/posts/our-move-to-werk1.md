@@ -25,7 +25,7 @@ This week we were able to move into our office in [WERK1](https://www.werk1.com/
 
 With every new beginning comes a small farewell: We are leaving the Munich Urban Colab and therefore have to say goodbye to our Colab friends. The Munich Urban Colab has given us a lot of space for innovation, the development of our start-up and good conversations. Thanks to everyone for the cool time!
 
-## Accessibility of the WERK1 / Plan4Better office
+## Accessibility of the WERK1 
 
 Of course, we first checked the accessibility from WERK1 in GOAT. Despite the large rail axis at Ostbahnhof, the area has good connectivity for walking and biking. Our daily commute to the office, passing many stores, restaurants and venues, is through a delightful pedestrian zone. We are also optimally connected to public transportation through the Ostbahnhof station.
 

@@ -25,7 +25,7 @@ Diese Woche konnten wir unser Büro im [WERK1](https://www.werk1.com/coworking-m
 
 Mit jedem Neuanfang kommt leider auch ein kleiner Abschied: Wir verlassen das Munich Urban Colab und müssen uns deshalb auch von unseren Colab-Freund:innen verabschieden. Das Munich Urban Colab hat uns viel Raum für Innovation, die Entwicklung unseres Start-ups und gute Gespräche gegeben. Vielen Dank an Alle für die coole Zeit!
 
-## Die Erreichbarkeit vom WERK1 / Plan4Better-Büro
+## Die Erreichbarkeit vom WERK1
 
 Selbstverständlich haben wir erstmal die Erreichbarkeit vom WERK1 in GOAT überprüft. Trotz der großen Gleisachse am Ostbahnhof, weist das Gebiet eine gute Konnektivität für den Fuß- und Radverkehr auf. Unser täglicher Weg zum Büro führt, vorbei an vielen Läden, Restaurants und Veranstaltungsorten, durch eine attraktive Fußgängerzone. Außerdem sind wir durch den Ostbahnhof optimal an öffentliche Verkehrsmittel angebunden.
 

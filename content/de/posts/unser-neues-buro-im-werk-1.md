@@ -11,9 +11,7 @@ title = "Unser neues Büro im WERK1"
 translationKey = ""
 
 +++
-# Unser neues Büro im WERK1
-
-### Wir sind umgezogen – in ein Büro mit besserer Erreichbarkeit!
+## Unser neues Büro im WERK1
 
 ## Die Umgebung: Das Münchner Werksviertel
 

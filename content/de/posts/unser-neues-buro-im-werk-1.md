@@ -5,7 +5,7 @@ date = 2022-02-16T23:00:00Z
 description = ""
 draft = true
 image = "/images/movewerk1_9006450.webp"
-summary = "Wir sind umgezogen: Vom Munich Urban Colab ins WERK1! Das neue Office befindet sich im Münchner Werksviertel; dort haben wir eine super Erreichbarkeit zum ÖPNV und zu zahlreichen Essensoptionen. "
+summary = "Wir sind umgezogen - Vom Munich Urban Colab ins WERK1! Das neue Office befindet sich im Münchner Werksviertel: Dort haben wir eine super Erreichbarkeit zum ÖPNV und zu zahlreichen Essensoptionen. "
 thumbnail = "/images/movewerk1_6007450.webp"
 title = "Unser neues Büro im WERK1"
 translationKey = ""
@@ -21,7 +21,7 @@ Unser neues Büro befindet sich im Münchner Werksviertel – zentral gelegen am
 
 ![](/images/movewerk1-fusszone_76851024.webp)
 
-Abbildung 1: Unser Weg zum Büro durch das Werksvierte
+Abbildung 1: Unser Weg zum Büro durch das Werksviertel
 
 Diese Woche konnten wir unser Büro im [WERK1](https://www.werk1.com/coworking-muenchen-werk1/ "Werk1"), dem “Startup- freundlichsten Ort Münchens“ beziehen. Wir freuen uns sehr, dass wir jetzt mit Plan4Better unseren eigenen Ort haben, um gemeinsam an unserer Planungssoftware [GOAT](/was-ist-goat/ "GOAT") und weiteren, spannenden Projekte zu arbeiten.
 
@@ -36,7 +36,5 @@ Selbstverständlich haben wir erstmal die Erreichbarkeit vom WERK1 in GOAT über
 ![](/images/movewerk1_15minmap.webp)
 
 Abb. 2: Wie weit wir innerhalb von 15 Minuten zu Fuß vom WERK1 kommen.
-
-Abb. 3: Unser Weg zum Büro durch das Werksviertel
 
 Wir sind gespannt auf unsere Zeit imWERK1 und freuen uns über jeden Besuch. Die Kaffeemaschine steht schon bereit!

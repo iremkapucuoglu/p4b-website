@@ -27,7 +27,7 @@ Mit jedem Neuanfang kommt leider auch ein kleiner Abschied: Wir verlassen das Mu
 
 ## Die Erreichbarkeit vom WERK1
 
-Selbstverständlich haben wir erstmal die Erreichbarkeit vom WERK1 in GOAT überprüft. Trotz der großen Gleisachse am Ostbahnhof, weist das Gebiet eine gute Konnektivität für den Fuß- und Radverkehr auf. Unser täglicher Weg zum Büro führt, vorbei an vielen Läden, Restaurants und Veranstaltungsorten, durch eine attraktive Fußgängerzone. Außerdem sind wir durch den Ostbahnhof optimal an öffentliche Verkehrsmittel angebunden.
+Selbstverständlich haben wir schon die Erreichbarkeit vom WERK1 in GOAT überprüft. Trotz der großen Gleisachse am Ostbahnhof, weist das Gebiet eine gute Konnektivität für den Fuß- und Radverkehr auf. Unser täglicher Weg zum Büro führt, vorbei an vielen Läden, Restaurants und Veranstaltungsorten, durch eine attraktive Fußgängerzone. Außerdem sind wir durch den Ostbahnhof optimal an öffentliche Verkehrsmittel angebunden.
 
 ![](/images/movewerk1_15minmap.webp)
 

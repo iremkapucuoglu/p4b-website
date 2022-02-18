@@ -35,6 +35,5 @@ fields:
   name: author
   label: Author
   description: Enter username from authors settings.
-pages:
-- content/de/posts/unser-neues-buro-im-werk-1.md
-- content/en/posts/our-move-to-werk1.md
+
+

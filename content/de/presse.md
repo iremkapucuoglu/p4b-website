@@ -9,7 +9,7 @@ background_image = "/images/presse/presse_banner.webp"
 heading = "Presse"
 image = ""
 layout = "center"
-text = "Hier finden unser Media-Kit, Unternehmensinformationen sowie Pressemitteilungen über uns."
+text = "Hier finden Sie unser Media-Kit, Unternehmensinformationen sowie Pressemitteilungen über uns."
 [[blocks]]
 background = "muted"
 block = "links"

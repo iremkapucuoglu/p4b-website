@@ -4,7 +4,8 @@ layout: blocks
 header:
   layout: left
   heading: Planen Sie mit uns nachhaltige Städte und Regionen!
-  text: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen Erreichbarkeit.
+  text: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen
+    Erreichbarkeit.
   image: "/images/index/heatmap-muc-1.webp"
   button:
     text: GOAT testen
@@ -88,18 +89,17 @@ blocks:
 - template: logos-block
   block: logos
   background: ''
-  padding_top: default
+  padding_top: remove
   items:
   - logo: "/images/top-50-startups-2021-siegel.png"
     url: https://www.top50startups.de/start-ups/ranking/2021
   - logo: "/images/index/innovationspreis.webp"
-    url: "https://muenchen.digital/blog/innovationspreis-2021/"
+    url: https://muenchen.digital/blog/innovationspreis-2021/
   - logo: "/images/index/bitkom_award.webp"
-    url: "https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021"
+    url: https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021
   - logo: "/images/index/gruendungspreis_new.webp"
-    url: "https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html"
+    url: https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html
   heading: Auszeichnungen
-  padding_top: remove
   text: ''
 - template: logos-block
   block: logos
@@ -118,6 +118,7 @@ blocks:
   text: ''
   padding_top: remove
   items:
+  - logo: "/images/werk1_logo_plain_trans.webp"
   - logo: "/images/index/freiburg_logo.webp"
   - logo: "/images/index/mobidata_bw.webp"
   - logo: "/images/index/logo-tum.webp"
@@ -135,7 +136,8 @@ blocks:
   - "/images/index/logo-bmvi.webp"
   heading: Gefördert durch
   padding_top: remove
-  text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober 2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.
+  text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober
+    2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.
   items:
   - logo: "/images/index/logo-mfund.webp"
   - logo: "/images/index/BMDV_Logo.webp"

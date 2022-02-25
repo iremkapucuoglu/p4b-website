@@ -67,25 +67,34 @@ parent = "Competences"
 url = "/consultancy/"
 weight = 5
 [[languages.de.menu.center]]
-name = "Blog"
-url = "/blog/"
+name = "Über uns"
+url = "/"
 weight = 3
+[languages.de.menu.center.params]
+heading = "Plan4Better - Über uns"
+text = "Wir sind Plan4Better - ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen, vereint durch die Motivation einen Beitrag zur nachhaltigen Stadt- und Verkehrsplanung zu leisten. "
 [[languages.de.menu.center]]
 name = "Team"
+parent = "Über uns"
 url = "/team/"
 weight = 4
 [[languages.de.menu.center]]
 name = "Mission"
+parent = "Über uns"
 url = "/mission/"
 weight = 5
 [[languages.de.menu.center]]
+name = "Blog"
+url = "/blog/"
+weight = 6
+[[languages.de.menu.center]]
 name = "Presse"
 url = "/presse/"
-weight = 6
+weight = 7
 [[languages.de.menu.center]]
 name = "Kontakt"
 url = "/kontakt/"
-weight = 7
+weight = 8
 [[languages.de.menu.footer]]
 name = "Team"
 url = "/team/"
@@ -218,25 +227,34 @@ pre = "2"
 url = "/link6/"
 weight = 9
 [[languages.en.menu.center]]
-name = "Blog"
-url = "/blog/"
+name = "About us"
+url = "/"
 weight = 3
+[languages.en.menu.center.params]
+heading = "About us"
+text = "We are Plan4Better - a diverse team of environmental engineers, GIS developers and transport planners united by the motivation to contribute to sustainable urban and transport planning."
 [[languages.en.menu.center]]
 name = "Team"
-url = "/team/"
+parent = "About us"
+url = "/en/team/"
 weight = 4
 [[languages.en.menu.center]]
 name = "Mission"
+parent = "About us"
 url = "/mission/"
 weight = 5
 [[languages.en.menu.center]]
+name = "Blog"
+url = "/blog/"
+weight = 6
+[[languages.en.menu.center]]
 name = "Press"
 url = "/press/"
-weight = 6
+weight = 7
 [[languages.en.menu.center]]
 name = "Contact"
 url = "/contact/"
-weight = 7
+weight = 8
 [[languages.en.menu.footer]]
 name = "Team"
 url = "/team/"

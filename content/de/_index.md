@@ -106,6 +106,7 @@ blocks:
   background: default
   heading: Partner
   logos:
+  - "/images/werk1_logo_plain_trans.webp"
   - "/images/index/freiburg_logo.webp"
   - "/images/index/logo_mobidata-bw-1.webp"
   - "/images/index/logo-tum-1.webp"
@@ -136,8 +137,7 @@ blocks:
   - "/images/index/logo-bmvi.webp"
   heading: Gefördert durch
   padding_top: remove
-  text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober
-    2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.
+  text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober 2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.
   items:
   - logo: "/images/index/logo-mfund.webp"
   - logo: "/images/index/BMDV_Logo.webp"

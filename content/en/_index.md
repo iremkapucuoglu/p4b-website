@@ -106,6 +106,7 @@ blocks:
   background: default
   heading: Partners
   logos:
+  - "/images/werk1_logo_plain_trans.webp"
   - "/images/index/freiburg_logo.webp"
   - "/images/index/logo_mobidata-bw-1.webp"
   - "/images/index/logo-tum-1.webp"
@@ -143,7 +144,6 @@ blocks:
   - logo: "/images/index/BMDV_Logo.webp"
     text: 'Gefördert durch:'
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
-description: Digital planning support systems to shape sustainable mobility and liveable
-  spaces.
+description: Digital planning support systems to shape sustainable mobility and liveable spaces.
 
 ---

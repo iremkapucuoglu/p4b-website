@@ -36,6 +36,13 @@ template = "news-block"
 text = ""
 
 [[blocks.news]]
+heading = "Women in Tech: Ulrike Jehle von Plan4Better"
+thumbnail = "/images/presse/munich-startup.webp"
+source = "Munich Startup"
+url = "https://www.munich-startup.de/79898/women-in-tech-ulrike-jehle-plan4better/"
+date = "23. Februar 2022"
+
+[[blocks.news]]
 heading = "Ranking der Top 50 Start-ups 2021"
 thumbnail = "/images/presse/top-50.webp"
 source = "Top 50 Start-ups"

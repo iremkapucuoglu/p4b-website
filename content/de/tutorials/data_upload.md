@@ -7,12 +7,13 @@ sections:
 description: Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-Interest-Datensätze.
 
 ---
+# Hochladen eigener POI-Daten
 #### Beschreibung des Features
 In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-of-Interest (POIs) bereitgestellt. Falls Sie weitere POI-Datensätze in GOAT integrieren möchten, können Sie dies über die "Hochladen" Funktion tun. Insgesamt stehen jedem Nutzer hierfür 500 MB Speicherplatz zur Verfügung. 
 
 #### Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-Interest-Datensätze
 
-1. Bereiten Sie die POI Daten als GeoJSON-Datei vor. Falls Sie mehrere POI Kategorien (z.B. Jugendzentren, Bikesharing-Stationen) hochladen möchten, dann erstellen Sie je Kategorie eine eigene Datei (d.h. in diesem Beispiel ein GeoJSON file mit den Judendzentren und ein GeoJSON mit den Bikesharing-Stationen).
+1. Bereiten Sie die POI Daten als GeoJSON-Datei vor. Falls Sie mehrere POI Kategorien (z.B. Jugendzentren, Bikesharing-Stationen) hochladen möchten, dann erstellen Sie je Kategorie eine eigene Datei (d.h. in diesem Beispiel ein GeoJSON file mit den Jugendzentren und ein GeoJSON mit den Bikesharing-Stationen).
 
 2. Klicken Sie im rechten Menü auf „User Data Upload“.  
 

@@ -1,7 +1,7 @@
 +++
 author = "meining"
-categories = []
-date = ""
+categories = ["news"]
+date = 2022-03-24T23:00:00Z
 description = "Sie wohnen in Deutschland und möchten gerne ein wissenschaftliches Projekt zugunsten der fuß- und radverkehrsorientierten Planung unterstützen? Dann nehmen Sie an unserer 10-minütigen Umfrage teil und helfen, nachhaltige Mobilität besser planen zu können. Gewinnen können Sie auch etwas. "
 draft = true
 image = "/images/goat3-0umfrage-900x450.webp"

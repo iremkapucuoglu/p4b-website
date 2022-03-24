@@ -1,7 +1,7 @@
 +++
 author = "meining"
-categories = []
-date = ""
+categories = ["news"]
+date = 2022-03-24T23:00:00Z
 description = "You live in Germany and would like to support a scientific project in favor of pedestrian and bicycle oriented planning? Then take part in our 10-minute survey and help to better plan sustainable mobility. You can also win something."
 draft = true
 image = "/images/goat3-0umfrage-900x450.webp"
@@ -17,9 +17,9 @@ You live in Germany and would like to support a scientific project in favor of p
 
 ## The GOAT 3.0 project
 
-The survey is part of the 3-year project "GOAT 3.0". The aim of the project is to extend the already existing functions of the web-based planning tool GOAT in a co-creative development process. For this purpose, new accessibility indicators will be developed.
+The survey is part of the 3-year project ["GOAT 3.0"](en/posts/2021-12-28-goat3_0/ "What is GOAT 3.0?"). The aim of the project is to extend the already existing functions of the web-based planning tool GOAT in a co-creative development process. For this purpose, new accessibility indicators will be developed.
 
-GOAT 3.0 will enable analyses with additional modes of transportation and to new destinations, import additional data and expand the visualization options. To this end, we have already worked very closely with our project partners - the Technical University of Munich (TUM), the Leibniz Institute for Ecological and Regional Development Dresden (IÖR), Prof. Schaller UmweltConsult GmbH (PSU) and Münchner Verkehrs- und Tarifverbund GmbH (MVV) - over the past few months.
+GOAT 3.0 will enable analyses with additional modes of transportation and to new destinations, import additional data and expand the visualization options. To this end, we have already worked very closely with our project partners - the [Technical University of Munich (TUM)](https://www.mos.ed.tum.de/en/sv/homepage/), the [Leibniz Institute for Ecological and Regional Development Dresden (IÖR)](https://www.ioer.de/), [Prof. Schaller UmweltConsult GmbH (PSU)](https://www.psu-schaller.de/) and [Münchner Verkehrs- und Tarifverbund GmbH (MVV)](https://www.mvv-muenchen.de/) - over the past few months.
 
 GOAT 3.O is supplemented by the following functions, among others:
 

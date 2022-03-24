@@ -2,20 +2,20 @@
 author = "meining"
 categories = ["news"]
 date = 2022-03-24T23:00:00Z
-description = "Sie wohnen in Deutschland und möchten gerne ein wissenschaftliches Projekt zugunsten der fuß- und radverkehrsorientierten Planung unterstützen? Dann nehmen Sie an unserer 10-minütigen Umfrage teil und helfen, nachhaltige Mobilität besser planen zu können. Gewinnen können Sie auch etwas. "
+description = ""
 draft = true
 image = "/images/goat3-0umfrage-900x450.webp"
-summary = ""
+summary = "Sie wohnen in Deutschland und möchten gerne ein wissenschaftliches Projekt zugunsten der fuß- und radverkehrsorientierten Planung unterstützen? Dann nehmen Sie an unserer 10-minütigen Umfrage teil."
 thumbnail = "/images/goat3-0umfrage-600x450.webp"
 title = "Umfrage zu GOAT 3.0 - Machen Sie mit! "
 translationKey = ""
 
 +++
-**Umfrage zu GOAT 3.0 - Machen Sie mit!**
+## Umfrage zu GOAT 3.0 - Machen Sie mit!
 
 Sie wohnen in Deutschland und möchten gerne ein wissenschaftliches Projekt zugunsten der fuß- und radverkehrsorientierten Planung unterstützen? Dann nehmen Sie an unserer 10-minütigen Umfrage teil und helfen, nachhaltige Mobilität besser planen zu können. Gewinnen können Sie auch etwas.
 
-**Das Projekt GOAT 3.0**
+## Das Projekt GOAT 3.0
 
 Die Umfrage ist Teil des 3-jährigen Projekts [„GOAT 3.0“](/posts/2021-12-28-goat3_0/ "Was ist GOAT 3.0?"). Ziel des Projekts ist es, die bereits vorhandenen Funktionen von dem web-basiertem Planungswerkzeug GOAT in einem ko-kreativen Entwicklungsprozess zu erweitern. Hierzu werden neue Erreichbarkeits-Indikatoren entwickelt.
 
@@ -33,7 +33,7 @@ Weitere Informationen zu GOAT 3.0: [https://www.open-accessibility.org/](https:/
 
 ![](/images/goat3-0blogin-1.webp)
 
-**Machen Sie mit!**
+## Machen Sie mit!
 
 Als Grundlage für die Entwicklung der neuen Indikatoren führen wir nun eine bundesweite Befragung durch: Sie können helfen, die Stadt- und Verkehrsplanung in Zukunft nachhaltiger zu gestalten!
 

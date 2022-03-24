@@ -2,10 +2,10 @@
 author = "meining"
 categories = ["news"]
 date = 2022-03-24T23:00:00Z
-description = "You live in Germany and would like to support a scientific project in favor of pedestrian and bicycle oriented planning? Then take part in our 10-minute survey and help to better plan sustainable mobility. You can also win something."
+description = ""
 draft = true
 image = "/images/goat3-0umfrage-900x450.webp"
-summary = ""
+summary = "You live in Germany and would like to support a scientific project in favor of pedestrian and bicycle oriented planning? Then take part in our 10-minute survey."
 thumbnail = "/images/goat3-0umfrage-600x450.webp"
 title = "Survey on GOAT 3.0 - Join in!"
 translationKey = ""

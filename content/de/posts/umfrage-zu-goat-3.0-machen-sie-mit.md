@@ -17,7 +17,7 @@ Sie wohnen in Deutschland und möchten gerne ein wissenschaftliches Projekt zugu
 
 ## Das Projekt GOAT 3.0
 
-Die Umfrage ist Teil des 3-jährigen Projekts [„GOAT 3.0“](/posts/2021-12-28-goat3_0/ "Was ist GOAT 3.0?"). Ziel des Projekts ist es, die bereits vorhandenen Funktionen von dem web-basiertem Planungswerkzeug GOAT in einem ko-kreativen Entwicklungsprozess zu erweitern. Hierzu werden neue Erreichbarkeits-Indikatoren entwickelt.
+Die Umfrage ist Teil des 3-jährigen Projekts [GOAT 3.0](/posts/2021-12-28-goat3_0/ "Was ist GOAT 3.0?"). Ziel des Projekts ist es, die bereits vorhandenen Funktionen von dem web-basiertem Planungswerkzeug GOAT in einem ko-kreativen Entwicklungsprozess zu erweitern. Hierzu werden neue Erreichbarkeits-Indikatoren entwickelt.
 
 Mit GOAT 3.0 werden Analysen mit zusätzlichen Verkehrsmitteln und zu neuen Zielen ermöglicht, weitere Daten eingespielt und die Visualisierungsoptionen erweitert. Dazu haben wir in den letzten Monaten bereits sehr eng mit unseren Projektpartnern - der [Technische Universität München (TUM)](https://www.mos.ed.tum.de/sv/startseite/), dem [Leibniz-Institut für ökologische Raumentwicklung Dresden (IÖR)](https://www.ioer.de/), der [Prof. Schaller UmweltConsult GmbH (PSU)](https://www.psu-schaller.de/) und dem [Münchner Verkehrs- und Tarifverbund GmbH (MVV)](https://www.mvv-muenchen.de/) - zusammengearbeitet.
 

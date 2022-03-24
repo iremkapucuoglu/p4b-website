@@ -17,7 +17,7 @@ You live in Germany and would like to support a scientific project in favor of p
 
 ## The GOAT 3.0 project
 
-The survey is part of the 3-year project ["GOAT 3.0"](en/posts/2021-12-28-goat3_0/ "What is GOAT 3.0?"). The aim of the project is to extend the already existing functions of the web-based planning tool GOAT in a co-creative development process. For this purpose, new accessibility indicators will be developed.
+The survey is part of the 3-year project [GOAT 3.0](en/posts/2021-12-28-goat3_0/ "What is GOAT 3.0?"). The aim of the project is to extend the already existing functions of the web-based planning tool GOAT in a co-creative development process. For this purpose, new accessibility indicators will be developed.
 
 GOAT 3.0 will enable analyses with additional modes of transportation and to new destinations, import additional data and expand the visualization options. To this end, we have already worked very closely with our project partners - the [Technical University of Munich (TUM)](https://www.mos.ed.tum.de/en/sv/homepage/), the [Leibniz Institute for Ecological and Regional Development Dresden (IÖR)](https://www.ioer.de/), [Prof. Schaller UmweltConsult GmbH (PSU)](https://www.psu-schaller.de/) and [Münchner Verkehrs- und Tarifverbund GmbH (MVV)](https://www.mvv-muenchen.de/) - over the past few months.
 

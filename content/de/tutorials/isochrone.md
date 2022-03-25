@@ -68,4 +68,12 @@ Wie viele Menschen können den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad e
 3. Nachdem die Berechnung ausgeführt wurde, erscheint links im Menü ein Fenster mit den Ergebnissen. Diesem können Sie entnehmen, wie viele Menschen den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad erreichen können.
 
 <img src="/images/training_materials/Isochrone/cycling_result.png"  alt="result"/>
+
+4. Durch klicken auf den Download-Button können Sie die Isochronen als GeoJSON oder Shapefile sowie die Ergebnis-Tabelle als Excel-File herunterladen.
+
+<img src="/images/training_materials/Isochrone/download.png"  alt="download" style="max-height:250px;"/>
+
+5. Über den Slider rechts vom Download-Button kann außerdem das Routing-Netzwerk visualisiert werden.
+
+<img src="/images/training_materials/Isochrone/network.png"  alt="network"/>
    

@@ -33,7 +33,7 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 <img src="/images/training_materials/Scenario_building/name_scenario.png"  alt="Name scenario" style="max-height:200px;"/>
 
-1. Wählen Sie welchen Layer Sie bearbeiten möchten, in diesem Fall den „Wege“ Layer.
+1. Wählen Sie welchen Layer Sie bearbeiten möchten; in diesem Fall den „Wege“-Layer.
 
 <img src="/images/training_materials/Scenario_building/scenario_ways.png"  alt="Edit ways" style="max-height:350px;"/>
 

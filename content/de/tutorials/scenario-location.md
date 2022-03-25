@@ -33,7 +33,7 @@ GOAT ermöglicht die Entwicklung eigener Szenarien zur Standortplanung, so kann 
 
 <img src="/images/training_materials/Scenario_POIs/kindergarten.png" alt="Amenity kindergarten" style="max-height:250px;"/>
 
-2. Blenden Sie die Heatmap „Vergleich von Erreichbarkeit und Bevölkerungsdichte” ein. Diese zeigt, wie gut die fußläufige Erreichbarkeit zu den gewählten Zielen räumlich über die Bevölkerung verteilt ist. Die rote Färbung zeigt Räume mit einem Unterangebot an.
+2. Blenden Sie die Heatmap „Erreichbarkeit und Bevölkerungsdichte” ein. Diese zeigt, wie gut die fußläufige Erreichbarkeit zu den gewählten Zielen räumlich über die Bevölkerung verteilt ist. Die rote Färbung zeigt Räume mit einem Unterangebot an.
 
 <img src="/images/training_materials/Scenario_POIs/accessibility_population_heatmap.png" alt="Amenity kindergarten"/>
 

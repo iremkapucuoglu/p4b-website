@@ -19,11 +19,11 @@ GOAT allows you to develop your own scenarios, such as network modifications or 
 
 ##### 1 Scenario for a new bicycle bridge
 
-###### 1.1 Planning question
+##### 1.1 Planning question
 
 How does the construction of a new bicycle bridge across the river change accessibility?
 
-###### 1.2 Step-by-Step guide
+##### 1.2 Step-by-Step guide
 
 1. Go to the menu for scenario development and create a new scenario.
 

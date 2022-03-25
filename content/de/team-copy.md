@@ -42,8 +42,8 @@ template = "card-block"
 text = "Wir freuen uns, eines der ersten Start-Ups im Venture Lab Built Environment der Technischen Universität München zu sein."
 video = ""
 [blocks.button]
-text = "Venture Lab Built Environment"
-url = "https://www.tum.de/en/innovation/entrepreneurship/venture-labs/"
+text = ""
+url = ""
 [[blocks]]
 background = "muted"
 block = "team"

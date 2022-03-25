@@ -9,54 +9,55 @@ description: Schritt-für-Schritt-Anleitung für beispielhafte Planungsfragen un
 
 ---
 #### Beschreibung des Features
-Isochronen sind Isolinien, die alle Punkte verbinden, die von einem bestimmten Startpunkt aus innerhalb eines bestimmten Zeitintervalls erreicht werden können. Sie sind besonders geeignet, um die Erreichbarkeit an einem spezifischen Ort aufzuzeigen. 
-GOAT ermöglicht die Berechnung von Isochronen und erlaubt die Anpassung der Reisegeschwindigkeit, der Reisezeit und des Routingprofils. Gegenwärtig kann zwischen den Routingprofilen „Zu Fuß“, „Fahrrad Standard“ und „Fahrrad Pedelec“ ausgewählt werden. Außerdem kann die Anzahl der zu berechnenden Isochronen eingestellt werden. 
+
+Isochronen sind Isolinien, die alle Punkte verbinden, die von einem bestimmten Startpunkt aus innerhalb eines bestimmten Zeitintervalls erreicht werden können. Sie sind besonders geeignet, um die Erreichbarkeit an einem spezifischen Ort aufzuzeigen.
+GOAT ermöglicht die Berechnung von Isochronen und erlaubt die Anpassung der Reisegeschwindigkeit, der Reisezeit und des Routingprofils. Gegenwärtig kann zwischen den Routingprofilen „Zu Fuß“, „Fahrrad Standard“ und „Fahrrad Pedelec“ ausgewählt werden. Außerdem kann die Anzahl der zu berechnenden Isochronen eingestellt werden.
 
 #### Mögliche Anwendungsfälle (Planungsfragen)
 
-- Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 Gehminuten erreicht werden?
-- Wie viele Menschen können eine ÖV Haltestelle innerhalb von 5 Minuten mit dem Fahrrad erreichen? 
-
+* Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 Gehminuten erreicht werden?
+* Wie viele Menschen können eine ÖV Haltestelle innerhalb von 5 Minuten mit dem Fahrrad erreichen?
 
 #### Schritt-für-Schritt-Anleitung für die beispielhaften Planungsaufgaben
+
 #### 1 Erreichbarkeit von Supermärkten
+
 ##### 1.1 Planungsfrage
 
 Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 Gehminuten erreicht werden?
 
 ##### 1.2 Arbeitsschritte
 
-1. Wählen Sie im Menü „Filter Thematische Daten“ die Einrichtung „Supermarkt“ (zu finden in der Kategorie „Einkaufen“).  
+1. Wählen Sie im Menü „Filter Thematische Daten“ die Einrichtung „Supermarkt“ (zu finden in der Kategorie „Einkaufen“).
 
 <img src="/images/training_materials/Isochrone/amenity_supermarket.png" alt="amenity supermarket" style="max-height:300px;"/>
 
-2. Zoomen Sie zu dem Bereich, in dem Sie die Isochrone berechnen möchten.
-
-3. Stellen Sie die maximale Reisezeit auf 10 Minuten. Wählen Sie die gewünschte Gehgeschwindigkeit, das Routingprofil und die Anzahl der gewünschten Isochronen aus. 
+1. Zoomen Sie zu dem Bereich, in dem Sie die Isochrone berechnen möchten.
+2. Stellen Sie die maximale Reisezeit auf 10 Minuten. Wählen Sie die gewünschte Gehgeschwindigkeit, das Routingprofil und die Anzahl der gewünschten Isochronen aus.
 
 <img src="/images/training_materials/Isochrone/isochrone_settings.png"  alt="choose isochrone range" style="max-height:230px;"/>
 
-4. Platzieren Sie den Startpunkt für die Isochronenberechnung an einem beliebigen Punkt. 
-<!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
-<img src="/images/training_materials/Isochrone/starting_point_isochrone.png"  alt="set starting point" style="max-height:150px;"/>
-
-5. Nachdem die Berechnung ausgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. Diesem können Sie die erreichbaren Supermärkte entnehmen.  
+1. Platzieren Sie den Startpunkt für die Isochronenberechnung an einem beliebigen Punkt.
+   <!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
+   <img src="/images/training_materials/Isochrone/starting_point_isochrone.png"  alt="set starting point" style="max-height:150px;"/>
+2. Nachdem die Berechnung ausgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. Diesem können Sie die erreichbaren Supermärkte entnehmen.
 
 ![Reached supermarkets](/images/training_materials/Isochrone/isochrone_supermarkets.webp)
 
-
 #### 2 Fahrradrouting
+
 ##### 2.1 Planungsfrage
-Wie viele Menschen können den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad erreichen? 
+
+Wie viele Menschen können den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad erreichen?
+
 ##### 2.2 Arbeitsschritte
+
 1. Ändern Sie den Routingmodi auf „Fahrrad“ und stellen Sie die Isochronen Reichweite auf 5 Minuten.
-<!-- ![](/images/training_materials/Isochrone/cycling-mode.webp) -->
-<img src="/images/training_materials/Isochrone/cycling_mode.png"  alt="Routing mode cycling" style="max-height:220px;"/>
+   <!-- ![](/images/training_materials/Isochrone/cycling-mode.webp) -->
+   <img src="/images/training_materials/Isochrone/cycling_mode.png"  alt="Routing mode cycling" style="max-height:220px;"/>
+2. Platzieren Sie den Startpunkt für die Isochronenberechnung auf dem Bahnhof.  
+   <!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
+   <img src="/images/training_materials/Isochrone/starting_point_isochrone.png"  alt="set starting point" style="max-height:150px;"/>
+3. Nachdem die Berechnung ausgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. Diesem können Sie entnehmen, wie viele Menschen den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad erreichen können.
 
-2. Platzieren Sie den Startpunkt für die Isochronenberechnung auf dem Bahnhof.   
-<!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
-<img src="/images/training_materials/Isochrone/starting_point_isochrone.png"  alt="set starting point" style="max-height:150px;"/>
-
-3. Nachdem die Berechnung ausgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. Diesem können Sie entnehmen, wie viele Menschen den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad erreichen können.  
-
-![Reached population](/images/training_materials/Isochrone/isochrone_trainstation.webp)
+![](/images/screenshot-2022-03-25-094156.jpg)

@@ -1,0 +1,86 @@
++++
+description = "Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen."
+draft = true
+layout = "blocks"
+title = "Team-(copy)"
+translationKey = "team"
+[header]
+background = "default"
+background_image = ""
+heading = ""
+image = ""
+layout = "none"
+text = ""
+[header.button]
+text = ""
+url = ""
+[[blocks]]
+background = "default"
+background_color_content = "default"
+background_image = ""
+block = "card"
+heading = "Über uns"
+image = "/images/team/image222.webp"
+layout = "left"
+padding_top = "small"
+template = "card-block"
+text = "Unser gemeinsamer Weg startete an der TUM am Lehrstuhl für Siedlungsstruktur und Verkehrsplanung. Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen. Unser Ziel ist es, durch kontinuierliche Innovation und offenen Austausch einen positiven Beitrag zum Erhalt unseres wundervollen Planeten zu leisten."
+video = ""
+[blocks.button]
+text = ""
+url = ""
+[[blocks]]
+background = "secondary"
+background_color_content = "secondary"
+background_image = ""
+block = "card"
+heading = ""
+image = "/images/team/team.webp"
+layout = "right"
+padding_top = "default"
+template = "card-block"
+text = "Wir freuen uns, eines der ersten Start-Ups im Venture Lab Built Environment der Technischen Universität München zu sein."
+video = ""
+[blocks.button]
+text = "Venture Lab Built Environment"
+url = "https://www.tum.de/en/innovation/entrepreneurship/venture-labs/"
+[[blocks]]
+background = "muted"
+block = "team"
+heading = "Team"
+template = "team-block"
+text = "Schreiben Sie uns gerne an und kommen Sie mit dem Team von Plan4Better in Kontakt!"
+[[blocks]]
+background = "muted"
+block = "links"
+heading = "Stellenangebote"
+padding_top = "remove"
+template = "links-block"
+text = "Werde Teil unseres Teams! Wir haben regelmäßig offene Praktikanten- und Werkstudentenstellen, u.a. im Bereich Verkehrs-/ Stadtplanung, Softwareentwicklung und Betriebswirtschaft. Aktuell haben wir zwei offene Stellen:"
+[[blocks.links]]
+download_url = "/download/jobpostings/jobposting_P4B_intern_urban_transport_planning.pdf"
+heading = "Praktikum: Stadt- und Verkehrsplanung"
+icon = "download"
+padding_top = "remove"
+page = ""
+text = "Praktikant*in für Mitarbeit im Projekt GOAT 3.0, Erstellung von Erreichbarkeitsanalysen und Sales-Unterstützung gesucht! Stellenanzeige hier runterladen."
+[[blocks.links]]
+download_url = "/download/jobpostings/jobposting_P4B_intern_development.pdf"
+heading = "Praktikum: Software Development"
+icon = "download"
+padding_top = "remove"
+page = ""
+text = "Praktikant*in für Backend Development und Datenanalyse gesucht! Stellenanzeige hier runterladen."
+[[blocks]]
+background = "muted"
+block = "images"
+columns = "1"
+heading = ""
+images = []
+mail = "info@plan4better.de"
+padding = "uk-padding-small"
+padding_top = "remove"
+template = "images-block"
+text = "Sende bei Interesse gerne eine Bewerbung mit Motivationsschreiben und Lebenslauf an"
+
++++

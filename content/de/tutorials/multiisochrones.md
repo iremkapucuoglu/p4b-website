@@ -15,7 +15,7 @@ GOAT ermöglicht die Berechnung von Multi-Isochronen. In Verbindung mit Bevölke
 #### Mögliche Anwendungsfälle (Planungsfragen)
 
 * Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadtteilen gibt es Erreichbarkeitsdefizite?
-* Wie viele Bewohner können in einer bestimmten Reisezeit mit dem Fahrrad ÖV Haltestelle erreichen?
+* Wie viele Bewohner können in einer bestimmten Reisezeit mit dem Fahrrad ÖV-Haltestelle erreichen?
 
 #### Schritt-für-Schritt-Anleitung für eine beispielhafte Planungsaufgabe
 
@@ -39,7 +39,7 @@ Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadt
 
 <img src="/images/training_materials/Multiisochrones/multi.png"  alt="Multi Isochrone" style="max-height:200px;"/>
 
-1. Wählen Sie dann per Mausklick alle Ortsteile in der Karte.
+1. Wählen Sie dann per Mausklick alle gewünschten Ortsteile in der Karte aus.
 
 ![Select Districts](/images/training_materials/Multiisochrones/select_study_area.webp)
 

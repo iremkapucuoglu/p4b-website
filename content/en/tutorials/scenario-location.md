@@ -33,7 +33,7 @@ GOAT allows you to develop your own location planning scenarios, for example, ad
 
 <img src="/images/training_materials/Scenario_POIs/kindergarten.webp" alt="amenity kindergarten" style="max-height:200px;"/>
 
-1. Display the heatmap "Comparison of Accessibility and Population Density." This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. The red coloring indicates spaces that are currently undersupplied.
+1. Display the heatmap "Accessibility and Population Density." This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. The red coloring indicates spaces that are currently undersupplied.
 2. Now go to the menu for scenario development and create a new scenario.
 
 <img src="/images/training_materials/Scenario_POIs/create_scenario.webp"  alt="new scenario" style="max-height:150px;"/>

@@ -19,13 +19,13 @@ GOAT enables the calculation of multi-isochrones, which show how many residents 
 
 #### Step-by-step tutorial for an exemplary planning task
 
-##### 1 Accessibility to supermarkets
+#### 1 Accessibility to supermarkets
 
-###### 1.1 Planning question
+##### 1.1 Planning question
 
 How well are the supermarkets currently distributed over the city? In which districts do you have accessibility deficits?
 
-###### 1.2 Step-by-Step guide
+##### 1.2 Step-by-Step guide
 
 1. Display the supermarkets as thematic data.
 
@@ -47,13 +47,13 @@ How well are the supermarkets currently distributed over the city? In which dist
 
 ![Result](/images/training_materials/Multiisochrones/result_multiisochrone.webp)
 
-##### 2 Accessibility to public transport
+#### 2 Accessibility to public transport
 
-###### 1.1 Planning question
+##### 1.1 Planning question
 
 How many inhabitants can reach a public transport stop by bicycle in a given travel time?
 
-###### 1.2 Step-by-Step guide
+##### 1.2 Step-by-Step guide
 
 <img src="/images/training_materials/Multiisochrones/amenity_supermarket.webp"  alt="Thematic Data" style="max-height:250px;"/>
 

@@ -13,7 +13,7 @@ GOAT allows you to develop your own scenarios, such as network modifications or 
 #### Possible use cases (planning questions)
 
 * How does the construction of a new bicycle bridge across the river change accessibility?
-* Which option of a new cycle path will serve the highest number of residents?
+* Which variation of a new bike path provides access to the highest number of residents?
 
 #### Step-by-step tutorial for the exemplary planning task
 
@@ -29,7 +29,7 @@ How does the construction of a new bicycle bridge across the river change access
 
 <img src="/images/training_materials/Scenario_POIs/create_scenario.webp"  alt="Create scenario" style="max-height:150px;"/>
 
-1. Give the scenario a name and click on "OK".
+1. Give the scenario a name and click "OK".
 
 <img src="/images/training_materials/Scenario_building/name_scenario.webp"  alt="Name scenario" style="max-height:200px;"/>
 

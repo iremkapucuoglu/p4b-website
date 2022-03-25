@@ -10,7 +10,7 @@ description: Step-by-step guide for how to use the multi-isochrones feature in G
 ---
 #### Description of the feature
 
-GOAT enables the calculation of multi-isochrones, which show how many residents from a certain neighbourhood have access to a facility (e.g. supermarket, kindergarten, public transport stop) in a certain travel time.
+GOAT enables the calculation of multi-isochrones, which show how many residents from a certain neighbourhood have access to a facility (e.g. supermarket, kindergarten, public transport stop) in a certain travel time. This is particularly useful for comparing different neighborhoods in terms of accessibility to identify potential differences.
 
 #### Possible use cases (planning questions)
 
@@ -47,9 +47,7 @@ How well are the supermarkets currently distributed over the city? In which dist
 
 ![Result](/images/training_materials/Multiisochrones/result_multiisochrone.webp)
 
-#### Step-by-step tutorial for an exemplary planning task
-
-##### 1 Accessibility to public transport
+##### 2 Accessibility to public transport
 
 ###### 1.1 Planning question
 

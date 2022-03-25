@@ -40,7 +40,6 @@ Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 G
 
 4. Platzieren Sie den Startpunkt für die Isochronenberechnung an einem beliebigen Punkt.
    
-<!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
 <img src="/images/training_materials/Isochrone/starting_point_isochrone.png"  alt="set starting point" style="max-height:150px;"/>
 
 5. Nachdem die Berechnung ausgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. Diesem können Sie die erreichbaren Supermärkte entnehmen.
@@ -69,7 +68,7 @@ Wie viele Menschen können den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad e
 
 <img src="/images/training_materials/Isochrone/cycling_result.png"  alt="result"/>
 
-4. Durch klicken auf den Download-Button können Sie die Isochronen als GeoJSON oder Shapefile sowie die Ergebnis-Tabelle als Excel-File herunterladen.
+4. Durch Klicken auf den Download-Button können Sie die Isochronen als GeoJSON oder Shapefile sowie die Ergebnis-Tabelle als Excel-File herunterladen.
 
 <img src="/images/training_materials/Isochrone/download.png"  alt="download" style="max-height:250px;"/>
 

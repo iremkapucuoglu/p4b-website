@@ -8,7 +8,7 @@ sections:
 ---
 #### Beschreibung des Features
 
-GOAT ermöglicht die Entwicklung eigener Szenarien, wie z.B. Modifikation des Netzwerks oder Bau einer neuen Brücke. Das entwickelte Szenario kann zu dem aktuellen Netzwerk hinzugefügt und Änderungen der Erreichbarkeit durch Isochronen bewertet werden.
+GOAT ermöglicht die Entwicklung eigener Szenarien, wie z.B. der Modifikation des Netzwerks oder der Bau einer neuen Brücke. Das entwickelte Szenario kann zu dem aktuellen Netzwerk hinzugefügt und Änderungen der Erreichbarkeit durch Isochronen bewertet werden.
 
 #### Mögliche Anwendungsfälle (Planungsfragen)
 
@@ -33,7 +33,7 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 <img src="/images/training_materials/Scenario_building/name_scenario.png"  alt="Name scenario" style="max-height:200px;"/>
 
-1. Wählen Sie welchen Layer Sie bearbeiten möchten, in diesem Fall den „Wege“ Layer.
+1. Wählen Sie welchen Layer Sie bearbeiten möchten; in diesem Fall den „Wege“-Layer.
 
 <img src="/images/training_materials/Scenario_building/scenario_ways.png"  alt="Edit ways" style="max-height:350px;"/>
 
@@ -42,7 +42,7 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 <img src="/images/training_materials/Scenario_building/circle_scenario.png"  alt="Circle tool"/>
 
-1. Zeichnen Sie an der gewünschten Stelle eine neue Wegeverbindung, wählen als Wegetyp „Brücke“ aus und klicken Sie auf „Speichern“. Die gezeichneten Wege werden nun rechts in der Tabelle aufgeführt. Um diese Wege in die Datenbank zu integrieren, müssen diese über den Button „Hochladen“ hochgeladen werden.
+1. Zeichnen Sie an der gewünschten Stelle eine neue Wegeverbindung, wählen Sie als Wegetyp „Brücke“ aus und klicken Sie auf „Speichern“. Die gezeichneten Wege werden nun rechts in der Tabelle aufgeführt. Um diese Wege in die Datenbank zu integrieren, müssen diese über den Button „Hochladen“ hochgeladen werden.
 
 <img src="/images/training_materials/Scenario_building/bridge_building.webp"  alt="Draw" style="max-height:300px;"/>
 

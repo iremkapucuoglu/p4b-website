@@ -8,13 +8,13 @@ sections:
 ---
 #### Description of the feature
 
-GOAT allows you to develop your own Point-of-Interest (POI) scenarios, such as modifying the location of a supermarket or adding a new school. The developed scenario can be added to the current land-use structure, and changes in accessibility can be evaluated by the dynamic heatmap.
+GOAT allows you to develop your own location planning scenarios, for example, add a new supermarket or school and determine the impact on accessibility using heat maps and multi-isochrones.
 
 #### Possible use cases (planning questions)
 
 * How does accessibility to supermarkets in a neighbourhood change when the location of a supermarket is changed?
 * How does accessibility to schools change when a new school is added?
-* How well are the kindergartens distributed throughout the city? Where would a good position be for a new kindergarten?
+* How well are the kindergartens distributed throughout the city? Where would be a good location for a new kindergarten?
 
 #### Step-by-step tutorial for the exemplary planning task
 
@@ -22,9 +22,10 @@ GOAT allows you to develop your own Point-of-Interest (POI) scenarios, such as m
 
 ###### 1.1 Planning questions
 
-* How well are the kindergartens currently distributed over the city?
-* Which parts of the city contain deficits in pedestrian accessibility?
-* How could these issues be remedied?
+* How well are kindergartens currently distributed across the city?
+* In which parts of the city are there deficits in pedestrian accessibility?
+* And how could these be remedied?
+* Where would be a good location for a new kindergarten?
 
 ###### 1.2 Step-by-Step guide
 
@@ -32,30 +33,25 @@ GOAT allows you to develop your own Point-of-Interest (POI) scenarios, such as m
 
 <img src="/images/training_materials/Scenario_POIs/kindergarten.webp" alt="amenity kindergarten" style="max-height:200px;"/>
 
-1. Display the heatmap "Comparison of Accessibility and Population Density." This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. Blue coloring means oversupply and red coloring means undersupply. Areas shown in yellow indicate that existing supply and population are balanced.
-
-![comparison heatmap](/images/training_materials/Scenario_POIs/walkability_popoulation_index.webp)
-
+1. Display the heatmap "Comparison of Accessibility and Population Density." This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. The red coloring indicates spaces that are currently undersupplied.
 2. Now go to the menu for scenario development and create a new scenario.
 
 <img src="/images/training_materials/Scenario_POIs/create_scenario.webp"  alt="new scenario" style="max-height:150px;"/>
 
-3. Give the scenario a name and click on "OK".
+1. Give the scenario a name and click "OK".
 
 <img src="/images/training_materials/Scenario_POIs/name_scenario.webp" alt="name scenario" style="max-height:200px;"/>
 
-4. Select which layer you want to edit, in this case the "Point of Interest" Layer.
+1. Select the layer you want to edit, in this case the "Point of Interest" Layer.
 
 <img src="/images/training_materials/Scenario_POIs/PointofInterest.webp" alt="edit POIs" style="max-height:200px;"/>
 
-5. Edit the kindergartens (move existing kindergartens or add new kindergartens) in such a way that the districts with accessibility deficits are also covered. To move a kindergarten, you must first select it using the circle tool.
+1. Edit the kindergartens (move existing kindergartens or add new kindergartens) to cover the neighborhoods with accessibility deficits. To move a kindergarten, you must first select it using the circle tool.
 
 <img src="/images/training_materials/Scenario_POIs/circle_tool.webp" alt="edit Kindergartens" style="max-height:270px;"/>
 
-6. Change to the scenario view.
+1. Switch to the "Scenario" view.
 
 <img src="/images/training_materials/Scenario_POIs/scenario_heatmap.webp" alt="edit Kindergartens" style="max-height:250px;"/>
 
-7. By scrolling the map, the accessibility population heatmap is updated. The changed kindergartens are now included in the calculation.
-
-![Scenario Heatmap](/images/training_materials/Scenario_POIs/new_kindergarden.webp)
+1. Scrolling the map updates the "Comparison of Accessibility and Population Density" heatmap. The modified kindergartens are now included in the calculation.

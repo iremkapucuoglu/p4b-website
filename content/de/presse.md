@@ -36,6 +36,20 @@ template = "news-block"
 text = ""
 
 [[blocks.news]]
+heading = "Podcast: Kurze Wege oder Smart City?"
+thumbnail = "/images/presse/emmett.webp"
+source = "Emmett in Transit"
+url = "https://emmett.letscast.fm/episode/kurze-wege-oder-smarte-city"
+date = "3. März 2022"
+
+[[blocks.news]]
+heading = "Die Mobilität von Frauen ist vielfältiger - Erreichbarkeit als Planungsbasis"
+thumbnail = "/images/presse/VCOE-Logo_RGB_klein_blau.webp"
+source = "VCÖ Magazin"
+url = "https://vcoe.at/files/vcoe/uploads/Magazin/2022/2022-01%20Die%20Mobilit%C3%A4t%20von%20Frauen%20ist%20vielf%C3%A4ltiger/VC%C3%96-Magazin%202022-01%20Die%20Mobilit%C3%A4t%20von%20Frauen%20ist%20vielf%C3%A4ltiger.pdf"
+date = "3. März 2022"
+
+[[blocks.news]]
 heading = "Women in Tech: Ulrike Jehle von Plan4Better"
 thumbnail = "/images/presse/munich-startup.webp"
 source = "Munich Startup"

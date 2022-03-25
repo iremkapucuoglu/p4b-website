@@ -16,7 +16,6 @@ Isochrones are isolines connecting all points that can be reached from a specifi
 
 * How many supermarkets can be reached from a certain point in a 10-minute walk?
 * How many people can access a public transport station within 5 minutes of cycling?
-* What is the comparison of accessibility by foot and by wheelchair?
 
 #### Step-by-step tutorials for exemplary planning tasks
 

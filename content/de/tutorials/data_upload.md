@@ -9,7 +9,7 @@ description: Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-
 ---
 # Hochladen eigener POI-Daten
 #### Beschreibung des Features
-In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-of-Interest (POIs) bereitgestellt. Falls Sie weitere POI-Datensätze in GOAT integrieren möchten, können Sie dies über die "Hochladen" Funktion tun. Insgesamt stehen jedem Nutzer hierfür 500 MB Speicherplatz zur Verfügung. 
+In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-of-Interest (POIs) bereitgestellt. Falls Sie weitere POI-Datensätze in GOAT integrieren möchten, können Sie dies über die „Hochladen“ Funktion tun. Insgesamt stehen jedem Nutzer hierfür 500 MB Speicherplatz zur Verfügung. 
 
 #### Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-Interest-Datensätze
 

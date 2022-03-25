@@ -45,7 +45,7 @@ Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 G
 
 5. Nachdem die Berechnung ausgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. Diesem können Sie die erreichbaren Supermärkte entnehmen.
 
-![Reached supermarkets](/images/training_materials/Isochrone/isochrone_supermarkets.webp)
+<img src="/images/training_materials/Isochrone/results_supermarkets.png"  alt="results"/>
 
 #### 2 Fahrradrouting
 
@@ -65,7 +65,7 @@ Wie viele Menschen können den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad e
 <!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
 <img src="/images/training_materials/Isochrone/starting_point_isochrone.png"  alt="set starting point" style="max-height:150px;"/>
 
-3. Nachdem die Berechnung ausgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. Diesem können Sie entnehmen, wie viele Menschen den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad erreichen können.
+3. Nachdem die Berechnung ausgeführt wurde, erscheint links im Menü ein Fenster mit den Ergebnissen. Diesem können Sie entnehmen, wie viele Menschen den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad erreichen können.
 
 <img src="/images/training_materials/Isochrone/cycling_result.png"  alt="result"/>
    

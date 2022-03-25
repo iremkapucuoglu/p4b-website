@@ -10,7 +10,7 @@ description: Anleitung für die Verwendung der Multi-Isochronen-Funktion in GOAT
 ---
 #### Beschreibung des Features
 
-GOAT ermöglicht die Berechnung von Multi-Isochronen. In Verbindung mit Bevölkerungsdaten kann so binnen Sekunden der Anteil der Bevölkerung identifiziert werden, der in einer gewissen Reisezeit Zugang zu Einrichtungen wie Supermärkten, Kindergärten, ÖV-Haltestellen etc. hat. Dies ist besonders nützlich, um verschiedene Stadtteile in ihrer Erreichbarkeit zu vergleichen und so mögliche Unterschiede zu identifizieren. 
+GOAT ermöglicht die Berechnung von Multi-Isochronen. In Verbindung mit Bevölkerungsdaten kann so binnen Sekunden der Anteil der Bevölkerung identifiziert werden, der in einer gewissen Reisezeit Zugang zu Einrichtungen wie Supermärkten, Kindergärten, ÖV-Haltestellen etc. hat. Dies ist besonders nützlich, um verschiedene Stadtteile in ihrer Erreichbarkeit zu vergleichen und so mögliche Unterschiede zu identifizieren.
 
 #### Mögliche Anwendungsfälle (Planungsfragen)
 
@@ -35,7 +35,7 @@ Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadt
 
 <img src="/images/training_materials/Isochrone/isochrone_settings.png"  alt="choose isochrone range" style="max-height:220px;"/>
 
-1. Wechseln Sie zum Isochronenberechnugsmodus „Multi“ und wählen die Methode „Ortsteil“ aus, diese wird später alle Ergebnisse nach Ortsteilen differenziert auflisten.
+1. Wechseln Sie zum Isochronenberechnungsmodus „Multi“ und wählen die Methode „Ortsteil“ aus; diese wird später alle Ergebnisse nach Ortsteilen differenziert auflisten.
 
 <img src="/images/training_materials/Multiisochrones/multi.png"  alt="Multi Isochrone" style="max-height:200px;"/>
 

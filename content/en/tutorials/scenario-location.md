@@ -31,27 +31,30 @@ GOAT allows you to develop your own location planning scenarios, for example, ad
 
 1. Select the kindergartens as Thematic Data.
 
-<img src="/images/training_materials/Scenario_POIs/kindergarten.webp" alt="amenity kindergarten" style="max-height:200px;"/>
+<img src="/images/training_materials/Scenario_POIs/kindergarten_en.png" alt="Amenity kindergarten" style="max-height:250px;"/>
 
-1. Display the heatmap "Accessibility and Population Density." This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. The red coloring indicates spaces that are currently undersupplied.
-2. Now go to the menu for scenario development and create a new scenario.
+2. Display the heatmap "Accessibility and Population Density." This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. The red coloring indicates spaces that are currently undersupplied.
 
-<img src="/images/training_materials/Scenario_POIs/create_scenario.webp"  alt="new scenario" style="max-height:150px;"/>
+<img src="/images/training_materials/Scenario_POIs/accessibility_population_heatmap_en.png" alt="Amenity kindergarten"/>
+   
+3. Now go to the menu for scenario development and create a new scenario.
 
-1. Give the scenario a name and click "OK".
+<img src="/images/training_materials/Scenario_POIs/create_scenario_en.png"  alt="New scenario" style="max-height:300px;"/>
 
-<img src="/images/training_materials/Scenario_POIs/name_scenario.webp" alt="name scenario" style="max-height:200px;"/>
+4. Give the scenario a name and click "OK".
 
-1. Select the layer you want to edit, in this case the "Point of Interest" Layer.
+<img src="/images/training_materials/Scenario_POIs/name_scenario_en.png" alt="Name scenario" style="max-height:170px;"/>
 
-<img src="/images/training_materials/Scenario_POIs/PointofInterest.webp" alt="edit POIs" style="max-height:200px;"/>
+5. You're now in the scenario mode. To indicate the new mode, the menu color changes from green to dark blue.
 
-1. Edit the kindergartens (move existing kindergartens or add new kindergartens) to cover the neighborhoods with accessibility deficits. To move a kindergarten, you must first select it using the circle tool.
+6. Select the layer you want to edit, in this case the "Point of Interest" Layer.
 
-<img src="/images/training_materials/Scenario_POIs/circle_tool.webp" alt="edit Kindergartens" style="max-height:270px;"/>
+<img src="/images/training_materials/Scenario_POIs/poi_en.png" alt="Edit POIs" style="max-height:200px;"/>
 
-1. Switch to the "Scenario" view.
+7. Edit the kindergartens (move existing kindergartens or add new kindergartens) to cover the neighborhoods with accessibility deficits. 
 
-<img src="/images/training_materials/Scenario_POIs/scenario_heatmap.webp" alt="edit Kindergartens" style="max-height:250px;"/>
+<img src="/images/training_materials/Scenario_POIs/edit_tools_en.png" alt="Edit Kindergartens" style="max-height:120px;"/>
 
-1. Scrolling the map updates the "Comparison of Accessibility and Population Density" heatmap. The modified kindergartens are now included in the calculation.
+8. The "Comparison of Accessibility and Population Density" is heatmap automatically refreshed. The modified kindergartens are now included in the calculation.
+
+<img src="/images/training_materials/Scenario_POIs/new_kindergarten_en.png" alt="Scenario View"/>

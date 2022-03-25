@@ -13,7 +13,6 @@ GOAT allows you to develop your own scenarios, such as network modifications or 
 #### Possible use cases (planning questions)
 
 * How does the construction of a new bicycle bridge across the river change accessibility?
-* How does accessibility with a wheelchair change with the construction of a barrier-free road?
 * Which option of a new cycle path will serve the highest number of residents?
 
 #### Step-by-step tutorial for the exemplary planning task
@@ -38,7 +37,7 @@ How does the construction of a new bicycle bridge across the river change access
 
 <img src="/images/training_materials/Scenario_building/scenario_ways.webp"  alt="Edit ways" style="max-height:300px;"/>
 
-1. You're now in the scenario mode. To indicate the new mode, the menu color changes from green to dark blue. 
+1. You're now in the scenario mode. To indicate the new mode, the menu color changes from green to dark blue.
 2. Zoom to the place where you want to build a new bicycle bridge and select the surrounding road network using the circle tool.
 
 <img src="/images/training_materials/Scenario_building/circle_scenario.webp"  alt="Circle toot" style="max-height:300px;"/>

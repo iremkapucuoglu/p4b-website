@@ -45,7 +45,7 @@ GOAT ermöglicht die Entwicklung eigener Szenarien zur Standortplanung, so kann 
 
 <img src="/images/training_materials/Scenario_POIs/name_scenario.webp" alt="Name scenario" style="max-height:200px;"/>
 
-1. Wählen Sie den zu bearbeitenden Layer aus, in diesem Fall den „Point of Interest” Layer.
+1. Wählen Sie den zu bearbeitenden Layer aus; in diesem Fall den „Point of Interest”-Layer.
 
 <img src="/images/training_materials/Scenario_POIs/PointofInterest.webp" alt="Edit POIs" style="max-height:200px;"/>
 

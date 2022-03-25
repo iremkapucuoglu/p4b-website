@@ -8,7 +8,7 @@ sections:
 ---
 #### Beschreibung des Features
 
-GOAT ermöglicht die Entwicklung eigener Szenarien, wie z.B. Modifikation des Netzwerks oder Bau einer neuen Brücke. Das entwickelte Szenario kann zu dem aktuellen Netzwerk hinzugefügt und Änderungen der Erreichbarkeit durch Isochronen bewertet werden.
+GOAT ermöglicht die Entwicklung eigener Szenarien, wie z.B. der Modifikation des Netzwerks oder der Bau einer neuen Brücke. Das entwickelte Szenario kann zu dem aktuellen Netzwerk hinzugefügt und Änderungen der Erreichbarkeit durch Isochronen bewertet werden.
 
 #### Mögliche Anwendungsfälle (Planungsfragen)
 

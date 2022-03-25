@@ -33,30 +33,30 @@ GOAT ermöglicht die Entwicklung eigener Szenarien zur Standortplanung, so kann 
 
 <img src="/images/training_materials/Scenario_POIs/kindergarten.webp" alt="Amenity kindergarten" style="max-height:200px;"/>
 
-1. Blenden Sie die Heatmap „Vergleich von Erreichbarkeit und Bevölkerungsdichte” ein. Diese zeigt, wie gut die fußläufige Erreichbarkeit zu den gewählten Zielen räumlich über die Bevölkerung verteilt ist. Die rote Färbung zeigt Räume mit einem Unterangebot an.
+2. Blenden Sie die Heatmap „Vergleich von Erreichbarkeit und Bevölkerungsdichte” ein. Diese zeigt, wie gut die fußläufige Erreichbarkeit zu den gewählten Zielen räumlich über die Bevölkerung verteilt ist. Die rote Färbung zeigt Räume mit einem Unterangebot an.
 
 ![Comparison heatmap](/images/training_materials/Scenario_POIs/walkability_popoulation_index.webp)
 
-1. Gehen Sie nun in das Fenster zur Szenarienentwicklung und erstellen Sie ein neues Szenario.
+3. Gehen Sie nun in das Fenster zur Szenarienentwicklung und erstellen Sie ein neues Szenario.
 
 <img src="/images/training_materials/Scenario_POIs/create_scenario.webp"  alt="New scenario" style="max-height:150px;"/>
 
-1. Geben Sie dem Szenario einen Namen und klicken Sie auf "OK".
+4. Geben Sie dem Szenario einen Namen und klicken Sie auf "OK".
 
 <img src="/images/training_materials/Scenario_POIs/name_scenario.webp" alt="Name scenario" style="max-height:200px;"/>
 
-1. Wählen Sie den zu bearbeitenden Layer aus; in diesem Fall den „Point of Interest”-Layer.
+5. Wählen Sie den zu bearbeitenden Layer aus; in diesem Fall den „Point of Interest”-Layer.
 
 <img src="/images/training_materials/Scenario_POIs/PointofInterest.webp" alt="Edit POIs" style="max-height:200px;"/>
 
-1. Bearbeiten Sie die Kindergärten so (bestehende Kindergärten verschieben oder neue Kindergärten hinzufügen), dass auch die Stadtteile mit Erreichbarkeitsdefiziten abgedeckt werden. Um einen Kindergarten zu verschieben, müssen Sie diesen zunächst über das Kreis-Werkzeug auswählen.
+6. Bearbeiten Sie die Kindergärten so (bestehende Kindergärten verschieben oder neue Kindergärten hinzufügen), dass auch die Stadtteile mit Erreichbarkeitsdefiziten abgedeckt werden. Um einen Kindergarten zu verschieben, müssen Sie diesen zunächst über das Kreis-Werkzeug auswählen.
 
 <img src="/images/training_materials/Scenario_POIs/circle_tool.webp" alt="Edit Kindergartens" style="max-height:270px;"/>
 
-1. Schalten Sie zur "Szenario" Ansicht.
+7. Schalten Sie zur "Szenario" Ansicht.
 
 <img src="/images/training_materials/Scenario_POIs/scenario_heatmap.webp" alt="Scenario View" style="max-height:250px;"/>
 
-1. Durch Scrollen der Karte aktualisiert sich die Heatmap „Vergleich von Erreichbarkeit und Bevölkerungsdichte”. Die veränderten Kindergärten werden nun in die Berechnung mit einbezogen.
+8. Durch Scrollen der Karte aktualisiert sich die Heatmap „Vergleich von Erreichbarkeit und Bevölkerungsdichte”. Die veränderten Kindergärten werden nun in die Berechnung mit einbezogen.
 
 ![Scenario Heatmap](/images/training_materials/Scenario_POIs/new_kindergarden.webp)

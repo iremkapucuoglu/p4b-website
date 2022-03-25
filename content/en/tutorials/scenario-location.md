@@ -54,4 +54,4 @@ GOAT allows you to develop your own location planning scenarios, for example, ad
 
 <img src="/images/training_materials/Scenario_POIs/scenario_heatmap.webp" alt="edit Kindergartens" style="max-height:250px;"/>
 
-1. Scrolling the map updates the "Comparison of Accessibility and Population Density" heatmap. The modified kindergartens are now included in the calculation.
+1. Scrolling the map updates the "Accessibility and Population Density" heatmap. The modified kindergartens are now included in the calculation.

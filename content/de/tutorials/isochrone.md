@@ -16,7 +16,7 @@ GOAT ermöglicht die Berechnung von Isochronen und erlaubt die Anpassung der Rei
 #### Mögliche Anwendungsfälle (Planungsfragen)
 
 * Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 Gehminuten erreicht werden?
-* Wie viele Menschen können eine ÖV Haltestelle innerhalb von 5 Minuten mit dem Fahrrad erreichen?
+* Wie viele Menschen können eine ÖV-Haltestelle innerhalb von 5 Minuten mit dem Fahrrad erreichen?
 
 #### Schritt-für-Schritt-Anleitung für die beispielhaften Planungsaufgaben
 

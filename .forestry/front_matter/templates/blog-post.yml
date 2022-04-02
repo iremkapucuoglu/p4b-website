@@ -35,6 +35,3 @@ fields:
   name: author
   label: Author
   description: Enter username from authors settings.
-pages:
-- content/de/posts/umfrage-zu-goat-3.0-machen-sie-mit.md
-- content/en/posts/survey-on-goat-3.0-join-in.md

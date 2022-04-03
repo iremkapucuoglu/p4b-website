@@ -36,6 +36,13 @@ template = "news-block"
 text = ""
 
 [[blocks.news]]
+heading = "Mit GOAT zur 15-Minuten-Stadt"
+thumbnail = "/images/presse/muenchen-digital.webp"
+source = "München-Digital-Portal"
+url = "https://muenchen.digital/blog/plan4better-15-minuten-stadt/"
+date = "29. März 2022"
+
+[[blocks.news]]
 heading = "Podcast: Kurze Wege oder Smart City?"
 thumbnail = "/images/presse/emmett.webp"
 source = "Emmett in Transit"

@@ -1,5 +1,5 @@
 ---
-- image: "/images/munich.webp"
+- image: "/images/GOAT/munich.webp"
   title:
     en: Munich
     de: München
@@ -9,7 +9,7 @@
       am häufigsten aktualisierte.
   url: https://muenchen.open-accessibility.org/
   comments: München
-- image: "/images/ffb.webp"
+- image: "/images/GOAT/ffb.webp"
   title:
     en: Fürstenfeldbruck
     de: Fürstenfeldbruck
@@ -19,18 +19,7 @@
     de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Fürstenfeldbruck.
   url: https://ffb.open-accessibility.org/
   comments: Fürstenfeldbruck
-- image: "/images/bogota.webp"
-  title:
-    en: Bogotá
-    de: Bogotá
-  text:
-    en: Bogota is our first trial in Latin-America and was developed in a Master thesis
-      project. Special attention was given on customizing GOAT to the local context.
-    de: Bogota ist ein erster Versuch in Lateinamerika. Diese Version wurde im Rahmen
-      einer Masterarbeit entwicklelt und wurde auf die lokalen Gegebenheiten angepasst.
-  url: https://bogota.open-accessibility.org/
-  comments: Bogota
-- image: "/images/freising.webp"
+- image: "/images/GOAT/freising.webp"
   title:
     en: Freising
     de: Freising
@@ -39,7 +28,7 @@
     de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Freising.
   url: https://freising.open-accessibility.org/
   comments: Freising
-- image: "/images/freiburg.webp"
+- image: "/images/GOAT/freiburg.webp"
   title:
     en: Freiburg
     de: Freiburg
@@ -48,24 +37,3 @@
     de: Diese Version ist im Rahmen der MobiDataBW-Innovationsphase entstanden und enthält neue Analysen zur Walkability.
   url: https://freiburg.open-accessibility.org/
   comments: Freiburg
-- image: "/images/spgg.webp"
-  title:
-    en: San Pedro Garza García
-    de: San Pedro Garza García
-  text:
-    en: This is an experimental version that was developed within a master thesis project at TUM. The main aim
-     was to test innovative data fusion strategies. 
-    de: Dies ist eine experimentelle Version, die im Rahmen einer Masterarbeit an der TUM entstand. Hauptziel war es, innovative Strategien zur Datenfusion zu testen. 
-  url: https://spgg.open-accessibility.org/
-  comments: San Pedro Garza Garcia
-- image: "/images/hasenbergl.webp"
-  title:
-    en: Hasenbergl-Lerchenau
-    de: Hasenbergl-Lerchenau
-  text:
-    en: This version was developed within a master thesis project at TUM and contains
-      detailed analysis options on walkability.
-    de: Diese Version wurde im Rahmen einer Masterarbeit an der TUM entwickelt und
-      enthält detaillierte Analysemöglichkeiten zur fußläufigen Erreichbarkeit.
-  url: https://hasenbergl.open-accessibility.org/
-  comments: Hasenbergl-Lerchenau

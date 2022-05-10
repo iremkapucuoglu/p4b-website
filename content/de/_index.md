@@ -1,16 +1,17 @@
 ---
-title: Home
+title: Nachhaltige Städte und Regionen planen
 layout: blocks
 header:
   layout: left
-  heading: Gemeinsam eine ausgewogene Zukunft planen!
-  text: Digitale Planungswerkzeuge zur Gestaltung nachhaltiger Städte und Regionen.
-  image: "/images/heatmap-muc.webp"
+  heading: Planen Sie mit uns nachhaltige Städte und Regionen!
+  text: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen
+    Erreichbarkeit.
+  image: "/images/index/heatmap-muc-1.webp"
   button:
     text: GOAT testen
     url: "/goatlive/"
   background: default
-  background_image: "/images/title_street.webp"
+  background_image: "/images/title_street-1.webp"
 blocks:
 - template: card-block
   block: card
@@ -20,7 +21,7 @@ blocks:
     ist und kürzlich mit dem Innovationspreis der Stadt München in der Kategorie „Emmissionsfreie
     Mobilität in München“ ausgezeichnet wurde.
   heading: Startup aus München
-  image: "/images/Plan4Better_SW_web-44.webp"
+  image: "/images/index/plan4better_sw_web-44-1.webp"
   video: ''
   background_image: "/images/bg-4.svg"
   background_color_content: muted
@@ -32,7 +33,7 @@ blocks:
     Radverkehr begleiten wir die Stadt- und Verkehrsplanung, sowie die Standortentwicklung,
     in eine offenere, spaßigere und effizientere Zukunft.
   heading: Spielwiese zur Gestaltung lebenswerter Räume
-  image: "/images/team_working.webp"
+  image: "/images/index/team_working-1.webp"
   video: ''
   background_image: "/images/bg-12.svg"
   background_color_content: muted
@@ -55,7 +56,7 @@ blocks:
   block: card
   layout: right
   background: default
-  image: "/images/isochrone_amenities.webp"
+  image: "/images/index/isochrone_amenities-1.webp"
   text: Der Fuß- und Radverkehr benötigt eine attraktive Verkehrsinfrastruktur und
     nahe Ziele im Sinne der 15-Minuten-Stadt. GOAT vereint durch den Erreichbarkeitsansatz
     diese zwei Dimensionen und liefert über digitale Karten dynamische Analysen.
@@ -70,52 +71,76 @@ blocks:
   heading: Aktuelle Blog-Posts
 - template: logos-block
   block: logos
-  background: secondary
+  background: ''
   padding_top: default
   items:
-  - logo: "/images/e_web_03-1.webp"
-  - logo: "/images/e_web_04-1.webp"
-  - logo: "/images/e_web_11-2.webp"
-  - logo: "/images/e_web_13-1.webp"
+  - logo: "/images/index/SDG3.webp"
+    url: "/mission"
+  - logo: "/images/index/SDG4.webp"
+    url: "/mission"
+  - logo: "/images/index/SDG9.webp"
+    url: "/mission"
+  - logo: "/images/index/SDG11.webp"
+    url: "/mission"
+  - logo: "/images/index/SDG13.webp"
+    url: "/mission"
   heading: Sustainable Development Goals
   text: Mit unserem Planungsinstrument GOAT addressieren wir die folgenden SDGs.
+- template: logos-block
+  block: logos
+  background: ''
+  padding_top: remove
+  items:
+  - logo: "/images/top-50-startups-2021-siegel.png"
+    url: https://www.top50startups.de/start-ups/ranking/2021
+  - logo: "/images/index/innovationspreis.webp"
+    url: https://muenchen.digital/blog/innovationspreis-2021/
+  - logo: "/images/index/bitkom_award.webp"
+    url: https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021
+  - logo: "/images/index/gruendungspreis_new.webp"
+    url: https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html
+  heading: Auszeichnungen
+  text: ''
 - template: logos-block
   block: logos
   background: default
   heading: Partner
   logos:
-  - "/images/20171221_logo_digitalfreiburg_rz_2c.png"
-  - "/images/logo_mobidata-bw-1.jpg"
-  - "/images/logo-tum-1.png"
-  - "/images/logo_muc.png"
-  - "/images/logo_freising.png"
-  - "/images/logo_ffb.png"
-  - "/images/logo_munichways.png"
-  - "/images/logo_xpreneurs.png"
+  - "/images/werk1_logo_plain_trans.webp"
+  - "/images/index/freiburg_logo.webp"
+  - "/images/index/logo_mobidata-bw-1.webp"
+  - "/images/index/logo-tum-1.webp"
+  - "/images/index/logo_muc.webp"
+  - "/images/index/logo_freising.webp"
+  - "/images/index/logo_ffb.webp"
+  - "/images/index/logo_munichways.webp"
+  - "/images/index/logo_xpreneurs.webp"
+  - "/images/index/GST_RGB.webp"
   text: ''
-  padding_top: default
+  padding_top: remove
   items:
-  - logo: "/images/20171221_logo_digitalfreiburg_rz_2c.png"
-  - logo: "/images/logo_mobidata-bw-1.jpg"
-  - logo: "/images/logo-tum-2.png"
-  - logo: "/images/logo_muc.png"
-  - logo: "/images/logo_freising.png"
-  - logo: "/images/logo_ffb.png"
-  - logo: "/images/logo_munichways.png"
-  - logo: "/images/logo_xpreneurs.png"
+  - logo: "/images/werk1_logo_plain_trans.webp"
+  - logo: "/images/index/freiburg_logo.webp"
+  - logo: "/images/index/mobidata_bw.webp"
+  - logo: "/images/index/logo-tum.webp"
+  - logo: "/images/index/logo_lhm.webp"
+  - logo: "/images/index/logo_freising.webp"
+  - logo: "/images/index/logo_ffb.webp"
+  - logo: "/images/index/logo_munichways.webp"
+  - logo: "/images/index/logo_xpreneurs.webp"
+  - logo: "/images/index/GST_RGB.webp"
 - template: logos-block
   block: logos
   background: default
   logos:
-  - "/images/logo-mfund-2.jpg"
-  - "/images/logo-bmvi.png"
+  - "/images/index/logo-mfund-2.webp"
+  - "/images/index/logo-bmvi.webp"
   heading: Gefördert durch
   padding_top: remove
-  text: Die Entwicklung von GOAT wurde vom BMVI von November 2019 bis Februar 2021
-    im Rahmen der mFUND-Initiative (Förderlinie 1) an der TUM gefördert.
+  text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober 2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.
   items:
-  - logo: "/images/logo-mfund.png"
-  - logo: "/images/logo-bmvi.svg"
+  - logo: "/images/index/logo-mfund.webp"
+  - logo: "/images/index/BMDV_Logo.webp"
     text: 'Gefördert durch:'
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digitale Planungswerkzeuge für die Gestaltung nachhaltiger Mobilität

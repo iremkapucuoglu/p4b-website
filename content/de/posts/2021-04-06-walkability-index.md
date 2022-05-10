@@ -4,15 +4,16 @@ author: haxhiu
 categories:
 - Entwicklung
 - News
+- Projekte
 date: 2021-04-06T10:00:00.000+00:00
 description: 'Unser Walkability-Index für MobiData BW Hackathon war ein voller Erfolg!
   So setzen wir die Entwicklung in der Innovationssphase fort:'
-image: "/images/hackathon_banner.webp"
+image: "/images/blog/hackathon/hackathon_banner.webp"
 summary: Wir gehören zu den glücklichen Siegern des MobiData BW Hackathons! Dort haben
   wir „WALKIE“ entwickelt, einen prototypischen Walkability-Index, und einen Algorithmus
   zur Berechnung potenzieller Fußgängerströme. In einer 3-monatigen Innovationsphase
   setzen wir die Entwicklung fort.
-thumbnail: "/images/hackathon_thumbnail.webp"
+thumbnail: "/images/blog/hackathon/hackathon_thumbnail.webp"
 translationKey: ''
 
 ---
@@ -26,7 +27,7 @@ Der Hackathon, der vom 27. bis zum 29. November 2020 stattfand, wurde vom [Minis
 
 Den Startschuss des Events gaben informative Fachimpulse am Freitag, woraufhin die Vorstellung der unterschiedlichen Challenges folgte. Anschließend fanden wir uns in Teams zusammen und starteten mit der Arbeitsphase – ab da hieß es, Ärmel hoch und los programmieren! Am Samstagmorgen haben der Verkehrsminister, Winfried Hermann, und der Bürgermeister Freiburgs, Martin Horn, den Arbeitstag mit einem spannenden Wake-up Call eingeläutet. Das Abenteuer Hackathon war nach 36 Stunden, in denen wir sehr viel programmierten und umso weniger schliefen, vorbei und wir freuten uns darauf der Jury unseren Walkability-Prototypen zu präsentieren!
 
-![Walkability-Index entwickelt vom GOAT-Team beim MobiData BW Hackathon](/images/hackathon_team.png "GOAT-Team Hackathon")
+![Walkability-Index entwickelt vom GOAT-Team beim MobiData BW Hackathon](/images/blog/hackathon/hackathon_team.webp "GOAT-Team Hackathon")
 
 Jede Gruppe stellte ihre Ergebnisse vor und die Jury bewertete die Pitches basierend auf folgende Kriterien: Beitrag zur nachhaltigen Mobilität in Baden-Württemberg, Innovationsgrad und Kreativität, Bezug zu Daten und Ressourcen, Umsetzbarkeit, Präsentation der Ergebnisse.
 
@@ -36,7 +37,7 @@ Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußve
 
 <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
-Als einer der sieben Sieger-Teams erhielten wir die Möglichkeit, eine 3-monatige Förderung durch das Verkehrsministerium Baden-Württemberg im Rahmen der Anschlussförderung des Hackathon „MobiDataBW Hackathon 2020“ entgegen zu nehmen.![](/images/hackathon.jpg)
+Als einer der sieben Sieger-Teams erhielten wir die Möglichkeit, eine 3-monatige Förderung durch das Verkehrsministerium Baden-Württemberg im Rahmen der Anschlussförderung des Hackathon „MobiDataBW Hackathon 2020“ entgegen zu nehmen.![](/images/blog/hackathon/hackathon.webp)
 
 ## Die Innovationssphase
 

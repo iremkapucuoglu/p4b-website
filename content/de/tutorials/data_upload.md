@@ -41,4 +41,4 @@ In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-
 
 8. Wechseln Sie in das Menü "Filter Thematische Daten", dort ist ihr neuer Datensatz mit einem grünen Punkt markiert. Indem Sie die Checkbox anklicken, wird der Layer in die Karte geladen und Sie können Ihre hochgeladenen Daten sehen. 
 
-<img src="/images/training_materials/Data_upload/thematic_filter.webp" alt="Filter Thematische Daten" style="max-height:400px;"/
+<img src="/images/training_materials/Data_upload/thematic_filter.webp" alt="Filter Thematische Daten" style="max-height:400px;"/>

@@ -3,14 +3,15 @@ author: haxhiu
 categories:
 - development
 - news
+- projects
 date: 2021-04-06T10:00:00.000+00:00
 description: 'Our Walkability Index for MobiData BW Hackathon was a success! This
   is how we continue the development in the innovation phase:'
-image: "/images/hackathon_banner.webp"
+image: "/images/blog/hackathon/hackathon_banner.webp"
 summary: We are one of the lucky winners of the MobiData BW Hackathon, where we developed
   “WALKIE” – a prototypic walkability index and an algorithm to calculate potential
   pedestrian flows. We will continue the development in a 3-month innovation phase.
-thumbnail: "/images/hackathon_thumbnail.webp"
+thumbnail: "/images/blog/hackathon/hackathon_thumbnail.webp"
 title: 'Hackathon: Development of a Walkability Index'
 translationKey: ''
 
@@ -25,7 +26,7 @@ The Hackathon took place on 27.-29th November 2020 and was organized by the [Min
 
 Inspiring input talks on Friday marked the perfect start of an exciting event which went on with the presentation of the different challenges. This was followed by the team building, then the main programming and finally, the working phase! On Saturday the minister of transport, Winfried Hermann, and the major of Freiburg, Martin Horn, participated in the event by initiating the working day with an encouraging wake-up call. After 36 hours of coding and very few hours of sleep, we were excited to pitch our results on Sunday.
 
-![Walkability index developed by the GOAT team at the MobiData BW Hackathon.](/images/hackathon_team.png "GOAT-Team Hackathon")
+![Walkability index developed by the GOAT team at the MobiData BW Hackathon.](/images/blog/hackathon/hackathon_team.webp "GOAT-Team Hackathon")
 
 Following the presentations of individual groups, the jury evaluated them based on the following criteria: Contribution to the sustainable mobility in Baden-Württemberg, innovation level and creativity, reference to data and resources, feasibility, and the presentation of the results.
 
@@ -37,7 +38,7 @@ We tackled the challenge “Walkability Index” and developed a respective prot
 
 As one of the lucky winners, we receive a 3-month funding from the Ministry of Transport Baden-Württemberg as part of a follow-up grant to the "MobiDataBW Hackathon 2020" hackathon to establish our developed prototype.
 
-![](/images/hackathon.jpg)
+![](/images/blog/hackathon/hackathon.webp)
 
 ## Innovation Phase
 

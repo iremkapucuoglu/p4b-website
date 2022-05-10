@@ -13,17 +13,17 @@ In addition to the [Local Accessibility Heatmap](../heatmap/), GOAT allows you t
 * Where is potential for is densification?
 * Where is an improvement of accessibility to specific amenities or public transport stations needed?
 
-![](/images/docs/technical_documentation/walkability_population_index/walkability_population_map.png)
+![](/images/docs/technical_documentation/walkability_population_index/walkability_population_map.webp)
 
 #### 1. Calculation
 
-The comparison heatmap is the result of the intersection of the two heatmaps "Local Accessibility" and "Population Density." ![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.png)
+The comparison heatmap is the result of the intersection of the two heatmaps "Local Accessibility" and "Population Density." ![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.webp)
 
 #### 2. Classification
 
 In order to classify the accessibility levels that were computed for each grid cell, a classification based on percentiles is used. The following table shows how the percentiles of accessibility and population are calculated in each grid.
 
-![](/images/docs/technical_documentation/walkability_population_index/percentile.png)
+![](/images/docs/technical_documentation/walkability_population_index/percentile.webp)
 
 The "Comparison of Accessibility and Population Density" heatmap is calculated as following:
 
@@ -31,4 +31,4 @@ The "Comparison of Accessibility and Population Density" heatmap is calculated a
 
 and shows following result:
 
-![](/images/docs/technical_documentation/walkability_population_index/calculated_index.png)
+![](/images/docs/technical_documentation/walkability_population_index/calculated_index.webp)

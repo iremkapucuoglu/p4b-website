@@ -11,7 +11,7 @@ Im Rahmen des Projekts [WALKIE](../../posts/2021-04-06-walkability-index/) haben
 
 Der Walkability-Index besteht aus 22 Objekten, die in 6 Kategorien zusammengefasst sind:
 
-![Objekte und Gewichtung des Walkability Index](/images/docs/walkability_index/indicators.png "Walkability Objekte and Gewichtungsfaktoren")
+![Objekte und Gewichtung des Walkability Index](/images/docs/technical_documentation/walkability_index/indicators_de.webp "Walkability Objekte and Gewichtungsfaktoren")
 
 Die Gewichtung der Objekte erfolgte auf der Grundlage verschiedener wissenschaftlicher Studien (Referenzen siehe unten) und entsprechend der Datenverfügbarkeit. Für einige Objekte (z.B. Gehwegbreite) ist die Datenverfügbarkeit in Open-Data-Quellen, wie OSM, aktuell noch sehr limitiert. Daher werden diese Objekte von der Indexberechnung ausgeschlossen. 
 

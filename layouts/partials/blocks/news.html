@@ -1,0 +1,39 @@
+<section class="uk-section-large uk-section-{{ .background }}">
+  <div class="uk-container">
+    {{ if or .heading .source }}
+    <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex uk-text-center"
+      data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+      <div class="uk-width-3-4@m">
+        {{ with .heading }}
+        <h2 class="uk-h1 uk-margin-remove">{{ . }}</h2>
+        {{ end }}
+        {{ with .source }}
+        <div class="uk-text-lead uk-margin-top">{{ . }}</div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    <div class="uk-child-width-1-1@m uk-flex uk-flex-center uk-margin-small-top uk-grid-match" data-uk-grid
+      data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200"
+      uk-height-match="target: > div > .uk-card; row: false">
+      {{ range .news }}
+      <div>
+        <div
+          class="uk-card uk-card-small uk-card-body uk-padding-remove uk-card-default uk-position-relative uk-box-shadow-hover-large uk-border-rounded-large">
+          <div class="uk-grid-small  uk-position-small" data-uk-grid>
+            <div class="uk-width-auto uk-flex uk-flex-middle">
+              <img data-src="{{ .thumbnail }}" width="100px" height="100px;" alt="" uk-img>
+            </div>
+            <div class="uk-width-expand uk-margin-left">
+              <div class="uk-card-categories">{{.date}} {{if .source}} | {{ end }} {{ .source }}</div>
+              <h4 class="uk-text-primary uk-margin-small-top ">{{ .heading }}</h4>
+            </div>
+
+          </div>
+          <a class="uk-position-cover" href="{{ .url }}" target="_blank"></a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

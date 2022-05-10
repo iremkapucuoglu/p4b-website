@@ -62,7 +62,7 @@ blocks:
     a dynamic map-based analysis.
   heading: Our Offer
   button:
-    url: "/what-is-goat/"
+    url: "/en/what-is-goat/"
     text: Learn more about GOAT
   background_image: "/images/bg-9.svg"
 - template: recent-posts-block
@@ -71,7 +71,7 @@ blocks:
   heading: Recent Posts
 - template: logos-block
   block: logos
-  background: default
+  background: secondary
   padding_top: default
   items:
   - logo: "/images/e_web_03-1.webp"
@@ -79,14 +79,7 @@ blocks:
   - logo: "/images/e_web_11-2.webp"
   - logo: "/images/e_web_13-1.webp"
   heading: Sustainable Development Goals
-  text: We are inspired by the SDG goals we aim to accomplish
-- template: links-block
-  block: links
-  background: default
-  heading: ''
-  links:
-  - text: Check out our SDG mission
-    icon: link
+  text: We are inspired by the SDG goals we aim to accomplish.
 - template: logos-block
   block: logos
   background: default
@@ -99,6 +92,7 @@ blocks:
   - "/images/logo_freising.png"
   - "/images/logo_ffb.png"
   - "/images/logo_munichways.png"
+  - "/images/logo_xpreneurs.png"
   text: ''
   padding_top: default
   items:
@@ -109,6 +103,7 @@ blocks:
   - logo: "/images/logo_freising.png"
   - logo: "/images/logo_ffb.png"
   - logo: "/images/logo_munichways.png"
+  - logo: "/images/logo_xpreneurs.png"
 - template: logos-block
   block: logos
   background: default
@@ -126,6 +121,6 @@ blocks:
     text_2: aufgrund eines Beschlusses des Deutschen Bundestages
 description: Digital planning support systems to shape sustainable mobility and liveable
   spaces.
-draft: true
+
 
 ---

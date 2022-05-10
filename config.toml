@@ -75,9 +75,13 @@ name = "Team"
 url = "/team/"
 weight = 4
 [[languages.de.menu.center]]
+name = "Mission"
+url = "/mission/"
+weight = 5
+[[languages.de.menu.center]]
 name = "Kontakt"
 url = "/kontakt/"
-weight = 5
+weight = 6
 [[languages.de.menu.footer]]
 name = "Team"
 url = "/team/"
@@ -133,7 +137,7 @@ text = "GOAT is an interactive webtool for accessibility analysis on walking and
 [[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
-url = "/what-is-goat/"
+url = "/en/what-is-goat/"
 weight = 2
 [[languages.en.menu.center]]
 name = "GOAT-live"
@@ -218,9 +222,13 @@ name = "Team"
 url = "/team/"
 weight = 4
 [[languages.en.menu.center]]
+name = "Mission"
+url = "/mission/"
+weight = 5
+[[languages.en.menu.center]]
 name = "Contact"
 url = "/contact/"
-weight = 5
+weight = 6
 [[languages.en.menu.footer]]
 name = "Team"
 url = "/team/"

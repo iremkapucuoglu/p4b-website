@@ -70,6 +70,17 @@ blocks:
   heading: Aktuelle Blog-Posts
 - template: logos-block
   block: logos
+  background: secondary
+  padding_top: default
+  items:
+  - logo: "/images/e_web_03-1.webp"
+  - logo: "/images/e_web_04-1.webp"
+  - logo: "/images/e_web_11-2.webp"
+  - logo: "/images/e_web_13-1.webp"
+  heading: Sustainable Development Goals
+  text: Mit unserem Planungsinstrument GOAT addressieren wir die folgenden SDGs.
+- template: logos-block
+  block: logos
   background: default
   heading: Partner
   logos:
@@ -80,6 +91,7 @@ blocks:
   - "/images/logo_freising.png"
   - "/images/logo_ffb.png"
   - "/images/logo_munichways.png"
+  - "/images/logo_xpreneurs.png"
   text: ''
   padding_top: default
   items:
@@ -90,6 +102,7 @@ blocks:
   - logo: "/images/logo_freising.png"
   - logo: "/images/logo_ffb.png"
   - logo: "/images/logo_munichways.png"
+  - logo: "/images/logo_xpreneurs.png"
 - template: logos-block
   block: logos
   background: default

@@ -272,4 +272,36 @@
   bio:
     de: 'Als Geographin begeistert Isabel sich für die Umsetzung nachhaltiger Stadt- und Verkehrsplanung. Als Praktikantin bei Plan4Better unterstützt sie bei der Aufbereitung und Visualisierung von Daten sowie im Projekt GOAT 3.0.'
     en: 'As a geographer, Isabel is passionate about the implementation of sustainable urban and transport planning. As an intern at Plan4Better, she supports the preparation and visualisation of data as well as the GOAT 3.0 project.'
+- username: etemaddar
+  name: Mohammad Etemaddar
+  title:
+    en: Software Developer
+    de: Software-Entwickler
+  image: "/images/team/reynartz.webp"
+  team_member: true
+  team_image: "/images/team/team_etemaddar.webp"
+  github: 'https://github.com/metemaddar/'
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/mohammad-etemaddar/'
+  twitter: ''
+  bio:
+    de: 'Als Backend-Entwickler ist er für die Implementierung von Algorithmen und APIs für GOAT zuständig. Seine Leidenschaft ist es, alles wie ein Uhrwerk zum Laufen zu bringen und laufend neue Funktionen zu entwickeln.'
+    en: 'As a back end developer, he is in charge of implementing algorithms and APIs for GOAT. His passion is to bring everything to work like a clock and always keen to develop and make space for new great features.'
+- username: nyamador
+  name: Enock Seth Nyamador
+  title:
+    en: Intern
+    de: Praktikant
+  image: "/images/team/reynartz.webp"
+  team_member: false
+  team_image: ""
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: ''
+  twitter: ''
+  bio:
+    de: 'Als Backend-Entwickler ist er für die Implementierung von Algorithmen und APIs für GOAT zuständig. Seine Leidenschaft ist es, alles wie ein Uhrwerk zum Laufen zu bringen und laufend neue Funktionen zu entwickeln.'
+    en: 'As a back end developer, he is in charge of implementing algorithms and APIs for GOAT. His passion is to bring everything to work like a clock and always keen to develop and make space for new great features.'
 

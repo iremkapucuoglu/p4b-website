@@ -277,7 +277,7 @@
   title:
     en: Software Developer
     de: Software-Entwickler
-  image: "/images/team/reynartz.webp"
+  image: ""
   team_member: true
   team_image: "/images/team/team_etemaddar.webp"
   github: 'https://github.com/metemaddar/'
@@ -293,15 +293,15 @@
   title:
     en: Intern
     de: Praktikant
-  image: "/images/team/reynartz.webp"
-  team_member: false
-  team_image: ""
-  github: ''
+  image: ""
+  team_member: true
+  team_image: "/images/team/placeholder.webp"
+  github: 'https://github.com/enockseth'
   website: ''
   mail: ''
   linkedin: ''
-  twitter: ''
+  twitter: 'https://twitter.com/Enock4seth'
   bio:
-    de: 'Als Backend-Entwickler ist er für die Implementierung von Algorithmen und APIs für GOAT zuständig. Seine Leidenschaft ist es, alles wie ein Uhrwerk zum Laufen zu bringen und laufend neue Funktionen zu entwickeln.'
-    en: 'As a back end developer, he is in charge of implementing algorithms and APIs for GOAT. His passion is to bring everything to work like a clock and always keen to develop and make space for new great features.'
+    de: 'Enock ist ein leidenschaftlicher Anhänger von Open Data. Er arbeitet gerne mit räumlichen Daten und ist Mitglied der OpenStreetMap Community. Als Praktikant trägt er zu Datenaktualisierungen bei.'
+    en: 'Enock is passionate about Open Data and Communities of Practice. He likes to work with spatial data and a member of the OpenStreetMap community. As an intern he is contributing to data updates.'
 

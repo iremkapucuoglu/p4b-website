@@ -8,25 +8,56 @@ weight: 40
 ---
 Hier finden Sie einen Überblick über die veröffentlichten wissenschaftlichen Publikationen zur Entwicklung und Anwendung von GOAT.
 ________________________________
+### GOAT: Ein interaktives Erreichbarkeitsinstrument zur Planung der 15-Minuten-Stadt 
+
+https://doi.org/10.26084/13dfns-p024 
+
+<b>Autor/-innen</b>: Elias Pajares, Ulrike Jehle
+
+<b>Jahr</b>: 2021
+
+<b>Schlüsselwörter</b>: Erreichbarkeit; Planungswerkzeug; Fußverkehr; Radverkehr
+
+<b>Zusammenfassung</b>: Die Sicherstellung einer hohen nahräumlichen Erreichbarkeit für den Fuß- und Radver -
+kehr erfährt mit dem Ansatz der 15-Minuten-Stadt einen enormen Bedeutungsgewinn. Erreichbarkeitsinstrumente als digitale Planungswerkzeuge können in der Praxis dabei unterstützen, Defizite sowie Potenziale im Raum aufzuzeigen. Der Beitrag untersucht, inwiefern das sich in Entwicklung befindliche, webbasierte Erreichbarkeitsinstrument GOAT unterstützen kann, evidenzbasiert im Sinne einer 15-Minuten-Stadt zu planen. Zum Einsatz kommen hierbei verschiedene Indikatoren wie Reisezeitisochronen, Heatmaps und räumliche Daten, welche zur Abbildung des Ist-Zustandes, aber auch für die interaktive Modellierung von Erreichbarkeitsszenarien eingesetzt werden. Trotz der bereits sehr guten Einsatzfähigkeit des Instrumentes besteht weiterhin die Herausforde-
+rung, einen ganzheitlichen Indikator für die 15-Minuten-Stadt zu entwickeln. Hiermit zusammenhängend gilt es zu klären, ob eine vielschichtige Vision wie die 15-Minuten-Stadt überhaupt ganzheitlich in digitalen Planungswerkzeugen bewertet werden kann oder ob gerade in der Nutzung mehrerer Indikatoren die Stärke liegt. Ebenso besteht der Bedarf, Lösungen und Zielvorgaben auch für suburbane und ländliche Räume zu entwickeln.
+________________________________
+
+### Analyse der Fußwegequalitäten zu Schulen: Entwicklung von Indikatoren auf Basis von OpenData 
+
+https://doi.org/10.26084/13dfns-p020  
+
+<b>Autor/-innen</b>: Ulrike Jehle, Elias Pajares
+
+<b>Jahr</b>: 2021
+
+<b>Schlüsselwörter</b>: Fußverkehr; OpenData; Walkability
+
+<b>Zusammenfassung</b>: Kinder in Deutschland leiden verstärkt unter Bewegungsmangel, daher sollte das Gehen
+zur Schule gefördert werden. Damit Menschen zu Fuß gehen, ist jedoch eine attraktive und sichere Gehumgebung erforderlich. Es existieren zahlreiche Ansätze, die Fußgängerfreundlichkeit (engl. Walkability) zu bewerten. Jedoch fehlt es an einem auf den deutschen Kontext angepassten, übertragbaren Walkability Index. Basierend auf einer Vielzahl an offenen Datensätzen wurde für die Pilotkommune Freiburg ein multi-kriterieller Ansatz eines Walkability Index entwickelt. Dieser ist in das webbasierte Planungsinstrument Geo Open Accessibility Tool – GOAT integriert und zeigt pro Wegeabschnitt die Qualität für den Fußverkehr auf. Um gezielt Maßnahmen zur Verbesserung der Walkability priorisieren zu können, wurde außerdem ein Algorithmus zur Berechnung von Fußgängerpotentialströmen entwickelt. Dieser berechnet, ausgehend von allen Wohnhäusern, den kürzesten Weg zu ausgewählten Zielen. Die Einsatzmöglichkeit der
+entwickelten Indikatoren wird in diesem Beitrag anhand von Schulwegen beispielhaft erläutert.
+________________________________
+
 ### Population Disaggregation on the Building Level Based on Outdated Census Data
 
 https://doi.org/10.3390/ijgi10100662
 
-<b>Autor/-innen</b>: Elias Pajares, Rafael Muñoz Nieto, Liqiu Meng and Gebhard Wulfhorst
+<b>Autor/-innen</b>: Elias Pajares, Rafael Muñoz Nieto, Liqiu Meng, Gebhard Wulfhorst
 
-<b>Datum</b>: 1 October 2021
+<b>Datum</b>: 1. Oktober 2021
 
 <b>Schlüsselwörter</b>: Population disaggregation; Accessibility; Open data
 
 <b>Zusammenfassung</b>: A wide range of disciplines require population data with high spatial resolution. In particular, accessibility instruments for active mobility need data on the building access level. Data availability varies by context. Spatially detailed national census counts often present the challenge that they are outdated. Therefore, this study proposes a novel approach to hybrid population disaggregation. It updates outdated census tracts and disaggregates population on the building access level. Open and widely available data sets are used. A bottom-up population estimation for new development areas is combined with a top-down dasymetric mapping process to update outdated census tracts. A particular focus lies on the high flexibility of the developed procedure. Accordingly, users can utilize diverse data and adapt settings to a specific study context. Instead of requiring ubiquitous 3D building data, often unavailable free of charge, the approach suggests collecting building levels only in new development areas. The open-source software development was done using PostgreSQL/PostGIS as part of the co-creative development of the accessibility instrument GOAT in three German municipalities. A comparison with reference data from the population registry of one district was realized. On the building level, an R2 of 0.82, and on the grid level (100 m × 100 m), an R2 of 0.89 is reached. The approach stands out when land-use information is outdated; however, a spatially detailed census grid exists, but no ubiquitous 3D building information is available. Enhancements are proposed, such as improving the dasymetric mapping with machine learning and remote sensing techniques. Moreover, more reliable detection of new building development in already built-up areas is suggested to account better for urban densification.
 ________________________________
+
 ### Accessibility by proximity: Addressing the lack of interactive accessibility instruments for active mobility
 
 https://doi.org/10.1016/j.jtrangeo.2021.103080
 
 <b>Autor/-innen</b>: Elias Pajares, Benjamin Büttner, Ulrike Jehle, Aaron Nichols, Gebhard Wulfhorst
 
-<b>Datum</b>: 8 May 2021
+<b>Datum</b>: 8. Mai 2021
 
 <b>Schlüsselwörter</b>: Active mobility; GIS; Open source; Planning support systems
 

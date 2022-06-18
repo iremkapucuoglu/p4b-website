@@ -96,20 +96,20 @@ name = "Kontakt"
 url = "/kontakt/"
 weight = 8
 [[languages.de.menu.footer]]
-name = "Team"
-url = "/team/"
-weight = 1
-[[languages.de.menu.footer]]
 name = "Kontakt"
 url = "/kontakt/"
-weight = 2
+weight = 1
 [[languages.de.menu.footer]]
 name = "Impressum"
 url = "/imprint/"
-weight = 3
+weight = 2
 [[languages.de.menu.footer]]
 name = "Datenschutzerklärung"
 url = "/privacy/"
+weight = 3
+[[languages.de.menu.footer]]
+name = "Nutzungsbedingungen"
+url = "/nutzungsbedingungen/"
 weight = 4
 [[languages.de.menu.right]]
 name = "Demo anfragen"
@@ -256,20 +256,20 @@ name = "Contact"
 url = "/contact/"
 weight = 8
 [[languages.en.menu.footer]]
-name = "Team"
-url = "/team/"
-weight = 1
-[[languages.en.menu.footer]]
 name = "Contact us"
 url = "/contact/"
-weight = 2
+weight = 1
 [[languages.en.menu.footer]]
 name = "Imprint"
 url = "/imprint/"
-weight = 3
+weight = 2
 [[languages.en.menu.footer]]
 name = "Privacy"
 url = "/privacy/"
+weight = 3
+[[languages.en.menu.footer]]
+name = "Terms of use"
+url = "/nutzungsbedingungen/"
 weight = 4
 [[languages.en.menu.right]]
 name = "Request Demo"

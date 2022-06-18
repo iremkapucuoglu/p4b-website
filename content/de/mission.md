@@ -10,7 +10,7 @@ background_image = ""
 heading = "Mission"
 image = ""
 layout = "center"
-text = "Durch die Bereitstellung von faktenbasierten Analysen helfen wir dabei, den Fuß- und Radverkehr effizienter zu planen, sowie Nachbarschaften besser zu vernetzen und lebenswerter zu gestalten. Unsere Motivation ist es, damit einen Beitrag zur nachhaltigen Gestaltung unserer Städte und Regionen zu leisten. Unsere Ziele finden sich auch in den unten aufgeführten Sustainable Development Goals (SDGs) der United Nations wieder."
+text = "Durch die Bereitstellung von faktenbasierten Analysen helfen wir dabei, Städte und Regionen zu nachhaltigeren und lebenswerteren Räumen umzugestalten. Unsere Ziele finden sich auch in den unten aufgeführten Sustainable Development Goals (SDGs) der United Nations wieder."
 [[blocks]]
 background = "default"
 block = "images"

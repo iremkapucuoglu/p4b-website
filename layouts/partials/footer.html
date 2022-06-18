@@ -70,3 +70,7 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/custom.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/25972470.js"></script>
+<!-- End of HubSpot Embed Code -->

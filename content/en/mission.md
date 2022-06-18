@@ -10,7 +10,7 @@ background_image = ""
 heading = "Mission"
 image = ""
 layout = "center"
-text = "By providing fact-based analyses, we help to plan walking and cycling more efficiently, as well as to better connect neighbourhoods and make them more liveable. Our motivation is to contribute to the sustainable design of our cities and regions. Our goals are also reflected in the United Nations Sustainable Development Goals (SDGs) listed below."
+text = "By providing fact-based analyses, we equip change-makers with the right tools to transform cities and regions into more sustainable and liveable spaces. Our motivation is to contribute to the sustainable design of our cities and regions. Our goals are also reflected in the United Nations Sustainable Development Goals (SDGs) listed below."
 [[blocks]]
 background = "default"
 block = "images"

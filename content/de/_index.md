@@ -115,7 +115,7 @@ sections:
       - name: "Beratung"
         img: "/images/index/Product-Beratung.png"
         title: "Sie suchen professionelle Beratung?"
-        description: "Unser diverses Team unterschiedlicher Fachrichtungen berät Sie gerne zu innovativen Mobilitätskonzepten und individuellen Problemlösungen."
+        description: "Unser diverses Team unterschiedlicher Fachrichtungen berät Sie gerne zu innovativen Mobilitätskonzepten und individuellen Problemlösungen. Unter Einsatz von GOAT erstellen wir außerdem Reports zur Bewertung konkreter Planungsfragen."
         background_color_content: default
         button:
           url: "/kontakt/"

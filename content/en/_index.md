@@ -112,7 +112,7 @@ sections:
       - name: "consulting"
         img: "/images/index/Product-Beratung.png"
         title: "Are you looking for professional consulting?"
-        description: "Our diverse and interdisciplinary team will be happy to advise you on innovative mobility concepts and individual problem solutions."
+        description: "Our diverse and interdisciplinary team will be happy to advise you on innovative mobility concepts and individual problem solutions. Using GOAT, we also create reports to evaluate specific planning issues."
         button:
           background_color_content: secondary
           url: "/contact/"

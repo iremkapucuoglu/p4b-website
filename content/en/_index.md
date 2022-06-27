@@ -109,7 +109,7 @@ sections:
           background_color_content: default
           url: "/goat/"
           label: "GOAT Subscription"
-      - name: "consulting"
+      - name: "consulting & reports"
         img: "/images/index/Product-Beratung.png"
         title: "Are you looking for professional consulting?"
         description: "Our diverse and interdisciplinary team will be happy to advise you on innovative mobility concepts and individual problem solutions. Using GOAT, we also create reports to evaluate specific planning issues."

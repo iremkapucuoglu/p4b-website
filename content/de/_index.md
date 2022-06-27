@@ -112,10 +112,10 @@ sections:
           background_color_content: default
           url: "/goat/"
           label: "GOAT-Abo"
-      - name: "Beratung"
+      - name: "Beratung & Reports"
         img: "/images/index/Product-Beratung.png"
         title: "Sie suchen professionelle Beratung?"
-        description: "Unser diverses Team unterschiedlicher Fachrichtungen berät Sie gerne zu innovativen Mobilitätskonzepten und individuellen Problemlösungen."
+        description: "Unser diverses Team unterschiedlicher Fachrichtungen berät Sie gerne zu innovativen Mobilitätskonzepten und individuellen Problemlösungen. Unter Einsatz von GOAT erstellen wir außerdem Reports, in denen wir Ihre spezifischen Planungsfragen schnell in einem Bericht analysieren."
         background_color_content: default
         button:
           url: "/kontakt/"

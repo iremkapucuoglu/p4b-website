@@ -267,7 +267,8 @@ Ihre E-Mail-Adresse wird solange gespeichert, wie Sie den Newsletter abonniert h
 
 ## 14. Tracking- und Analysetools
 
-Eine exakte Übersicht zu den von uns verwendeten Web Analyse- und Social Media Tools finden Sie hier.
+Eine exakte Übersicht zu den von uns verwendeten Web Analyse- und Social Media Tools finden Sie hier:
+- Nutzung von Server Logs durch Netlify
 
 ## 15. Datensicherheit und Sicherungsmaßnahmen 
 Wir verpflichten uns, Ihre Privatsphäre zu schützen und Ihre personenbezogenen Daten vertraulich zu behandeln. Dazu treffen wir umfangreiche technische und organisatorische Sicherheitsvorkehrungen, welche regelmäßig überprüft und dem technologischen Fortschritt angepasst werden.  

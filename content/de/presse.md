@@ -45,6 +45,13 @@ url = "/download/press/2022-05-10-Pressemitteilung_Marktlaunch.pdf"
 date = "10. Mai 2022"
 
 [[blocks.news]]
+heading = "GOAT - ein digitales Planungswerkzeug zur Gestaltung der 15-Minuten-Stadt"
+thumbnail = "/images/presse/urban-digital.webp"
+source = "urban digital"
+url = "https://urban-digital.de/goat-digitales-planungswerkzeug-gestaltung-15-minuten-stadt/"
+date = "6. Mai 2022"
+
+[[blocks.news]]
 heading = "Freiburg plant Gehwege künftig smart "
 thumbnail = "/images/presse/tagesspiegel.webp"
 source = "Tagesspiegel"

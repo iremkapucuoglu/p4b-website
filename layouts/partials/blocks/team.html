@@ -24,7 +24,7 @@
               {{ end }}
               <div class="uk-card-body">
                 {{ with .name }}
-                <h3 class="uk-text-uppercase uk-text-spacing-small uk-margin-remove">{{ . }}</h3>
+                <h3 class="uk-text-uppercase uk-text-spacing-small uk-margin-remove uk-padding uk-padding-remove-bottom uk-padding-remove-top">{{ . }}</h3>
                 {{ end }}
                 {{ if .title }}
                 <div class="uk-margin-small-top">{{ index .title site.Language.Lang }}</div>

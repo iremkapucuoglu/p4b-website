@@ -304,4 +304,21 @@
   bio:
     de: 'Enock ist ein leidenschaftlicher Anhänger von Open Data. Er arbeitet gerne mit räumlichen Daten und ist Mitglied der OpenStreetMap Community. Als Praktikant trägt er zu Datenaktualisierungen bei.'
     en: 'Enock is passionate about Open Data and Communities of Practice. He likes to work with spatial data and a member of the OpenStreetMap community. As an intern he is contributing to data updates.'
+- username: rexha
+  name: Ebubeker  Rexha
+  title:
+    en: Intern
+    de: Praktikant
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_rexha.webp"
+  github: 'https://github.com/Ebubeker'
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/ebubeker-rexha-3528bb1a2'
+  twitter: ''
+  bio:
+    de: 'Als Front-End Developer ist Ebubeker technikbegeistert und stets motiviert, Neues zu lernen,  und seine Fähigkeiten zu verbessern. Damit trägt er zu Lösungen bei, welche die Gesellschaft nachhaltig verbessern.'
+    en: 'As front-end developer, Ebubeker is passionate about technology and always motivated to learn new things and improve his skills. In doing so, he contributes to solutions that sustainably improve society.'
+
 

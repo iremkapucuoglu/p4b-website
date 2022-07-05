@@ -323,8 +323,8 @@
 - username: farhadi
   name: Sina Farhadi
   title:
-    en: Intern
-    de: Praktikant
+    en: Software Developer
+    de: Software-Entwickler
   image: ""
   team_member: true
   team_image: "/images/team/team_farhadi.webp"

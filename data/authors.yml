@@ -129,7 +129,7 @@
       von Daten für GOAT. Als Umweltingenieur interessiert er sich für nachhaltige
       Stadt- und Verkehrsplanung.
   image: ''
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_gregory.webp"
   github: https://github.com/gregoriiv
   website: ''
@@ -320,5 +320,21 @@
   bio:
     de: 'Als Front-End Developer ist Ebubeker technikbegeistert und stets motiviert, Neues zu lernen,  und seine Fähigkeiten zu verbessern. Damit trägt er zu Lösungen bei, welche die Gesellschaft nachhaltig verbessern.'
     en: 'As front-end developer, Ebubeker is passionate about technology and always motivated to learn new things and improve his skills. In doing so, he contributes to solutions that sustainably improve society.'
+- username: farhadi
+  name: Sina Farhadi
+  title:
+    en: Intern
+    de: Praktikant
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_farhadi.webp"
+  github: 'https://github.com/cinaaaa'
+  website: 'https://sinafarhadi.medium.com'
+  mail: ''
+  linkedin: 'https://linkedin.com/in/sina-farhadi'
+  twitter: 'https://twitter.com/cinaaaaaaa_'
+  bio:
+    de: 'Begeisterter Frontend-Entwickler, der mit 15 Jahren mit dem Programmieren begonnen hat und jetzt 19 Jahre alt ist. Er liebt es zu basteln und über Technik zu schreiben und schreibt derzeit auf Medium & FreeCodeCamp.'
+    en: 'Eager frontend developer who started coding from 15 until now who is 19, likes to craft and write technology things, currently writing on Medium & FreeCodeCamp.'
 
 

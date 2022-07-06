@@ -56,6 +56,126 @@
   team_member: true
   twitter: ''
   team_image: "/images/team/team_majk.webp"
+- username: etemaddar
+  name: Mohammad Etemaddar
+  title:
+    en: Software Developer
+    de: Software-Entwickler
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_etemaddar.webp"
+  github: 'https://github.com/metemaddar/'
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/mohammad-etemaddar/'
+  twitter: ''
+  bio:
+    de: 'Als Backend-Entwickler ist er für die Implementierung von Algorithmen und APIs für GOAT zuständig. Seine Leidenschaft ist es, alles wie ein Uhrwerk zum Laufen zu bringen.'
+    en: 'As a back end developer, he is in charge of implementing algorithms and APIs for GOAT. His passion is to bring everything to work like a clock and to develop and make space for new great features.'
+- username: farhadi
+  name: Sina Farhadi
+  title:
+    en: Software Developer
+    de: Software-Entwickler
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_farhadi.webp"
+  github: 'https://github.com/cinaaaa'
+  website: 'https://sinafarhadi.medium.com'
+  mail: ''
+  linkedin: 'https://linkedin.com/in/sina-farhadi'
+  twitter: 'https://twitter.com/cinaaaaaaa_'
+  bio:
+    de: 'Begeisterter Frontend-Entwickler, der mit 15 Jahren mit dem Programmieren begonnen hat. Sina beschäftigt sich gerne mit Technik und schreibt derzeit auf Medium & FreeCodeCamp.'
+    en: 'Eager frontend developer who started coding already when he was 15. He likes to craft and write technology things, currently writing on Medium & FreeCodeCamp.'
+- username: meining
+  name: Sophie Meining
+  title:
+    en: Working Student
+    de: Werkstudentin
+  image: "/images/sophie_meiningsw.webp"
+  team_member: true
+  team_image: "/images/sophie_meining.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: https://www.linkedin.com/in/sophie-meining-192862227/
+  twitter: ''
+  bio:
+    de: 'Sophie begeistert sich für Innovationen und die Umsetzung von nachhaltigen
+      Ideen. Als Werkstudentin bei Plan4Better kümmert Sie sich um Marketing und Content
+      Creation.'
+    en: 'Sophie is passionate about innovation and the implementation of sustainable
+      ideas. As an working student at Plan4Better, she takes care of marketing and content
+      creation.'
+- username: reynartz
+  name: Isabel Reynartz
+  title:
+    en: Intern
+    de: Praktikantin
+  image: "/images/team/reynartz.webp"
+  team_member: true
+  team_image: "/images/team/team_isabel.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/isabel-reynartz-ab848323a/'
+  twitter: ''
+  bio:
+    de: 'Als Geographin begeistert Isabel sich für die Umsetzung nachhaltiger Stadt- und Verkehrsplanung. Als Praktikantin bei Plan4Better unterstützt sie bei der Aufbereitung und Visualisierung von Daten sowie im Projekt GOAT 3.0.'
+    en: 'As a geographer, Isabel is passionate about the implementation of sustainable urban and transport planning. As an intern at Plan4Better, she supports the preparation and visualisation of data as well as the GOAT 3.0 project.'
+- username: nyamador
+  name: Enock Seth Nyamador
+  title:
+    en: Intern
+    de: Praktikant
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_enock.webp"
+  github: 'https://github.com/enockseth'
+  website: ''
+  mail: ''
+  linkedin: ''
+  twitter: 'https://twitter.com/Enock4seth'
+  bio:
+    de: 'Enock ist ein leidenschaftlicher Anhänger von Open Data. Er arbeitet gerne mit räumlichen Daten und ist Mitglied der OpenStreetMap Community. Als Praktikant trägt er zu Datenaktualisierungen bei.'
+    en: 'Enock is passionate about Open Data and Communities of Practice. He likes to work with spatial data and a member of the OpenStreetMap community. As an intern he is contributing to data updates.'
+- username: rexha
+  name: Ebubeker Rexha
+  title:
+    en: Intern
+    de: Praktikant
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_rexha.webp"
+  github: 'https://github.com/Ebubeker'
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/ebubeker-rexha-3528bb1a2'
+  twitter: ''
+  bio:
+    de: 'Als Front-End Developer ist Ebubeker technikbegeistert und stets motiviert Neues zu lernen und seine Fähigkeiten zu verbessern. Damit trägt er zu Lösungen bei, welche die Gesellschaft nachhaltig verbessern.'
+    en: 'As front-end developer, Ebubeker is passionate about technology and always motivated to learn new things and improve his skills. In doing so, he contributes to solutions that sustainably improve society.'
+- username: xue
+  name: Jiaying Xue
+  title:
+    en: Working Student
+    de: Werkstudentin
+  bio:
+    en: Jiaying has a passion for exploring mobilty data, spatial data analysis and
+      sustainable urbanism. As a cartography student, she helps with mobility research
+      and geo-data visualization.
+    de: Jiaying beschäftigt sich leidenschaftlich mit nachhaltiger Stadtentwicklung,
+      Mobilitätsdatenanalysen und räumlichen Daten. Als Kartographie-Studentin hilft
+      sie bei der Mobilitätsforschung und der Visualisierung von Geodaten.
+  image: ''
+  team_member: false
+  team_image: "/images/team/team_jiaying.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: https://www.linkedin.com/in/jiaying-xue
+  twitter: ''
 - username: hassine
   name: Emna Ben Hassine
   title:
@@ -216,125 +336,3 @@
   mail: ''
   linkedin: https://www.linkedin.com/in/philippotter96/
   twitter: ''
-- username: xue
-  name: Jiaying Xue
-  title:
-    en: Working Student
-    de: Werkstudentin
-  bio:
-    en: Jiaying has a passion for exploring mobilty data, spatial data analysis and
-      sustainable urbanism. As a cartography student, she helps with mobility research
-      and geo-data visualization.
-    de: Jiaying beschäftigt sich leidenschaftlich mit nachhaltiger Stadtentwicklung,
-      Mobilitätsdatenanalysen und räumlichen Daten. Als Kartographie-Studentin hilft
-      sie bei der Mobilitätsforschung und der Visualisierung von Geodaten.
-  image: ''
-  team_member: false
-  team_image: "/images/team/team_jiaying.webp"
-  github: ''
-  website: ''
-  mail: ''
-  linkedin: https://www.linkedin.com/in/jiaying-xue
-  twitter: ''
-- username: meining
-  name: Sophie Meining
-  title:
-    en: Working Student
-    de: Werkstudentin
-  image: "/images/sophie_meiningsw.webp"
-  team_member: true
-  team_image: "/images/sophie_meining.webp"
-  github: ''
-  website: ''
-  mail: ''
-  linkedin: https://www.linkedin.com/in/sophie-meining-192862227/
-  twitter: ''
-  bio:
-    de: 'Sophie begeistert sich für Innovationen und die Umsetzung von nachhaltigen
-      Ideen. Als Werkstudentin bei Plan4Better kümmert Sie sich um Marketing und Content
-      Creation.'
-    en: 'Sophie is passionate about innovation and the implementation of sustainable
-      ideas. As an working student at Plan4Better, she takes care of marketing and content
-      creation.'
-- username: reynartz
-  name: Isabel Reynartz
-  title:
-    en: Intern
-    de: Praktikantin
-  image: "/images/team/reynartz.webp"
-  team_member: true
-  team_image: "/images/team/team_isabel.webp"
-  github: ''
-  website: ''
-  mail: ''
-  linkedin: 'https://www.linkedin.com/in/isabel-reynartz-ab848323a/'
-  twitter: ''
-  bio:
-    de: 'Als Geographin begeistert Isabel sich für die Umsetzung nachhaltiger Stadt- und Verkehrsplanung. Als Praktikantin bei Plan4Better unterstützt sie bei der Aufbereitung und Visualisierung von Daten sowie im Projekt GOAT 3.0.'
-    en: 'As a geographer, Isabel is passionate about the implementation of sustainable urban and transport planning. As an intern at Plan4Better, she supports the preparation and visualisation of data as well as the GOAT 3.0 project.'
-- username: etemaddar
-  name: Mohammad Etemaddar
-  title:
-    en: Software Developer
-    de: Software-Entwickler
-  image: ""
-  team_member: true
-  team_image: "/images/team/team_etemaddar.webp"
-  github: 'https://github.com/metemaddar/'
-  website: ''
-  mail: ''
-  linkedin: 'https://www.linkedin.com/in/mohammad-etemaddar/'
-  twitter: ''
-  bio:
-    de: 'Als Backend-Entwickler ist er für die Implementierung von Algorithmen und APIs für GOAT zuständig. Seine Leidenschaft ist es, alles wie ein Uhrwerk zum Laufen zu bringen und laufend neue Funktionen zu entwickeln.'
-    en: 'As a back end developer, he is in charge of implementing algorithms and APIs for GOAT. His passion is to bring everything to work like a clock and always keen to develop and make space for new great features.'
-- username: nyamador
-  name: Enock Seth Nyamador
-  title:
-    en: Intern
-    de: Praktikant
-  image: ""
-  team_member: true
-  team_image: "/images/team/team_enock.webp"
-  github: 'https://github.com/enockseth'
-  website: ''
-  mail: ''
-  linkedin: ''
-  twitter: 'https://twitter.com/Enock4seth'
-  bio:
-    de: 'Enock ist ein leidenschaftlicher Anhänger von Open Data. Er arbeitet gerne mit räumlichen Daten und ist Mitglied der OpenStreetMap Community. Als Praktikant trägt er zu Datenaktualisierungen bei.'
-    en: 'Enock is passionate about Open Data and Communities of Practice. He likes to work with spatial data and a member of the OpenStreetMap community. As an intern he is contributing to data updates.'
-- username: rexha
-  name: Ebubeker  Rexha
-  title:
-    en: Intern
-    de: Praktikant
-  image: ""
-  team_member: true
-  team_image: "/images/team/team_rexha.webp"
-  github: 'https://github.com/Ebubeker'
-  website: ''
-  mail: ''
-  linkedin: 'https://www.linkedin.com/in/ebubeker-rexha-3528bb1a2'
-  twitter: ''
-  bio:
-    de: 'Als Front-End Developer ist Ebubeker technikbegeistert und stets motiviert, Neues zu lernen,  und seine Fähigkeiten zu verbessern. Damit trägt er zu Lösungen bei, welche die Gesellschaft nachhaltig verbessern.'
-    en: 'As front-end developer, Ebubeker is passionate about technology and always motivated to learn new things and improve his skills. In doing so, he contributes to solutions that sustainably improve society.'
-- username: farhadi
-  name: Sina Farhadi
-  title:
-    en: Software Developer
-    de: Software-Entwickler
-  image: ""
-  team_member: true
-  team_image: "/images/team/team_farhadi.webp"
-  github: 'https://github.com/cinaaaa'
-  website: 'https://sinafarhadi.medium.com'
-  mail: ''
-  linkedin: 'https://linkedin.com/in/sina-farhadi'
-  twitter: 'https://twitter.com/cinaaaaaaa_'
-  bio:
-    de: 'Begeisterter Frontend-Entwickler, der mit 15 Jahren mit dem Programmieren begonnen hat und jetzt 19 Jahre alt ist. Er liebt es zu basteln und über Technik zu schreiben und schreibt derzeit auf Medium & FreeCodeCamp.'
-    en: 'Eager frontend developer who started coding from 15 until now who is 19, likes to craft and write technology things, currently writing on Medium & FreeCodeCamp.'
-
-

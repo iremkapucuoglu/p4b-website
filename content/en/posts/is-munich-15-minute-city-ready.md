@@ -4,9 +4,9 @@ categories = []
 date = 2022-07-12T22:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
 summary = ""
-thumbnail = ""
+thumbnail = "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
 title = "Is Munich 15-minute city ready? "
 translationKey = "15_minutes_city_munich"
 

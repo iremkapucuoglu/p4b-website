@@ -31,7 +31,7 @@ _Image 1: Screenshot of 15-minute walking radius’ in districts: Giesing, Neupe
 
 ### Using GOAT for a 15-minute city analysis in Munich
 
-GOAT offers helpful features to get started on a 15-minute city analysis. These include POI and Heatmap analyses. We can then use different features to target areas with higher accessibility and services over others.
+[GOAT](/goat/ "What is GOAT?") offers helpful features to get started on a 15-minute city analysis. These include POI and Heatmap analyses. We can then use different features to target areas with higher accessibility and services over others.
 
 ![](/images/bildschirmfoto-von-2022-07-13-11-38-13.png)
 

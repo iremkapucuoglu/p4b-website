@@ -35,7 +35,7 @@ _Bild 1: Screenshot von 15 Minuten Gehradius» in den Ortsteilen Giesing, Neuper
 
 ### 15-minütige Stadtanalyse in München mit GOAT
 
-GOAT bietet hilfreiche Funktionen für den Einstieg in eine 15-Minuten Stadtanalyse. Dazu gehören POI- und Heatmap- Analysen. Wir können dann verschiedene Funktionen verwenden, um Bereiche mit besserer Erreichbarkeit und Dienstleistungen als andere darzustellen.
+[GOAT](/goat/ "Was ist GOAT?") bietet hilfreiche Funktionen für den Einstieg in eine 15-Minuten Stadtanalyse. Dazu gehören POI- und Heatmap- Analysen. Wir können dann verschiedene Funktionen verwenden, um Bereiche mit besserer Erreichbarkeit und Dienstleistungen als andere darzustellen.
 
 ![](/images/bildschirmfoto-von-2022-07-13-11-38-13.png)
 

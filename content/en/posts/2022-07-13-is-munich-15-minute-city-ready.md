@@ -1,20 +1,16 @@
-+++
-author = ""
-categories = []
-date = 2022-07-12T22:00:00Z
-description = "GOAT as a planning tool is a suitable instrument for implementing and planning a 15-minute city. Read here what constitutes a 15-minute city and whether the city of Munich is ready for it. "
-draft = true
-image = "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
-summary = ""
-thumbnail = "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
-title = "Is Munich 15-minute city ready? "
-translationKey = "15_minutes_city_munich"
+---
+author : "reynartz"
+categories : [other]
+date : 2022-07-12T22:00:00Z
+description : "GOAT as a planning tool is a suitable instrument for implementing and planning a 15-minute city. Read here what constitutes a 15-minute city and whether the city of Munich is ready for it. "
+draft : false
+image : "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
+summary : "GOAT as a planning tool is a suitable instrument for implementing and planning a 15-minute city. Read here what constitutes a 15-minute city and whether the city of Munich is ready for it."
+thumbnail : "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
+title : "Is Munich 15-minute city ready? "
+translationKey : "15_minutes_city_munich"
 
-+++
-# **Is Munich 15-minute city ready?**
-
-![](/images/bildschirmfoto-von-2022-07-13-11-37-39.png)
-
+---
 ## **What is the 15-minutes city?**
 
 Munich is currently pressed with issues of traffic congestion and housing shortages. It’s expected that by 2030, there will be a continuous rush hour flow between 6 a.m. and 9 p.m. for car traffic if the modal share remains the same and the population continues to see an increase (Hutter, 2018). The discussion on public transit, walking, and cycling is growing louder with every coming year (Landeshauptstadt München, 2022). This issue accompanies construction plans for further densification and housing expansion works across the city. With this combination of issues, we’d propose a 15-minute city inspiration as a guide to bring accessibility to the forefront for Munich’s future.

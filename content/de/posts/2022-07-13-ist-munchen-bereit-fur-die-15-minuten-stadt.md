@@ -1,20 +1,16 @@
-+++
-author = ""
-categories = []
-date = 2022-07-12T22:00:00Z
-description = "GOAT als Planungstool ist ein geeignetes Instrument für das Umsetzen und Planen einer 15-Minuten-Stadt. Lesen Sie hier was eine 15-Minuten Stadt ausmacht und ob die Stadt München bereit dafür ist. "
-draft = true
-image = "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
-summary = ""
-thumbnail = "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
-title = "Ist München bereit für die 15-Minuten Stadt?"
-translationKey = "15_minutes_city_munich"
+---
+author : "reynartz"
+categories : [other]
+date : 2022-07-12T22:00:00Z
+description : "GOAT als Planungstool ist ein geeignetes Instrument für das Umsetzen der 15-Minuten-Stadt. Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München bereit dafür ist. "
+draft : false
+image : "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
+summary : "GOAT als Planungstool ist ein geeignetes Instrument für das Umsetzen der 15-Minuten-Stadt. Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München bereit dafür ist. "
+thumbnail : "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
+title : "Ist München bereit für die 15-Minuten Stadt?"
+translationKey : "15_minutes_city_munich"
 
-+++
-# **Ist München bereit für die 15-Minuten Stadt?**
-
-![](/images/bildschirmfoto-von-2022-07-13-11-37-39.png)
-
+---
 ## **Was ist die 15-Minuten Stadt?**
 
 München steht derzeit unter Druck durch Probleme wie Verkehrsstaus und Wohnungsnot. Für den Pkw-Verkehr wird bis 2030 ein kontinuierlicher Rush-Hour-Verkehr zwischen 6 und 21 Uhr erwartet, wenn der Modal Split unverändert bleibt und die Bevölkerung weiter zunimmt (Hutter, 2018). Die Diskussion um öffentliche Verkehrsmittel, Fußgänger und Radfahrer wird von Jahr zu Jahr lauter (Landeshauptstadt München, 2022). Dieses Problem geht einher mit Bauplänen für weitere Verdichtungs- und Wohnungsbauvorhaben in der gesamten Stadt. Aufgrund dieser Kombination von Problemen schlagen wir eine 15-Minuten Stadt Inspiration als Leitfaden vor, um die Erreichbarkeit für Münchens Zukunft in den Vordergrund zu rücken.

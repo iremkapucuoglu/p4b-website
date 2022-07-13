@@ -2,7 +2,7 @@
 author = ""
 categories = []
 date = 2022-07-12T22:00:00Z
-description = ""
+description = "GOAT als Planungstool ist ein geeignetes Instrument für das Umsetzen und Planen einer 15-Minuten-Stadt. Lesen Sie hier was eine 15-Minuten Stadt ausmacht und ob die Stadt München bereit dafür ist. "
 draft = true
 image = "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
 summary = ""

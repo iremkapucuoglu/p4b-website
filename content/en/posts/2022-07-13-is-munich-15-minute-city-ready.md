@@ -1,14 +1,18 @@
 ---
-author : "reynartz"
-categories : [other]
-date : 2022-07-12T22:00:00Z
-description : "GOAT as a planning tool is a suitable instrument for implementing and planning a 15-minute city. Read here what constitutes a 15-minute city and whether the city of Munich is ready for it. "
-draft : false
-image : "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
-summary : "GOAT as a planning tool is a suitable instrument for implementing and planning a 15-minute city. Read here what constitutes a 15-minute city and whether the city of Munich is ready for it."
-thumbnail : "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
-title : "Is Munich 15-minute city ready? "
-translationKey : "15_minutes_city_munich"
+author: reynartz
+categories:
+- other
+date: 2022-07-12T22:00:00.000+00:00
+description: 'GOAT as a planning tool is a suitable instrument for implementing and
+  planning a 15-minute city. Read here what constitutes a 15-minute city and whether
+  the city of Munich is ready for it. '
+image: "/images/bildschirmfoto-von-2022-07-14-09-07-24.png"
+summary: GOAT as a planning tool is a suitable instrument for implementing and planning
+  a 15-minute city. Read here what constitutes a 15-minute city and whether the city
+  of Munich is ready for it.
+thumbnail: "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
+title: 'Is Munich 15-minute city ready? '
+translationKey: 15_minutes_city_munich
 
 ---
 ## What is the 15-minutes city?

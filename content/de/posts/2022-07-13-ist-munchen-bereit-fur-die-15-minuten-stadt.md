@@ -17,9 +17,9 @@ translationKey: 15_minutes_city_munich
 ---
 ## Was ist die 15-Minuten Stadt?
 
-München steht derzeit unter Druck durch Probleme wie Verkehrsstaus und Wohnungsnot. Für den Pkw-Verkehr wird bis 2030 ein kontinuierlicher Rush-Hour-Verkehr zwischen 6 und 21 Uhr erwartet, wenn der Modal Split unverändert bleibt und die Bevölkerung weiter zunimmt (Hutter, 2018). Die Diskussion um öffentliche Verkehrsmittel, Fußgänger:innen und Radfahrer:innen wird von Jahr zu Jahr lauter (Landeshauptstadt München, 2022). Dieses Problem geht einher mit Bauplänen für weitere Verdichtungs- und Wohnungsbauvorhaben in der gesamten Stadt. Aufgrund dieser Kombination von Problemen schlagen wir eine 15-Minuten Stadt Inspiration als Leitfaden vor, um die Erreichbarkeit für Münchens Zukunft in den Vordergrund zu rücken.
+München steht derzeit unter Druck durch Probleme wie Verkehrsstaus und Wohnungsnot. Für den Pkw-Verkehr wird bis 2030 ein kontinuierlicher Rush-Hour-Verkehr zwischen 6 und 21 Uhr erwartet, wenn der Modal Split unverändert bleibt und die Bevölkerung weiter zunimmt (Hutter, 2018). Die Diskussion um öffentliche Verkehrsmittel, Fuß- und Radverkehr wird von Jahr zu Jahr lauter (Landeshauptstadt München, 2022). Dieses Problem geht einher mit Bauplänen für weitere Verdichtungs- und Wohnungsbauvorhaben in der gesamten Stadt. Aufgrund dieser Kombination von Problemen schlagen wir eine 15-Minuten Stadt Inspiration als Leitfaden vor, um die Erreichbarkeit für Münchens Zukunft in den Vordergrund zu rücken.
 
-Carlos Moreno prägte den Begriff «15-Minuten-Stadt» bei der Planung von Projekten mit der Stadt Paris, die seine Idee als Inspirationsquelle für viele rasante Veränderungen in der Stadt verwendete (Moreno, 2019). Dieser Wandel folgt dem Übergang von einer «monofunktionalen» Stadt zu einer «polyzentrischen» Stadt, die auf _Nähe, Vielfalt, Dichte und Erreichbarkeit_ basiert, um die sechs wesentliche städtische Funktionen (**Wohnen, Arbeiten, Versorgung, Fürsorge, Lernen und Erholung)** zu verbinden und qualitätsmäßig zu verbessern(Petzer, 2021). Im Wesentlichen ist die 15-Minuten Stadt ein Schwellenwert für die Umwandlung von Vierteln in Bereiche, in denen Sie alle grundlegenden Bedürfnisse und Dienstleistungen innerhalb von 15 Minuten zu Fuß oder mit dem Fahrrad (und in einigen Fällen auch mit öffentlichen Verkehrsmitteln) erreichen können. Die Herausforderung für eine(n) Planer:in ist dann, wie man eine 15-Minuten Stadt plant, welche Variablen zu berücksichtigen sind und wie und wo der Prozess beginnt. Als Anbieter eines digitalen Planungstools sind wir für Sie da!
+Carlos Moreno prägte den Begriff «15-Minuten-Stadt» bei der Planung von Projekten mit der Stadt Paris, die seine Idee als Inspirationsquelle für viele rasante Veränderungen in der Stadt verwendete (Moreno, 2019). Dieser Wandel folgt dem Übergang von einer «monofunktionalen» Stadt zu einer «polyzentrischen» Stadt, die auf _Nähe, Vielfalt, Dichte und Erreichbarkeit_ basiert, um die sechs wesentliche städtische Funktionen (**Wohnen, Arbeiten, Versorgung, Fürsorge, Lernen und Erholung)** zu verbinden und qualitätsmäßig zu verbessern (Petzer, 2021). Im Wesentlichen ist die 15-Minuten Stadt ein Schwellenwert für die Umwandlung von Vierteln in Bereiche, in denen Sie alle grundlegenden Bedürfnisse und Dienstleistungen innerhalb von 15 Minuten zu Fuß oder mit dem Fahrrad (und in einigen Fällen auch mit öffentlichen Verkehrsmitteln) erreichen können. Die Herausforderung für eine(n) Planer:in ist dann, wie man eine 15-Minuten Stadt plant, welche Variablen zu berücksichtigen sind und wie und wo der Prozess beginnt. Als Anbieter eines digitalen Planungstools sind wir für Sie da!
 
 ### Points of Interests und Stadtviertel
 
@@ -31,17 +31,17 @@ Durch die Betrachtung Münchens aus dem Blickwinkel der «Sub -Zentren» ist ein
 
 ![](/images/bildschirmfoto-von-2022-07-13-11-37-52.png)
 
-_Bild 1: Screenshot von 15 Minuten Gehradius» in den Ortsteilen Giesing, Neuperlach, Sendling, Schwabing und Moosach_
+_Bild 1: Screenshot eines 15 Minuten "Gehradius" in den Ortsteilen Giesing, Neuperlach, Sendling, Schwabing und Moosach_
 
-### 15-minütige Stadtanalyse in München mit GOAT
+### 15-Minuten Stadtanalyse in München mit GOAT
 
-[GOAT](/goat/ "Was ist GOAT?") bietet hilfreiche Funktionen für den Einstieg in eine 15-Minuten Stadtanalyse. Dazu gehören POI- und Heatmap- Analysen. Wir können dann verschiedene Funktionen verwenden, um Bereiche mit besserer Erreichbarkeit und Dienstleistungen als andere darzustellen.
+[GOAT](/goat/ "Was ist GOAT?") bietet hilfreiche Funktionen für den Einstieg in eine 15-Minuten Stadtanalyse. Dazu gehören POI- und Heatmap- Analysen. Wir können dann verschiedene Funktionen verwenden, um Bereiche mit besserer Erreichbarkeit und Dienstleistungen im Vergleich darzustellen.
 
 ![](/images/bildschirmfoto-von-2022-07-13-11-38-13.png)
 
 _Bild 2: Screenshot der Zählungen von Bezirkseinrichtungen (POIs)_
 
-Durch einen genaueren Blick auf die POI-Zählungen für jeden Stadtteil können wir herausfinden, wie viele Einrichtungen den Bewohner:innen der jeweiligen Nachbarschaft zur Verfügung stehen. Wie wir in Bild 2 sehen können, hat Schwabing den größten Anteil im Bereich der Bezirkseinrichtungen. Da Schwabing eines der dichtesten Wohngebiete der Stadt ist, profitiert es auch von einer integrierten Mischnutzung mit Bars, Restaurants und weiteren Geschäften in Straßennähe. Allerdings liegt Giesing nicht weit unterhalb in der Einwohnerzahl und hat jedoch viermal weniger Einrichtungen als Schwabing. Dadurch müssen sich die Bewohner:innen über die Bezirksgrenzen hinweg bewegen, um die gewünschten Ziele zu erreichen. Die Dezentralisierung Münchens wirft Fragen nach Mobilität, Erreichbarkeit und wirtschaftlicher Entwicklung auf.
+Durch einen genaueren Blick auf die POI-Zählungen für jeden Stadtteil können wir herausfinden, wie viele Einrichtungen den Bewohner:innen der jeweiligen Nachbarschaft zur Verfügung stehen. Wie wir in Bild 2 sehen können, hat Schwabing den größten Anteil im Bereich der Bezirkseinrichtungen. Da Schwabing eines der dichtesten Wohngebiete der Stadt ist, profitiert es auch von einer integrierten Mischnutzung aus Bars, Restaurants und weiteren Geschäften in Straßennähe. Allerdings liegt Giesing nicht weit unterhalb in der Einwohnerzahl, hat jedoch viermal weniger Einrichtungen als Schwabing. Dadurch müssen sich die Bewohner:innen über die Bezirksgrenzen hinweg bewegen, um die gewünschten Ziele zu erreichen. Die Dezentralisierung Münchens wirft Fragen nach Mobilität, Erreichbarkeit und wirtschaftlicher Entwicklung auf.
 
 ![](/images/bildschirmfoto-von-2022-07-14-09-16-25.png)
 
@@ -51,7 +51,7 @@ _Bild 3: Screenshot der Erreichbarkeit in München_
 
 _Bild 4: Screenshot von Bars und anderen Freizeitaktivitäten in der Stadt_
 
-Einige POIs, vor allem diejenigen, die von der Gemeinde verwaltet werden, wie Schulen, sind sehr gut über die Stadt verteilt (Abbildung 3). Andere POIs, wie Bars oder Freizeitaktivitäten wie Kinos und Museen, sind jedoch vor allem innerhalb der Innenstadt verteilt (Bild 4). Die ungleiche Verteilung der POIs kann zu einem Mangel an vielfältigen Optionen und mehr Mobilität außerhalb der Bezirke führen, was zur Folge hat, dass mehr Autos auf den Straßen fahren und mehr Menschen eine bessere Verkehrsinfrastruktur fordern. Um den 15-Minuten-Status zu erreichen, kann uns ein Blick auf die Verteilung der POIs in der Stadt helfen, Bereiche zu identifizieren, die verbesserungswürdig sind.
+Einige POIs, vor allem diejenigen, die von der Gemeinde verwaltet werden, wie Schulen, sind sehr gut über die Stadt verteilt (Abbildung 3). Andere POIs, wie beispielsweise Bars oder Freizeitaktivitäten wie Kinos und Museen, sind jedoch vor allem innerhalb der Innenstadt verteilt (Bild 4). Die ungleiche Verteilung der POIs kann zu einem Mangel an vielfältigen Optionen und mehr Mobilität außerhalb der Bezirke führen, was zur Folge hat, dass mehr Autos auf den Straßen fahren und mehr Menschen eine bessere Verkehrsinfrastruktur fordern. Um den 15-Minuten-Status zu erreichen, kann uns ein Blick auf die Verteilung der POIs in der Stadt helfen, Bereiche zu identifizieren, die verbesserungswürdig sind.
 
 ## Ist München bereit für die 15-Minuten Stadt?
 

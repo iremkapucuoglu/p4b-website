@@ -35,6 +35,3 @@ fields:
   name: author
   label: Author
   description: Enter username from authors settings.
-pages:
-- content/de/posts/ist-munchen-bereit-fur-die-15-minuten-stadt.md
-- content/en/posts/is-munich-15-minute-city-ready.md

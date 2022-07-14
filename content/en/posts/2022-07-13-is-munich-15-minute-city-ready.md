@@ -43,8 +43,10 @@ _Image 2: Screenshot of District Amenity (POIs) counts_
 
 By taking a closer look at the POI counts for each district, we can find how many amenities are available to residents in each neighborhood. As we can see in Image 2, Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing is not far in population count and still has four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities. Decentralizing Munich will raise questions regarding mobility, accessibility, and economic development as the issues of traffic persist.
 
-![](/images/bildschirmfoto-von-2022-07-13-11-38-33.png)  
+![](/images/bildschirmfoto-von-2022-07-14-09-16-25.png)  
 _Image 3: Screenshot of School Accessibility in Munich_
+
+![](/images/bildschirmfoto-von-2022-07-14-09-17-15.png)
 
 _Image 4: Screenshot of Bars and other recreational activities in the city_
 

@@ -6,7 +6,7 @@ date: 2022-07-12T22:00:00.000+00:00
 description: 'GOAT als Planungstool ist ein geeignetes Instrument für das Umsetzen
   der 15-Minuten-Stadt. Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die
   Landeshauptstadt München bereit dafür ist. '
-image: "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
+image: "/images/bildschirmfoto-von-2022-07-14-09-07-24.png"
 summary: 'GOAT als Planungstool ist ein geeignetes Instrument für das Umsetzen der
   15-Minuten-Stadt. Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt
   München bereit dafür ist. '
@@ -43,8 +43,11 @@ _Bild 2: Screenshot der Zählungen von Bezirkseinrichtungen (POIs)_
 
 Durch einen genaueren Blick auf die POI-Zählungen für jeden Stadtteil können wir herausfinden, wie viele Einrichtungen den Bewohner:innen der jeweiligen Nachbarschaft zur Verfügung stehen. Wie wir in Bild 2 sehen können, hat Schwabing den größten Anteil im Bereich der Bezirkseinrichtungen. Da Schwabing eines der dichtesten Wohngebiete der Stadt ist, profitiert es auch von einer integrierten Mischnutzung mit Bars, Restaurants und weiteren Geschäften in Straßennähe. Allerdings liegt Giesing nicht weit unterhalb in der Einwohnerzahl und hat jedoch viermal weniger Einrichtungen als Schwabing. Dadurch müssen sich die Bewohner:innen über die Bezirksgrenzen hinweg bewegen, um die gewünschten Ziele zu erreichen. Die Dezentralisierung Münchens wirft Fragen nach Mobilität, Erreichbarkeit und wirtschaftlicher Entwicklung auf.
 
-![](/images/bildschirmfoto-von-2022-07-13-11-38-33.png)  
+![](/images/bildschirmfoto-von-2022-07-14-09-16-25.png)
+
 _Bild 3: Screenshot der Erreichbarkeit in München_
+
+![](/images/bildschirmfoto-von-2022-07-14-09-17-15.png)
 
 _Bild 4: Screenshot von Bars und anderen Freizeitaktivitäten in der Stadt_
 

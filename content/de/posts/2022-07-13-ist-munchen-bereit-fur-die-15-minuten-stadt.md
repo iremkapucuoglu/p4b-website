@@ -55,7 +55,9 @@ _Abbildung 3: Screenshot der Erreichbarkeit in München_
 
 _Abbildung 4: Screenshot von Bars und anderen Freizeitaktivitäten in der Stadt_
 
-Einige POIs, vor allem diejenigen, die von der Gemeinde verwaltet werden, wie Schulen, sind sehr gut über die Stadt verteilt (Abbildung 3). Andere POIs, wie beispielsweise Bars oder Freizeitaktivitäten wie Kinos und Museen, sind jedoch vor allem innerhalb der Innenstadt verteilt (Abbildung 4). Die ungleiche Verteilung der POIs kann zu einem Mangel an vielfältigen Optionen und mehr Mobilität außerhalb der Bezirke führen, was zur Folge hat, dass mehr Autos auf den Straßen fahren und mehr Menschen eine bessere Verkehrsinfrastruktur fordern. Um den 15-Minuten-Status zu erreichen, kann uns ein Blick auf die Verteilung der POIs in der Stadt helfen, Bereiche zu identifizieren, die verbesserungswürdig sind.
+Einige POIs, vor allem diejenigen, die von der Gemeinde verwaltet werden, wie Schulen, sind sehr gut über die Stadt verteilt (Abbildung 3). Andere POIs, wie beispielsweise Bars, Kinos und Museen, sind jedoch vor allem in der Innenstadt zu finden (Abbildung 4). Die ungleiche Verteilung der POIs führt dazu, dass einige Menschen dorthin weite Wege zurücklegen müssen, die über akzeptable Entfernungen zu Fuß oder mit dem Fahrrad hinaus gehen.
+
+Diese Wege werden oftmals mit dem Auto zurückgelegt, was Stau, Lärm, Luftverschmutzung und hohen Flächenverbrauch u.a. durch Parkflächen zur Folge hat. Um den 15-Minuten-Status und lebenswerte Räume zu erzielen, ist es daher essentiell die POIs fair über die Stadt zu verteilen. 
 
 ## Ist München bereit für die 15-Minuten-Stadt?
 

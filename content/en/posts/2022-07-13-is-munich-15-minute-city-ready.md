@@ -1,5 +1,5 @@
 ---
-author: reynartz
+author: hall
 categories:
 - other
 date: 2022-07-12T22:00:00.000+00:00
@@ -21,7 +21,7 @@ Munich is currently pressed with issues of traffic congestion and housing shorta
 
 Carlos Moreno coined the term “15-minute city” in planning projects with the City of Paris, which has taken his idea as a source of inspiration for a lot of rapid change in the city (Moreno, 2019). This shift is adhering to the transition from a “mono-functional” city to a “polycentric” city based on _proximity, diversity, density and ubiquity_ to bind and offer greater quality to six essential urban functions: **living, working, supplying, caring, learning, and enjoying** (Petzer, 2021)**.** In essence, the 15-minute city is a threshold for transforming neighborhoods into areas where you can reach all basic needs and services within a 15-minute walk or bike (and in some instances, public transport). As a planner, the challenge is then how to plan for a 15-minute city, what variables to consider, and how and where to begin the process. As a digital planning tool supplier, we are here to help!
 
-### Points of Interests and Districts
+## Sub-Centralities
 
 Points of Interest (POIs) can be used as a great unit of measure for urban functional areas and urban ’vibrancy,’ given mixed-use areas are not easily covered by general land use designation (Yue et al., 2017). POIs have no standard definition but are generally places or facilities where human activity occurs (Chen et al., 2019). That is, restaurants, hairdressers, bakeries, clothing stores, pharmacies, schools, supermarkets, bars, gyms, etc. GOAT includes much of this data sourced from OpenStreetMap and others.
 
@@ -33,7 +33,7 @@ By looking at Munich through the lens of ‘sub-centralities’ a better analysi
 
 _Image 1: Screenshot of 15-minute walking radius’ in districts: Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
 
-### Using GOAT for a 15-minute city analysis in Munich
+## GOAT Analysis for Munich
 
 [GOAT](/goat/ "What is GOAT?") offers helpful features to get started on a 15-minute city analysis. These include POI and Heatmap analyses. We can then use different features to target areas with higher accessibility and services over others.
 
@@ -54,7 +54,7 @@ _Image 4: Screenshot of Bars and other recreational activities in the city_
 
 Some POIs, especially those managed by the municipality, such as schools, are very well distributed across the city (Image 3). However, other POIs, such as bars and other recreational activities such as cinemas and museums, are distributed primarily within the inner city (Image 4). The issue of uneven POI distribution can mean a lack of diverse options and may result in more mobility outside of districts, resulting in more cars on the road, and more people demanding better transport infrastructure. In order to achieve the 15-minute city status, a look at POI distribution throughout the city can assist us to target areas that could use improvements.
 
-## Is Munich 15-minutes ready?
+## Is Munich 15-minute-city ready?
 
 In order to answer the question “is Munich 15-minute city ready?” one must look deeper at the district level, research the history of neighborhood developments in the city, and answer the concerns which are presented from the analysis. Taking the quality of cycling and walking into account is not to be neglected, as it makes a big difference in what mode of transport residents will choose to use. The 15-minute city ideally considers that most, if not all, amenities are found within a 15-minute radius. For now, Munich may be 15-minute city prepared but to be ready will require direct policy change, planning, and great tools for analysis. This is where we hope to help! Do you also want to help get your municipality 15-minute city ready? Don’t hesitate to contact us!
 

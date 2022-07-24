@@ -17,9 +17,7 @@ translationKey: 15_minutes_city_munich
 ---
 ## Was ist die 15-Minuten-Stadt?
 
-München steht derzeit unter Druck durch Probleme wie Verkehrsstaus und Wohnungsnot. Um weiteren Wohnraum zuschaffen sind weitere Verdichtungs- und Wohnungsbauvorhaben in der gesamten Stadt geplant. Für den Pkw-Verkehr wird bis 2030 ein kontinuierlicher Rush-Hour-Verkehr zwischen 6 und 21 Uhr erwartet, wenn der Modal Split unverändert bleibt und die Bevölkerung weiter zunimmt (Hutter, 2018). 
-
-Der Ruf nach öffentlichen Verkehrsmitteln und guter Fuß- und Radwegeinfrastruktur wird von Jahr zu Jahr lauter (Landeshauptstadt München, 2022). Aufgrund dieser Kombination von Herausforderungen schlagen wir die 15-Minuten-Stadt als Vision und Insipration vor, um die Erreichbarkeit für Münchens Zukunft in den Vordergrund zu rücken.
+Die Landeshauptstadt München steht derzeit unter Druck durch Probleme wie Verkehrsstaus und Wohnungsnot. Der Ruf nach dem Ausbau öffentlichen Verkehrsmitteln und guter Fuß- und Radwegeinfrastruktur wird von Jahr zu Jahr lauter (Landeshauptstadt München, 2022). Wir schlagen die 15-Minuten-Stadt als Vision und Insipration vor, um die Erreichbarkeit für Münchens Zukunft in den Vordergrund zu rücken.
 
 Carlos Moreno prägte den Begriff «**15-Minuten-Stadt**» bei der Planung von Projekten mit der Stadt Paris, die seine Idee als Inspirationsquelle für viele rasante Veränderungen in der Stadt verwendete (Moreno, 2019). Dieser Wandel folgt dem Übergang von einer «monofunktionalen» Stadt zu einer «polyzentrischen» Stadt, die auf _Nähe, Vielfalt, Dichte und Erreichbarkeit_ basiert, um die sechs wesentliche städtische Funktionen (_Wohnen, Arbeiten, Versorgung, Fürsorge, Lernen und Erholung_) zu verbinden und qualitätsmäßig zu verbessern (Petzer, 2021). 
 
@@ -61,7 +59,11 @@ Diese Wege werden oftmals mit dem Auto zurückgelegt, was Stau, Lärm, Luftversc
 
 ## Ist München bereit für die 15-Minuten-Stadt?
 
-Um die Frage «Ist München bereit für eine 15 Minuten Stadt ?» zu beantworten, muss man tiefer in die Quartiersebene blicken, die Geschichte der Quartiersentwicklung in der Stadt erforschen und die in der Analyse vorgebrachten Anliegen beantworten. Die Berücksichtigung der Qualität des Rad- und Fußverkehrs ist nicht zu vernachlässigen, da es einen großen Unterschied für die Wahl des Verkehrsmittels der Anwohner ausmacht. Die 15-Minuten-Stadt denkt idealerweise, dass die meisten, wenn nicht alle, Einrichtungen innerhalb eines 15-minütigen Radius zu finden sind. Für den Moment mag München vorbereitet für eine 15-Minuten-Stadt erscheinen, aber um wirklich bereit zu sein, bedarf es direkter politischer Veränderungen, Planung und großartigen Analysetools. Hier wollen wir helfen! Möchten Sie auch helfen, Ihre Gemeinde bereit für die 15 Minuten Stadt zu machen? [Sprechen Sie uns an!](/kontakt "Kontakt zu Plan4Better")
+Zusammenfassend lässt sich sagen, dass die Landeshauptstadt München das Potential hat, eine 15-Minuten-Stadt zu werden. Einige Stadtteile sind bereits "readier" als andere. 
+
+Der Fakt, dass nahe Ziele im Sinne der 15-Minuten-Stadt Teil der kürzlich vorgestellten [Mobilitätstrategie 2035](https://www.mobilitaetsstrategie2035.de/sites/default/files/downloads/2035-magazin-web-final.pdf "Mobilitätsstrategie 2035") sind, bringt Hoffnung. Das Thema steht bei der Landeshauptstadt München auf der Agenda und soll in den nächsten Jahren verstärkt angegangen werden. Wir stehen hierbei mit unserer Planungssoftware GOAT zur Seite und freuen uns, wo immer möglich, unterstützen zu können! 
+
+Möchten Sie auch Ihre Stadt lebenswerter gestalten und die Vision der 15-Minuten-Stadt in die Realität umsetzen? Dann [sprechen Sie uns gerne an!](/kontakt "Kontakt zu Plan4Better")
 
 ## Referenzen
 

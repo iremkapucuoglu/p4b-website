@@ -17,9 +17,11 @@ translationKey: 15_minutes_city_munich
 ---
 ## What is the 15-minutes city?
 
-Munich is currently pressed with issues of traffic congestion and housing shortages. It’s expected that by 2030, there will be a continuous rush hour flow between 6 a.m. and 9 p.m. for car traffic if the modal share remains the same and the population continues to see an increase (Hutter, 2018). The discussion on public transit, walking, and cycling is growing louder with every coming year (Landeshauptstadt München, 2022). This issue accompanies construction plans for further densification and housing expansion works across the city. With this combination of issues, we’d propose a 15-minute city inspiration as a guide to bring accessibility to the forefront for Munich’s future.
+Munich is currently pressed with issues of traffic congestion and housing shortages. The discussion on public transit, walking, and cycling is growing louder with every coming year (Landeshauptstadt München, 2022). We’d propose the 15-minute city as vision and inspiration to bring accessibility to the forefront for Munich’s future.
 
-Carlos Moreno coined the term “15-minute city” in planning projects with the City of Paris, which has taken his idea as a source of inspiration for a lot of rapid change in the city (Moreno, 2019). This shift is adhering to the transition from a “mono-functional” city to a “polycentric” city based on _proximity, diversity, density and ubiquity_ to bind and offer greater quality to six essential urban functions: **living, working, supplying, caring, learning, and enjoying** (Petzer, 2021)**.** In essence, the 15-minute city is a threshold for transforming neighborhoods into areas where you can reach all basic needs and services within a 15-minute walk or bike (and in some instances, public transport). As a planner, the challenge is then how to plan for a 15-minute city, what variables to consider, and how and where to begin the process. As a digital planning tool supplier, we are here to help!
+Carlos Moreno coined the term <<**15-minute city**>> in planning projects with the City of Paris, which has taken his idea as a source of inspiration for a lot of rapid change in the city (Moreno, 2019). This shift is adhering to the transition from a “mono-functional” city to a “polycentric” city based on _proximity, diversity, density and ubiquity_ to bind and offer greater quality to six essential urban functions: **living, working, supplying, caring, learning, and enjoying** (Petzer, 2021). 
+
+The **vision** of the 15-minute city is that all residents have access to their daily needs within 15 min walking or cycling (and public transport as supplementing addition). As a planner, the challenge is then how to plan for a 15-minute city, what variables to consider, and how and where to begin the process. As developer of the digital planning software [GOAT](../../goat "What is GOAT?"), we are here to help!
 
 ## Sub-Centralities
 
@@ -27,22 +29,21 @@ Points of Interest (POIs) can be used as a great unit of measure for urban funct
 
 Urban vibrancy in our case, can be the level of “intensity of people’s concentration” (p. 660, Yue et al., 2017). Simply put, where the people **_want to go_**. Similarly, urban functional areas can be determined by the distribution and interrelation of POIs (Hu & Han, 2019). Identifying urban functional areas can help determine the starting point of construction as well as the process of development throughout the years (Hu & Han, 2019).
 
-By looking at Munich through the lens of ‘sub-centralities’ a better analysis of the 15-minute city is achievable (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Sub-centralities, in our case, take the form of designated districts within Munich, which form the layer from which POIs can be applied to. We chose the districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach to compare the distribution of POIs across the district populations that fall within a 15-minute walking radius.
+By looking at Munich through the lens of ‘sub-centralities’ a better analysis of the 15-minute city is achievable (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Sub-centralities, in our case, take the form of designated districts within Munich. We chose the districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach to compare the distribution of POIs across the district populations that fall within a 15-minute walking radius.
 
-![](/images/bildschirmfoto-von-2022-07-13-11-37-52.png)
+![15 minute isochrones](/images/bildschirmfoto-von-2022-07-13-11-37-52.png)
 
 _Image 1: Screenshot of 15-minute walking radius’ in districts: Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
 
 ## GOAT Analysis for Munich
 
-[GOAT](/goat/ "What is GOAT?") offers helpful features to get started on a 15-minute city analysis. These include POI and Heatmap analyses. We can then use different features to target areas with higher accessibility and services over others.
+GOAT offers helpful features to perform 15-minute city analyses. Image 2 shows the summarized results of the POI analysis per district. It shows how many destinations are each accessible within the 15 minute walking radius.
 
-![](/images/bildschirmfoto-von-2022-07-13-11-38-13.png)
+![Aggregated POI results](/images/bildschirmfoto-von-2022-07-13-11-38-13.png)
 
-_Image 2: Screenshot of District Amenity (POIs) counts_
+_Image 2: Accessible destinations within 15 minutes_
 
-By taking a closer look at the POI counts for each district, we can find how many amenities are available to residents in each neighborhood. As we can see in Image 2, Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing is not far in population count and still has four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities. Decentralizing Munich will raise questions regarding mobility, accessibility, and economic development as the issues of traffic persist.
-
+Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing is not far in population count and still has four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities. 
   
 ![](/images/bildschirmfoto-von-2022-07-14-09-49-30.png)
 
@@ -52,7 +53,9 @@ _Image 3: Screenshot of School Accessibility in Munich_
 
 _Image 4: Screenshot of Bars and other recreational activities in the city_
 
-Some POIs, especially those managed by the municipality, such as schools, are very well distributed across the city (Image 3). However, other POIs, such as bars and other recreational activities such as cinemas and museums, are distributed primarily within the inner city (Image 4). The issue of uneven POI distribution can mean a lack of diverse options and may result in more mobility outside of districts, resulting in more cars on the road, and more people demanding better transport infrastructure. In order to achieve the 15-minute city status, a look at POI distribution throughout the city can assist us to target areas that could use improvements.
+Some POIs, especially those managed by the municipality, such as schools, are very well distributed across the city (Image 3). However, other POIs, such as bars and other recreational activities such as cinemas and museums, are distributed primarily within the inner city (Image 4). 
+
+The issue of uneven POI distribution can mean a lack of diverse options and may result in more mobility outside of districts, resulting in more cars on the road, and more people demanding better transport infrastructure. In order to achieve the 15-minute city status, a look at POI distribution throughout the city can assist us to target areas that could use improvements.
 
 ## Is Munich 15-minute-city ready?
 

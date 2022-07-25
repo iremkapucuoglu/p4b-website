@@ -2,15 +2,15 @@
 author: reynartz
 categories:
 - other
-date: 2022-07-12T22:00:00.000+00:00
+date: 2022-07-25T10:00:00.000+00:00
 description: 'GOAT ist ein Planungsinstrument zur Umsetzung der 15-Minuten-Stadt.
   Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München
   bereit dafür ist. '
-image: "/images/living-3.webp"
+image: "/images//blog/muc-15mincity/banner.webp"
 summary: GOAT ist ein Planungsinstrument zur Umsetzung der 15-Minuten-Stadt. Lesen
   Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München
   bereit dafür ist.
-thumbnail: "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
+thumbnail: "/images//blog/muc-15mincity/thumbnail.webp"
 title: Ist München bereit für die 15-Minuten-Stadt?
 translationKey: 15_minutes_city_munich
 
@@ -31,7 +31,7 @@ Städtische Lebendigkeit kann in unserem Fall das Level der «Intensität von Me
 
 Durch die Betrachtung Münchens aus dem Blickwinkel der «Sub-Zentren» ist eine bessere Analyse der 15-Minuten-Stadt möglich (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Wir haben hierzu die Stadtteile Giesing, Neuperlach, Sendling, Schwabing und Moosach ausgewählt, um die Verteilung der POIs den Bevölkerungszahlen im Umkreis von 15 Minuten zu Fuß gegenüberzustellen.
 
-![](/images/konvert2.webp)
+![15-Min Isochronen](/images/blog/muc-15mincity/districts.webp)
 
 _Abbildung 1: Screenshots von 15-Minuten-Gehradien in den Ortsteilen Giesing, Neuperlach, Sendling, Schwabing und Moosach_
 
@@ -39,17 +39,17 @@ _Abbildung 1: Screenshots von 15-Minuten-Gehradien in den Ortsteilen Giesing, Ne
 
 GOAT bietet zahlreiche Funktionen, um 15-Minuten-Stadt Analysen durchzuführen. In Abbildung 2 sind die Ergebnisse der POI-Auswertungen je Stadtteil zusammengefasst. Diese zeigt, wie viele Einrichtungen jeweils innerhalb der 15-Minuten Radien erreichbar sind.
 
-![](/images/konvert1.webp)
+![Erreichbare POIs](/images/blog/muc-15mincity/amenities.webp)
 
 _Abbildung 2: Erreichbare Einrichtungen innerhalb von 15 Minuten_
 
 Schwabing hat die höchste Zahl an Einrichtungen, die innerhalb von 15 Minuten erreichbar sind. Da Schwabing eines der dichtesten Wohngebiete der Stadt ist, profitiert es auch von einer integrierten Mischnutzung aus Bars, Restaurants und weiteren Geschäften in Straßennähe. Giesing liegt nicht weit unterhalb in der Einwohnerzahl von Schwabing, hat jedoch viermal weniger Einrichtungen. Dadurch müssen sich die Bewohner:innen über die Bezirksgrenzen hinweg bewegen, um die gewünschten Ziele zu erreichen.
 
-![](/images/bildschirmfoto-von-2022-07-25-10-33-47.webp)
+![Erreichbarkeit zu Schulen](/images/blog/muc-15mincity/schools.webp)
 
 _Abbildung 3: Screenshot der Erreichbarkeit von Schulen in München_
 
-![](/images/bildschirmfoto-von-2022-07-25-10-31-07.webp)
+![Erreichbarkeit zu Bars](/images//blog/muc-15mincity/bars.webp)
 
 _Abbildung 4: Screenshot von Bars und anderen Freizeitaktivitäten in der Stadt_
 

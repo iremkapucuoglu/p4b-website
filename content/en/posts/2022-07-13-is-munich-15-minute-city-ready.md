@@ -31,7 +31,7 @@ Urban vibrancy in our case, can be the level of “intensity of people’s conce
 
 By looking at Munich through the lens of ‘sub-centralities’ a better analysis of the 15-minute city is achievable (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Sub-centralities, in our case, take the form of designated districts within Munich. We chose the districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach to compare the distribution of POIs across the district populations that fall within a 15-minute walking radius.
 
-![15 minute isochrones](/images/bildschirmfoto-von-2022-07-13-11-37-52.png)
+![[15 minute isochrones](/images/konvert2.webp)
 
 _Image 1: Screenshot of 15-minute walking radius’ in districts: Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
 
@@ -39,17 +39,17 @@ _Image 1: Screenshot of 15-minute walking radius’ in districts: Giesing, Neupe
 
 GOAT offers helpful features to perform 15-minute city analyses. Image 2 shows the summarized results of the POI analysis per district. It shows how many destinations are each accessible within the 15 minute walking radius.
 
-![Aggregated POI results](/images/bildschirmfoto-von-2022-07-13-11-38-13.png)
+![Aggregated POI results](/images/konvert1.webp)
 
 _Image 2: Accessible destinations within 15 minutes_
 
 Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing is not far in population count and still has four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities. 
   
-![](/images/bildschirmfoto-von-2022-07-14-09-49-30.png)
+![](/images/bildschirmfoto-von-2022-07-25-10-33-47.webp)
 
 _Image 3: Screenshot of School Accessibility in Munich_
 
-![](/images/bildschirmfoto-von-2022-07-14-09-50-14.png)
+![](/images/bildschirmfoto-von-2022-07-25-10-31-07.webp)
 
 _Image 4: Screenshot of Bars and other recreational activities in the city_
 

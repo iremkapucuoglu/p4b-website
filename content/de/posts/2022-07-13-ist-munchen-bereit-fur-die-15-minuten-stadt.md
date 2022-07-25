@@ -47,11 +47,11 @@ _Abbildung 2: Erreichbare Einrichtungen innerhalb von 15 Minuten_
 
 Schwabing hat die höchste Zahl an Einrichtungen, die innerhalb von 15 Minuten erreichbar sind. Da Schwabing eines der dichtesten Wohngebiete der Stadt ist, profitiert es auch von einer integrierten Mischnutzung aus Bars, Restaurants und weiteren Geschäften in Straßennähe. Giesing liegt nicht weit unterhalb in der Einwohnerzahl von Schwabing, hat jedoch viermal weniger Einrichtungen. Dadurch müssen sich die Bewohner:innen über die Bezirksgrenzen hinweg bewegen, um die gewünschten Ziele zu erreichen.
 
-![](/images/bildschirmfoto-von-2022-07-14-09-49-30.png)
+![](/images/bildschirmfoto-von-2022-07-25-10-33-47.webp)
 
 _Abbildung 3: Screenshot der Erreichbarkeit von Schulen in München_
 
-![](/images/bildschirmfoto-von-2022-07-14-09-50-14.png)
+![](/images/bildschirmfoto-von-2022-07-25-10-31-07.webp)
 
 _Abbildung 4: Screenshot von Bars und anderen Freizeitaktivitäten in der Stadt_
 

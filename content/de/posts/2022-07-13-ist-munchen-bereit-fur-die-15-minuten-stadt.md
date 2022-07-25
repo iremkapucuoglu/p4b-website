@@ -3,13 +3,13 @@ author: reynartz
 categories:
 - other
 date: 2022-07-12T22:00:00.000+00:00
-description: 'GOAT ist ein Planungsinstrument zur Umsetzung
-  der 15-Minuten-Stadt. Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die
-  Landeshauptstadt München bereit dafür ist. '
+description: 'GOAT ist ein Planungsinstrument zur Umsetzung der 15-Minuten-Stadt.
+  Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München
+  bereit dafür ist. '
 image: "/images/bildschirmfoto-von-2022-07-14-09-07-24.png"
-summary: 'GOAT ist ein Planungsinstrument zur Umsetzung
-  der 15-Minuten-Stadt. Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die
-  Landeshauptstadt München bereit dafür ist.'
+summary: GOAT ist ein Planungsinstrument zur Umsetzung der 15-Minuten-Stadt. Lesen
+  Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München
+  bereit dafür ist.
 thumbnail: "/images/bildschirmfoto-von-2022-07-13-13-05-44.png"
 title: Ist München bereit für die 15-Minuten-Stadt?
 translationKey: 15_minutes_city_munich
@@ -17,11 +17,11 @@ translationKey: 15_minutes_city_munich
 ---
 ## Was ist die 15-Minuten-Stadt?
 
-München steht derzeit unter Druck durch Probleme wie Verkehrsstaus und Wohnungsnot. Um weiteren Wohnraum zuschaffen sind weitere Verdichtungs- und Wohnungsbauvorhaben in der gesamten Stadt geplant. Für den Pkw-Verkehr wird bis 2030 ein kontinuierlicher Rush-Hour-Verkehr zwischen 6 und 21 Uhr erwartet, wenn der Modal Split unverändert bleibt und die Bevölkerung weiter zunimmt (Hutter, 2018). 
+München steht derzeit unter Druck durch Probleme wie Verkehrsstaus und Wohnungsnot. Um weiteren Wohnraum zuschaffen sind weitere Verdichtungs- und Wohnungsbauvorhaben in der gesamten Stadt geplant. Für den Pkw-Verkehr wird bis 2030 ein kontinuierlicher Rush-Hour-Verkehr zwischen 6 und 21 Uhr erwartet, wenn der Modal Split unverändert bleibt und die Bevölkerung weiter zunimmt (Hutter, 2018).
 
 Der Ruf nach öffentlichen Verkehrsmitteln und guter Fuß- und Radwegeinfrastruktur wird von Jahr zu Jahr lauter (Landeshauptstadt München, 2022). Aufgrund dieser Kombination von Herausforderungen schlagen wir die 15-Minuten-Stadt als Vision und Insipration vor, um die Erreichbarkeit für Münchens Zukunft in den Vordergrund zu rücken.
 
-Carlos Moreno prägte den Begriff «**15-Minuten-Stadt**» bei der Planung von Projekten mit der Stadt Paris, die seine Idee als Inspirationsquelle für viele rasante Veränderungen in der Stadt verwendete (Moreno, 2019). Dieser Wandel folgt dem Übergang von einer «monofunktionalen» Stadt zu einer «polyzentrischen» Stadt, die auf _Nähe, Vielfalt, Dichte und Erreichbarkeit_ basiert, um die sechs wesentliche städtische Funktionen (_Wohnen, Arbeiten, Versorgung, Fürsorge, Lernen und Erholung_) zu verbinden und qualitätsmäßig zu verbessern (Petzer, 2021). 
+Carlos Moreno prägte den Begriff «**15-Minuten-Stadt**» bei der Planung von Projekten mit der Stadt Paris, die seine Idee als Inspirationsquelle für viele rasante Veränderungen in der Stadt verwendete (Moreno, 2019). Dieser Wandel folgt dem Übergang von einer «monofunktionalen» Stadt zu einer «polyzentrischen» Stadt, die auf _Nähe, Vielfalt, Dichte und Erreichbarkeit_ basiert, um die sechs wesentliche städtische Funktionen (_Wohnen, Arbeiten, Versorgung, Fürsorge, Lernen und Erholung_) zu verbinden und qualitätsmäßig zu verbessern (Petzer, 2021).
 
 Die **Vision** der 15-Minuten-Stadt ist, dass alle Bewohner:innen die grundlegenden Bedürfnisse und Dienstleistungen innerhalb von 15 Minuten zu Fuß oder mit dem Fahrrad (und als Ergänzung hierzu auch mit öffentlichen Verkehrsmitteln) erreichen können. Die Herausforderung für eine(n) Planer:in ist dann, derzeitige Versorgungslücken zu identifizieren und geeignete Standorte für neue Versorgungseinrichtungen sowie verbesserte Fuß- und Radwegeinfrastruktur zu finden. Als Entwickler des digitalen Planungstools [GOAT](/goat/ "Was ist GOAT?") sind wir für Sie da!
 
@@ -39,7 +39,7 @@ _Abbildung 1: Screenshots von 15-Minuten-Gehradien in den Ortsteilen Giesing, Ne
 
 ## GOAT Analyse für München
 
-GOAT bietet zahlreiche Funktionen, um 15-Minuten-Stadt Analysen durchzuführen. In Abbildung 2 sind die Ergebnisse der POI-Auswertungen je Stadtteil zusammengefasst. Diese zeigt, wie viele Einrichtungen jeweils innerhalb der 15-Minuten Radien erreichbar sind. 
+GOAT bietet zahlreiche Funktionen, um 15-Minuten-Stadt Analysen durchzuführen. In Abbildung 2 sind die Ergebnisse der POI-Auswertungen je Stadtteil zusammengefasst. Diese zeigt, wie viele Einrichtungen jeweils innerhalb der 15-Minuten Radien erreichbar sind.
 
 ![Aggregierte Auswertung der POIs](/images/bildschirmfoto-von-2022-07-13-11-38-13.png)
 
@@ -49,7 +49,7 @@ Schwabing hat die höchste Zahl an Einrichtungen, die innerhalb von 15 Minuten e
 
 ![](/images/bildschirmfoto-von-2022-07-14-09-49-30.png)
 
-_Abbildung 3: Screenshot der Erreichbarkeit in München_
+_Abbildung 3: Screenshot der Erreichbarkeit von Schulen in München_
 
 ![](/images/bildschirmfoto-von-2022-07-14-09-50-14.png)
 
@@ -57,7 +57,7 @@ _Abbildung 4: Screenshot von Bars und anderen Freizeitaktivitäten in der Stadt_
 
 Einige POIs, vor allem diejenigen, die von der Gemeinde verwaltet werden, wie Schulen, sind sehr gut über die Stadt verteilt (Abbildung 3). Andere POIs, wie beispielsweise Bars, Kinos und Museen, sind jedoch vor allem in der Innenstadt zu finden (Abbildung 4). Die ungleiche Verteilung der POIs führt dazu, dass einige Menschen dorthin weite Wege zurücklegen müssen, die über akzeptable Entfernungen zu Fuß oder mit dem Fahrrad hinaus gehen.
 
-Diese Wege werden oftmals mit dem Auto zurückgelegt, was Stau, Lärm, Luftverschmutzung und hohen Flächenverbrauch u.a. durch Parkflächen zur Folge hat. Um den 15-Minuten-Status und lebenswerte Räume zu erzielen, ist es daher essentiell die POIs fair über die Stadt zu verteilen. 
+Diese Wege werden oftmals mit dem Auto zurückgelegt, was Stau, Lärm, Luftverschmutzung und hohen Flächenverbrauch u.a. durch Parkflächen zur Folge hat. Um den 15-Minuten-Status und lebenswerte Räume zu erzielen, ist es daher essentiell die POIs fair über die Stadt zu verteilen.
 
 ## Ist München bereit für die 15-Minuten-Stadt?
 

@@ -29,7 +29,7 @@ Urban vibrancy in our case, can be the level of “intensity of people’s conce
 
 By looking at Munich through the lens of ‘sub-centralities’ a better analysis of the 15-minute city is achievable (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Sub-centralities, in our case, take the form of designated districts within Munich, which form the layer from which POIs can be applied to. We chose the districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach to compare the distribution of POIs across the district populations that fall within a 15-minute walking radius.
 
-![](/images/bildschirmfoto-von-2022-07-13-11-37-52.png)
+![](/images/konvert2.webp)
 
 _Image 1: Screenshot of 15-minute walking radius’ in districts: Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
 
@@ -37,7 +37,7 @@ _Image 1: Screenshot of 15-minute walking radius’ in districts: Giesing, Neupe
 
 [GOAT](/goat/ "What is GOAT?") offers helpful features to get started on a 15-minute city analysis. These include POI and Heatmap analyses. We can then use different features to target areas with higher accessibility and services over others.
 
-![](/images/bildschirmfoto-von-2022-07-13-11-38-13.png)
+![](/images/konvert1.webp)
 
 _Image 2: Screenshot of District Amenity (POIs) counts_
 

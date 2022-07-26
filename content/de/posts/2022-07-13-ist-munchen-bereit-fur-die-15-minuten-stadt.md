@@ -31,7 +31,7 @@ Städtische Lebendigkeit kann in unserem Fall das Level der «Intensität von Me
 
 Durch die Betrachtung Münchens aus dem Blickwinkel der «Sub-Zentren» ist eine bessere Analyse der 15-Minuten-Stadt möglich (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Wir haben hierzu die Stadtteile Giesing, Neuperlach, Sendling, Schwabing und Moosach ausgewählt, um die Verteilung der POIs den Bevölkerungszahlen im Umkreis von 15 Minuten zu Fuß gegenüberzustellen.
 
-![15-Min Isochronen](/images/blog/muc-15mincity/districts.webp)
+![](/images/bildschirmfoto-von-2022-07-26-11-35-59.webp)
 
 _Abbildung 1: Screenshots von 15-Minuten-Gehradien in den Ortsteilen Giesing, Neuperlach, Sendling, Schwabing und Moosach_
 

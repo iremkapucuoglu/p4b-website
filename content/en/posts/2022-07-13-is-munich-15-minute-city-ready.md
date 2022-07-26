@@ -6,11 +6,11 @@ date: 2022-07-25T10:00:00.000+00:00
 description: 'GOAT as a planning tool is a suitable instrument for implementing and
   planning a 15-minute city. Read here what constitutes a 15-minute city and whether
   the city of Munich is ready for it. '
-image: "/images//blog/muc-15mincity/banner.webp"
+image: "/images/blog/muc-15mincity/banner.webp"
 summary: GOAT as a planning tool is a suitable instrument for implementing and planning
   a 15-minute city. Read here what constitutes a 15-minute city and whether the city
   of Munich is ready for it.
-thumbnail: "/images//blog/muc-15mincity/thumbnail.webp"
+thumbnail: "/images/blog/muc-15mincity/thumbnail.webp"
 title: 'Is Munich 15-minute city ready? '
 translationKey: 15_minutes_city_munich
 
@@ -31,15 +31,15 @@ Urban vibrancy in our case, can be the level of “intensity of people’s conce
 
 By looking at Munich through the lens of ‘sub-centralities’ a better analysis of the 15-minute city is achievable (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Sub-centralities, in our case, take the form of designated districts within Munich. We chose the districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach to compare the distribution of POIs across the district populations that fall within a 15-minute walking radius.
 
-![[15 minute isochrones](/images/districts.webp)
+![15 minute isochrones](/images/blog/muc-15mincity/districts.webp)
 
-_Image 1: Screenshot of 15-minute walking radius’ in districts: Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
+_Image 1: 15-minute walking radius’ in districts: Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
 
 ## GOAT Analysis for Munich
 
 GOAT offers helpful features to perform 15-minute city analyses. Image 2 shows the summarized results of the POI analysis per district. It shows how many destinations are each accessible within the 15 minute walking radius.
 
-![Aggregated POI results](/images/amenities.webp)
+![Aggregated POI results](/images/blog/muc-15mincity/amenities.webp)
 
 _Image 2: Accessible destinations within 15 minutes_
 

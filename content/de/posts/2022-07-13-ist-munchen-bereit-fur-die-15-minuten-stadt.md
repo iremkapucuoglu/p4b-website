@@ -6,11 +6,11 @@ date: 2022-07-25T10:00:00.000+00:00
 description: 'GOAT ist ein Planungsinstrument zur Umsetzung der 15-Minuten-Stadt.
   Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München
   bereit dafür ist. '
-image: "/images//blog/muc-15mincity/banner.webp"
+image: "/images/blog/muc-15mincity/banner.webp"
 summary: GOAT ist ein Planungsinstrument zur Umsetzung der 15-Minuten-Stadt. Lesen
   Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München
   bereit dafür ist.
-thumbnail: "/images//blog/muc-15mincity/thumbnail.webp"
+thumbnail: "/images/blog/muc-15mincity/thumbnail.webp"
 title: Ist München bereit für die 15-Minuten-Stadt?
 translationKey: 15_minutes_city_munich
 
@@ -33,7 +33,7 @@ Durch die Betrachtung Münchens aus dem Blickwinkel der «Sub-Zentren» ist eine
 
 ![15-Min Isochronen](/images/blog/muc-15mincity/districts.webp)
 
-_Abbildung 1: Screenshots von 15-Minuten-Gehradien in den Ortsteilen Giesing, Neuperlach, Sendling, Schwabing und Moosach_
+_Abbildung 1: 15-Minuten-Gehradien um die Ortszentren Giesing, Neuperlach, Sendling, Schwabing und Moosach_
 
 ## GOAT Analyse für München
 

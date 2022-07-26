@@ -49,7 +49,7 @@ Schwabing hat die höchste Zahl an Einrichtungen, die innerhalb von 15 Minuten e
 
 _Abbildung 3: Screenshot der Erreichbarkeit von Schulen in München_
 
-![Erreichbarkeit zu Bars](/images//blog/muc-15mincity/bars.webp)
+![](/images/austausch1.png)
 
 _Abbildung 4: Screenshot von Bars und anderen Freizeitaktivitäten in der Stadt_
 
@@ -59,9 +59,9 @@ Diese Wege werden oftmals mit dem Auto zurückgelegt, was Stau, Lärm, Luftversc
 
 ## Ist München bereit für die 15-Minuten-Stadt?
 
-Zusammenfassend lässt sich sagen, dass die Landeshauptstadt München das Potential hat, eine 15-Minuten-Stadt zu werden. Einige Stadtteile sind bereits "readier" als andere. 
+Zusammenfassend lässt sich sagen, dass die Landeshauptstadt München das Potential hat, eine 15-Minuten-Stadt zu werden. Einige Stadtteile sind bereits "readier" als andere.
 
-Der Fakt, dass nahe Ziele im Sinne der 15-Minuten-Stadt Teil der kürzlich vorgestellten [Mobilitätstrategie 2035](https://www.mobilitaetsstrategie2035.de/sites/default/files/downloads/2035-magazin-web-final.pdf "Mobilitätsstrategie 2035") sind, bringt Hoffnung. Das Thema steht bei der Landeshauptstadt München auf der Agenda und soll in den nächsten Jahren verstärkt angegangen werden. Wir stehen hierbei mit unserer Planungssoftware GOAT zur Seite und freuen uns, wo immer möglich, unterstützen zu können! 
+Der Fakt, dass nahe Ziele im Sinne der 15-Minuten-Stadt Teil der kürzlich vorgestellten [Mobilitätstrategie 2035](https://www.mobilitaetsstrategie2035.de/sites/default/files/downloads/2035-magazin-web-final.pdf "Mobilitätsstrategie 2035") sind, bringt Hoffnung. Das Thema steht bei der Landeshauptstadt München auf der Agenda und soll in den nächsten Jahren verstärkt angegangen werden. Wir stehen hierbei mit unserer Planungssoftware GOAT zur Seite und freuen uns, wo immer möglich, unterstützen zu können!
 
 Möchten Sie auch Ihre Stadt lebenswerter gestalten und die Vision der 15-Minuten-Stadt in die Realität umsetzen? Dann [sprechen Sie uns gerne an!](/kontakt "Kontakt zu Plan4Better")
 

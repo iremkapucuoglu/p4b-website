@@ -10,7 +10,7 @@ image: "/images/blog/muc-15mincity/banner.webp"
 summary: GOAT as a planning tool is a suitable instrument for implementing and planning
   a 15-minute city. Read here what constitutes a 15-minute city and whether the city
   of Munich is ready for it.
-thumbnail: "/images/blog/muc-15mincity/thumbnail.webp"
+thumbnail: "/images/living-_1_.webp"
 title: 'Is Munich 15-minute city ready? '
 translationKey: 15_minutes_city_munich
 
@@ -19,7 +19,7 @@ translationKey: 15_minutes_city_munich
 
 Munich is currently pressed with issues of traffic congestion and housing shortages. The discussion on public transit, walking, and cycling is growing louder with every coming year (Landeshauptstadt München, 2022). We’d propose the 15-minute city as vision and inspiration to bring accessibility to the forefront for Munich’s future.
 
-Carlos Moreno coined the term <<**15-minute city**>> in planning projects with the City of Paris, which has taken his idea as a source of inspiration for a lot of rapid change in the city (Moreno, 2019). This shift is adhering to the transition from a “mono-functional” city to a “polycentric” city based on _proximity, diversity, density and ubiquity_ to bind and offer greater quality to six essential urban functions: **living, working, supplying, caring, learning, and enjoying** (Petzer, 2021). 
+Carlos Moreno coined the term <<**15-minute city**>> in planning projects with the City of Paris, which has taken his idea as a source of inspiration for a lot of rapid change in the city (Moreno, 2019). This shift is adhering to the transition from a “mono-functional” city to a “polycentric” city based on _proximity, diversity, density and ubiquity_ to bind and offer greater quality to six essential urban functions: **living, working, supplying, caring, learning, and enjoying** (Petzer, 2021).
 
 The **vision** of the 15-minute city is that all residents can reach basic needs and services within 15 minutes on foot or by bicycle (and, as a complement, by public transport). The challenge for a planner is to identify current service gaps and find suitable locations for new services and improved walking and cycling infrastructure. As developers of the digital planning tool [GOAT](/goat/ "What is GOAT?"), we are here for you!
 
@@ -43,25 +43,25 @@ GOAT offers helpful features to perform 15-minute city analyses. Image 2 shows t
 
 _Image 2: Accessible destinations within 15 minutes_
 
-Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing is not far in population count and still has four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities. 
-  
+Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing is not far in population count and still has four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities.
+
 ![Accessibility to Schools](/images/blog/muc-15mincity/schools.webp)
 
 _Image 3: Screenshot of School Accessibility in Munich_
 
-![Accessibility to Bars](/images//blog/muc-15mincity/bars.webp)
+![](/images/austausch1.png)
 
 _Image 4: Screenshot of Bars and other recreational activities in the city_
 
-Some POIs, especially those managed by the municipality, such as schools, are very well distributed across the city (Image 3). However, other POIs, such as bars and other recreational activities such as cinemas and museums, are distributed primarily within the inner city (Image 4). 
+Some POIs, especially those managed by the municipality, such as schools, are very well distributed across the city (Image 3). However, other POIs, such as bars and other recreational activities such as cinemas and museums, are distributed primarily within the inner city (Image 4).
 
 The issue of uneven POI distribution can mean a lack of diverse options and may result in more mobility outside of districts, resulting in more cars on the road, and more people demanding better transport infrastructure. In order to achieve the 15-minute city status, a look at POI distribution throughout the city can assist us to target areas that could use improvements.
 
 ## Is Munich 15-minute-city ready?
 
-In summary, Munich has the potential to become a 15-minute city. Some districts are already "readier" than others. 
+In summary, Munich has the potential to become a 15-minute city. Some districts are already "readier" than others.
 
-The fact that near-by destinations in terms of the 15-minute city are part of the recently presented [Mobility Strategy 2035](https://www.mobilitaetsstrategie2035.de/sites/default/files/downloads/2035-magazin-web-final.pdf "Mobilitätsstrategie 2035") brings hope. The topic is on the agenda of the City of Munich and is to be tackled more intensively in the coming years. We are here to help with our planning software GOAT and are happy to provide support wherever possible! 
+The fact that near-by destinations in terms of the 15-minute city are part of the recently presented [Mobility Strategy 2035](https://www.mobilitaetsstrategie2035.de/sites/default/files/downloads/2035-magazin-web-final.pdf "Mobilitätsstrategie 2035") brings hope. The topic is on the agenda of the City of Munich and is to be tackled more intensively in the coming years. We are here to help with our planning software GOAT and are happy to provide support wherever possible!
 
 Would you also like to make your city more liveable and turn the vision of the 15-minute city into reality? Then [feel free to contact us!](/contact "Contact Plan4Better")
 

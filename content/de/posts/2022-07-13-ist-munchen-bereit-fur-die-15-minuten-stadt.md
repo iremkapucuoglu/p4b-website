@@ -10,7 +10,7 @@ image: "/images/blog/muc-15mincity/banner.webp"
 summary: GOAT ist ein Planungsinstrument zur Umsetzung der 15-Minuten-Stadt. Lesen
   Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München
   bereit dafür ist.
-thumbnail: "/images/living-_1_.webp"
+thumbnail: "/images/blog/muc-15mincity/thumbnail.webp"
 title: Ist München bereit für die 15-Minuten-Stadt?
 translationKey: 15_minutes_city_munich
 

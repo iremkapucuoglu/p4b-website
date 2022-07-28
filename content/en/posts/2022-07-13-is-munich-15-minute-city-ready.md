@@ -2,7 +2,7 @@
 author: hall
 categories:
 - other
-date: 2022-07-25T10:00:00.000+00:00
+date: 2022-07-28T10:00:00.000+00:00
 description: 'GOAT as a planning tool is a suitable instrument for implementing and
   planning a 15-minute city. Read here what constitutes a 15-minute city and whether
   the City of Munich is ready for it. '

@@ -2,7 +2,7 @@
 author: reynartz
 categories:
 - other
-date: 2022-07-25T10:00:00.000+00:00
+date: 2022-07-28T10:00:00.000+00:00
 description: 'GOAT ist ein Planungsinstrument zur Umsetzung der 15-Minuten-Stadt.
   Lesen Sie hier was eine 15-Minuten-Stadt ausmacht und ob die Landeshauptstadt München
   bereit dafür ist. '

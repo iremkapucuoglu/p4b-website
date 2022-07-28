@@ -5,10 +5,10 @@ categories:
 date: 2022-07-25T10:00:00.000+00:00
 description: 'GOAT as a planning tool is a suitable instrument for implementing and
   planning a 15-minute city. Read here what constitutes a 15-minute city and whether
-  the city of Munich is ready for it. '
+  the City of Munich is ready for it. '
 image: "/images/blog/muc-15mincity/banner.webp"
 summary: GOAT as a planning tool is a suitable instrument for implementing and planning
-  a 15-minute city. Read here what constitutes a 15-minute city and whether the city
+  a 15-minute city. Read here what constitutes a 15-minute city and whether the City
   of Munich is ready for it.
 thumbnail: "/images/living-_1_.webp"
 title: 'Is Munich 15-minute city ready? '
@@ -31,9 +31,9 @@ Urban vibrancy in our case, can be the level of “intensity of people’s conce
 
 By looking at Munich through the lens of ‘sub-centralities’ a better analysis of the 15-minute city is achievable (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Sub-centralities, in our case, take the form of designated districts within Munich. We chose the districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach to compare the distribution of POIs across the district populations that fall within a 15-minute walking radius.
 
-![](/images/bildschirmfoto-von-2022-07-26-11-35-59.webp)
+![15-minute walking radius](/images/blog/muc-15mincity/districts.webp)
 
-_Image 1: 15-minute walking radius’ in districts: Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
+_Image 1: 15-minute walking radius’ in districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
 
 ## GOAT Analysis for Munich
 
@@ -43,13 +43,13 @@ GOAT offers helpful features to perform 15-minute city analyses. Image 2 shows t
 
 _Image 2: Accessible destinations within 15 minutes_
 
-Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing is not far in population count and still has four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities.
+Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing has a higher population count but four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities.
 
 ![Accessibility to Schools](/images/blog/muc-15mincity/schools.webp)
 
 _Image 3: Screenshot of School Accessibility in Munich_
 
-![](/images/austausch1.png)
+![Accessibility to Bars](/images/blog/muc-15mincity/bars.webp)
 
 _Image 4: Screenshot of Bars and other recreational activities in the city_
 
@@ -63,7 +63,7 @@ In summary, Munich has the potential to become a 15-minute city. Some districts 
 
 The fact that near-by destinations in terms of the 15-minute city are part of the recently presented [Mobility Strategy 2035](https://www.mobilitaetsstrategie2035.de/sites/default/files/downloads/2035-magazin-web-final.pdf "Mobilitätsstrategie 2035") brings hope. The topic is on the agenda of the City of Munich and is to be tackled more intensively in the coming years. We are here to help with our planning software GOAT and are happy to provide support wherever possible!
 
-Would you also like to make your city more liveable and turn the vision of the 15-minute city into reality? Then [feel free to contact us!](/contact "Contact Plan4Better")
+Would you also like to make your city more liveable and turn the vision of the 15-minute city into reality? Then [feel free to contact us!](/en/contact/ "Contact Plan4Better")
 
 ## References
 

@@ -25,13 +25,11 @@ Die **Vision** der 15-Minuten-Stadt ist, dass alle Bewohner:innen die grundlegen
 
 ## Betrachtung von Sub-Zentren
 
-Points of Interest (POIs) können als Maßeinheit für funktionale urbane Flächen und urbane «Lebendigkeit» verwendet werden, da gemischte Nutzungsbereiche nicht ohne weiteres von der allgemeinen Flächennutzungsausweisung abgedeckt werden können (Yue et al. , 2017). POIs haben keine Standarddefinition, sind aber in der Regel Orte oder Einrichtungen, an denen menschliche Aktivitäten stattfinden (Chen et al. , 2019). Das heißt beispielsweise Restaurants, Friseure, Bäckereien, Bekleidungsgeschäfte, Apotheken, Schulen, Supermärkte, Bars oder Fitnessstudios. GOAT enthält viele dieser POI-Daten, die von OpenStreetMap und anderen Quellen stammen.
-
-Städtische Lebendigkeit kann in unserem Fall das Level der «Intensität von Menschenansammlungen» sein (S. 660, Yue et al. , 2017). Einfach gesagt, wo die Leute hin wollen. Ebenso lassen sich urbane Funktionsräume durch Verteilung und Wechselbeziehung von POIs bestimmen (Hu & Han, 2019). Die Identifikation urbaner Funktionsräume kann dabei helfen, den Ausgangspunkt des Bauens sowie den Entwicklungsprozess über die Jahre hinweg zu bestimmen (Hu & Han, 2019).
+Points of Interest (POIs) können als Maßeinheit für funktionale urbane Flächen und urbane «Blebtheit» verwendet werden (Yue et al., 2017). POIs haben keine Standarddefinition, sind aber in der Regel Orte oder Einrichtungen, an denen menschliche Aktivitäten stattfinden (Chen et al., 2019). Also beispielsweise Restaurants, Friseure, Bäckereien, Bekleidungsgeschäfte, Apotheken, Schulen, Supermärkte, Bars oder Fitnessstudios. GOAT enthält viele dieser POI-Daten, die von OpenStreetMap und anderen Quellen stammen.
 
 Durch die Betrachtung Münchens aus dem Blickwinkel der «Sub-Zentren» ist eine bessere Analyse der 15-Minuten-Stadt möglich (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Wir haben hierzu die Stadtteile Giesing, Neuperlach, Sendling, Schwabing und Moosach ausgewählt, um die Verteilung der POIs den Bevölkerungszahlen im Umkreis von 15 Minuten zu Fuß gegenüberzustellen.
 
-![15-Minuten-Gehradien](/images/bildschirmfoto-von-2022-07-26-11-35-59.webp)
+![15-Minuten-Gehradien](/images/blog/muc-15mincity/districts.webp)
 
 _Abbildung 1: 15-Minuten-Gehradien um die Ortszentren Giesing, Neuperlach, Sendling, Schwabing und Moosach_
 
@@ -43,13 +41,13 @@ GOAT bietet zahlreiche Funktionen, um 15-Minuten-Stadt Analysen durchzuführen. 
 
 _Abbildung 2: Erreichbare Einrichtungen innerhalb von 15 Minuten_
 
-Schwabing hat die höchste Zahl an Einrichtungen, die innerhalb von 15 Minuten erreichbar sind. Da Schwabing eines der dichtesten Wohngebiete der Stadt ist, profitiert es auch von einer integrierten Mischnutzung aus Bars, Restaurants und weiteren Geschäften in Straßennähe. Giesing liegt nicht weit unterhalb in der Einwohnerzahl von Schwabing, hat jedoch viermal weniger Einrichtungen. Dadurch müssen sich die Bewohner:innen über die Bezirksgrenzen hinweg bewegen, um die gewünschten Ziele zu erreichen.
+Schwabing hat die höchste Zahl an Einrichtungen, die innerhalb von 15 Minuten erreichbar sind. Da Schwabing eines der dichtesten Wohngebiete der Stadt ist, profitiert es auch von einer integrierten Mischnutzung aus Bars, Restaurants und weiteren Geschäften in Straßennähe. Giesing hat eine höhere Einwohnerzahl als Schwabing, jedoch viermal weniger Einrichtungen. Dadurch müssen sich die Bewohner:innen über die Bezirksgrenzen hinweg bewegen, um die gewünschten Ziele zu erreichen.
 
 ![Erreichbarkeit zu Schulen](/images/blog/muc-15mincity/schools.webp)
 
 _Abbildung 3: Screenshot der Erreichbarkeit von Schulen in München_
 
-![Erreichbarkeit zu Bars](/images/austausch1.png)
+![Erreichbarkeit zu Bars](/images/blog/muc-15mincity/bars.webp)
 
 _Abbildung 4: Screenshot von Bars und anderen Freizeitaktivitäten in der Stadt_
 

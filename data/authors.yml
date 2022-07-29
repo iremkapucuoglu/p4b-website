@@ -25,12 +25,8 @@
     de: Geschäftsführerin
   image: "/images/team/ulrike_jehle.webp"
   bio:
-    en: As engineer and scientist she is leading the team with Elias. To shape liveable
-      cities, she is particularly engaged in strengthening active forms of mobility
-      and foster Open Data.
-    de: Als Umweltingenieurin und Wissenschaftlerin leitet sie das Team mit Elias
-      Pajares. Getrieben von dem Ziel nachhaltige Städte zu gestalten setzt sie sich
-      für die aktive Mobilität und die Förderung offener Daten ein.
+    en: Convinced environmental engineer committed to sustainable mobility. She implements new project ideas and ensures smooth internal processes and attractive external representation. 
+    de: Überzeugte Umweltingenieurin, die sich für nachhaltige Mobilität einsetzt. Sie setzt neue Projektideen um und sorgt für reibungslose interne Prozesse und eine attraktive Außenrepräsentation. 
   github: https://github.com/UJehle
   website: ''
   mail: 'ulrike.jehle@plan4better.de'
@@ -130,7 +126,7 @@
     en: Intern
     de: Praktikant
   image: ""
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_enock.webp"
   github: 'https://github.com/enockseth'
   website: ''

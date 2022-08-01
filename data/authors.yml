@@ -84,6 +84,22 @@
   bio:
     de: 'Begeisterter Frontend-Entwickler, der mit 15 Jahren mit dem Programmieren begonnen hat. Sina beschäftigt sich gerne mit Technik und schreibt derzeit auf Medium & FreeCodeCamp.'
     en: 'Eager frontend developer who started coding already when he was 15. He likes to craft and write technology things, currently writing on Medium & FreeCodeCamp.'
+- username: koyunoglu
+  name: Dilan Koyunoglu
+  title:
+    en: GIS Engineer
+    de: GIS Ingenieurin
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_koyunoglu.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/dilankoyunoglu/'
+  twitter: ''
+  bio:
+    de: 'Als Geoinformatikerin analysiert Dilan gerne komplexe Daten und löst Probleme. Sie sieht GIS als eine aufregende, sich schnell verändernde und coole Technologie und möchte diese für alle zugänglich machen.'
+    en: 'As a geomatics engineer, Dilan likes to analyze complex data and solve problems. She sees GIS as an exciting, rapidly changing, and cool technology and wants to make this technology accessible to everyone.'
 - username: meining
   name: Sophie Meining
   title:

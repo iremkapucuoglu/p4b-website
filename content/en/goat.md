@@ -14,6 +14,7 @@ hero_section:
   - Integration of urban and transport planning
   - Intuitive user interface
   - Open Source
+  - Training completed within one morning
 
 sections:
   - order: 1

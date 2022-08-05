@@ -14,6 +14,7 @@ hero_section:
   - Fusion von Stadt- und Verkehrsplanung
   - Intuitive Benutzeroberfläche
   - Open Source
+  - Einarbeitung innerhalb eines Vormittags
 
 sections:
   - order: 1

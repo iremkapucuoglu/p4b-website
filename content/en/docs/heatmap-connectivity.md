@@ -1,19 +1,18 @@
-+++
-description = ""
-sections = ["technical", ""]
-title = "Heatmap - Connectivity"
-translationKey = ""
-weight = 65
+---
+title: Heatmap - Connectivity
+permalink: "/docs/heatmap-connectivity/"
+sections:
+- technical
+weight: 60
+---
 
-+++
-GOAT also includes another heatmap feature, called connectivity, which demonstrates the road network connections for the walkable environment. This heatmap feature can assist with addressing walkability, particularly in areas of low connectivity for which there may be lower chances for walking as an option.
+GOAT provides a heatmap that shows the area connectivity, which demonstrates how well the road network is connected. This is especially important for promoting active modes (i.e. walking and cycling), as these modes are sensitive to detours. A hexagonal grid is used for visualization.
 
-![](/images/docs/technical_documentation/connectivity/connectivity.webp)
+![GOAT connectivity heatmap](/images/docs/technical_documentation/connectivity/connectivity_en.webp "GOAT connectivity heatmap")
 
 #### Calculation
 
 Starting from the centroid of each hexagon, three isochrones are calculated (for 5 min, 10 min and 15 min). The average size of all three isochrones are taken and compared with the same value from all other grids. Using quintiles, the results are classified.
 
-![](/images//docs/technical_documentation/connectivity/isochrone.webp)
+![Calculation methodology](/images//docs/technical_documentation/connectivity/isochrone_en.webp "Calculation methodology")
 
-![](/images//docs/technical_documentation/connectivity/legend_c.webp)

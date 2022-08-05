@@ -7,60 +7,61 @@ sections:
 weight: 60
 
 ---
-GOAT ermöglicht die Berechnung und Visualisierung von gravitationsbasierten Erreichbarkeitsmessungen, die als Heatmaps visualisiert werden. Basierend auf vorausberechneten Fahrzeiten und der Auswahl des Nutzers wird die Heatmap dynamisch berechnet. Zur Visualisierung wird ein hexagonales Raster verwendet.
+GOAT ermöglicht die Berechnung der lokalen Erreichbarkeit zu verschiedenen Zielen. Basierend auf vorberechneten Reisezeiten und der Auswahl der Points-of-Interest (POIs) wird die Heatmap dynamisch berechnet. Die Visualisierung erfolgt als Heatmap auf einem hexagonalen Raster.
 
-![](/images/lokale-erreichbarkeit-1-deutsch.png)
+![GOAT Lokale Erreichbarkeit](/images/lokale-erreichbarkeit-1-deutsch.png "GOAT Lokale Erreichbarkeit")
 
 #### 1. Berechnung
 
-Die Berechnung der Heatmap erfolgt mit Hilfe von gravitationsbasierten Messungen und kann operationalisiert werden als:
+Die Berechnung der Heatmap erfolgt mit Hilfe von Potenzialindikatoren und kann operationalisiert werden als:
 
-![](/images/docs/technical_documentation/heatmap/place-based_accessibility_measures.webp)
+![Erreichbarkeitsformel](/images/docs/technical_documentation/heatmap/place-based_accessibility_measures.webp "Erreichbarkeitsformel")
 
-wobei die Erreichbarkeit <b>A</b> des Ursprungsortes <b>i</b> die Summe aller am Zielort <b>j</b> verfügbaren Möglichkeiten <b>O</b> ist, gewichtet mit einer Funktion der Reisezeit <b> t<sub>ij</sub></b> zwischen <b>i</b> und <b>j</b>. GOAT verwendet die modifizierte Gaußfunktion als Impedanzfunktion für die Berechnung:
+wobei die Erreichbarkeit <b>A</b> des Startpunktes <b>i</b> die Summe aller am Zielort <b>j</b> verfügbaren Möglichkeiten (POIs, Bevölkerung, ...) <b>O</b> ist, gewichtet mit einer Funktion der Reisezeit <b> t<sub>ij</sub></b> zwischen <b>i</b> und <b>j</b>. GOAT verwendet die modifizierte Gaußfunktion als Widerstandsfunktion für die Berechnung:
 
-![](/images/docs/technical_documentation/heatmap/Gaussian_function.webp)
+![Widerstandsfunktion](/images/docs/technical_documentation/heatmap/Gaussian_function.webp "Widerstandsfunktion")
 
-Die Fahrzeiten werden in Sekunden berechnet. Da der Cut-off-Wert 15 Minuten für den Modus Gehen verwendet wird, bedeutet dies, dass Ziele, die weiter als 15 Minuten entfernt sind, bei der Berechnung des Index nicht berücksichtigt werden.  
-Der Sensitivitätsparameter definiert, wie sich die Zugänglichkeit mit zunehmender Fahrzeit verändert. Da der Sensitivitätsparameter entscheidend für die Messung der Erreichbarkeit ist, können Sie diese mit GOAT einstellen. Die folgenden Grafiken zeigen den Einfluss des Sensitivitätsparameters auf die Zugänglichkeit.
+Die Reisezeiten werden in Sekunden berechnet. Es wird der Cut-off-Wert 20 Minuten verwendet. Das bedeutet, dass Ziele, die weiter als 20 Minuten entfernt sind, als "nicht erreichbar" angenommen und bei der Berechnung der Erreichbarkeit nicht berücksichtigt werden.  
 
-![](/images/lokale-erreichbarkeit-2-deutsch.png)
+Der Sensitivitätsparameter definiert, wie sich die Erreichbarkeit mit zunehmender Reisezeit verändert. Da der Sensitivitätsparameter entscheidend für die Quantifizierung der Erreichbarkeit ist, können Sie diese mit GOAT einstellen. Die folgenden Grafiken zeigen den Einfluss des Sensitivitätsparameters auf die Erreichbarkeit.
 
-![](/images/deutsch.png)
+![Sensitiviätsindex](/images/docs/technical_documentation/heatmap/sensitivitätsindex.webp "Sensitiviätsindex")
+
+Ebenso lässt sich die Gewichtung ändern. Somit kann z.B. einem POI-Typ (z.B. Großmärkten) ein höherer Erreichbarkeitseffekt als anderen POI-Typen (z.B. Discount-Supermärkten) zugewiesen werden. 
 
 #### 2. Klassifizierung
 
-Um die für jede Gitterzelle berechneten Erreichbarkeitsstufen zu klassifizieren, wird eine Klassifikation basierend auf Quintilen verwendet.
+Um die pro Hexagon berechneten Erreichbarkeitswerte zu interpretieren, wird eine Klassifikation basierend auf Quintilen verwendet.
 
-#### 3. Rechnungsbeispiel
+#### 3. Rechenbeispiel
 
-##### 3.1 Berechnung der Fahrtzeit
+##### 3.1 Berechnung der Reisezeit
 
-Das folgende Beispiel veranschaulicht, wie die Gravitations-basierte Heatmap berechnet wird.  
-Die Fahrzeiten werden für jede Gitterzelle zum jeweiligen Ziel im Straßennetz berechnet.
+Das folgende Beispiel veranschaulicht, wie die _lokale Erreichbarkeitsheatmap_ berechnet wird. Die Reisezeiten werden für jedes Hexagon zum jeweiligen Ziel im Straßennetz berechnet.
 
-![](/images/docs/technical_documentation/heatmap/grid_groceries.webp)
+![Vereinfachte Beispieldarstellung](/images/docs/technical_documentation/heatmap/grid_groceries.webp "Vereinfachte Beispieldarstellung")
 
-Für eine Gitterzelle könnte die Berechnung wie in den folgenden Beispielen durchgeführt werden:
+Für das hier dargestellte Hexagon ergibt die Berechnung, je nach Sensititivitätsparameter, die folgenden Ergebnisse:
 
-Einheitlicher Sensitivitätsparameter: ![](/images/docs/technical_documentation/heatmap/accessiblity_uniform_sensitivity-index.webp)
+Einheitlicher Sensitivitätsparameter: ![Berechnung der Erreichbarkeit](/images/docs/technical_documentation/heatmap/accessiblity_uniform_sensitivity-index.webp "Berechnung der Erreichbarkeit")
 
-Variierender Sensitivitätsparameter für Hypermarket: ![](/images/docs/technical_documentation/heatmap/accessiblity_different_sensitivity-indices.webp)
+Variierender Sensitivitätsparameter für Großmärkte: ![Berechnung der Erreichbarkeit](/images/docs/technical_documentation/heatmap/accessiblity_different_sensitivity-indices.webp "Berechnung der Erreichbarkeit")
+
+Angewandt in GOAT ergeben sich die folgenden Unterschiede:
 
 ##### 3.2 Berechnung mit einheitlichem Sensitivitätsparameter:
 
-Im ersten Beispiel wollen wir die Erreichbarkeit für Lebensmittel in 15 Min berechnen (β=300.000).
-Das bedeutet, dass der Sensitivitätsparameter für jede Lebensmittelkategorie gleich ist.
+Im ersten Beispiel wird die Erreichbarkeit für Lebensmittel-Geschäfte in 15 Min unter Verwendung eines einheitlichen Sensitivitätsparameters (β=300.000) für alle Geschäfte berechnet. Das Ergebnis sieht so aus: 
 
-![](/images/lokale-erreichbarkeit-4-deutsch.png)
+![GOAT Lokale Erreichbarkeit zu Supermärkten](/images/lokale-erreichbarkeit-4-deutsch.png "GOAT Lokale Erreichbarkeit zu Supermärkten")
 
 ##### 3.3 Berechnung mit unterschiedlichen Sensitivitätsparametern
 
-Im zweiten Fall berechnen wir die Erreichbarkeit von Lebensmitteln in 15 Min (β=300.000 und β=400.000). Das bedeutet, dass der Sensitivitätsparameter von den verschiedenen Lebensmittelkategorien abhängt. Für dieses Beispiel haben wir β=400.000 für den Supermarkttyp und β=300.000 für Discounter und Supermarkt verwendet.
+Im zweiten Beispiel wird die Erreichbarkeit von Lebensmittel-Geschäften in 15 Min unter Verwendung verschiedener Sensitivitätsparameter (β=300.000 und β=400.000) durchgeführt. Das bedeutet, dass der Sensitivitätsparameter von den verschiedenen Supermarkt-Typen abhängt. Für dieses Beispiel haben wir β=400.000 für Großmärkte und β=300.000 für Discounter und Supermärkte verwendet. Hieraus erigibt sich folgendes Ergebnis:
 
-![](/images/lokale-erreichbarkeit-5-deutsch.png)
+![Ergebnis bei unterschiedlichen Sensitivitätsparametern](/images/lokale-erreichbarkeit-5-deutsch.png "Ergebnis bei unterschiedlichen Sensitivitätsparametern")
 
-Vergleicht man beide Beispiele, so lassen sich signifikante Veränderungen der Erreichbarkeit feststellen, da im zweiten Beispiel der Sensitivitätsparameter zugunsten von Hypermärkten gewählt wurde.
+Durch den Vergleich beider Ergebnisse lassen sich einige Unterschiede feststellen.
 
 #### Referenzen
 

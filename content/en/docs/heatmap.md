@@ -6,25 +6,25 @@ sections:
 weight: 60
 
 ---
-GOAT allows you to calculate and visualize gravity-based accessibility measures, which are visualized as heatmaps. Based on pre-calculated travel times the heatmap is computed dynamically based on the selection of the user. A hexagonal grid is used for visualization.
+GOAT allows you to calculate and visualize gravity-based accessibility measures, which are visualized as heatmaps. Based on pre-calculated travel times the heatmap is computed dynamically based on the selection of the Points-of-Interest (POIs). A hexagonal grid is used for visualization.
 
-#### ![](/images/lokale-erreichbarkeit-1-englisch.png)
+![GOAT local accessibility](/images/lokale-erreichbarkeit-1-englisch.png "GOAT local accessibility")
 
 #### 1. Calculation
 
 The calculation of the heatmap is calculated with the help of gravity-based measures and can be operationalized as:
 
-![](/images/docs/technical_documentation/heatmap/place-based_accessibility_measures.webp)
+![Accessibility formula](/images/docs/technical_documentation/heatmap/place-based_accessibility_measures.webp "Accessibility formula")
 
 where the accessibility <b>A</b> of origin <b>i</b> is the sum of all opportunities <b>O</b> available at destinations <b>j</b> weighted by some function of the travel time <b> t<sub>ij</sub></b>  between <b>i</b> and <b>j</b>. GOAT uses the modified gaussian function as an impedance function for the calculation:
 
-![](/images/docs/technical_documentation/heatmap/Gaussian_function.webp)
+![Impedance function](/images/docs/technical_documentation/heatmap/Gaussian_function.webp "Impedance function")
 
-Travel times are computed in seconds. The cut-off value of 15 minutes is used for the mode walking, this means that destination that are further away then 15 minutes are not considered in the calculation of the index. The sensitivity parameter defines how accessibility changes with increasing travel time. As the sensitivity parameter is decisive when measuring accessibility, GOAT allows you to adjust them. The following graphs show the influence of the sensitivity parameter on accessibility.
+Travel times are computed in seconds. The cut-off value of 20 minutes is used, this means that destination that are further away then 20 minutes are considered as non accessible and thus not considered in the calculation of the accessibility. The sensitivity parameter defines how accessibility changes with increasing travel time. As the sensitivity parameter is decisive when measuring accessibility, GOAT allows you to adjust them. The following graphs show the influence of the sensitivity parameter on accessibility.
 
-#### ![](/images/loakel-erreichbarkeit-2-englisch.png)
+![Sensitivity index](/images/docs/technical_documentation/heatmap/sensitivitätsindex_en.webp "Sensitivity index")
 
-#### ![](/images/englisch.png)
+Similarly, the weighting can be changed. Thus, for example, one POI type (e.g. hypermarkets) can be assigned a higher accessibility effect than other POI types (e.g. discount supermarkets). 
 
 #### 2. Classification
 
@@ -34,33 +34,33 @@ In order to classify the accessibility levels that were computed for each grid c
 
 ##### 3.1 Calculation travel times
 
-The following example illustrates how the gravity-based heatmap is computed.
-The travel times are calculated for each grid cell to the concerning destination on the street network.
+The following example illustrates how the _local accessibility heatmap_ is computed. The travel times are calculated for each grid cell to the concerning destination on the street network.
 
-![](/images/docs/technical_documentation/heatmap/grid_groceries.webp)
+![Simplified example](/images/docs/technical_documentation/heatmap/grid_groceries.webp "Simplified example")
 
-For one grid cell the calculation could be done as in the following examples:
+For the hexagon shown here, the calculation yields the following results, depending on the sensitivity parameter:
 
 Uniform sensitivity parameter:
-![](/images/docs/technical_documentation/heatmap/accessiblity_uniform_sensitivity-index.webp)
+![Accessibility calculation](/images/docs/technical_documentation/heatmap/accessiblity_uniform_sensitivity-index.webp "Accessibility calculation")
 
 Varying sensitivity parameter for Hypermarket:
-![](/images/docs/technical_documentation/heatmap/accessiblity_different_sensitivity-indices.webp)
+![Accessibility calculation](/images/docs/technical_documentation/heatmap/accessiblity_different_sensitivity-indices.webp "Accessibility calculation")
+
+Applied in GOAT, the following differences arise:
 
 ##### 3.2 Calculation with uniform sensitivity parameter
 
-In the first case we want to calculate the accessibility to groceries in 15min (β=300000).
-This means the sensitivity parameter is the same for every category of grocery.
+In the first example, the accessibility for grocery shops in 15 min is calculated using a uniform sensitivity parameter (β=300,000) for all shops. The result looks like this: 
 
-##### ![](/images/lokale-erreichbarkeit-4-englisch.png)
+![GOAT local accessibility to grocery shops](/images/lokale-erreichbarkeit-4-englisch.png "GOAT local accessibility to grocery shops")
 
-##### 3.3 Calculation with different sensitivity indices
+##### 3.3 Calculation with different sensitivity parameters
 
-In the second case we calculate the accessibility to groceries in 15min (β=300000 and β=400000). This means the sensitivity parameter depends on the categories of grocery. For this example, we used β= 400000 for the type of grocery hypermarket and β= 300000 for discount supermarket and supermarket.
+In the second example, the accessibility of grocery shops in 15 min is performed using different sensitivity parameters (β=300,000 and β=400,000). This means that the sensitivity parameter depends on the different grocery shop types. For this example, we used β=400,000 for hypermarkets and β=300,000 for discounters and supermarkets. This gives the following result:
 
-![](/images/lokale-erreichbarkeit-5-englisch-png.png)
+![Result with different sensitivity parameters](/images/lokale-erreichbarkeit-5-englisch-png.png "Result with different sensitivity parameters")
 
-If both examples are compared significant changes in accessibility can be observed, as in the second example the sensitivity parameter is chosen in favor of hypermarkets.
+By comparing the two results, some differences can be identified.
 
 #### References
 

@@ -38,6 +38,13 @@ text = ""
 load_more_button_text = "Mehr laden"
 
 [[blocks.news]]
+heading = "Marktlaunch bei Plan4Better: Planungssoftware nun deutschlandweit verfügbar"
+thumbnail = "/images/presse/BMWi_Logo.webp"
+source = "Bundesministerium für Wirtschaft und Klimaschutz"
+url = "https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2022/2022-05-19_Plan4Better.html"
+date = "19. Mai 2022"
+
+[[blocks.news]]
 heading = "Pressemitteilung: Marktlaunch GOAT"
 thumbnail = "/images/presse/p4b.webp"
 source = "Plan4Better"
@@ -92,6 +99,13 @@ thumbnail = "/images/presse/top-50.webp"
 source = "Top 50 Start-ups"
 url = "https://www.top50startups.de/start-ups/ranking/2021"
 date = "31. Januar 2022"
+
+[[blocks.news]]
+heading = "8 junge Startups, die wir uns ganz genau merken"
+thumbnail = "/images/presse/deutsche_startups.webp"
+source = "deutsche startups"
+url = "https://www.deutsche-startups.de/2021/12/20/8-startups-aulios-alpakas/"
+date = "20. Dezember 2021"
 
 [[blocks.news]]
 heading = "Plan4Better: Stadtplanungstool für Rad- und Gehwege"

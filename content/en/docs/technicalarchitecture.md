@@ -6,23 +6,15 @@ sections:
 weight: 30
 
 ---
-#### Structure and Environment
+#### System architecture
 
-GOAT is, technically speaking, a WebGIS-application. The architecture of GOAT involves various software including a number of libraries and programming languages. The efficient interaction of software in GOAT is made possible by the popular classical server-client architecture of the web. Just like many applications today, GOAT has a database that allows efficient storage and organization of information. Information can therefore be accessed, managed and updated appropriately. The PostgreSQL database is used with the spatial extension PostGIS, which together act as core of the application.
+GOAT is, technically speaking, a WebGIS-application. The architecture of GOAT involves various software, including several libraries and programming languages. The efficient interaction of software in GOAT is made possible by the popular classical server-client architecture of the web. Like many applications today, GOAT has a database that allows efficient storage and organization of information. Information can therefore be accessed, managed, and updated appropriately. The PostgreSQL database is used with the spatial extension PostGIS.
 
 ![](/images/docs/about/libraries_used.webp)
 
-Additionally, the underlying database allows, with the help of the extension pgRouting, for routing and calculation of the isochrones. Most spatial operations in GOAT are done in Spatial SQL with the procedural programming language Pl/pgSQL and Python as Pl/Python. Geoserver is used for sharing geospatial data with the web. The Geoserver further communicates directly with the database and delivers this data to the web. This is done with the standardized services WFS, WFS-T and WMS. Geoserver runs with Tomcat inside a Docker containers. In instances where more customizable interaction with the geospatial data is required, a NodeJS server is used.
+As API a Python server powered by FastAPI is used. The API serves geospatial data in different formats. Besides the GeoJSON format, compressed formats like Geobuf or Vector tiles allow for fast loading times. Besides endpoints serving spatial data, several endpoints are relevant for the application's business logic. 
 
 ![](/images/docs/about/server_client_architecture.webp)
 
-In the front-end, data is retrieved by the commonly used webstack (HTML, CSS, JavaScript) with the help of the Openlayers library.
-All software used in GOAT are open source and have a strong worldwide community acceptance and reputation. This setup was initially tested on an Ubuntu Server 18.04 machine but the same could be user on other Linux distros with a few customizations done to its setup.
-The development setup is designed with the help of a VM which is controlled by Vagrant, for the purposes of development, testing and local use. This way, GOAT can be installed effortlessly into each and enjoyed on every operating system.
+The frontend is written using the common web stack (HTML, CSS, JavaScript). As Javascript framework Vue.JS and as geospatial library Openlayers is used. All software used in GOAT is open source and has a strong worldwide community acceptance and reputation. 
 
-#### Data
-
-GOAT can practically use all sorts of data, however, the current data operation technique focuses on the use of OpenStreetMap (OSM) data. OSM was used as the main source of data since it is the most widely known open geospatial data source. OSM is also a standardized data schema with ubiquitous availability. The automatic setup already supports custom landuse and population data hence other types of data can be effectively inserted into the database.
-
-A combination of SQL and Python scripts are used for the preparation of data. Besides the extraction of POIS, public transport stop and landuse, the setup also allows for disaggregation of population data with the use of administrative, landuse and OSM data. During the disaggregation operation, GOAT can process administrative data in varying resolutions. Generally, the better the OSM building data and the administrative data, the better the result of the disaggregation.
-OSM is an open geospatial dataset hence the quality of data and analyses depend on the activity of the local OSM community. Consequently, this allows and invites every person and entity interested in using tools like GOAT to improve the local OSM-data.

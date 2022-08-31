@@ -25,7 +25,7 @@ Beides soll eine Steigerung des Radverkehrsanteils und eine Abnahme und Entlastu
 
 GOAT kann mit Hilfe einer Visualisierung der Unfallstellen eine Übersicht über gefährliche Orte und Kreuzungen erstellen, welche für eine anschließende Maßnahmenentwicklung zur Vermeidung von Unfällen förderlich ist. Dabei gibt es verschiedene Darstellungsformen, beispielsweise Punkte.
 
-Um das Radverkehrsnetz aus-, beziehungsweise umzubauen ist in vielen Fällen eine Umverteilung von Verkehrsflächen notwendig (Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016, p. 5). Mit GOAT können Sie Lücken im Radverkehrsnetz erkennen, mittels der Szenario-Funktion neue Wegeverbindungen erstellen und die Auswirkungen auf die Konnektivität evaluieren. 
+Um das Radverkehrsnetz aus-, beziehungsweise umzubauen ist in vielen Fällen eine Umverteilung von Verkehrsflächen notwendig (Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016, p. 5). Mit GOAT können Sie Lücken im Radverkehrsnetz erkennen, mittels der Szenario-Funktion neue Wegeverbindungen erstellen und die Auswirkungen auf die Konnektivität evaluieren.
 
 Die Auswirkungen des Lückenschlusses beziehungsweise der Verbindung von Fahrradwegen werden dynamisch angezeigt. Abbildung 1 zeigt beispielhaft die Veränderung im Wegenetz und der Konnektivität durch die Erstellung einer neue Fahrradbrücke über die Isar.
 
@@ -36,3 +36,15 @@ Als Ergänzung zum eigenen Fahrrad dienen Bikesharing Systeme. In GOAT können b
 Als Ergänzung können Daten von Fahrradzählstellen, Luft- und Reparaturstationen, Fahrradwerkstätten und Fahrradabstellanlagen als POIs in die Planungssoftware integriert werden und zum Prozess des Aus- und Umbaus der Radverkehrsnetze beitragen.
 
 **Erreichbarkeitsanalysen**
+
+Durch die verbesserte Konnektivität der Wege entsteht zudem eine höhere Erreichbarkeit zu verschiedenen POIs wie beispielsweise Supermärkten oder Kindergärten. Der Vergleich der Erreichbarkeit vor und nach dem Erstellen einer neuen Wegeverbindung kann in GOAT mithilfe von Isochronen dargestellt werden (siehe Abbildung 2).
+
+So können im Ist-Zustand aktuell 16 Kindergärten innerhalb von 10 Minuten Reisezeit mit dem Fahrrad erreicht werden (rote Isochronen) und im Szenario 25 (grüne Isochronen). Bei der Betrachtung einer 5-minütigen Reisezeit kann im Ist-Zustand kein einziger Kindergarten erreicht werden, mit der fiktiven Fahrradbrücke hingegen zwei.
+
+Sie wollen auch Analysen von Radverkehrskonzepten mit GOAT durchführen oder interessieren sich für weitere Funktionen? [Kontaktieren sie uns]() oder testen sie die kostenlose [GOAT Demo](/request-demo/ "Kostenlose Demo-Version")!
+
+[https://plan4better.de/request-demo/](https://plan4better.de/request-demo/ "https://plan4better.de/request-demo/")
+
+**Referenzen**
+
+Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016. Radverkehrskonzept - Münster 2025. Stadt Münster, Münster.

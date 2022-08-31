@@ -11,13 +11,13 @@ title = "Anwendungsbeispiel Radverkehr: GOAT als Planungshilfe in Radverkehrskon
 translationKey = ""
 
 +++
-**Was ist ein Radverkehrskonzept?**
+## Was ist ein Radverkehrskonzept?
 
 Ein Radverkehrskonzept kann helfen, zunehmende Probleme des Radverkehrs wie beispielsweise hohe Unfallzahlen zu reduzieren. Der Fokus kann dabei zum einen auf der Errichtung einer Grundversorgung des Fahrradwegenetzes oder aber auf dem Ausbau und der Optimierung der bereits bestehenden Routen liegen.
 
 Beides soll eine Steigerung des Radverkehrsanteils und eine Abnahme und Entlastung des MIV (motorisierter Individualverkehr) innerhalb der Bevölkerung zur Folge haben (Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016).
 
-**Was kann GOAT dazu beitragen?**
+## Was kann GOAT dazu beitragen?
 
 GOAT kann mit Hilfe einer Visualisierung der Unfallstellen eine Übersicht über gefährliche Orte und Kreuzungen erstellen, welche für eine anschließende Maßnahmenentwicklung zur Vermeidung von Unfällen förderlich ist. Dabei gibt es verschiedene Darstellungsformen, beispielsweise Punkte.
 
@@ -27,15 +27,19 @@ Die Auswirkungen des Lückenschlusses beziehungsweise der Verbindung von Fahrrad
 
 ![](/images/szenariofahrradbrucke.webp)
 
+_Abbildung 1: Szenario zum Bau einer Fahrradbrücke in GOAT_
+
 GOAT eignet sich zudem zur Darstellung der Verknüpfung des Radverkehrs und dem öffentlichen Nahverkehr. So können z.B. Bushaltestellen und Bahnhöfen angezeigt und die Erreichbarkeit zu diesen berechnet werden. Mittels Reisezeitisochronen kann u.a. aufgezeigt werden, wie viele Menschen innerhalb von 5 Minuten mit dem Fahrrad einen Bahnhof erreichen.
 
 Als Ergänzung zum eigenen Fahrrad dienen Bikesharing Systeme. In GOAT können bestehende Stationen und die Erreichbarkeit zu ihnen mittels Heatmaps visualisiert werden ([Auf Vimeo zeigen wir ein Beispiel](https://vimeo.com/311549509 "Vimeo")). Durch eine Gegenüberstellung von Angebot (vorhandene Bikesharing Stationen) und Nachfrage (Bevölkerung, Arbeitsplätze, etc.) können Versorgungslücken identifiziert werden und über die interaktive Szenarien-Funktion geeignete Standorte für neue Stationen identifiziert werden.
 
 Als Ergänzung können Daten von Fahrradzählstellen, Luft- und Reparaturstationen, Fahrradwerkstätten und Fahrradabstellanlagen als POIs in die Planungssoftware integriert werden und zum Prozess des Aus- und Umbaus der Radverkehrsnetze beitragen.
 
-**Erreichbarkeitsanalysen**
+## Erreichbarkeitsanalysen
 
 ![](/images/ist-zustand.webp)
+
+_Abbildung 2: Screenshot Szenario Vergleich der Erreichbarkeit_ 
 
 Durch die verbesserte Konnektivität der Wege entsteht zudem eine höhere Erreichbarkeit zu verschiedenen POIs wie beispielsweise Supermärkten oder Kindergärten. Der Vergleich der Erreichbarkeit vor und nach dem Erstellen einer neuen Wegeverbindung kann in GOAT mithilfe von Isochronen dargestellt werden (siehe Abbildung 2).
 
@@ -43,8 +47,6 @@ So können im Ist-Zustand aktuell 16 Kindergärten innerhalb von 10 Minuten Reis
 
 Sie wollen auch Analysen von Radverkehrskonzepten mit GOAT durchführen oder interessieren sich für weitere Funktionen? [Kontaktieren sie uns](/kontakt/ "Unser Kontaktformular") oder testen sie die kostenlose [GOAT Demo](/request-demo/ "Kostenlose Demo-Version")!
 
-[https://plan4better.de/request-demo/](https://plan4better.de/request-demo/ "https://plan4better.de/request-demo/")
-
-**Referenzen**
+### Referenzen
 
 Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016. Radverkehrskonzept - Münster 2025. Stadt Münster, Münster.

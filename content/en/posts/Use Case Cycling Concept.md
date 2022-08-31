@@ -13,7 +13,7 @@ translationKey = ""
 +++
 ## What is a cycling concept?
 
-A bicycle traffic concept can help to reduce increasing problems of bicycle traffic such as high accident rates. The focus can be on the one hand on the establishment of a basic bicycle route network or on the expansion and optimization of existing routes.
+A bicycle traffic concept can help to reduce current problems of bicycle traffic such as high accident rates. The focus can either be on the establishment of a new bicycle route network or on the expansion and optimization of existing routes.
 
 Both should result in an increase in the share of cycling and a decrease and relief of the MIV (motorized private transport) within the population (Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016).
 
@@ -43,7 +43,7 @@ _Figure 2: Screenshot Scenario Comparison of Accessibility._
 
 The improved connectivity of the paths also results in higher accessibility to various POIs such as supermarkets or kindergartens. The comparison of accessibility before and after the creation of a new path connection can be displayed in GOAT using isochrones (see Figure 2).
 
-For example, 16 kindergartens can currently be reached by bicycle within 10 minutes travel time in the current state (red isochrones) and 25 in the scenario (green isochrones). When considering a 5-minute travel time, not a single kindergarten can be reached in the as-is condition, but two can be reached with the fictitious bicycle bridge.
+For example, 16 kindergartens can be reached by bicycle within 10 minutes travel time in the current state (red isochrones) and 25 in the scenario (green isochrones). When considering a 5-minute travel time, not a single kindergarten can be reached in the as-is condition, but two can be reached with the fictitious bicycle bridge.
 
 You also want to perform analyses of bicycle traffic concepts with GOAT or are interested in further functions? [Contact us](/en/contact "Contact") or test the free [GOAT demo](/en/request-demo/ "Request demo")!
 

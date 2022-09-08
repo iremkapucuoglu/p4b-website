@@ -1,16 +1,20 @@
 ---
-author : "reynartz"
-categories : ["use cases"]
-date : 2022-09-08T06:00:00Z
-description : "GOAT is a versatile planning tool that can be used, among other things, to analyze bicycle traffic. In this blog post, we provide a closer look at the use of GOAT in cycling concepts."
-draft : false
-image : "/images/fahrradkonzepteblogbanner.webp"
-summary : "GOAT is a versatile planning tool that can be used, among other things, to analyze bicycle traffic. In this blog post, we provide a closer look at the use of GOAT in cycling concepts."
-thumbnail : "/images/fahrradkonzepteblogthumbnail.webp"
-title : "GOAT Use Cases: planning tool in bike traffic concepts"
-translationKey : "use-case-cycling-concept"
----
+author: reynartz
+categories:
+- use cases
+date: 2022-09-08T06:00:00.000+00:00
+description: GOAT is a versatile planning tool that can be used, among other things,
+  to analyze bicycle traffic. In this blog post, we provide a closer look at the use
+  of GOAT in cycling concepts.
+image: "/images/fahrradkonzepteblogbanner.webp"
+summary: GOAT is a versatile planning tool that can be used, among other things, to
+  analyze bicycle traffic. In this blog post, we provide a closer look at the use
+  of GOAT in cycling concepts.
+thumbnail: "/images/fahrradkonzepteblogthumbnail.webp"
+title: 'GOAT Use Cases: planning tool in bike traffic concepts'
+translationKey: use-case-cycling-concept
 
+---
 ## What is a cycling concept?
 
 A bicycle traffic concept can help to reduce current problems of bicycle traffic such as high accident rates. The focus can either be on the establishment of a new bicycle route network or on the expansion and optimization of existing routes.
@@ -35,7 +39,7 @@ _Figure 1: Scenario for the construction of a bicycle bridge in GOAT_
 
 The improved connectivity of the paths also results in higher accessibility to various POIs such as supermarkets or kindergartens. The comparison of accessibility before and after the creation of a new path connection can be displayed in GOAT using [isochrones](/en/docs/alphashape/ "Isochrones") (see Figure 2).
 
-![Scenario Comparison of Accessibility](/images/ist-zustand.webp "Scenario Comparison of Accessibility")
+![](/images/ist-zustand-1.webp)
 
 _Figure 2: Accessibility Comparision -- current state vs. scenario_
 
@@ -55,7 +59,7 @@ By comparing supply (existing bikesharing stations) and demand (population, jobs
 
 As a supplement, data from bicycle counting stations, air and repair stations, bicycle repair shops, and bicycle parking facilities can be integrated as POIs into the planning software and contribute to the process of expanding and reconstructing bicycle networks.
 
-## Test GOAT! 
+## Test GOAT!
 
 You also want to perform analyses of bicycle traffic concepts with GOAT or are interested in further functions? [Contact us](/en/contact "Contact") or test the free [GOAT demo](/en/request-demo/ "Request demo")!
 

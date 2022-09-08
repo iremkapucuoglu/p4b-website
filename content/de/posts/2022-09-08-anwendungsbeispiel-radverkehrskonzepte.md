@@ -1,16 +1,16 @@
-+++
-author = ""
-categories = []
-date = 2022-08-30T22:00:00Z
-description = ""
-draft = true
-image = "/images/fahrradkonzepteblogbanner.webp"
-summary = "GOAT ist ein vielseitiges Planungstool, das unter anderem zur Analyse des Radverkehrs eingesetzt werden kann. In diesem Blogpost geben wir einen näheren Einblick zum Einsatz von GOAT in Radverkehrskonzepten."
-thumbnail = "/images/fahrradkonzepteblogthumbnail.webp"
-title = "Anwendungsbeispiel Radverkehr: GOAT als Planungshilfe in Radverkehrskonzepten "
-translationKey = ""
+---
+author : "reynartz"
+categories : ["Anwendung"]
+date : 2022-09-08T06:00:00Z
+description : "GOAT ist ein vielseitiges Planungstool, das unter anderem zur Analyse des Radverkehrs eingesetzt werden kann. In diesem Blogpost geben wir einen näheren Einblick zum Einsatz von GOAT in Radverkehrskonzepten."
+draft : false
+image : "/images/fahrradkonzepteblogbanner.webp"
+summary : "GOAT ist ein vielseitiges Planungstool, das unter anderem zur Analyse des Radverkehrs eingesetzt werden kann. In diesem Blogpost geben wir einen näheren Einblick zum Einsatz von GOAT in Radverkehrskonzepten."
+thumbnail : "/images/fahrradkonzepteblogthumbnail.webp"
+title : "GOAT Anwendungsbeispiel: Radverkehrskonzepte"
+translationKey : "use-case-cycling-concept"
+---
 
-+++
 ## Was ist ein Radverkehrskonzept?
 
 Ein Radverkehrskonzept kann helfen, zunehmende Probleme des Radverkehrs wie beispielsweise hohe Unfallzahlen zu reduzieren. Der Fokus kann dabei zum einen auf der Errichtung einer Grundversorgung des Fahrradwegenetzes oder aber auf dem Ausbau und der Optimierung der bereits bestehenden Routen liegen.
@@ -19,11 +19,11 @@ Beides soll eine Steigerung des Radverkehrsanteils und eine Abnahme und Entlastu
 
 ## Was kann GOAT dazu beitragen?
 
-GOAT kann mit Hilfe einer Visualisierung der Unfallstellen eine Übersicht über gefährliche Orte und Kreuzungen erstellen, welche für eine anschließende Maßnahmenentwicklung zur Vermeidung von Unfällen förderlich ist. Dabei gibt es verschiedene Darstellungsformen, beispielsweise Punkte.
+GOAT kann mit Hilfe der Visualisierung der Unfallstellen eine Übersicht über gefährliche Orte und Kreuzungen erstellen, welche für eine anschließende Maßnahmenentwicklung zur Vermeidung von Unfällen förderlich ist. Dabei gibt es verschiedene Darstellungsformen, beispielsweise Punkte.
 
-Um das Radverkehrsnetz aus-, beziehungsweise umzubauen ist in vielen Fällen eine Umverteilung von Verkehrsflächen notwendig (Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016, p. 5). Mit GOAT können Sie Lücken im Radverkehrsnetz erkennen, mittels der Szenario-Funktion neue Wegeverbindungen erstellen und die Auswirkungen auf die Konnektivität evaluieren.
+Um das Radverkehrsnetz aus-, beziehungsweise umzubauen ist in vielen Fällen eine Umverteilung von Verkehrsflächen notwendig (Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016, S. 5). Mit GOAT können Sie Lücken im Radverkehrsnetz erkennen, mittels der Szenario-Funktion neue Wegeverbindungen erstellen und die Auswirkungen auf die Konnektivität evaluieren.
 
-Die Auswirkungen des Lückenschlusses beziehungsweise der Verbindung von Fahrradwegen werden dynamisch angezeigt. Abbildung 1 zeigt beispielhaft die Veränderung im Wegenetz und der Konnektivität durch die Erstellung einer neue Fahrradbrücke über die Isar.
+Die Auswirkungen des Lückenschlusses beziehungsweise die Verbindung von Fahrradwegen wird dynamisch angezeigt. Abbildung 1 zeigt beispielhaft die Veränderungen im Wegenetz und der Konnektivität durch die Erstellung einer neue Fahrradbrücke über die Isar (in orange sichtbar).
 
 ![](/images/szenariofahrradbrucke.webp)
 

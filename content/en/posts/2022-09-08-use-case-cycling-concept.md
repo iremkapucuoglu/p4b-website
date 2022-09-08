@@ -1,16 +1,16 @@
-+++
-author = ""
-categories = []
-date = ""
-description = ""
-draft = true
-image = "/images/fahrradkonzepteblogbanner.webp"
-summary = "GOAT is a versatile planning tool that can be used, among other things, to analyze bicycle traffic. In this blog post, we provide a closer look at the use of GOAT in cycling concepts."
-thumbnail = "/images/fahrradkonzepteblogthumbnail.webp"
-title = "Use Case Cycling: GOAT as a Planning Tool in Cycling Concepts "
-translationKey = ""
+---
+author : "reynartz"
+categories : ["use cases"]
+date : 2022-09-08T06:00:00Z
+description : "GOAT is a versatile planning tool that can be used, among other things, to analyze bicycle traffic. In this blog post, we provide a closer look at the use of GOAT in cycling concepts."
+draft : false
+image : "/images/fahrradkonzepteblogbanner.webp"
+summary : "GOAT is a versatile planning tool that can be used, among other things, to analyze bicycle traffic. In this blog post, we provide a closer look at the use of GOAT in cycling concepts."
+thumbnail : "/images/fahrradkonzepteblogthumbnail.webp"
+title : "Use Case Cycling: GOAT as a Planning Tool in Cycling Concepts "
+translationKey : "use-case-cycling-concept"
+---
 
-+++
 ## What is a cycling concept?
 
 A bicycle traffic concept can help to reduce current problems of bicycle traffic such as high accident rates. The focus can either be on the establishment of a new bicycle route network or on the expansion and optimization of existing routes.

@@ -126,7 +126,7 @@
     en: Intern
     de: Praktikantin
   image: "/images/team/reynartz.webp"
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_isabel.webp"
   github: ''
   website: ''
@@ -331,17 +331,16 @@
 - username: otter
   name: Philipp Otter
   title:
-    en: Intern
-    de: Praktikant
+    en: Working Student
+    de: Werkstudent
   bio:
     en: Philipp finds it exciting to create analyses based on simulations or models
-      to improve the traffic situation and quality of life in our cities. As an intern
-      he supports the programming team.
+      to improve the traffic situation and quality of life in our cities. He supports the programming team.
     de: Er findet es spannend Analysen basierend auf Simulationen oder Modellen zu
       erstellen, um die Verkehrssituation und Lebensqualität in unseren Städten zu
-      verbessern. Als Praktikant unterstützt er das Programmierteam.
+      verbessern. Als Werkstudent unterstützt er das Programmierteam.
   image: ''
-  team_member: false
+  team_member: true
   team_image: "/images/team/team_philipp.webp"
   github: ''
   website: ''

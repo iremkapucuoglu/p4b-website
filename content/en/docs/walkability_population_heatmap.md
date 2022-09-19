@@ -29,7 +29,7 @@ In order to classify the accessibility levels that were computed for each grid c
 
 The "Comparison of Accessibility and Population Density" heatmap is calculated as following:
 
-<b> Accessibility Population Index = Population Level – Accessibility Level </b>
+<b> Index = Population Level – Accessibility Level </b>
 
 and shows following result:
 

@@ -11,12 +11,13 @@ description: Schritt-für-Schritt-Anleitung für beispielhafte Planungsfragen un
 #### Beschreibung des Features
 
 Isochronen sind Isolinien, die alle Punkte verbinden, die von einem bestimmten Startpunkt aus innerhalb eines bestimmten Zeitintervalls erreicht werden können. Sie sind besonders geeignet, um die Erreichbarkeit an einem spezifischen Ort aufzuzeigen.
-GOAT ermöglicht die Berechnung von Isochronen und erlaubt die Anpassung der Reisegeschwindigkeit, der Reisezeit und des Routingprofils. Gegenwärtig kann zwischen den Routingprofilen „Zu Fuß“, „Fahrrad Standard“ und „Fahrrad Pedelec“ ausgewählt werden. Außerdem kann die Anzahl der zu berechnenden Isochronen eingestellt werden.
+GOAT ermöglicht die Berechnung von Isochronen und erlaubt die Anpassung der Reisegeschwindigkeit, der Reisezeit und des Routingprofils. Gegenwärtig kann zwischen den Routingprofilen „Zu Fuß“, „Fahrrad Standard“, „Fahrrad Pedelec“, „ÖPNV“ und „Auto“ ausgewählt werden. Außerdem kann die Anzahl der zu berechnenden Isochronen eingestellt werden.
 
 #### Mögliche Anwendungsfälle (Planungsfragen)
 
 * Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 Gehminuten erreicht werden?
 * Wie viele Menschen können eine ÖV-Haltestelle innerhalb von 5 Minuten mit dem Fahrrad erreichen?
+* Wie gut ist die Erreichbarkeit mit dem ÖV im Vergleich zur Erreichbarkeit mit dem Auto?
 
 #### Schritt-für-Schritt-Anleitung für die beispielhaften Planungsaufgaben
 
@@ -34,9 +35,9 @@ Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 G
 
 2. Zoomen Sie zu dem Bereich, in dem Sie die Isochrone berechnen möchten.
    
-3. Stellen Sie die maximale Reisezeit auf 10 Minuten. Wählen Sie die gewünschte Gehgeschwindigkeit, das Routingprofil und die Anzahl der gewünschten Isochronen aus.
+3. Wählen Sie das Routingprofil und die gewünschte Gehgeschwindigkeit aus.
 
-<img src="/images/tutorials/Isochrone/isochrone_settings.webp"  alt="choose isochrone range" style="max-height:230px;"/>
+<img src="/images/tutorials/Isochrone/Isochrone_1.2_select_de.webp"  alt="choose isochrone range" style="max-height:230px;"/>
 
 4. Platzieren Sie den Startpunkt für die Isochronenberechnung an einem beliebigen Punkt.
    
@@ -45,6 +46,10 @@ Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 G
 5. Nachdem die Berechnung ausgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. Diesem können Sie die erreichbaren Supermärkte entnehmen.
 
 <img src="/images/tutorials/Isochrone/results_supermarkets.webp"  alt="results"/>
+
+6. Die Ergebnisse können über verschiedene Graphiken analysiert werden. Somit können Sie u.a. die räumliche Verteilung der Supermärkte sehen.
+
+<img src="/images/tutorials/Isochrone/results_supermarkets_2.webp"  alt="results"/>
 
 #### 2 Fahrradrouting
 
@@ -56,22 +61,26 @@ Wie viele Menschen können den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad e
 
 1. Ändern Sie den Routingmodi auf „Fahrrad“ und stellen Sie die Isochronen Reichweite auf 5 Minuten.
    
-<!-- ![](/images/tutorials/Isochrone/cycling-mode.webp) -->
-<img src="/images/tutorials/Isochrone/cycling_mode.webp"  alt="Routing mode cycling" style="max-height:220px;"/>
+<img src="/images/tutorials/Isochrone/Isochrone_2.2_select_de.webp"  alt="Routing mode cycling" style="max-height:220px;"/>
 
 2. Platzieren Sie den Startpunkt für die Isochronenberechnung auf dem Bahnhof.  
    
-<!-- ![](/images/tutorials/Isochrone/starting-point-isochrone.webp) -->
 <img src="/images/tutorials/Isochrone/starting_point_isochrone.webp"  alt="set starting point" style="max-height:150px;"/>
 
-3. Nachdem die Berechnung ausgeführt wurde, erscheint links im Menü ein Fenster mit den Ergebnissen. Diesem können Sie entnehmen, wie viele Menschen den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad erreichen können.
+3. Nachdem die Berechnung ausgeführt wurde, erscheint ein Fenster mit den Ergebnissen. Diesem können Sie entnehmen, wie viele Menschen den Bahnhof innerhalb von 10 Minuten mit dem Fahrrad erreichen können.
 
-<img src="/images/tutorials/Isochrone/cycling_result.webp"  alt="result"/>
+<img src="/images/tutorials/Isochrone/Isochrone_2.3_10minutes_de.webp"  alt="result"/>
 
-4. Durch Klicken auf den Download-Button können Sie die Isochronen als GeoJSON oder Shapefile sowie die Ergebnis-Tabelle als Excel-File herunterladen.
+4. Durch das Bewegen des Sliders kann die Reisezeit dynamisch auf 5 Minuten geändert werden.  
+   
+<img src="/images/tutorials/Isochrone/Isochrone_2.3_5minutes_de.webp"  alt="result"/>
 
-<img src="/images/tutorials/Isochrone/download.webp"  alt="download" style="max-height:250px;"/>
+5. Ergänzeng zur Tabelle können die Bevölkerungszahlen in einer Summenkurve visualisiert werden. 
 
-5. Über den Slider rechts vom Download-Button kann außerdem das Routing-Netzwerk visualisiert werden.
+<img src="/images/tutorials/Isochrone/Isochrone_2.result_different_graph_Eng.webp"  alt="download" style="max-height:300px;"/>
 
-<img src="/images/tutorials/Isochrone/network.webp"  alt="network"/>
+6. Durch Klicken auf den Download-Button können Sie die Isochronen als GeoJSON, Shapefile oder XML sowie die Ergebnis-Tabelle als Excel-File herunterladen.
+
+<img src="/images/tutorials/Isochrone/Isochrone_2.4_export_de.webp"  alt="download" style="max-height:250px;"/>
+
+

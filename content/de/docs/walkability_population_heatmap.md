@@ -30,7 +30,7 @@ Zur Klassifizierung der Erreichbarkeitswerte, die für jedes Hexagon berechnet w
 
 Die Vergleichs-Heatmap wird wie folgt berechnet:
 
-<b> Erreichbarkeit - Bevölkerungs - Index = Bevölkerungsdichte – Erreichbarkeitswert </b>
+<b> Index = Bevölkerungsdichte – Erreichbarkeitswert </b>
 
 und zeigt folgendes Ergebnis:
 

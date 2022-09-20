@@ -31,30 +31,34 @@ GOAT allows you to develop your own location planning scenarios, for example, ad
 
 1. Select the kindergartens as Thematic Data.
 
-<img src="/images/tutorials/Scenario_POIs/kindergarten_en.webp" alt="Amenity kindergarten" style="max-height:250px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.1_select_eng.webp" alt="Amenity kindergarten" style="max-height:300px;"/>
 
-2. Display the heatmap "Accessibility and Population Density." This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. The red coloring indicates spaces that are currently undersupplied.
+2. Display the indicator "Accessibility and Population Density." This shows how well the walking accessibility to the selected destinations is spatially distributed over the population. The red coloring indicates spaces that are currently undersupplied.
 
-<img src="/images/tutorials/Scenario_POIs/accessibility_population_heatmap_en.webp" alt="Amenity kindergarten"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.2_eng.webp" alt="Amenity kindergarten"/>
    
 3. Now go to the menu for scenario development and create a new scenario.
 
-<img src="/images/tutorials/Scenario_POIs/create_scenario_en.webp"  alt="New scenario" style="max-height:300px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.3_eng.webp"  alt="New scenario" style="max-height:300px;"/>
 
 4. Give the scenario a name and click "OK".
 
-<img src="/images/tutorials/Scenario_POIs/name_scenario_en.webp" alt="Name scenario" style="max-height:170px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.4_eng.webp" alt="Name scenario" style="max-height:170px;"/>
 
 5. Select the layer you want to edit, in this case the "Point of Interest" Layer.
 
-<img src="/images/tutorials/Scenario_POIs/poi_en.webp" alt="Edit POIs" style="max-height:200px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.5_eng.webp" alt="Edit POIs" style="max-height:270px;"/>
 
 6. You're now in the scenario mode. To indicate the new mode, the menu color changes from green to dark blue.
 
 7. Edit the kindergartens (move existing kindergartens or add new kindergartens) to cover the neighborhoods with accessibility deficits. 
 
-<img src="/images/tutorials/Scenario_POIs/edit_tools_en.webp" alt="Edit Kindergartens" style="max-height:120px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.7_eng.webp" alt="Editing tools" style="max-height:130px;"/>
 
-8. The "Comparison of Accessibility and Population Density" is heatmap automatically refreshed. The modified kindergartens are now included in the calculation.
+8. For example, add a new kindergarten.
 
-<img src="/images/tutorials/Scenario_POIs/new_kindergarten_en.webp" alt="Scenario View"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.7_attribute_eng.webp" alt="Add Kindergartens" style="max-height:250px;"/>
+
+9.  The "Comparison of Accessibility and Population Density" heatmap automatically refreshed. The modified kindergartens are now included in the calculation.
+
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.8_eng.webp" alt="Scenario View"/>

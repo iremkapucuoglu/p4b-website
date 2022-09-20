@@ -31,30 +31,34 @@ GOAT ermöglicht die Entwicklung eigener Szenarien zur Standortplanung, so kann 
 
 1. Lassen Sie sich als Thematische Daten die Kindergärten anzeigen.
 
-<img src="/images/tutorials/Scenario_POIs/kindergarten.webp" alt="Amenity kindergarten" style="max-height:250px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.1_select_de.webp" alt="Amenity kindergarten" style="max-height:300px;"/>
 
-2. Blenden Sie die Heatmap „Erreichbarkeit und Bevölkerungsdichte” ein. Diese zeigt, wie gut die fußläufige Erreichbarkeit zu den gewählten Zielen räumlich über die Bevölkerung verteilt ist. Die rote Färbung zeigt Räume mit einem Unterangebot an.
+2. Blenden Sie den Indikator „Erreichbarkeit und Bevölkerungsdichte” ein. Diese Heatmap zeigt, wie gut die fußläufige Erreichbarkeit zu den gewählten Zielen räumlich über die Bevölkerung verteilt ist. Die rote Färbung zeigt Räume mit einem Unterangebot an.
 
-<img src="/images/tutorials/Scenario_POIs/accessibility_population_heatmap.webp" alt="Amenity kindergarten"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.2_de.webp" alt="Amenity kindergarten"/>
 
 3. Gehen Sie nun in das Fenster zur Szenarienentwicklung und erstellen Sie ein neues Szenario.
 
-<img src="/images/tutorials/Scenario_POIs/create_scenario.webp"  alt="New scenario" style="max-height:300px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.3_de.webp"  alt="New scenario" style="max-height:300px;"/>
 
 4. Geben Sie dem Szenario einen Namen und klicken Sie auf "OK".
 
-<img src="/images/tutorials/Scenario_POIs/name_scenario.webp" alt="Name scenario" style="max-height:170px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.4_de.webp" alt="Name scenario" style="max-height:170px;"/>
 
 5. Wählen Sie den zu bearbeitenden Layer aus; in diesem Fall den „Point of Interest”-Layer.
 
-<img src="/images/tutorials/Scenario_POIs/poi.webp" alt="Edit POIs" style="max-height:200px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.5_de.webp" alt="Edit POIs" style="max-height:270px;"/>
 
 6. Sie befinden sich nun im Szenario-Modus. Um dies zu verdeutlichen, ändert sich die Menü-Farbe von grün zu dunkelblau.
 
 7. Bearbeiten Sie die Kindergärten so (bestehende Kindergärten verschieben oder neue Kindergärten hinzufügen), dass auch die Stadtteile mit Erreichbarkeitsdefiziten abgedeckt werden. 
 
-<img src="/images/tutorials/Scenario_POIs/edit_tools.webp" alt="Edit Kindergartens" style="max-height:120px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.7_de.webp" alt="Editing tools" style="max-height:130px;"/>
 
-8. Die Heatmap „Vergleich von Erreichbarkeit und Bevölkerungsdichte” aktualisiert sich automatisch. Die veränderten Kindergärten werden nun in die Berechnung mit einbezogen.
+8. Fügen Sie z.B. einen neuen Kindergarten hinzu. 
 
-<img src="/images/tutorials/Scenario_POIs/new_kindergarten.webp" alt="Scenario View"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.7_attribute_de.webp" alt="Add Kindergartens" style="max-height:250px;"/>
+
+9. Die Heatmap „Vergleich von Erreichbarkeit und Bevölkerungsdichte” aktualisiert sich automatisch. Die veränderten Kindergärten werden nun in die Berechnung mit einbezogen.
+
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.8_De.webp" alt="Scenario View"/>

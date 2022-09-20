@@ -33,7 +33,7 @@ How well are the supermarkets currently distributed over the city? In which dist
 
 2. Set the routing options as desired (e.g. walking, 5km/h, 10 min travel time, 2 isochrones).
    
-<img src="/images/tutorials/Multiisochrones/Multi_isochrone_1.2.2_select_option_eng.webp"  alt="choose isochrone range" style="max-height:220px;"/>
+<img src="/images/tutorials/Multiisochrones/Multi_isochrone_1.2.2_select_option_eng.webp"  alt="choose isochrone range" style="max-height:180px;"/>
 
 3. Switch to the "Multiple" isochrone calculation mode and select the "Study Area" method, which later lists all results differentiated by districts.
 

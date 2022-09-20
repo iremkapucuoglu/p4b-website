@@ -62,6 +62,6 @@ GOAT allows the development of personalized scenarios for changes in the buildin
 
 <img src="/images/tutorials/Scenario_buildings/calculate_en.webp" alt="Berechnen" style="max-height:310px;"/>
 
-12. The resulting multi-isochrones show the catchment areas of the kindergartens (here for the mode "pedestrian" with 5-minutes catchment area in light green and 10-minutes catchment area in dark green). In this example case, it can be seen in the map that the new population is just at the border of the catchment area and thus has to walk a good 10 minutes to the nearest kindergarten.
+11. The resulting multi-isochrones show the catchment areas of the kindergartens (here for the mode "pedestrian" with 5-minutes catchment area in light green and 10-minutes catchment area in dark green). In this example case, it can be seen in the map that the new population is just at the border of the catchment area and thus has to walk a good 10 minutes to the nearest kindergarten.
 
 <img src="/images/tutorials/Scenario_buildings/result_en.webp" alt="Ergebnis" style="max-height:400px;"/>

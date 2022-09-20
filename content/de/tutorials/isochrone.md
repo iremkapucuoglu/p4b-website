@@ -37,7 +37,7 @@ Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 G
    
 3. Wählen Sie das Routingprofil und die gewünschte Gehgeschwindigkeit aus.
 
-<img src="/images/tutorials/Isochrone/Isochrone_1.2_select_de.webp"  alt="choose isochrone range" style="max-height:230px;"/>
+<img src="/images/tutorials/Isochrone/Isochrone_1.2_select_de.webp"  alt="choose isochrone range" style="max-height:180px;"/>
 
 4. Platzieren Sie den Startpunkt für die Isochronenberechnung an einem beliebigen Punkt.
    
@@ -61,7 +61,7 @@ Wie viele Menschen können den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad e
 
 1. Ändern Sie den Routingmodi auf „Fahrrad“ und stellen Sie die Isochronen Reichweite auf 5 Minuten.
    
-<img src="/images/tutorials/Isochrone/Isochrone_2.2_select_de.webp"  alt="Routing mode cycling" style="max-height:220px;"/>
+<img src="/images/tutorials/Isochrone/Isochrone_2.2_select_de.webp"  alt="Routing mode cycling" style="max-height:180px;"/>
 
 2. Platzieren Sie den Startpunkt für die Isochronenberechnung auf dem Bahnhof.  
    

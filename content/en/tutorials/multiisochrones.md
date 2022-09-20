@@ -29,6 +29,8 @@ How well are the supermarkets currently distributed over the city? In which dist
 
 1. Display the supermarkets as thematic data (can be found in the "shop" category).
 
+<img src="/images/tutorials/Multiisochrones/Multi_isochrone_1.1_freiburg_eng.webp"  alt="choose isochrone range"/>
+
 2. Set the routing options as desired (e.g. walking, 5km/h, 10 min travel time, 2 isochrones).
    
 <img src="/images/tutorials/Multiisochrones/Multi_isochrone_1.2.2_select_option_eng.webp"  alt="choose isochrone range" style="max-height:220px;"/>

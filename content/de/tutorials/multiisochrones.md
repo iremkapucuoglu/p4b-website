@@ -29,9 +29,11 @@ Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadt
 
 1. Wählen Sie im Menü „Filter Thematische Daten“ die Einrichtung „Supermarkt“ (zu finden in der Kategorie „Einkaufen“).
 
+<img src="/images/tutorials/Multiisochrones/Multi_isochrone_1.1_freiburg_de.webp"  alt="choose isochrone range"/>
+
 2. Stellen Sie die Routing-Optionen wie gewünscht ein (z.B. Zu Fuß, 5km/h).
 
-<img src="/images/tutorials/Multiisochrones/Multi_isochrone_1.2.2_select_option_de.webp"  alt="choose isochrone range" style="max-height:220px;"/>
+<img src="/images/tutorials/Multiisochrones/Multi_isochrone_1.2.2_select_option_de.webp"  alt="choose isochrone range" style="max-height:180px;"/>
 
 3. Wechseln Sie zum Isochronenberechnungsmodus „Multi“ und wählen die Methode „Ortsteil“ aus; diese wird später alle Ergebnisse nach Ortsteilen differenziert auflisten.
 

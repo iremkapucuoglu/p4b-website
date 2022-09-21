@@ -43,9 +43,9 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.5_De.webp"  alt="Circle tool"/>
 
-6. Zeichnen Sie an der gewünschten Stelle eine neue Wegeverbindung, wählen Sie als Wegetyp „Brücke“ aus und klicken Sie auf „Speichern“. Die gezeichneten Wege werden nun rechts in der Tabelle aufgeführt. 
+6. Zeichnen Sie an der gewünschten Stelle eine neue Wegeverbindung, wählen Sie als Wegetyp „Brücke“ aus und klicken Sie auf „Speichern“. Die gezeichneten Wege werden autmomatisch in die Datenbank hochgeladen und unten rechts in der Tabelle aufgeführt. 
 
-<img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.6_de.webp"  alt="Draw" style="max-height:300px;"/>
+<img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.6_de.webp"  alt="Draw" />
 
 7. Indem Sie sich die Isochronen für den Ist-Zustand und für das Szenario berechnen lassen, können Sie die Auswirkung der neuen Wegeverbindung auf die Erreichbarkeit analysieren. Wählen Sie hierzu den Routingmodi „Fahrrad“ aus und setzen den Berechnungsmodus auf „Vergleich“. In den Optionen können Sie die Fahrgeschwindigkeit einstellen.
 
@@ -54,3 +54,8 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 8. Platzieren Sie den Startpunkt für die Isochronenberechnung in der Nähe der neuen Brücke. Als Ergebnis wird Ihnen eine Isochrone im Ist-Zustand und eine Isochrone unter Berücksichtigung der neuen Wegeverbindung angezeigt. Der Ergebnistabelle können Sie die jeweilige Einwohnerzahl innerhalb der Isochrone entnehmen.
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.8_de.webp"  alt="Result" />
+
+9. Durch Aktivieren der POI-Daten wird sichbar, wie viele Einrichtungen jeweils im Ist-Zustand und im Szenario erreichbar sind.
+
+<img src="/images/tutorials/Scenario_building/Scenario_ways_result_poi_de.webp"  alt="POIs" />
+

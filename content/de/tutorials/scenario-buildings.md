@@ -23,40 +23,44 @@ GOAT ermöglicht Veränderungen in der Bebauung, wie z.B. die Errichtung eines n
 ****
 1. Blenden Sie den Layer „Gebäude” aus der Kategorie „Gebäude und Flächennutzung” ein.
 
-<img src="/images/tutorials/Scenario_buildings/buildings.webp" alt="Buildings"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.1_de.webp" alt="Buildings"/>
 
-2.  Blenden Sie außerdem die Heatmap „Bevölkerungsdichte” ein. Diese zeigen alle vorhandenen Gebäude (in rot: Gebäude mit Wohnnutzung, in weiß: Gebäude ohne Wohnnutzung) und die Bevölkerungsdichte an (je dunkler der Hintergrund, desto höher die Bevölkerungsdichte).  
+2.  Blenden Sie außerdem den Indikator „Bevölkerungsdichte” ein. Diese zeigen alle vorhandenen Gebäude (in rot: Gebäude mit Wohnnutzung, in weiß: Gebäude ohne Wohnnutzung) und die Bevölkerungsdichte an (je dunkler der Hintergrund, desto höher die Bevölkerungsdichte).  
 
-<img src="/images/tutorials/Scenario_buildings/population.webp" alt="Population"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.2_de.webp" alt="Population"/>
 
 3. Gehen Sie nun in das Fenster zur Szenarienentwicklung und erstellen ein neues Szenario.
 
-<img src="/images/tutorials/Scenario_buildings/create_scenario.webp" alt="New scenario" style="max-height:250px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.3_de.webp" alt="New scenario" style="max-height:280px;"/>
 
 4. Geben Sie dem Szenario einen Namen und klicken Sie auf "OK".
 
-<img src="/images/tutorials/Scenario_buildings/name_scenario.webp" alt="Name scenario" style="max-height:200px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.4_de.webp" alt="Name scenario" style="max-height:200px;"/>
 
 5. Wählen Sie den zu bearbeitenden Layer aus, in diesem Fall den „Gebäude” Layer.
 
-<img src="/images/tutorials/Scenario_buildings/scenario_buildings.webp" alt="Edit Buildings" style="max-height:250px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.5_de.webp" alt="Edit Buildings" style="max-height:250px;"/>
 
-6. Mittels der Bearbeitungstools können Sie neue Gebäude zeichnen und bearbeiten. Bestimmen Sie für neue Gebäude jeweils die Art der Nutzung und die Anzahl der Stockwerke. Außerdem muss für jedes Gebäude mindestens ein Eingang gesetzt werden. Nachdem dies getan wurde, erscheint das Gebäude in Grün.
+6. Mittels der Bearbeitungstools können Sie neue Gebäude zeichnen und bearbeiten. Bestimmen Sie für neue Gebäude jeweils die Art der Nutzung und die Anzahl der Stockwerke. Außerdem muss für jedes Gebäude mindestens ein Eingang gesetzt werden (dargestellt durch lila Punkte). Nachdem dies getan wurde, erscheint das Gebäude in Grün.
 
-<img src="/images/tutorials/Scenario_buildings/draw.webp" alt="Gebäude zeichnen" style="max-height:400px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.6_de.webp" alt="Gebäude zeichnen" />
 
 7. Lassen Sie sich als Thematische Daten die Kindergärten anzeigen.
    
 8. Wechseln Sie zum Isochronen Menü, schalten Sie auf den "Vergleich" Modus, wählen Sie die "Multi" Isochronen Berechnung und die "Ortsteil" Methode aus.
 
-<img src="/images/tutorials/Scenario_buildings/multiisochrones.webp" alt="Comparison multi isochrone" style="max-height:400px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.8_de.webp" alt="Comparison multi isochrone" style="max-height:400px;"/>
 
 9. Wählen Sie dann in der Karte per Mausklick den Ortsteil, in dem Sie die Nachverdichtung durchgeführt haben.
     
 10. Klicken Sie auf „Berechnen“.
 
-<img src="/images/tutorials/Scenario_buildings/calculate.webp" alt="Berechnen" style="max-height:310px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.9and10_de.webp" alt="Berechnen" style="max-height:310px;"/>
 
-11.  Die resultierenden Multi-Isochronen zeigen die Einzugsbereiche der Kindergärten (hier für den Modus „Fußgänger“ mit 5 Minuten Einzugsbereich in hellgrün und 10 Minuten Einzugsbereich in dunkelgrün). In der Karte ist in diesem Beispielfall zu erkennen, dass die neue Bevölkerung gerade an der Grenze des Einzugsbereichs liegt und somit gute 10 Minuten Fußweg zum nächsten Kindergarten zurücklegen muss.
+11. Die resultierenden Multi-Isochronen zeigen die Einzugsbereiche der Kindergärten (hier für den Modus „Fußgänger“ mit 10 Minuten Einzugsbereichen). In der Karte ist in diesem Beispielfall zu erkennen, dass die neue Bevölkerung gerade an der Grenze des Einzugsbereichs liegt und somit knapp 10 Minuten Fußweg zum nächsten Kindergarten zurücklegen muss.
 
-<img src="/images/tutorials/Scenario_buildings/result.webp" alt="Ergebnis" style="max-height:400px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.11_result10min_de.webp" alt="Ergebnis" />
+
+12. Der Reisezeit-Slider kann interkativ bewegt werden. Die Multiisochronen passen sich dynamisch an. 
+
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.11_result5min_de.webp" alt="Ergebnis" />

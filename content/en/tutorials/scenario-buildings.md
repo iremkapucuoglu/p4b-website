@@ -28,40 +28,44 @@ GOAT allows the development of personalized scenarios for changes in the buildin
 
 1. Display the layer "Buildings" from the category "Buildings and landuse".
 
-<img src="/images/tutorials/Scenario_buildings/buildings_en.webp" alt="Buildings"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.1_eng.webp" alt="Buildings"/>
 
 2. In addition, enable the heatmap "Population Density". These show all existing buildings (in red: buildings with residential use, in white: buildings without residential use) and the population density (the darker the background, the higher the population density).
 
-<img src="/images/tutorials/Scenario_buildings/population_en.webp" alt="Population"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.2_eng.webp" alt="Population"/>
 
 3. Navigate to the scenario development menu and create a new scenario.
 
-<img src="/images/tutorials/Scenario_buildings/create_scenario_en.webp" alt="New scenario" style="max-height:250px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.3_eng.webp" alt="New scenario" style="max-height:280px;"/>
 
 4. Give the scenario a name and click on "OK."
 
-<img src="/images/tutorials/Scenario_buildings/name_scenario_en.webp" alt="Name scenario" style="max-height:150px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.4_eng.webp" alt="Name scenario" style="max-height:200px;"/>
 
 5. Select which layer you want to edit, in this case the "Buildings" Layer.
 
-<img src="/images/tutorials/Scenario_buildings/scenario_buildings_en.webp" alt="Edit Buildings" style="max-height:250px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.5_eng.webp" alt="Edit Buildings" style="max-height:250px;"/>
 
-6. Using the editing tools, you can draw and edit new buildings. Specify the type of use and the number of floors for each new building. In addition, you must set at least one entrance for each building. Once you have done this, the building will appear in green.
+6. Using the editing tools, you can draw and edit new buildings. Specify the type of use and the number of floors for each new building. In addition, you must set at least one entrance for each building (represented by purple dots). Once you have done this, the building will appear in green.
 
-<img src="/images/tutorials/Scenario_buildings/draw_en.webp" alt="Gebäude zeichnen" style="max-height:400px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.6_eng.webp" alt="Gebäude zeichnen" />
 
 7. Display the kindergartens as Thematic Data.
    
 8. Switch to the Isochrone Menu, change to the comparison mode, select the "Multiple" isochrone calculation mode and the "Study Area" method.
 
-<img src="/images/tutorials/Scenario_buildings/multiisochrones_en.webp" alt="Comparison multi isochrone" style="max-height:400px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.8_eng.webp" alt="Comparison multi isochrone" style="max-height:400px;"/>
 
 9. Select the district on the map where you have carried out the redensification with a mouse click.
     
 10. Click on "Calculate."
 
-<img src="/images/tutorials/Scenario_buildings/calculate_en.webp" alt="Berechnen" style="max-height:310px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.9and10_eng.webp" alt="Berechnen" style="max-height:310px;"/>
 
 11. The resulting multi-isochrones show the catchment areas of the kindergartens (here for the mode "pedestrian" with 5-minutes catchment area in light green and 10-minutes catchment area in dark green). In this example case, it can be seen in the map that the new population is just at the border of the catchment area and thus has to walk a good 10 minutes to the nearest kindergarten.
 
-<img src="/images/tutorials/Scenario_buildings/result_en.webp" alt="Ergebnis" style="max-height:400px;"/>
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.11_result10min_eng.webp" alt="Ergebnis" />
+
+12. The travel time slider can be adjusted interactively. The multiisochrones are dynamically reacting to the changes. 
+
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.11_result5min_eng.webp" alt="Ergebnis" />

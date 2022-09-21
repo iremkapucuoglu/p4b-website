@@ -43,9 +43,9 @@ How does the construction of a new bicycle bridge across the river change access
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.5_eng.webp"  alt="Circle tool"/>
 
-6. Draw a new route connection at the desired location, select "Bridge" as the route type and click "Save". The drawn paths are now listed in the table on the right. To integrate these paths into the database, they must be uploaded using the "Upload" button.
+6. Draw a new route connection at the desired location, select "Bridge" as the route type and click "Save". The drawn paths are uploaded automatically into the database and are listed in the table on the bottom right. 
 
-<img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.6_eng.webp"  alt="Draw" style="max-height:300px;"/>
+<img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.6_eng.webp"  alt="Draw"/>
 
 7. Now you can analyze the effect of the new path connection on accessibility by calculating the isochrones for the current state and for the scenario. To do this, select the routing mode "Bike" and set the calculation mode to "Comparison." In the options you can set the travel time and the travel speed.
 
@@ -54,3 +54,7 @@ How does the construction of a new bicycle bridge across the river change access
 8. Place the starting point for the isochrone calculation near the new bridge. As a result you will see one isochrone showing the actual state and one isochrone considering the new path connection. The result table shows the respective number of inhabitants within the isochrone.
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.8_eng.webp"  alt="Result" />
+
+9. By activating the poi data it gets visual, how many amenities are accessibility each in the current and the scenario state. 
+
+<img src="/images/tutorials/Scenario_building/Scenario_ways_result_poi_eng.webp"  alt="POIs" />

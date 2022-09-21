@@ -47,10 +47,10 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.6_de.webp"  alt="Draw" style="max-height:300px;"/>
 
-7. Indem Sie sich die Isochronen für den Ist-Zustand und für das Szenario berechnen lassen, können Sie die Auswirkung der neuen Wegeverbindung auf die Erreichbarkeit analysieren. Wählen Sie hierzu den Routingmodi „Fahrrad“ aus und setzen den Berechnungsmodus auf „Vergleich“. In den Optionen können Sie die Reisezeit, die Fahrgeschwindigkeit und die Anzahl der zu berechnenden Isochronen einstellen.
+7. Indem Sie sich die Isochronen für den Ist-Zustand und für das Szenario berechnen lassen, können Sie die Auswirkung der neuen Wegeverbindung auf die Erreichbarkeit analysieren. Wählen Sie hierzu den Routingmodi „Fahrrad“ aus und setzen den Berechnungsmodus auf „Vergleich“. In den Optionen können Sie die Fahrgeschwindigkeit einstellen.
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.7_de.webp" alt="Comparison" style="max-height:400px;"/>
 
 8. Platzieren Sie den Startpunkt für die Isochronenberechnung in der Nähe der neuen Brücke. Als Ergebnis wird Ihnen eine Isochrone im Ist-Zustand und eine Isochrone unter Berücksichtigung der neuen Wegeverbindung angezeigt. Der Ergebnistabelle können Sie die jeweilige Einwohnerzahl innerhalb der Isochrone entnehmen.
 
-<img src="/images/tutorials/Scenario_building/scenario_ways_8_output_de.webp"  alt="Result" />
+<img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.8_de.webp"  alt="Result" />

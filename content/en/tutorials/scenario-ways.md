@@ -35,7 +35,7 @@ How does the construction of a new bicycle bridge across the river change access
 
 3. Select the layer you want to edit, in this case the "Ways" Layer.
 
-<img src="/images/tutorials/Scenario_building/scenario_ways_en.webp"  alt="Edit ways" style="max-height:350px;"/>
+<img src="/images/tutorials/Scenario_building/scenario_ways_en.webp"  alt="Edit ways" style="max-height:250px;"/>
 
 4. You're now in the scenario mode. To indicate the new mode, the menu color changes from green to dark blue.
    
@@ -47,10 +47,10 @@ How does the construction of a new bicycle bridge across the river change access
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.6_eng.webp"  alt="Draw" style="max-height:300px;"/>
 
-7. Now you can analyze the effect of the new path connection on accessibility by calculating the isochrones for the current state and for the scenario. To do this, select the routing mode "Bike" and set the calculation mode to "Comparison." In the options you can set the travel time, the travel speed and the number of isochrones to be calculated.
+7. Now you can analyze the effect of the new path connection on accessibility by calculating the isochrones for the current state and for the scenario. To do this, select the routing mode "Bike" and set the calculation mode to "Comparison." In the options you can set the travel time and the travel speed.
 
-<img src="/images/tutorials/Scenario_building/comparison_en.webp"  alt="Comparison" style="max-height:400px;"/>
+<img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.7_eng.webp"  alt="Comparison" style="max-height:400px;"/>
 
-8. Place the starting point for the isochrone calculation near the new bridge. As a result you will see in red the isochrones in the actual state and in green the isochrones considering the new path connection. The result table shows the respective area and number of inhabitants within the isochrone.
+8. Place the starting point for the isochrone calculation near the new bridge. As a result you will see one isochrone showing the actual state and one isochrone considering the new path connection. The result table shows the respective number of inhabitants within the isochrone.
 
-<img src="/images/tutorials/Scenario_building/result_isochrone_en.webp"  alt="Result" />
+<img src="/images/tutorials/Scenario_building/scenario_ways_8_output_eng.webp"  alt="Result" />

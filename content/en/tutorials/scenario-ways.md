@@ -53,4 +53,4 @@ How does the construction of a new bicycle bridge across the river change access
 
 8. Place the starting point for the isochrone calculation near the new bridge. As a result you will see one isochrone showing the actual state and one isochrone considering the new path connection. The result table shows the respective number of inhabitants within the isochrone.
 
-<img src="/images/tutorials/Scenario_building/scenario_ways_8_output_eng.webp"  alt="Result" />
+<img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.8_eng.webp"  alt="Result" />

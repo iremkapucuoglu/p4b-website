@@ -53,4 +53,4 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 8. Platzieren Sie den Startpunkt für die Isochronenberechnung in der Nähe der neuen Brücke. Als Ergebnis wird Ihnen eine Isochrone im Ist-Zustand und eine Isochrone unter Berücksichtigung der neuen Wegeverbindung angezeigt. Der Ergebnistabelle können Sie die jeweilige Einwohnerzahl innerhalb der Isochrone entnehmen.
 
-<img src="/images/tutorials/Scenario_building/scenario_ways_8_output_de.webp"  alt="Result" />
+<img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.8_de.webp"  alt="Result" />

@@ -35,7 +35,7 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 3. Wählen Sie welchen Layer Sie bearbeiten möchten; in diesem Fall den „Wege“-Layer.
 
-<img src="/images/tutorials/Scenario_building/scenario_ways.webp"  alt="Edit ways" style="max-height:350px;"/>
+<img src="/images/tutorials/Scenario_building/scenario_ways.webp"  alt="Edit ways" style="max-height:400px;"/>
 
 4. Sie befinden sich nun im Szenario-Modus. Um dies zu verdeutlichen, ändert sich die Menü-Farbe von grün zu dunkelblau.
    

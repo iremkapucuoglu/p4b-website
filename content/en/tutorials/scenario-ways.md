@@ -47,7 +47,7 @@ How does the construction of a new bicycle bridge across the river change access
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.6_eng.webp"  alt="Draw"/>
 
-7. Now you can analyze the effect of the new path connection on accessibility by calculating the isochrones for the current state and for the scenario. To do this, select the routing mode "Bike" and set the calculation mode to "Comparison." In the options you can set the travel time and the travel speed.
+7. Now you can analyze the effect of the new path connection on accessibility by calculating the isochrones for the current state and for the scenario. To do this, select the routing mode "Bike" and set the calculation mode to "Comparison." In the options you can set the travel speed.
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.7_eng.webp"  alt="Comparison" style="max-height:400px;"/>
 
@@ -55,6 +55,6 @@ How does the construction of a new bicycle bridge across the river change access
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.8_eng.webp"  alt="Result" />
 
-9. By activating the poi data it gets visual, how many amenities are accessibility each in the current and the scenario state. 
+9. By activating the poi data, it gets visual how many amenities are accessibility each in the current and the scenario state. 
 
 <img src="/images/tutorials/Scenario_building/Scenario_ways_result_poi_eng.webp"  alt="POIs" />

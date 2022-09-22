@@ -46,13 +46,17 @@ GOAT allows the development of personalized scenarios for changes in the buildin
 
 <img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.5_eng.webp" alt="Edit Buildings" style="max-height:250px;"/>
 
-6. Using the editing tools, you can draw and edit new buildings. Specify the type of use and the number of floors for each new building. In addition, you must set at least one entrance for each building (represented by purple dots). Once you have done this, the building will appear in green.
+6. Using the editing tools, you can draw and edit new buildings. Specify the type of use and the number of floors for each new building. 
 
 <img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.6_eng.webp" alt="Gebäude zeichnen" />
 
-7. Display the kindergartens as Thematic Data.
+7. In addition, you must set at least one entrance for each building (represented by purple dots). Once you have done this, the building will appear in green.
    
-8. Switch to the Isochrone Menu, change to the comparison mode, select the "Multiple" isochrone calculation mode and the "Study Area" method.
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.6_green_eng.webp" alt="Eingänge zeichnen" />
+
+8. Display the kindergartens as Thematic Data.
+   
+9.  Switch to the Isochrone Menu, change to the comparison mode, select the "Multiple" isochrone calculation mode and the "Study Area" method.
 
 <img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.8_eng.webp" alt="Comparison multi isochrone" style="max-height:400px;"/>
 

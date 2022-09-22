@@ -41,26 +41,30 @@ GOAT ermöglicht Veränderungen in der Bebauung, wie z.B. die Errichtung eines n
 
 <img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.5_de.webp" alt="Edit Buildings" style="max-height:250px;"/>
 
-6. Mittels der Bearbeitungstools können Sie neue Gebäude zeichnen und bearbeiten. Bestimmen Sie für neue Gebäude jeweils die Art der Nutzung und die Anzahl der Stockwerke. Außerdem muss für jedes Gebäude mindestens ein Eingang gesetzt werden (dargestellt durch lila Punkte). Nachdem dies getan wurde, erscheint das Gebäude in Grün.
+6. Mittels der Bearbeitungstools können Sie neue Gebäude zeichnen und bearbeiten. Bestimmen Sie für neue Gebäude jeweils die Art der Nutzung und die Anzahl der Stockwerke. 
 
 <img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.6_de.webp" alt="Gebäude zeichnen" />
 
-7. Lassen Sie sich als Thematische Daten die Kindergärten anzeigen.
+7. Außerdem muss für jedes Gebäude mindestens ein Eingang gesetzt werden (dargestellt durch lila Punkte). Nachdem dies getan wurde, erscheint das Gebäude in Grün.
+
+<img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.6_green_de.webp" alt="Eingänge zeichnen" />
+
+8. Lassen Sie sich als Thematische Daten die Kindergärten anzeigen.
    
-8. Wechseln Sie zum Isochronen Menü, schalten Sie auf den "Vergleich" Modus, wählen Sie die "Multi" Isochronen Berechnung und die "Ortsteil" Methode aus.
+9. Wechseln Sie zum Isochronen Menü, schalten Sie auf den "Vergleich" Modus, wählen Sie die "Multi" Isochronen Berechnung und die "Ortsteil" Methode aus.
 
 <img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.8_de.webp" alt="Comparison multi isochrone" style="max-height:400px;"/>
 
-9. Wählen Sie dann in der Karte per Mausklick den Ortsteil, in dem Sie die Nachverdichtung durchgeführt haben.
+10. Wählen Sie dann in der Karte per Mausklick den Ortsteil, in dem Sie die Nachverdichtung durchgeführt haben.
     
-10. Klicken Sie auf „Berechnen“.
+11. Klicken Sie auf „Berechnen“.
 
 <img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.9and10_de.webp" alt="Berechnen" style="max-height:310px;"/>
 
-11. Die resultierenden Multi-Isochronen zeigen die Einzugsbereiche der Kindergärten (hier für den Modus „Fußgänger“ mit 10 Minuten Einzugsbereichen). In der Karte ist in diesem Beispielfall zu erkennen, dass die neue Bevölkerung gerade an der Grenze des Einzugsbereichs liegt und somit knapp 10 Minuten Fußweg zum nächsten Kindergarten zurücklegen muss.
+12. Die resultierenden Multi-Isochronen zeigen die Einzugsbereiche der Kindergärten (hier für den Modus „Fußgänger“ mit 10 Minuten Einzugsbereichen). In der Karte ist in diesem Beispielfall zu erkennen, dass die neue Bevölkerung gerade an der Grenze des Einzugsbereichs liegt und somit knapp 10 Minuten Fußweg zum nächsten Kindergarten zurücklegen muss.
 
 <img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.11_result10min_de.webp" alt="Ergebnis" />
 
-12. Der Reisezeit-Slider kann interkativ bewegt werden. Die Multiisochronen passen sich dynamisch an. 
+13. Der Reisezeit-Slider kann interkativ bewegt werden. Die Multiisochronen passen sich dynamisch an. 
 
 <img src="/images/tutorials/Scenario_buildings/Scenarios_buildings_1.2.11_result5min_de.webp" alt="Ergebnis" />

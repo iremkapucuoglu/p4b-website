@@ -100,6 +100,22 @@
   bio:
     de: 'Als Geoinformatikerin analysiert Dilan gerne komplexe Daten und löst Probleme. Sie sieht GIS als eine aufregende, sich schnell verändernde und coole Technologie und möchte diese für alle zugänglich machen.'
     en: 'As a geomatics engineer, Dilan likes to analyze complex data and solve problems. She sees GIS as an exciting, rapidly changing, and cool technology and wants to make this technology accessible to everyone.'
+- username: kapucuoglu
+  name: İrem Kapucuoğlu
+  title:
+    en: GIS Engineer
+    de: GIS Ingenieurin
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_kapucuoglu.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/iremkapucuoglu/'
+  twitter: ''
+  bio:
+    de: 'Als Geomatikerin liebt Irem es, die Welt zu visualisieren. Sie schafft digitale Lösungen und kreiert nachhaltige Städte durch GIS-Technologien.'
+    en: 'As a geomatics engineer, Irem likes visualising the earth. She likes to produce digital solutions and create sustainable cities full of technology with GIS.'
 - username: meining
   name: Sophie Meining
   title:

@@ -43,6 +43,10 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.5_De.webp"  alt="Circle tool"/>
 
+6. Das bestehende Wegenetz wird angezeigt.
+
+<img src="/images/tutorials/Scenario_building/scenario_ways_7_de.webp"  alt="Fetched ways"/>
+
 6. Zeichnen Sie an der gewünschten Stelle eine neue Wegeverbindung, wählen Sie als Wegetyp „Brücke“ aus und klicken Sie auf „Speichern“. Die gezeichneten Wege werden autmomatisch in die Datenbank hochgeladen und unten rechts in der Tabelle aufgeführt. 
 
 <img src="/images/tutorials/Scenario_building/Scenarios_ways_1.2.6_de.webp"  alt="Draw" />

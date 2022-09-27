@@ -1,7 +1,7 @@
 ---
 - image: "/images/videos/basic_isochrones.webp"
   vimeoDe: 311547681
-  vimeoEn: 311547681
+  vimeoEn: 754209613
   title:
     en: Calculate walking isochrones
     de: Berechnung von Isochronen
@@ -13,7 +13,7 @@
   comments: first video
 - image: "/images/videos/isochrones_scenario.webp"
   vimeoDe: 311550100
-  vimeoEn: 311550100
+  vimeoEn: 754212535
   title:
     en: Interactive network modifications
     de: Interaktive Veränderung des Netzwerks
@@ -27,7 +27,7 @@
   comments: ""
 - image: "/images/videos/walkability_heatmap.webp"
   vimeoDe: 311549509
-  vimeoEn: 311549509
+  vimeoEn: 753850371
   title:
     en: Compute and visualize walking accessibility
     de: Heatmap zur fußläufigen Erreichbarkeit
@@ -39,7 +39,7 @@
   comments: ""
 - image: "/images/videos/multi_isochrones.webp"
   vimeoDe: 370382250
-  vimeoEn: 370382250
+  vimeoEn: 754227700
   title:
     en: Interactively compute multi-isochrones
     de: Interaktive Berechnung von Multi-Isochronen
@@ -61,7 +61,7 @@
   comments: ""
 - image: "/images/videos/walkability_population_heatmap.webp"
   vimeoDe: 370376888
-  vimeoEn: 370376888
+  vimeoEn: 754241640
   title:
     en: Comparison population density and accessibility
     de: Vergleich Bevölkerungsdichte und Erreichbarkeit
@@ -83,7 +83,7 @@
   comments: ""
 - image: "/images/videos/extensive_spatial_data.webp"
   vimeoDe: 422451126
-  vimeoEn: 422451126
+  vimeoEn: 754248730
   title:
     en: Visualize extensive spatial data
     de: Visualisierung umfangreicher räumlicher Daten
@@ -93,7 +93,7 @@
   comments: ""
 - image: "/images/videos/custom_maps.webp"
   vimeoDe: 712046495
-  vimeoEn: 712046495
+  vimeoEn: 754252638
   title:
     en: Create individualized maps
     de: Individuelle Karten erstellen

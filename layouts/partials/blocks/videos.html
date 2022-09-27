@@ -23,8 +23,13 @@
               <h3 class="uk-margin-small-bottom">{{ index .title site.Language.Lang }}</h3>
               <div>{{ index .text site.Language.Lang }}</div>
             </div>
-            <a class="uk-position-cover" href="https://vimeo.com/{{ .vimeo }}" data-attrs="width: 1280;" data-caption="{{ index .title site.Language.Lang }}"></a>
-          </div>
+            {{if eq site.Language.Lang "de"}}
+              <a class="uk-position-cover" href="https://vimeo.com/{{ .vimeoDe }}" data-attrs="width: 1280;" data-caption="{{ index .title site.Language.Lang }}"></a>
+            {{ end }}
+            {{if eq site.Language.Lang "en"}}
+              <a class="uk-position-cover" href="https://vimeo.com/{{ .vimeoEn }}" data-attrs="width: 1280;" data-caption="{{ index .title site.Language.Lang }}"></a>
+            {{ end }}
+            </div>
         </div>
       {{ end }}       
     </div>

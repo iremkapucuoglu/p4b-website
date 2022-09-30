@@ -90,6 +90,6 @@ Gerichtsstand ist – soweit zulässig vereinbart – München.
 Sämtliche Erklärungen im Zusammenhang mit der Webseite und den Nutzungsbedingungen sind zu richten an: 
 
 Plan4Better GmbH  
-Augustenstraße 49  
-80333 München
-
+Atelierstraße 29 c/o WERK1  
+81671 München  
+Deutschland

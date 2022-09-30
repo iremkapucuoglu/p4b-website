@@ -1,5 +1,5 @@
 +++
-description = "Plan4Better GmbH Augustenstraße 49 80333 München Deutschland Tel.: +49 89/200070830 E-Mail: info@plan4better.de"
+description = "Plan4Better GmbH Atelierstraße 29 c/o WERK1 81671 München Deutschland Tel.: +49 89/200070830 E-Mail: info@plan4better.de"
 layout = "blocks"
 title = "Imprint"
 translationKey = ""
@@ -26,8 +26,8 @@ text = ""
 Angaben gemäß § 5 TMG:
 
 **Plan4Better GmbH**  
-Atelierstraße 29 c/o WERK1
-81671 München
+Atelierstraße 29 c/o WERK1  
+81671 München  
 Deutschland
 
 Vertretungsberechtigte Geschäftsführer/innen: Elias Pajares, Ulrike Jehle

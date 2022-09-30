@@ -26,8 +26,8 @@ text = ""
 Angaben gemäß § 5 TMG:
 
 **Plan4Better GmbH**  
-Augustenstraße 49  
-80333 München  
+Atelierstraße 29 c/o WERK1
+81671 München
 Deutschland
 
 Vertretungsberechtigte Geschäftsführer/innen: Elias Pajares, Ulrike Jehle

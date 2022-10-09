@@ -18,6 +18,12 @@ heading = ""
 template = "card-block"
 text = "Are you interested in GOAT and would like to try out the functionalities yourself? Simply click on the link below, fill out the contact form and you will receive your personal access to the demo version for Munich. The demo version is valid for 30 days. If you like GOAT and would like to use the planning software beyond that, please feel free to contact us. GOAT is already available for the whole of Germany and can be transferred to study areas worldwide on request."
 [[blocks.links]]
+heading = "Login"
+icon = "chevron-double-right"
+page = ""
+text = ""
+url = "https://goat.plan4better.de/"
+[[blocks.links]]
 heading = "Get Demo"
 icon = "chevron-double-right"
 page = ""

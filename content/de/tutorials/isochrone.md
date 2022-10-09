@@ -10,8 +10,7 @@ description: Schritt-für-Schritt-Anleitung für beispielhafte Planungsfragen un
 ---
 #### Beschreibung des Features
 
-Isochronen sind Isolinien, die alle Punkte verbinden, die von einem bestimmten Startpunkt aus innerhalb eines bestimmten Zeitintervalls erreicht werden können. Sie sind besonders geeignet, um die Erreichbarkeit an einem spezifischen Ort aufzuzeigen.
-GOAT ermöglicht die Berechnung von Isochronen und erlaubt die Anpassung der Reisegeschwindigkeit, der Reisezeit und des Routingprofils. Gegenwärtig kann zwischen den Routingprofilen „Zu Fuß“, „Fahrrad Standard“, „Fahrrad Pedelec“, „ÖPNV“ und „Auto“ ausgewählt werden. Außerdem kann die Anzahl der zu berechnenden Isochronen eingestellt werden.
+Isochronen sind Isolinien, die alle Punkte verbinden, die von einem bestimmten Startpunkt aus innerhalb eines bestimmten Zeitintervalls erreicht werden können. Sie sind besonders geeignet, um die Erreichbarkeit an einem spezifischen Ort aufzuzeigen. GOAT ermöglicht die Berechnung von Isochronen und erlaubt die Anpassung der Reisegeschwindigkeit, der Reisezeit und des Routingprofils. Gegenwärtig kann zwischen den Routingprofilen „Zu Fuß“, „Fahrrad Standard“, „Fahrrad Pedelec“, „ÖPNV“ und „Auto“ ausgewählt werden. Außerdem kann die Anzahl der zu berechnenden Isochronen eingestellt werden. 
 
 #### Mögliche Anwendungsfälle (Planungsfragen)
 
@@ -34,13 +33,12 @@ Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 G
 <img src="/images/tutorials/Isochrone/amenity_supermarket.webp" alt="amenity supermarket" style="max-height:400px;"/>
 
 2. Zoomen Sie zu dem Bereich, in dem Sie die Isochrone berechnen möchten.
-   
 3. Wählen Sie das Routingprofil und die gewünschte Gehgeschwindigkeit aus.
 
 <img src="/images/tutorials/Isochrone/Isochrone_1.2_select_de.webp"  alt="choose isochrone range" style="max-height:180px;"/>
 
 4. Platzieren Sie den Startpunkt für die Isochronenberechnung an einem beliebigen Punkt.
-   
+
 <img src="/images/tutorials/Isochrone/starting_point_isochrone.webp"  alt="set starting point" style="max-height:150px;"/>
 
 5. Nachdem die Berechnung ausgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. Diesem können Sie die erreichbaren Supermärkte entnehmen.
@@ -60,27 +58,25 @@ Wie viele Menschen können den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad e
 ##### 2.2 Arbeitsschritte
 
 1. Ändern Sie den Routingmodi auf „Fahrrad“ und stellen Sie die Isochronen Reichweite auf 5 Minuten.
-   
+
 <img src="/images/tutorials/Isochrone/Isochrone_2.2_select_de.webp"  alt="Routing mode cycling" style="max-height:180px;"/>
 
-2. Platzieren Sie den Startpunkt für die Isochronenberechnung auf dem Bahnhof.  
-   
+2. Platzieren Sie den Startpunkt für die Isochronenberechnung auf dem Bahnhof.
+
 <img src="/images/tutorials/Isochrone/starting_point_isochrone.webp"  alt="set starting point" style="max-height:150px;"/>
 
 3. Nachdem die Berechnung ausgeführt wurde, erscheint ein Fenster mit den Ergebnissen. Diesem können Sie entnehmen, wie viele Menschen den Bahnhof innerhalb von 10 Minuten mit dem Fahrrad erreichen können.
 
 <img src="/images/tutorials/Isochrone/Isochrone_2.3_10minutes_de.webp"  alt="result"/>
 
-4. Durch das Bewegen des Sliders kann die Reisezeit dynamisch auf 5 Minuten geändert werden.  
-   
+4. Durch das Bewegen des Sliders kann die Reisezeit dynamisch auf 5 Minuten geändert werden.
+
 <img src="/images/tutorials/Isochrone/Isochrone_2.3_5minutes_de.webp"  alt="result"/>
 
-5. Ergänzeng zur Tabelle können die Bevölkerungszahlen in einer Summenkurve visualisiert werden. 
+5. Ergänzeng zur Tabelle können die Bevölkerungszahlen in einer Summenkurve visualisiert werden.
 
 <img src="/images/tutorials/Isochrone/Isochrone_2.result_different_graph_Eng.webp"  alt="download" style="max-height:300px;"/>
 
 6. Durch Klicken auf den Download-Button können Sie die Isochronen als GeoJSON, Shapefile oder XML sowie die Ergebnis-Tabelle als Excel-File herunterladen.
 
 <img src="/images/tutorials/Isochrone/Isochrone_2.4_export_de.webp"  alt="download" style="max-height:250px;"/>
-
-

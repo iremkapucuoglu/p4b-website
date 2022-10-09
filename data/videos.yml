@@ -1,5 +1,5 @@
 ---
-- image: "/images/videos/basic_isochrones.webp"
+- image: "/images/videos/calculate_walking_isochrones.webp"
   vimeoDe: 311547681
   vimeoEn: 754209613
   title:
@@ -25,7 +25,7 @@
       Entwicklung eigener Szenarien durch Veränderungen im Routingnetzwerk und Visualisierung
       der Erreichbarkeitsveränderungen.
   comments: ""
-- image: "/images/videos/walkability_heatmap.webp"
+- image: "/images/videos/compute_and_visualize_walking_accessibility.webp"
   vimeoDe: 311549509
   vimeoEn: 753850371
   title:
@@ -51,7 +51,7 @@
   comments: ""
 - image: "/images/videos/scenario_new_station.webp"
   vimeoDe: 411721219
-  vimeoEn: 411721219
+  vimeoEn: 754586552
   title:
     en: Use GOAT for location planning
     de: Einsatz von GOAT in der Standortplanung
@@ -73,7 +73,7 @@
   comments: ""
 - image: "/images/videos/scenario_buildings.webp"
   vimeoDe: 510422670
-  vimeoEn: 510422670
+  vimeoEn: 754585702
   title:
     en: Plan new residential areas
     de: Planung neuer Wohngebiete

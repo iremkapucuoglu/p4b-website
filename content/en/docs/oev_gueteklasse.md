@@ -1,25 +1,25 @@
 ---
-title: ÖV Güteklassen
+title: Public transport quality classes
 permalink: /en/docs/oev_gueteklasse/
 lang: en
 sections:
 - technical
-weight: 40
+weight: 45
 ---
 
-Die Erschließungsqualität ist ein entscheidener Indikator in der ÖV- und Raumplanung. So können Defizite in der Erschließung aufgezeigt und gut erschlossene Standorte als attraktive Entwicklungsgebiete identifiziert werden. Methodisch überlegen im Vergleich zu gängigen Einzugsradien ist der Ansatz der ÖV Güteklassen. Um die Attraktivität des ÖV-Angebotes in die Bewertung der Erschließungsqualität einfließen zu lassen, verwendet das Schweizer Bundesamt für Raumentwicklung ARE 2011 den Indikator der ÖV Güteklassen, seither gelten diese als wichtiges Instrument in formalen Planungsprozessen in der Schweiz. Zudem diente das Schweizer Vorbild als Inspiration für Anwendung in Österreich (u.a. Voralberg).  
+The quality of accessibility is a decisive indicator in public transport and spatial planning. It can be used to highlight deficits in accessibility and to identify well-serviced locations as attractive areas for development. The approach of public transport quality classes (German: _ÖV Güteklassen_) is methodologically superior compared to common catchment radii. In 2011, the Swiss Federal Office for Spatial Development (ARE) used the indicator of public transport quality classes in order to include the attractiveness of public transport services in the assessment of development quality; since then, these have been considered an important instrument in formal planning processes in Switzerland. In addition, the Swiss model served as an inspiration for application in Austria (e.g. Voralberg).  
 
-Die bereits erfolgte Institutionalisierung des Indikators im deutschsprachigen Ausland, sowie die verständliche und gleichzeitig differenzierte Berechnungsmethodik sind wichtige Vorteile der ÖV Güteklassen. Für den Einsatz in GOAT wurde der Indikator auf die Verhältnisse in Deutschland angepasst. Gleichzeitig wurde der Berechnungzeitraum flexibilisiert, so kann der Indikator für beliebige Wochentage und Tageszeiten berechnet werden. In der Schweizer Version des Indikators wird die Berechnung der Güteklassen in der Regel für Abfahrten an Wochentage zwischen 6-20 Uhr durchgeführt. Im Folgenden wird die in GOAT implementierte Berechnungsmethodik genauer erläutert.  
+The institutionalisation of the indicator in German-speaking countries, as well as the comprehensible and at the same time differentiated calculation methodology, are important advantages of the public transport quality classes. For use in GOAT, the indicator was adapted to the conditions in Germany. At the same time, the calculation period was made more flexible so that the indicator can be calculated for any day of the week and time of day. In the Swiss version of the indicator, the calculation of the quality classes is usually carried out for departures on weekdays between 6-20 hrs. The calculation methodology implemented in GOAT is explained in more detail below.  
 
-![Klassifizierung Haltestellen](/images/docs/oev_gueteklasse/classification_stations_en.webp "Klassifizierung Stationen")
+![Classification of transport stops](/images/docs/oev_gueteklasse/classification_stations_en.webp "Classification of transport stops")
 
-Die Berechnungen werden aus Basis von GTFS-Daten durchgeführt. Zunächst wird für jede Station die Anzahl der Abfahrten je ÖV-Verkehrsmittel (U-Bahn, Tram, Bus und Bahn) dynamisch berechnet. Die Summe der Abfahrten wird zur Berechnung des Taktes durch zwei geteilt, um die Hin- und Rückrichtung rauszurechnen. Im nächsten Schritt wird der durchschnittliche Takt für das ausgewählte Zeitintervall berechnet. Als Stationstyp wird im Falle der Bedienung durch mehrere Verkehrsmittel das höherwertige Angebot ausgewählt. So ist dieses beispielsweise im Falle von Bus und Bahn, die Bahn. Mithilfe der oben dargestellten Tabelle, sowie dem Stationstyp und dem Takt kann nun die Stationskategorie festgelegt werden. 
+The calculations are carried out on the basis of GTFS data. First, the number of departures per public transport mode (underground, tram, bus and train) is dynamically calculated for each station. The sum of the departures is divided by two to calculate the frequency, in order to eliminate the outward and return directions. In the next step, the average frequency for the selected time interval is calculated. The higher-value service is selected as the station type in the case of service by several means of transport. For example, in the case of bus and train, this is the train. With the help of the table above, as well as the station type and the frequency, the station category can now be determined. 
 
-![Bestimmung ÖV Güteklassen](/images/docs/oev_gueteklasse/determination_oev_gueteklasse_en.webp "Bestimmung ÖV Güteklassen")
+![Determination of public transport quality classes](/images/docs/oev_gueteklasse/determination_oev_gueteklasse_en.webp "Determination of public transport quality classes")
 
-Im Folgenden werden für die entsprechende Stationskategorien Radien in der dargestellten Größe berechnet. So entstehen mehrere Radien, die zusammengeführt werden. Für sich überlappende Radien wird die höherwertige Güteklasse verwendet. 
+Subsequently, radii of the size shown are calculated for the corresponding station categories. This creates several radii that are merged. For overlapping radii, the higher quality class is used. 
 
-# Referenzen
+# References
 
 Bundesamt für Raumentwicklung ARE, 2022. ÖV-Güteklassen Berechnungsmethodik ARE (Grundlagenbericht).
 

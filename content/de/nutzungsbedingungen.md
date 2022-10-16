@@ -1,7 +1,7 @@
 +++
 layout = "blocks"
 title = "Allgemeine Nutzungsbedingungen"
-description = "Digitale Planungswerkzeuge für die Gestaltung nachhaltiger Mobilität und lebenswerter Räume. Faktenbasierte Planungshilfen für den Fuß- und Radverkehr."
+description = "Digitale Planungswerkzeuge für die Gestaltung nachhaltiger Mobilität und lebenswerter Räume. Faktenbasierte Planungshilfen für den Fuß-, Radverkehr und ÖPNV."
 ogimage = "/images/title_street.webp"
 translationKey = ""
 [header]

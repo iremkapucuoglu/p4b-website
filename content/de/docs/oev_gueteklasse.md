@@ -4,7 +4,7 @@ permalink: /de/docs/oev_gueteklasse/
 lang: de
 sections:
 - technical
-weight: 40
+weight: 45
 ---
 
 Die Erschließungsqualität ist ein entscheidener Indikator in der ÖV- und Raumplanung. So können Defizite in der Erschließung aufgezeigt und gut erschlossene Standorte als attraktive Entwicklungsgebiete identifiziert werden. Methodisch überlegen im Vergleich zu gängigen Einzugsradien ist der Ansatz der ÖV Güteklassen. Um die Attraktivität des ÖV-Angebotes in die Bewertung der Erschließungsqualität einfließen zu lassen, verwendet das Schweizer Bundesamt für Raumentwicklung ARE 2011 den Indikator der ÖV Güteklassen, seither gelten diese als wichtiges Instrument in formalen Planungsprozessen in der Schweiz. Zudem diente das Schweizer Vorbild als Inspiration für Anwendung in Österreich (u.a. Voralberg).  

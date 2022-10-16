@@ -1,10 +1,10 @@
 ---
-title: ÖV Güteklassen
+title: Public transport quality classes
 permalink: /en/docs/oev_gueteklasse/
 lang: en
 sections:
 - technical
-weight: 40
+weight: 45
 ---
 
 The quality of accessibility is a decisive indicator in public transport and spatial planning. It can be used to highlight deficits in accessibility and to identify well-serviced locations as attractive areas for development. The approach of public transport quality classes (German: _ÖV Güteklassen_) is methodologically superior compared to common catchment radii. In 2011, the Swiss Federal Office for Spatial Development (ARE) used the indicator of public transport quality classes in order to include the attractiveness of public transport services in the assessment of development quality; since then, these have been considered an important instrument in formal planning processes in Switzerland. In addition, the Swiss model served as an inspiration for application in Austria (e.g. Voralberg).  

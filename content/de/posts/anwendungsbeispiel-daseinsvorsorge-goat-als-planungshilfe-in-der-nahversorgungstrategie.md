@@ -5,7 +5,7 @@ date = 2022-10-16T22:00:00Z
 description = "GOAT ist ein vielseitiges Planungstool, das unter anderem auch zur Analyse der Daseinsvorsorge genutzt werden kann. In diesem Blogpost geben wir einen näheren Einblick zum Einsatz  von GOAT in der Nahversorgungstrategie."
 draft = true
 image = "/images/blogbanner-4.webp"
-summary = ""
+summary = "GOAT ist ein vielseitiges Planungstool, das unter anderem auch zur Analyse der Daseinsvorsorge genutzt werden kann. In diesem Blogpost geben wir einen näheren Einblick zum Einsatz  von GOAT in der Nahversorgungstrategie."
 thumbnail = "/images/blogbanner-4.webp"
 title = "GOAT Anwendungsbeispiel: Daseinsvorsorge"
 translationKey = ""
@@ -49,6 +49,6 @@ Um Einschränkungen in Öffnungszeiten von beispielsweise Handwerksbetrieben ode
 
 Sie wollen auch solche Analysen zur Daseinsvorsorge mit GOAT durchführen oder interessieren sich für weitere Funktionen? [Kontaktieren sie uns](/kontakt/ "Kontaktformular") oder testen sie die [kostenlose GOAT-Demo](/request-demo/ "Demo anfragen")!
 
-**Referenzen**
+## Referenzen
 
 Acocella, D., Helbig, P., von der Heide, J., 2018. Nahversorgungsstrategie für den Landkreis Schweinfurt. Landratsamt Schweinfurt, Schweinfurt/Nürnberg/Lörrach.

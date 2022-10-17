@@ -37,3 +37,4 @@ fields:
   description: Enter username from authors settings.
 pages:
 - content/de/posts/anwendungsbeispiel-daseinsvorsorge-goat-als-planungshilfe-in-der-nahversorgungstrategie.md
+- content/en/posts/goat-use-cases-local-supply-strategy.md

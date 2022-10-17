@@ -1,11 +1,11 @@
 +++
-author = ""
-categories = []
-date = ""
-description = ""
+author = "reynartz"
+categories = ["use cases"]
+date = 2022-10-16T22:00:00Z
+description = "GOAT is a versatile planning tool that can be utilized, among other things, to analyze local supply. In this blog post, we provide a closer look at the use of GOAT in local supply strategy."
 draft = true
 image = "/images/blogbanner-4.webp"
-summary = ""
+summary = "GOAT is a versatile planning tool that can be utilized, among other things, to analyze local supply. In this blog post, we provide a closer look at the use of GOAT in local supply strategy."
 thumbnail = "/images/blogbanner-4.webp"
 title = "GOAT use cases: local supply strategy "
 translationKey = ""
@@ -29,13 +29,13 @@ _Figure 1: Heatmap of local accessibility_
 
 ## Accessibility analyses
 
-An important point in the local supply strategy is the potential of the inhabitants to be reached, which can be represented with the help of isochrones of the POI (point of interest) to be considered. In addition, accessibility plays a decisive role in terms of transport connections: this can be calculated and visualized with the tool for bicycle and pedestrian traffic as well as public transport. This differentiated view of accessibility based on travel time allows for an exact representation of deficits and surpluses in intersected layers, such as accessibility and population density, as well as single and multi-isochrones. In this way, potential areas can be filtered out.
+An important point in the local supply strategy is the potential of the inhabitants to be reached, which can be represented with the help of isochrones of the POI (point-of-interest) to be considered. In addition, accessibility plays a decisive role in terms of transport connections: this can be calculated and visualized with a tool for bicycle and pedestrian traffic as well as public transport. This differentiated view of accessibility based on travel time allows for an exact representation of deficits and surpluses in intersected layers, such as accessibility and population density, as well as single and multi-isochrones. In this way, potential areas can be filtered out.
 
 ![](/images/nahversorgung2en.webp)
 
 _Figure 2: Walking catchment areas of pharmacies (7min)_
 
-To get a visual overview of the required inhabitants:in to maintain a business, isochrons could be created that are just as large to capture just that.
+To get a visual overview of the required inhabitants to maintain a business, isochrones could be created that are just as large to capture just that.
 
 Another point where GOAT can contribute is the creation of scenarios and their effects. By creating new POIs, such as a kindergarten, the impact on population accessibility can be outlined and gaps in coverage can be interactively changed or closed. Improvements can thus also be represented quantitatively.
 

@@ -7,19 +7,19 @@ draft = true
 image = "/images/blogbanner-4.webp"
 summary = "GOAT is a versatile planning tool that can be utilized, among other things, to analyze local supply. In this blog post, we provide a closer look at the use of GOAT in local supply strategy."
 thumbnail = "/images/blogbanner-4.webp"
-title = "GOAT use cases: local supply strategy "
-translationKey = ""
+title = "GOAT Use Cases: local supply strategy "
+translationKey = "use-case-local-supply-strategy"
 
 +++
 ## What is a local supply strategy?
 
-An increasingly aging population, declining pensions and rising costs for mobility as well as the concentration of food retailing raise the question of an appropriate local supply strategy. In this context, it is important to consider not only the supply of food, but also other retail services and to improve existing structures. The needs and perspectives of supply and demand can be determined with the help of scenarios and thus supply gaps can be found (Acocella et al., 2018). GOAT can assist in this process.
+An increasingly aging population, declining pensions and rising costs for mobility as well as the concentration of food retailing raise the question of an appropriate local supply strategy. In this context, it is important to consider not only the supply of food, but also other retail services and to improve existing structures. The needs and perspectives of supply and demand can be determined with the help of scenarios and thus supply gaps can be found (Acocella et al., 2018). [GOAT](/en/goat/ "What is GOAT?") can assist in this process.
 
 ## What can GOAT contribute?
 
 GOAT makes it possible to measure the quality of accessibility of facilities of general interest (e.g., education, health, or culture) in planning decision-making processes. In this way, scenarios can be developed for the effects of new or eliminated facilities on supply. Furthermore, it is possible to evaluate the location quality of residential developments with regard to their accessibility and thus prepare planning decisions for their further development.
 
-The population density can be visualized with the help of a heatmap. If necessary, the tool can be extended to include a layer for changes in the population and its age composition in order to be able to respond more dynamically to a needs-based infrastructure. In addition, retail businesses such as supermarkets can be visualized in GOAT. Available and already used areas for retail can also be shown with the help of the land use layers.
+The population density can be visualized with the help of a [heatmap](/en/docs/heatmap/ "More information on heatmaps"). If necessary, the tool can be extended to include a layer for changes in the population and its age composition in order to be able to respond more dynamically to a needs-based infrastructure. In addition, retail businesses such as supermarkets can be visualized in GOAT. Available and already used areas for retail can also be shown with the help of the land use layers.
 
 Accessibility heatmaps help planners to quickly and easily identify supply gaps and development potential.
 

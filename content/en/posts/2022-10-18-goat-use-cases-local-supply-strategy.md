@@ -1,16 +1,20 @@
 ---
-author: "reynartz"
-categories: ["use cases"]
-date: 2022-10-16T22:00:00Z
-description: "GOAT is a versatile planning tool that can be utilized, among other things, to analyze local supply. In this blog post, we provide a closer look at the use of GOAT in the local supply strategy."
-draft: false
-image: "/images/blogbanner-4.webp"
-summary: "GOAT is a versatile planning tool that can be utilized, among other things, to analyze local supply. In this blog post, we provide a closer look at the use of GOAT in the local supply strategy."
-thumbnail: "/images/blogbanner-4.webp"
-title: "GOAT Use Cases: local supply strategy "
-translationKey: "use-case-local-supply-strategy"
----
+author: reynartz
+categories:
+- use cases
+date: 2022-10-16T22:00:00.000+00:00
+description: GOAT is a versatile planning tool that can be utilized, among other things,
+  to analyze local supply. In this blog post, we provide a closer look at the use
+  of GOAT in the local supply strategy.
+image: "/images/titelbilddaseinsvorsorge900.webp"
+summary: GOAT is a versatile planning tool that can be utilized, among other things,
+  to analyze local supply. In this blog post, we provide a closer look at the use
+  of GOAT in the local supply strategy.
+thumbnail: "/images/titelbilddaseinsvorsorge600.webp"
+title: 'GOAT Use Cases: local supply strategy '
+translationKey: use-case-local-supply-strategy
 
+---
 ## What is a local supply strategy?
 
 An increasingly aging population, declining pensions and rising costs for mobility as well as the concentration of food retailing raise the question of an appropriate local supply strategy. In this context, it is important to consider not only the supply of food, but also other retail services and to improve existing structures. The needs and perspectives of supply and demand can be determined with the help of scenarios and thus supply gaps can be found (Acocella et al., 2018). [GOAT](/en/goat/ "What is GOAT?") can assist in this process.
@@ -23,7 +27,7 @@ The population density can be visualized with the help of a heatmap. If necessar
 
 [Accessibility heatmaps](/en/docs/heatmap/ "More information on heatmaps") help planners to quickly and easily identify supply gaps and development potential.
 
-![](/images/nahversorgung1en.webp)
+![Heatmap of local accessibility](/images/nahversorgung1de.webp "Heatmap of local accessibility")
 
 _Figure 1: Heatmap of local accessibility_
 
@@ -31,7 +35,7 @@ _Figure 1: Heatmap of local accessibility_
 
 An important point in the local supply strategy is the potential of the inhabitants to be reached, which can be represented with the help of isochrones of the POI (point-of-interest) to be considered. In addition, accessibility plays a decisive role in terms of transport connections: this can be calculated and visualized with GOAT for walking and cycling as well as public transport. This differentiated view of accessibility based on travel time allows for an exact representation of deficits and surpluses in intersected layers, such as accessibility and population density, as well as [single](/en/tutorials/isochrone/ "Single isochrone tutorials") and [multi-isochrones](/en//tutorials/multiisochrones/ "Multi-isochrone tutorials"). In this way, potential areas can be filtered out.
 
-![](/images/nahversorgung2en.webp)
+![Walking catchment areas of pharmacies (7min)](/images/nahversorgung2en.webp "Walking catchment areas of pharmacies (7min)")
 
 _Figure 2: Walking catchment areas of pharmacies (7min)_
 
@@ -39,7 +43,7 @@ To get a visual overview of the required inhabitants to maintain a business, iso
 
 Another point where GOAT can contribute is the creation of scenarios and their effects. By [creating new POIs](/en/tutorials/scenario-location/ "Tutorials on using GOAT for location planning"), such as a kindergarten, the impact on population accessibility can be outlined and gaps in coverage can be interactively changed or closed. Improvements can thus also be represented quantitatively.
 
-![](/images/nahversorgung3en.webp)
+![Scenario for the construction of a new kindergarten in GOAT](/images/nahversorgung3en.webp "Scenario for the construction of a new kindergarten in GOAT")
 
 _Figure 3: Scenario for the construction of a new kindergarten in GOAT_
 

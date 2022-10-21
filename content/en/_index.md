@@ -13,7 +13,7 @@ sections:
       title: "Plan sustainable cities and regions."
       description: "By integrating urban and transport planning, we enable change-makers to develop liveable spaces and sustainable mobility."
       button:
-        url: "#"
+        url: "/en/goat/"
         label: "Discover Solutions"
       img: "/images/index/mockup_bridge.webp"
   - order: 2

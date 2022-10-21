@@ -36,7 +36,7 @@ sections:
         quote_text: '„In Fürstenfeldbruck, GOAT is used in urban and transport planning and is a great help for accessibility analyses on walking and cycling."​'
         author_name: "Dr. Montserrat Miramontes, Mobilitätsmanagerin, Stadt Fürstenfeldbruck"
       - quote_image: "/images/index/logo_mvv.webp"
-        quote_text: '„GOAT brings a lot of added value for the mobility and accessibility planners as it is very intuitive and provides fast, visually appealing and easy to understand results for some of the most complex planning problems, which usually need specialized softwares, in-depth know-how and long analysis times."​'
+        quote_text: '„GOAT brings great added value to answering complex planning problems in the mobility sector through intuitive and fast analyses with visually appealing and easy-to-understand results."​'
         author_name: "Shravan Shinde, Bereich Konzeption & Consulting, Münchner Verkehrs- und Tarifverbund GmbH"
 
 

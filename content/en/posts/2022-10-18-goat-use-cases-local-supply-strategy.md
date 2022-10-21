@@ -2,7 +2,7 @@
 author: reynartz
 categories:
 - use cases
-date: 2022-10-16T22:00:00.000+00:00
+date: 2022-10-21T22:00:00.000+00:00
 description: GOAT is a versatile planning tool that can be utilized, among other things,
   to analyze local supply. In this blog post, we provide a closer look at the use
   of GOAT in the local supply strategy.

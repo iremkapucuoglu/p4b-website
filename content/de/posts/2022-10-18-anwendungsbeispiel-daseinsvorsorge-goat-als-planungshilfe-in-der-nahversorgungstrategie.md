@@ -2,7 +2,7 @@
 author: reynartz
 categories:
 - anwendung
-date: 2022-10-16T22:00:00.000+00:00
+date: 2022-10-21T22:00:00.000+00:00
 description: GOAT ist ein vielseitiges Planungstool, das unter anderem auch zur Analyse
   der Daseinsvorsorge genutzt werden kann. In diesem Blogpost geben wir einen näheren
   Einblick zum Einsatz  von GOAT in der Nahversorgungstrategie.

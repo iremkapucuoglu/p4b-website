@@ -9,7 +9,7 @@
     en:
       Calculate walking isochrones at different places and compare their results.
       In addition, intersect the isochrones with population numbers and amenities.
-    de: Berechnung von Reisezeitisochronen (Einzugsbereiche zu Fuß oder mit dem Fahrrad) mit Informationen zu erreichbarer Bevölkerung und Points-of-Interest.
+    de: Berechnung von Reisezeitisochronen (Einzugsbereiche zu Fuß, mit dem Fahrrad oder dem ÖPNV) mit Informationen zu erreichbarer Bevölkerung und Points-of-Interest.
   comments: first video
 - image: "/images/videos/isochrones_scenario.webp"
   vimeoDe: 311550100
@@ -59,7 +59,7 @@
     en: Add, modify and delete points of interest and assess the effects on accessibility on the fly within a few seconds.
     de: Hinzufügen, Modifizieren und Löschen von Einrichtungen, dessen Veränderung in der Erreichbarkeit dynamisch angezeigt wird.
   comments: ""
-- image: "/images/videos/walkability_population_heatmap.webp"
+- image: "/images/videos/comparing_population_density_and_accessibility.webp"
   vimeoDe: 370376888
   vimeoEn: 754241640
   title:

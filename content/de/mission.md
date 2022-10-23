@@ -78,7 +78,7 @@ image = "/images/mission/SDG13_mission.webp"
 layout = "left"
 padding_top = "default"
 template = "card-block"
-text = "Im Rahmen des Klimaschutzziels fördern wir emissionsarme Mobilitätsformen, um nachhaltigere städtische und ländliche Räume zu schaffen. Der Ausbau und die Verbesserung von Fuß- und Radwegen, sowie die Bereitstellung naher Ziele, können die CO2-Emissionen reduzieren und zu einer saubereren Umwelt für die Bevölkerung beitragen. Damit wird das Ziel 13.1 zur Stärkung der Widerstandsfähigkeit gegenüber dem Klimawandel innerhalb der Länder erfüllt."
+text = "Im Rahmen des Klimaschutzziels fördern wir emissionsarme Mobilitätsformen, um nachhaltigere städtische und ländliche Räume zu schaffen. Der Ausbau und die Verbesserung von Fuß- und Radwegen, attraktiver ÖPNV, sowie die Bereitstellung naher Ziele, können die CO2-Emissionen reduzieren und zu einer saubereren Umwelt für die Bevölkerung beitragen. Damit wird das Ziel 13.1 zur Stärkung der Widerstandsfähigkeit gegenüber dem Klimawandel innerhalb der Länder erfüllt."
 video = ""
 
 +++

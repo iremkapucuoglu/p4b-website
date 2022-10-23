@@ -1,5 +1,5 @@
 ---
-title: Isochrone as Alphashape
+title: Isochronen
 permalink: /de/docs/alphashape/
 lang: de
 sections:

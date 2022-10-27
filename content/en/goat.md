@@ -96,19 +96,19 @@ sections:
       heading: ''
       text: ''
       list_item:
-      - url: '/request-demo/'
+      - url: '/en/request-demo/'
         heading: 'GOAT-Demo'
         text: 'Test all functionalities in our demo version.'
         icon : "images/index/goat-icon.svg"
-      - url: '/goat-references/'
+      - url: '/en/goat-references/'
         heading: 'References'
         text: 'Explore previous projects and applications of GOAT.'
         icon : "images/index/code.svg"
-      - url: '/videos/'
+      - url: '/en/videos/'
         heading: 'Videos'
         text: 'Videos for a quick start. Here the functions of GOAT are demonstrated exemplarily.'
         icon : "images/index/video.svg"
-      - url: '/tutorials/isochrone/'
+      - url: '/en/tutorials/isochrone/'
         heading: 'Tutorials'
         text: 'Explanation of the GOAT functionalities and step-by-step guidelines for using GOAT.'
         icon : "images/index/docs.svg"

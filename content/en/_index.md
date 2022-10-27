@@ -115,22 +115,22 @@ sections:
         description: "Our diverse and interdisciplinary team will be happy to advise you on innovative mobility concepts and individual problem solutions. Using GOAT, we also create reports to evaluate specific planning issues."
         button:
           background_color_content: secondary
-          url: "/contact/"
+          url: "/en/contact/"
           label: "Contact us"
       - name: "WEB-GIS"
         img: "/images/index/Product-Web-GIS.png"
         title: "Are you interested in other GIS tools?"
-        description: "We offer software solutions that allow you to create personalised map services, for example as an information tool for citizens or readers."
+        description: "We offer software solutions that allow you to create personalized map services, for example as an information tool for citizens or readers."
         button:
           background_color_content: secondary
-          url: "/contact/"
+          url: "/en/contact/"
           label: "Contact us"
   - order: 6
     contact_section:
       background_color_content: secondary
       title: "Are you interested?"
       button:
-        url: "/contact/"
+        url: "/en/contact/"
         label: "Contact us."
   - order: 7
     award_section:

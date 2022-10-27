@@ -8,6 +8,24 @@ weight: 40
 ---
 Here you'll find an overview of scientific publications about the development and use of GOAT.
 ________________________________
+
+### Assessment of the usefulness of the accessibility instrument GOAT for the planning practice
+
+https://doi.org/10.1016/j.urbmob.2022.100033
+
+<b>Authors</b>: Elias Pajares, Ulrike Jehle, Joelean Hall, Montserrat Miramontes, Gebhard Wulfhorst
+
+<b>Date</b>: 4 October 2022
+
+<b>Keywords</b>: Accessibility ; Active mobility ; PSS
+
+<b>Abstract</b>: Accessibility instruments could serve as powerful support in assisting planning practitioners. Though, accessibility instruments are usually not yet applied in practice. Past research has identified that besides institutional barriers in adopting accessibility, there is still a lack of useful instruments. It is suggested that tool developers engage closer with planning practice to better meet requirements from practice. The authors developed an interactive and web-based accessibility instrument called GOAT, focusing on active mobility in a co-creative environment with urban and transport planning practitioners. This manuscript aims to answer two research questions. Which planning questions exist for GOAT in the field of transport and urban planning? Is the accessibility instrument GOAT of useful support in the planning practice?
+
+First, suitable planning questions were identified. The tools’ utility and usability for the planning questions were self-assessed based on the experience in five applications workshops with 37 planning professionals in four German cities. The assessment was realized by analyzing workshop minutes and worksheets for the different planning questions. As a result, the usefulness was assessed for the planning questions and was summarized into four groups: Infrastructure Planning Walking, Infrastructure Planning Cycling, Location Planning, and Housing Development.
+
+The assessment revealed that the tool helps answer common planning questions. In terms of usability, the tool could also be used by individuals unfamiliar with existing planning software after a half-day introduction. Meanwhile, practitioners requested further indicators and improvements in usability. Furthermore, stronger technical integration with existing systems should be envisaged. It is concluded that the involvement of planning practice was highly beneficial when developing and assessing the tool. Therefore, ongoing exchange and a long-term assessment of the tools’ usefulness are suggested in the future.
+
+________________________________
 ### GOAT: Ein interaktives Erreichbarkeitsinstrument zur Planung der 15-Minuten-Stadt 
 
 https://doi.org/10.26084/13dfns-p024 

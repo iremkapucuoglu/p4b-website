@@ -22,11 +22,11 @@ GOAT allows you to integrate your own external layers. With a huge selection of 
 ##### 1 Select a predefined layer from the geoportal
 
 
-1. Click on "Other Layers" and click on the "link" icon indicated by the blue box next to the external layer.
+1. Click on "Other Layers" and click on the link icon next to the external layers.
 
 <img src="/images/tutorials/External-layers/external-layer1-add-en.webp" alt="external layer" style="max-height:400px;"/>
 
-2. In this window you can select a default geoportal or add a layer by entering your own url. For example select GeoportalBayern for Munich.
+2. In this window you can select a default geoportal or add a layer by entering your own url. In this example, we are selecting the GeoportalBayern for Munich.
 
 <img src="/images/tutorials/External-layers/external-layer2-geoportalchoose-en.webp" alt="external layer2" style="max-height:400px;"/>
 
@@ -38,7 +38,7 @@ GOAT allows you to integrate your own external layers. With a huge selection of 
 
 <img src="/images/tutorials/External-layers/external-layer4geoportalimport-en.webp" alt="external layer4" style="max-height:400px;"/>
 
-5. You can access the layer, view its symbology and legend information, or delete. 
+5. You can access the layer, view its symbology and legend information, or remove it. 
 
 <img src="/images/tutorials/External-layers/external-layer8-addedfromgeoportal-en.webp" alt="external layer8" style="max-height:400px;"/>  
 

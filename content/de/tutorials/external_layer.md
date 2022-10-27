@@ -28,7 +28,7 @@ GOAT ermöglicht es Ihnen, eigene externe Layer zu integrieren. Mit einer breite
 
 <img src="/images/tutorials/External-layers/external-layer2-geoportalchoose-de.webp" alt="external layer2" style="max-height:400px;"/>
 
-3. Es gibt eine große Auswahl an Layern in diesem Geoportal. Klicken Sie in diesem Beispiel auf den in der blauen Box angezeigten Layer. _Hinweis: Es kann sein, dass je nach dem aktuellen Status des Anbieters einige Layer nicht funktionieren._
+3. Es gibt eine große Auswahl an Layern in diesem Geoportal. Klicken Sie in diesem Beispiel auf den in der blauen Box angezeigten Layer. _Hinweis: Dadurch, dass die Layer aus externen Portalen eingebunden werden haben wir keinen Einfuss auf die Verfügbarkeit_
 
 <img src="/images/tutorials/External-layers/external-layer3-select-de.webp" alt="external layer3" style="max-height:400px;"/>
 

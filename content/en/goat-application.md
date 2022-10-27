@@ -25,7 +25,7 @@ text = "The local transport plan provides a basis for the planning of public tra
 video = ""
 [blocks.button]
 text = "Schedule a personal meeting"
-url = "/contact/"
+url = "/en/contact/"
 [[blocks]]
 background = "muted"
 background_color_content = "muted"
@@ -40,7 +40,7 @@ text = "Local mobility concepts as part of the ''15-minute city'' should make ci
 video = ""
 [blocks.button]
 text = "Schedule a personal meeting"
-url = "/contact/"
+url = "/en/contact/"
 [[blocks]]
 background = "default"
 background_color_content = "default"
@@ -68,7 +68,7 @@ text = "The ''city of short distances'' as well as an expansion of local mobilit
 video = ""
 [blocks.button]
 text = "Schedule a personal meeting"
-url = "/contact/"
+url = "/en/contact/"
 [[blocks]]
 background = "default"
 background_color_content = "deafult"
@@ -101,5 +101,5 @@ heading = "Contact sales"
 icon = "mail"
 page = ""
 text = ""
-url = "/contact/"
+url = "/en/contact/"
 +++

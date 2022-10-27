@@ -263,11 +263,11 @@ url = "/press/"
 weight = 7
 [[languages.en.menu.center]]
 name = "Contact"
-url = "/contact/"
+url = "/en/contact/"
 weight = 8
 [[languages.en.menu.footer]]
 name = "Contact us"
-url = "/contact/"
+url = "/en/contact/"
 weight = 1
 [[languages.en.menu.footer]]
 name = "Imprint"

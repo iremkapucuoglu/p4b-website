@@ -79,7 +79,7 @@ image = "/images/application/Daseinsvorsorge.gif"
 layout = "left"
 padding_top = "default"
 template = "card-block"
-text = "GOAT makes it possible to measure the quality of accessibility to facilities of general interest (e.g. education, health or culture) in planning decision-making processes. This makes it possible to develop scenarios on the effects of new or omitted facilities on supply. In turn, the location qualities of residential developments can be determined with regard to accessibility and thus planning decisions can be prepared with regard to their further development."
+text = "GOAT makes it possible to analyze the accessibility to facilities of general interest (e.g. education, health or culture) in planning and decision-making processes. This makes it possible to develop scenarios on the effects of new or omitted facilities on supply. In turn, the location qualities of residential developments can be determined with regard to accessibility and thus planning decisions can be prepared with regard to their further development."
 video = ""
 [blocks.button]
 text = "Read the blogpost"

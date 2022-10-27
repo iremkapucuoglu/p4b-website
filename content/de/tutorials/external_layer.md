@@ -20,44 +20,44 @@ GOAT ermöglicht es Ihnen, eigene externe Layer zu integrieren. Mit einer breite
 
 ##### 1 Auswählen eines vordefinierten Layers aus dem Geoportal
 
-1. Click on "Other Layers" and click on the "link" icon indicated by the blue box next to the external layer.
+1. Klicken Sie auf "Weitere Layer" und klicken Sie auf das Link Symbol neben den "Externen Layern".
 
-<img src="/images/tutorials/External-layers/external-layer1-add-en.webp" alt="external layer" style="max-height:400px;"/>
+<img src="/images/tutorials/External-layers/external-layer1-add-de.webp" alt="external layer" style="max-height:400px;"/>
 
-2. In this window you can select a default geoportal or add a layer by entering your own url. For example select GeoportalBayern for Munich.
+2. Im Fenster können Sie ein Standard-Geoportal auswählen oder einen eigenen Layer hinzufügen, indem Sie die URL eingeben (siehe auch unten). Wählen Sie zum Beispiel das GeoportalBayern für München aus.
 
-<img src="/images/tutorials/External-layers/external-layer2-geoportalchoose-en.webp" alt="external layer2" style="max-height:400px;"/>
+<img src="/images/tutorials/External-layers/external-layer2-geoportalchoose-de.webp" alt="external layer2" style="max-height:400px;"/>
 
-3. There are many layers in this geoportal. In this example, click the layer indicated in the blue box and continue. _Note that depending on the current state of the provider, some layers may not be working._
+3. Es gibt eine große Auswahl an Layern in diesem Geoportal. Klicken Sie in diesem Beispiel auf den in der blauen Box angezeigten Layer. _Hinweis: Es kann sein, dass je nach dem aktuellen Status des Anbieters einige Layer nicht funktionieren._
 
-<img src="/images/tutorials/External-layers/external-layer3-select-en.webp" alt="external layer3" style="max-height:400px;"/>
+<img src="/images/tutorials/External-layers/external-layer3-select-de.webp" alt="external layer3" style="max-height:400px;"/>
 
-4. You can see the basemap changes on the map as you move your mouse over the layers. Select the first one and to add the layer click the "plus" icon.
+4.  Sie können sehen, wie der Layer in GOAT erscheint, wenn Sie die Maus über die Layer bewegen. Klicken Sie beim gewünschten Layer auf das "Plus"-Symbol, um die Ebene hinzuzufügen.
 
-<img src="/images/tutorials/External-layers/external-layer4geoportalimport-en.webp" alt="external layer4" style="max-height:400px;"/>
+<img src="/images/tutorials/External-layers/external-layer4geoportalimport-de.webp" alt="external layer4" style="max-height:400px;"/>
 
-5. You can access the layer, view its symbology and legend information, or delete. 
+5. Über das Menü links können auf die Ebene zugreifen, ihre Symbolik und Legendeninformationen anzeigen oder den Layer wieder entfernen. 
 
-<img src="/images/tutorials/External-layers/external-layer8-addedfromgeoportal-en.webp" alt="external layer8" style="max-height:400px;"/>  
+<img src="/images/tutorials/External-layers/external-layer8-addedfromgeoportal-de.webp" alt="external layer8" style="max-height:400px;"/>  
 
-6. The Transparency can be changed using slider.
+6. Die Transparenz kann mit einem Schieberegler verändert werden.
   
-<img src="/images/tutorials/External-layers/external-layer9-changetransp-en.webp" alt="external layer8" style="max-height:400px;"/>
+<img src="/images/tutorials/External-layers/external-layer9-changetransp-de.webp" alt="external layer8" style="max-height:400px;"/>
 
 
-##### 2 Import a layer via URL
+##### 2 Einen Layer über eine URL hinzufügen
 
-1. You can add a layer by using your own url. Paste the URL for your layer in the field "source url" and click "add". A source URL for Freiburg is utilized in this illustration.
+1. Sie können eine Ebene mit Ihrer eigenen URL hinzufügen. Fügen Sie die URL für Ihren Layer in das Feld "Source Url" ein und klicken Sie auf "ADD". In dieser Abbildung wird eine URL aus dem Freiburger Geoportal verwendet.
 
-<img src="/images/tutorials/External-layers/external-layer5-url-en.webp" alt="external layer8" style="max-height:400px;"/>
+<img src="/images/tutorials/External-layers/external-layer5-url-de.webp" alt="external layer8" style="max-height:400px;"/>
 
-2. Click the "plus" icon to add the layer to the map.
+2. Klicken Sie auf das "Plus"-Symbol, um die Ebene zur Karte hinzuzufügen.
 
-<img src="/images/tutorials/External-layers/external-layer6-importfromurl-en.webp" alt="external layer8" style="max-height:400px;"/>
+<img src="/images/tutorials/External-layers/external-layer6-importfromurl-de.webp" alt="external layer8" style="max-height:400px;"/>
 
-3. You can access the layer, view its symbology and legend information, or delete it via the menu on the left. 
+3. Über das Menü links können auf die Ebene zugreifen, ihre Symbolik und Legendeninformationen anzeigen oder den Layer wieder entfernen.  
 
-<img src="/images/tutorials/External-layers/external-layer7-addedfromurl-en.webp" alt="external layer8" style="max-height:400px;"/>
+<img src="/images/tutorials/External-layers/external-layer7-addedfromurl-de.webp" alt="external layer8" style="max-height:400px;"/>
 
 
 

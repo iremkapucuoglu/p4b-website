@@ -18,7 +18,7 @@ GOAT ermöglicht es Ihnen, eigene externe Layer zu integrieren. Mit einer breite
 
 #### Schritt-für-Schritt-Anleitung für das Hinzufügen eigener Layer
 
-##### 1 Select a predefined layer from the geoportal
+##### 1 Auswählen eines vordefinierten Layers aus dem Geoportal
 
 1. Click on "Other Layers" and click on the "link" icon indicated by the blue box next to the external layer.
 

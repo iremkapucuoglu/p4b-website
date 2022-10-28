@@ -2,7 +2,7 @@
 description = "Hier finden Sie eine Übersicht der Städte und Regionen, auf die wir GOAT bereits übertragen haben."
 layout = "blocks"
 title = "GOAT-Referenzen"
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "goat-references"
 [header]
 background = "default"

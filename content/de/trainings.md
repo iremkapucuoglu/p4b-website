@@ -3,7 +3,7 @@ layout = "blocks"
 title = "Trainings"
 translationKey = "trainings"
 description = "Digitale Planungswerkzeuge für die Gestaltung nachhaltiger Mobilität und lebenswerter Räume. Faktenbasierte Planungshilfen für den Fuß-, Radverkehr und ÖPNV."
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 [header]
 background = "default"
 background_image = "/images/title_street.webp"

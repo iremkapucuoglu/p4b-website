@@ -2,7 +2,7 @@
 description = "Diese Unterseite wurde verschoben."
 layout = "blocks"
 title = "GOAT live"
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "goatlive"
 [header]
 background = "muted"

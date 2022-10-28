@@ -2,7 +2,7 @@
 description = "GOAT ist ein vielseitiges Planungstool, das für verschiedene formelle und informelle Planungen eingesetzt werden kann."
 layout = "blocks"
 title = "Application"
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "application"
 [header]
 background = "muted"

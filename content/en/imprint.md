@@ -3,7 +3,7 @@ description = "Plan4Better GmbH Atelierstraße 29 c/o WERK1 81671 München Deuts
 layout = "blocks"
 title = "Imprint"
 translationKey = ""
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 [header]
 background = "default"
 background_image = "/images/title_street.webp"

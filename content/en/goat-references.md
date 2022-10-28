@@ -2,7 +2,7 @@
 description = "You can find here all live versions of our planning tool GOAT that are currently maintained as demo versions."
 layout = "blocks"
 title = "GOAT - References"
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "goat-references"
 [header]
 background = "default"

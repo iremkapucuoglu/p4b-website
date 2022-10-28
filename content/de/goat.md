@@ -3,7 +3,7 @@ description : "Geo Open Accessibility Tool (GOAT) ist ein Open-Source-Webtool zu
 layout : "what_is_goat"
 title : "GOAT-Abo"
 translationKey: "goat"
-ogimage : "/images/index/goat-img.png"
+ogimage : "/images/request-demo/request_demo_ogimage.png"
 hero_section:
   layout: left
   background_color_content: default

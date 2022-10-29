@@ -53,6 +53,8 @@ Um Einschränkungen in Öffnungszeiten von beispielsweise Handwerksbetrieben ode
 
 Sie wollen auch solche Analysen zur Daseinsvorsorge mit GOAT durchführen oder interessieren sich für weitere Funktionen? [Kontaktieren sie uns](/kontakt/ "Kontaktformular") oder testen sie die [kostenlose GOAT-Demo](/request-demo/ "Demo anfragen")!
 
+Weitere Anwendungsbeispiele für GOAT finden Sie [hier](/goat-anwendung/ "GOAT Anwendung").
+
 ## Referenzen
 
 Acocella, D., Helbig, P., von der Heide, J., 2018. Nahversorgungsstrategie für den Landkreis Schweinfurt. Landratsamt Schweinfurt, Schweinfurt/Nürnberg/Lörrach.

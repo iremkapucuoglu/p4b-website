@@ -53,6 +53,8 @@ In order to take into account restrictions in opening hours of, for example, cra
 
 You also want to perform analyses of bicycle traffic concepts with GOAT or are interested in further functions? [Contact us](/en/contact/ "Contact") or test the free [GOAT demo](/en/request-demo/ "Request demo")!
 
+Further use cases for GOAT can be found [here](/en/goat-application/ "Application of GOAT in planning practice").
+
 ## References
 
 Acocella, D., Helbig, P., von der Heide, J., 2018. Nahversorgungsstrategie für den Landkreis Schweinfurt. Landratsamt Schweinfurt, Schweinfurt/Nürnberg/Lörrach.

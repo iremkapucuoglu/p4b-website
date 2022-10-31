@@ -1,4 +1,15 @@
 ---
+- image: "/images/videos/GOAT_Pitch_EN.webp"
+  vimeoDe: 761428637
+  vimeoEn: 761427342
+  title:
+    en: Quick overview of the functionalities
+    de: Die Funktionen im Überblick
+  text:
+    en:
+      This video shows all GOAT functions in a quick run-through and serves as an initial overview to familiarise yourself with the software.
+    de: Dieses Video zeigt alle GOAT-Funktionen im Schnelldurchlauf und dient als ersten Überblick, um sich mit der Software vertraut zu machen.
+  comments: first video
 - image: "/images/videos/calculate_walking_isochrones.webp"
   vimeoDe: 311547681
   vimeoEn: 754209613

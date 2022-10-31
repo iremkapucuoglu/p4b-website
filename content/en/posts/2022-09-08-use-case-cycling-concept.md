@@ -63,6 +63,8 @@ As a supplement, data from bicycle counting stations, air and repair stations, b
 
 You also want to perform analyses of bicycle traffic concepts with GOAT or are interested in further functions? [Contact us](/en/contact "Contact") or test the free [GOAT demo](/en/request-demo/ "Request demo")!
 
+Further use cases for GOAT can be found [here](/en/goat-application/ "Application of GOAT in planning practice").
+
 ## References
 
 Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016. Radverkehrskonzept - Münster 2025. City of Münster, Münster.

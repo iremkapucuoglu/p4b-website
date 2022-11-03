@@ -17,7 +17,7 @@ Isochrones are isolines connecting all points that can be reached from a specifi
 
 * How many supermarkets can be reached from a certain point in a 10-minute walk?
 * How many people can access a public transport station within 5 minutes of cycling?
-* How good is public transport accessibility in comparison to car accessibility?
+* How many people can access a specific location within 20min by rail-based public transport (tram, underground, train)?
 
 #### Step-by-step tutorials for exemplary planning tasks
 
@@ -57,7 +57,7 @@ How many supermarkets can be reached from a certain point in 10 minutes walking?
 
 How many people can reach the train station within 5 minutes by bike?
 
-##### 2.2 Work steps
+##### 2.2 Step-by-Step guide
 
 1. Change the routing mode to "cycling" and choose the desired speed.
    
@@ -82,6 +82,47 @@ How many people can reach the train station within 5 minutes by bike?
 6. By clicking on the download button you can download the isochrones as GeoJSON, Shapefile or XML and the result table as Excel file.
 
 <img src="/images/tutorials/Isochrone/Isochrone_2.4_export_eng.webp"  alt="download" style="max-height:230px;"/>
+
+
+#### 3 Accessibility to rail-based public transport
+
+##### 3.1 Planning question
+
+How many people can access a specific location within 20min by rail-based public transport (tram, underground, train)?
+
+##### 3.2 Step-by-Step guide
+
+1. Change the routing mode to “Transit” and choose the desired options.(Weekday,time intervals,access-egress mode). On the “Transit Modes” panel you can select the public transportation options. In this example we will work with rail-based public transport(tram,underground,train). 
+Change the default basemap Mapbox to Public transport.
+
+<img src="/images/tutorials/Isochrone/isochrone_3.1public_en.webp"  alt="download" style="max-height:400px;"/>
+
+2. Click "Isochrone Single" and zoom in the area where you want to calculate the isochrone.
+
+<img src="/images/tutorials/Isochrone/isochrone_3.2public_en.webp"  alt="download" style="max-height:400px;"/>
+
+3. Place the starting point for the isochrone.
+
+<img src="/images/tutorials/Isochrone/isochrone_3.3public_en.webp"  alt="download" style="max-height:400px;"/>
+
+4. After the calculation has been carried out, a window with the results opens automatically. From this window you can see how many people can access a specific location within 20min by rail-based public transport. You can also change the travel time by using slider.
+
+<img src="/images/tutorials/Isochrone/isochrone_3.4public_en.webp"  alt="download" style="max-height:400px;"/>
+
+5. In order to see the POI's that exist within this area, you can display the categories you want such as "shop" from Thematic Data Filter. 
+
+<img src="/images/tutorials/Isochrone/isochrone_3.5public_en.webp"  alt="download" style="max-height:400px;"/>
+
+The results can be displayed in different forms such as pie chart. You can click the options indicated with blue box.
+
+<img src="/images/tutorials/Isochrone/isochrone_3.6public_en.webp"  alt="download" style="max-height:400px;"/>
+
+
+
+
+
+
+
 
 
 

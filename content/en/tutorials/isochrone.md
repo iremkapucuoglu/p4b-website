@@ -21,7 +21,7 @@ description: Possible use cases and step-by-step tutorials for exemplary plannin
 
 #### Step-by-step tutorials for exemplary planning tasks
 
-#### 1 Accessibility to supermarkets
+#### 1 Walking accessibility to supermarkets
 
 ##### 1.1 Planning question
 
@@ -51,7 +51,7 @@ How many supermarkets can be reached from a certain point in 10 minutes walking?
 
 <img src="/images/tutorials/Isochrone/results_supermarkets_2_en.webp"  alt="results"/>
 
-#### 2 Bicycle Routing
+#### 2 Accessibility by bike
 
 ##### 2.1 Planning question
 
@@ -84,7 +84,7 @@ How many people can reach the train station within 5 minutes by bike?
 <img src="/images/tutorials/Isochrone/Isochrone_2.4_export_eng.webp"  alt="download" style="max-height:230px;"/>
 
 
-#### 3 Accessibility to rail-based public transport
+#### 3 Accessibility by public transport
 
 ##### 3.1 Planning question
 
@@ -92,8 +92,7 @@ How many people can access a specific location within 20min by rail-based public
 
 ##### 3.2 Step-by-Step guide
 
-1. Change the routing mode to “Transit” and choose the desired options.(Weekday,time intervals,access-egress mode). On the “Transit Modes” panel you can select the public transportation options. In this example we will work with rail-based public transport(tram,underground,train). 
-Change the default basemap Mapbox to Public transport.
+1. Set the routing mode to “Transit” and choose the calculation options (weekday, time, access mode and egress mode) as desired. In the “Transit Modes” section, you can select which public transportation options shall be considered for the calculation. In this example, we focus on rail-based public transport (tram, underground and train). To get some additional information on the public transport network, you can activate the public transport background map. 
 
 <img src="/images/tutorials/Isochrone/isochrone_3.1public_en.webp"  alt="download" style="max-height:400px;"/>
 
@@ -105,7 +104,7 @@ Change the default basemap Mapbox to Public transport.
 
 <img src="/images/tutorials/Isochrone/isochrone_3.3public_en.webp"  alt="download" style="max-height:400px;"/>
 
-4. After the calculation has been carried out, a window with the results opens automatically. From this window you can see how many people can access a specific location within 20min by rail-based public transport. You can also change the travel time by using slider.
+4. After the calculation has been carried out, a window with the results opens automatically. From this window you can see how many people can access a specific location within 20min by rail-based public transport. You can also change the travel time by using the slider.
 
 <img src="/images/tutorials/Isochrone/isochrone_3.4public_en.webp"  alt="download" style="max-height:400px;"/>
 
@@ -113,7 +112,7 @@ Change the default basemap Mapbox to Public transport.
 
 <img src="/images/tutorials/Isochrone/isochrone_3.5public_en.webp"  alt="download" style="max-height:400px;"/>
 
-The results can be displayed in different forms such as pie chart. You can click the options indicated with blue box.
+6. The results can be displayed in different forms such as pie chart. You can click the options indicated with blue box.
 
 <img src="/images/tutorials/Isochrone/isochrone_3.6public_en.webp"  alt="download" style="max-height:400px;"/>
 

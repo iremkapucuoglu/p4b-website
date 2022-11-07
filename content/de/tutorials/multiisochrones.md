@@ -15,7 +15,7 @@ GOAT ermöglicht die Berechnung von Multi-Isochronen. In Verbindung mit Bevölke
 #### Mögliche Anwendungsfälle (Planungsfragen)
 
 * Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadtteilen gibt es Erreichbarkeitsdefizite?
-* Wie viele Bewohner können in einer bestimmten Reisezeit mit dem Fahrrad eine ÖV-Haltestelle erreichen?
+* Wie viele Bewohner:innen können in einer bestimmten Reisezeit mit dem Fahrrad eine ÖV-Haltestelle erreichen?
 
 #### Schritt-für-Schritt-Anleitung für eine beispielhafte Planungsaufgabe
 
@@ -59,7 +59,7 @@ Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadt
 
 ##### 2.1 Planungsfrage
 
-Wie viele Bewohner können in einer bestimmten Reisezeit mit dem Fahrrad eine ÖV-Haltestelle erreichen?
+Wie viele Bewohner:innen können in einer bestimmten Reisezeit mit dem Fahrrad eine ÖV-Haltestelle erreichen?
 
 ##### 2.2 Arbeitsschritte
 

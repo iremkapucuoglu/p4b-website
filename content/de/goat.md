@@ -82,7 +82,7 @@ sections:
         text: 'Die Szenario-Funktionen ermöglichen es jeweils, die Effekte neuer Infrastruktur (Wege, POIs, und/oder Gebäude) zu analysieren und die Auswirkungen auf die Erreichbarkeit zu ermitteln.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'
         heading: 'Anzahl der Benutzer:innen wählen'
-        text: 'Standardmäßig ist ein:e Nutzer:in im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
+        text: 'Standardmäßig ind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
 
   - order: 5
     goat_contact_section:

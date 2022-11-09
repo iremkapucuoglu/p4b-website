@@ -52,7 +52,7 @@ Transparency can be changed using slider.
 
 #### 2) Import the layer from URL
 
-2.1) You can add layer by using your own url. Paste the URL for your layer where it says "source url" and click "add". A source URL for Freiburg is utilized in this illustration.
+2.1) You can add layer by using your own url. Paste the URL for your layer where it says "source url" and click "add". A source URL for Freiburg is utilized in this illustration. _Note that only WMS layers can be added and the URL should be the GetCapabilitiesURL._
 
 <img src="/images/tutorials/External-layers/external-layer5-url-en.webp" alt="external layer8" style="max-height:400px;"/>
 

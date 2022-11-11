@@ -73,7 +73,7 @@
   <div class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>
     <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h2>
     <div class="discover-list discover-slider">
-      <!-- {{ range .slider_item }}
+      {{ range .slider_item }}
       <div class="discover-item">
         <div class="discover-item-inner" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
           <div class="discoverVideoWrapper">
@@ -81,7 +81,7 @@
             <iframe class="lazy"
               sandbox="allow-same-origin allow-scripts allow-popups" src="{{ .videoURL | absURL }}" loading="lazy"
               title="{{.title}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen="" data-ll-status="loaded">
+              allowfullscreen="" data-ll-status="loaded" style="border-radius: 23px;">
             </iframe>
           </div>
           <div class="discover-cont">
@@ -95,7 +95,7 @@
           </div>
         </div>
       </div>
-      {{ end }} -->
+      {{ end }}
     </div>
   </div>
   <div class="uk-container">

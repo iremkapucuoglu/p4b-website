@@ -2,7 +2,7 @@
 description = "We are inspired by the SDG goals we aim to accomplish."
 layout = "blocks"
 title = "Mission"
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "mission"
 [header]
 background = "muted"
@@ -29,7 +29,7 @@ image = "/images/mission/SDG3_mission.webp"
 layout = "left"
 padding_top = "small"
 template = "card-block"
-text = "Durch die Unterstützung von Planungsentscheidungen zugunsten der aktiven Mobilität, d.h. dem Fuß- und Radverkehr, wird den Menschen vor Ort ein besserer Zugang zu gesundheitsfördernden Mobilitätsoptionen ermöglicht. Zufußgehen und Radfahren fördert die psychische und physische Gesundheit sowie das allgemeine Wohlbefinden. Risiken vermeidbarer Krankheiten, wie Übergewicht und Herzprobleme, werden verringert und die Bewohner auf ihren alltäglichen Weg aktiver. Damit wird das SDG-Ziel 3.4 erreicht."
+text = "Durch die Unterstützung von Planungsentscheidungen zugunsten der aktiven Mobilität, d.h. dem Fuß- und Radverkehr, wird den Menschen vor Ort ein besserer Zugang zu gesundheitsfördernden Mobilitätsoptionen ermöglicht. Zufußgehen und Radfahren fördert die psychische und physische Gesundheit sowie das allgemeine Wohlbefinden. Risiken vermeidbarer Krankheiten, wie Übergewicht und Herzprobleme, werden verringert und die Bewohner:innen auf ihren alltäglichen Weg aktiver. Damit wird das SDG-Ziel 3.4 erreicht."
 video = ""
 [blocks.button]
 text = ""

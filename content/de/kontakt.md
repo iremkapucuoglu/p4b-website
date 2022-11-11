@@ -3,7 +3,7 @@ description = "Sie möchten uns kontaktieren? Schreiben Sie uns gerne eine E-Mai
 layout = "blocks"
 title = "Kontakt"
 translationKey = "contact"
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 [header]
 background = "default"
 background_image = ""

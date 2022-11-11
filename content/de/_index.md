@@ -2,7 +2,7 @@
 title: Nachhaltige Städte und Regionen planen
 description: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen
     Erreichbarkeit.
-ogimage: /images/index/heatmap-muc-1.webp
+ogimage: /images/request-demo/request_demo_ogimage.png
 header:
   layout: video
   video_bg: "/images/index/video.webp"

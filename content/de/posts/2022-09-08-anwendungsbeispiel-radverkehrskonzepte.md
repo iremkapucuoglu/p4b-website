@@ -59,6 +59,8 @@ Als Ergänzung können Daten von Fahrradzählstellen, Luft- und Reparaturstation
 
 Sie wollen auch Analysen von Radverkehrskonzepten mit GOAT durchführen oder interessieren sich für weitere Funktionen? [Kontaktieren sie uns](/kontakt/ "Unser Kontaktformular") oder testen sie die kostenlose [GOAT Demo](/request-demo/ "Kostenlose Demo-Version")!
 
+Weitere Anwendungsbeispiele für GOAT finden Sie [hier](/goat-anwendung/ "GOAT Anwendung").
+
 ## Referenzen
 
 Amt für Stadtentwicklung, Stadtplanung, Verkehrsplanung, 2016. Radverkehrskonzept - Münster 2025. Stadt Münster, Münster.

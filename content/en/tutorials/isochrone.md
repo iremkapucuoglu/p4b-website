@@ -11,7 +11,7 @@ description: Possible use cases and step-by-step tutorials for exemplary plannin
 ---
 #### Description of the feature
 
-Isochrones are isolines connecting all points that can be reached from a specific starting point within a certain time interval. GOAT allows the calculation of isochrones that take factors such as speed, infrastructure network, and traveling time into account. This can be adjusted automatically by choosing between the modes “Walking”, “Bike”, “Pedelec”, “Transit” or “Car”. Isochrones can be used as an indicator of accessibility in one specific location.
+[Isochrones](/docs/alphashape/ "Documentation on isochrones") are isolines connecting all points that can be reached from a specific starting point within a certain time interval. GOAT allows the calculation of isochrones that take factors such as speed, infrastructure network, and traveling time into account. This can be adjusted automatically by choosing between the modes “Walking”, “Bike”, “Pedelec”, “Transit” or “Car”. Isochrones can be used as an indicator of accessibility in one specific location.
 
 #### Possible use cases (planning questions)
 
@@ -21,7 +21,7 @@ Isochrones are isolines connecting all points that can be reached from a specifi
 
 #### Step-by-step tutorials for exemplary planning tasks
 
-#### 1 Accessibility to supermarkets
+#### 1 Walking accessibility to supermarkets
 
 ##### 1.1 Planning question
 
@@ -51,7 +51,7 @@ How many supermarkets can be reached from a certain point in 10 minutes walking?
 
 <img src="/images/tutorials/Isochrone/results_supermarkets_2_en.webp"  alt="results"/>
 
-#### 2 Bicycle Routing
+#### 2 Accessibility by bike
 
 ##### 2.1 Planning question
 
@@ -84,7 +84,7 @@ How many people can reach the train station within 5 minutes by bike?
 <img src="/images/tutorials/Isochrone/Isochrone_2.4_export_eng.webp"  alt="download" style="max-height:230px;"/>
 
 
-#### 3 Accessibility to rail-based public transport
+#### 3 Accessibility by public transport
 
 ##### 3.1 Planning question
 
@@ -92,8 +92,7 @@ How many people can access a specific location within 20min by rail-based public
 
 ##### 3.2 Step-by-Step guide
 
-1. Change the routing mode to “Transit” and choose the desired options.(Weekday,time intervals,access-egress mode). On the “Transit Modes” panel you can select the public transportation options. In this example we will work with rail-based public transport(tram,underground,train). 
-Change the default basemap Mapbox to Public transport.
+1. Set the routing mode to “Transit” and choose the calculation options (weekday, time, access mode and egress mode) as desired. In the “Transit Modes” section, you can select which public transportation options shall be considered for the calculation. In this example, we focus on rail-based public transport (tram, underground and train). To get some additional information on the public transport network, you can activate the public transport background map. 
 
 <img src="/images/tutorials/Isochrone/isochrone_3.1public_en.webp"  alt="change_routing_mode" style="max-height:400px;"/>
 
@@ -105,11 +104,11 @@ Change the default basemap Mapbox to Public transport.
 
 <img src="/images/tutorials/Isochrone/isochrone_3.3public_en.webp"  alt="choose starting point" style="max-height:400px;"/>
 
-4. After the calculation has been carried out, a window with the results opens automatically. From this window you can see how many people can access a specific location within 20min by rail-based public transport. You can also change the travel time by using slider.
+4. After the calculation has been carried out, a window with the results opens automatically. From this window you can see how many people can access a specific location within 20min by rail-based public transport. You can also change the travel time by using the slider.
 
 <img src="/images/tutorials/Isochrone/isochrone_3.4public_en.webp"  alt="result" style="max-height:400px;"/>
 
-You can also view the population graph with travel time by clicking the graph button indicated by the blue box.
+5. You can also view the population graph with travel time by clicking the graph button indicated by the blue box.
 
 <img src="/images/tutorials/Isochrone/isochrone_3.5public_en.webp"  alt="result-graph" style="max-height:400px;"/>
 

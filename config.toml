@@ -25,6 +25,11 @@ parent = "GOAT"
 url = "/goat-references/"
 weight = 3
 [[languages.de.menu.center]]
+name = "Anwendung"
+parent = "GOAT"
+url = "/goat-anwendung/"
+weight = 3
+[[languages.de.menu.center]]
 name = "Videos"
 parent = "GOAT"
 url = "/videos/"
@@ -158,6 +163,11 @@ parent = "GOAT"
 url = "/goat-references/"
 weight = 3
 [[languages.en.menu.center]]
+name = "Application"
+parent = "GOAT"
+url = "/goat-application"
+weight = 3
+[[languages.en.menu.center]]
 name = "Videos"
 parent = "GOAT"
 url = "/videos/"
@@ -253,11 +263,11 @@ url = "/press/"
 weight = 7
 [[languages.en.menu.center]]
 name = "Contact"
-url = "/contact/"
+url = "/en/contact/"
 weight = 8
 [[languages.en.menu.footer]]
 name = "Contact us"
-url = "/contact/"
+url = "/en/contact/"
 weight = 1
 [[languages.en.menu.footer]]
 name = "Imprint"
@@ -310,7 +320,7 @@ address = "Atelierstraße 29 c/o WERK1 <br>81671 München <br>Germany"
 email = "info@plan4better.de"
 mailchimp_form_action = ""
 mailchimp_hidden_name = ""
-ogimage = "images/og-image.png"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 twitter = "@plan4better"
 phone = "+49 89 2000 708 30"
 site_logo = "images/logo.png"

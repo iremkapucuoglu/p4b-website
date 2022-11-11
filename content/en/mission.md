@@ -2,7 +2,7 @@
 description = "We are inspired by the SDG goals we aim to accomplish."
 layout = "blocks"
 title = "Mission"
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "mission"
 [header]
 background = "muted"

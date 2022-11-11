@@ -18,7 +18,7 @@ GOAT ermöglicht Veränderungen in der Bebauung, wie z.B. die Errichtung eines n
 #### Schritt-für-Schritt-Anleitung für eine beispielhafte Planungsaufgabe
 #### 1 Szenario zu neuer Wohnbebauung
 ##### 1.1 Planungsfrage
-- Wie viele zusätzliche Bewohner haben innerhalb von 10 Gehminuten Zugang zu einer Grundschule, wenn ein bestehendes Wohngebiet nachverdichtet wird?
+- Wie viele zusätzliche Bewohner:innen haben innerhalb von 10 Gehminuten Zugang zu einer Grundschule, wenn ein bestehendes Wohngebiet nachverdichtet wird?
 ##### 1.2 Arbeitsschritte
 
 1. Blenden Sie den Layer „Gebäude” aus der Kategorie „Gebäude und Flächennutzung” ein.

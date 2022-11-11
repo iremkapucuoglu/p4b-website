@@ -10,7 +10,7 @@ background_image = "/images/request-demo/mockup.webp"
 heading = "NEU: GOAT mit Nutzer-Login"
 padding_top = "default"
 layout = "center"
-text = "Wir sind den zahlreichen Nutzerwünschen gefolgt und haben mit unserer neuen GOAT Version 1.1 einen Nutzer-Login implementiert, der es erlaubt erstellte Szenarien zu speichern und eigene Datensätze hochzuladen. "
+text = "Wir sind den zahlreichen Nutzerwünschen gefolgt und haben mit unserer GOAT Version 1.1 einen Nutzer-Login implementiert, der es erlaubt erstellte Szenarien zu speichern und eigene Datensätze hochzuladen. "
 [[blocks]]
 background = "muted"
 block = "links"

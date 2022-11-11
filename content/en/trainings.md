@@ -3,7 +3,7 @@ layout = "blocks"
 title = "Trainings"
 translationKey = "trainings"
 description = "Digital planning support systems to shape sustainable mobility and liveable spaces."
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 [header]
 background = "default"
 background_image = "/images/title_street.webp"

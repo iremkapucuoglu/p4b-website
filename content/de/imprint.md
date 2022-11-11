@@ -2,7 +2,7 @@
 description = "Plan4Better GmbH Atelierstraße 29 c/o WERK1 81671 München Deutschland Tel.: +49 89/200070830 E-Mail: info@plan4better.de"
 layout = "blocks"
 title = "Impressum"
-ogimage = "/images/title_street.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = ""
 [header]
 background = "default"

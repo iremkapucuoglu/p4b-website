@@ -16,7 +16,7 @@ description: Schritt-für-Schritt-Anleitung für beispielhafte Planungsfragen un
 
 * Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 Gehminuten erreicht werden?
 * Wie viele Menschen können eine ÖV-Haltestelle innerhalb von 5 Minuten mit dem Fahrrad erreichen?
-* Wie gut ist die Erreichbarkeit mit dem ÖV im Vergleich zur Erreichbarkeit mit dem Auto?
+* Wie viele Personen können einen bestimmten Ort innerhalb von 20 Minuten mit schienengebundenen öffentlichen Verkehrsmitteln (Straßenbahn, U-Bahn, Zug) erreichen?
 
 #### Schritt-für-Schritt-Anleitung für die beispielhaften Planungsaufgaben
 
@@ -49,7 +49,7 @@ Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 G
 
 <img src="/images/tutorials/Isochrone/results_supermarkets_2.webp"  alt="results"/>
 
-#### 2 Fahrradrouting
+#### 2 Erreichbarkeit mit dem Fahrrad
 
 ##### 2.1 Planungsfrage
 
@@ -80,3 +80,31 @@ Wie viele Menschen können den Bahnhof innerhalb von 5 Minuten mit dem Fahrrad e
 6. Durch Klicken auf den Download-Button können Sie die Isochronen als GeoJSON, Shapefile oder XML sowie die Ergebnis-Tabelle als Excel-File herunterladen.
 
 <img src="/images/tutorials/Isochrone/Isochrone_2.4_export_de.webp"  alt="download" style="max-height:250px;"/>
+
+#### 3 Erreichbarkeit mit öffentlichen Verkehrsmitteln
+
+##### 3.1 Planungsfrage
+
+Wie viele Personen können einen bestimmten Ort innerhalb von 20 Minuten mit schienengebundenen öffentlichen Verkehrsmitteln (Straßenbahn, U-Bahn, Zug) erreichen?
+
+##### 3.2 Arbeitsschritte
+
+1. Stellen Sie den Routingmodus auf "ÖPNV" und wählen Sie die gewünschten Berechnungsoptionen (Wochentag, Uhrzeit, Zugangs- und Abgangsmodus). Im Abschnitt "ÖPNV Verkehrsmittel" können Sie auswählen, welche öffentlichen Verkehrsmittel bei der Berechnung berücksichtigt werden sollen. In diesem Beispiel konzentrieren wir uns auf den schienengebundenen öffentlichen Verkehr (Straßenbahn, U-Bahn und Zug). Um zusätzliche Informationen über das öffentliche Verkehrsnetz zu erhalten, können Sie die Hintergrundkarte des öffentlichen Verkehrs aktivieren. 
+
+<img src="/images/tutorials/Isochrone/isochrone_3.1public_de.webp" alt="change_routing_mode" style="max-height:400px;"/>
+
+2. Klicken Sie auf "Isochrone Single" und zoomen Sie zu dem Bereich, in dem Sie die Isochrone berechnen wollen.
+
+<img src="/images/tutorials/Isochrone/isochrone_3.2public_de.webp" alt="isochrone auswählen" style="max-height:400px;"/>
+
+3. Platzieren Sie den Startpunkt für die Isochrone.
+
+<img src="/images/tutorials/Isochrone/isochrone_3.3public_de.webp" alt="choose starting point" style="max-height:400px;"/>
+
+4. Nachdem die Berechnung durchgeführt wurde, öffnet sich automatisch ein Fenster mit den Ergebnissen. In diesem Fenster können Sie sehen, wie viele Personen diesen Ort innerhalb von 20 Minuten mit dem schienengebundenen öffentlichen Verkehr erreichen können. Sie können die Reisezeit mit dem Schieberegler verändern.
+
+<img src="/images/tutorials/Isochrone/isochrone_3.4public_de.webp" alt="result" style="max-height:400px;"/>
+
+5. Außerdem können Sie sich das Summendiagramm zur Bevölkerung im Einzugsbereich anzeigen lassen, indem Sie den "Graph" Icon klicken.
+
+<img src="/images/tutorials/Isochrone/isochrone_3.5public_de.webp" alt="result-graph" style="max-height:400px;"/>

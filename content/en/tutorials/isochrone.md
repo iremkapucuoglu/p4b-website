@@ -94,27 +94,27 @@ How many people can access a specific location within 20min by rail-based public
 
 1. Set the routing mode to “Transit” and choose the calculation options (weekday, time, access mode and egress mode) as desired. In the “Transit Modes” section, you can select which public transportation options shall be considered for the calculation. In this example, we focus on rail-based public transport (tram, underground and train). To get some additional information on the public transport network, you can activate the public transport background map. 
 
-<img src="/images/tutorials/Isochrone/isochrone_3.1public_en.webp"  alt="download" style="max-height:400px;"/>
+<img src="/images/tutorials/Isochrone/isochrone_3.1public_en.webp"  alt="change_routing_mode" style="max-height:400px;"/>
 
 2. Click "Isochrone Single" and zoom in the area where you want to calculate the isochrone.
 
-<img src="/images/tutorials/Isochrone/isochrone_3.2public_en.webp"  alt="download" style="max-height:400px;"/>
+<img src="/images/tutorials/Isochrone/isochrone_3.2public_en.webp"  alt="choose isochrone" style="max-height:400px;"/>
 
 3. Place the starting point for the isochrone.
 
-<img src="/images/tutorials/Isochrone/isochrone_3.3public_en.webp"  alt="download" style="max-height:400px;"/>
+<img src="/images/tutorials/Isochrone/isochrone_3.3public_en.webp"  alt="choose starting point" style="max-height:400px;"/>
 
 4. After the calculation has been carried out, a window with the results opens automatically. From this window you can see how many people can access a specific location within 20min by rail-based public transport. You can also change the travel time by using the slider.
 
-<img src="/images/tutorials/Isochrone/isochrone_3.4public_en.webp"  alt="download" style="max-height:400px;"/>
+<img src="/images/tutorials/Isochrone/isochrone_3.4public_en.webp"  alt="result" style="max-height:400px;"/>
 
-5. In order to see the POI's that exist within this area, you can display the categories you want such as "shop" from Thematic Data Filter. 
+5. You can also view the population graph with travel time by clicking the graph button indicated by the blue box.
 
-<img src="/images/tutorials/Isochrone/isochrone_3.5public_en.webp"  alt="download" style="max-height:400px;"/>
+<img src="/images/tutorials/Isochrone/isochrone_3.5public_en.webp"  alt="result-graph" style="max-height:400px;"/>
 
-6. The results can be displayed in different forms such as pie chart. You can click the options indicated with blue box.
 
-<img src="/images/tutorials/Isochrone/isochrone_3.6public_en.webp"  alt="download" style="max-height:400px;"/>
+
+
 
 
 

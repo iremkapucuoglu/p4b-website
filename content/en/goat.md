@@ -76,13 +76,9 @@ sections:
         heading: 'Select Modules'
         sub_heading: 'Walking - Cycling - Public Transport'
         text: 'Each module allows you to perform accessibility analyses of the current state for the selected modes of transport (walking, cycling and/or public transport), regardless of the functions selected.'
-      - img: '/images/index/undraw_select_option_re_u4qn.png'
-        heading: 'Choose Scenario Functionalities'
-        sub_heading: 'Paths - Points of Interest - Buildings'
-        text: 'The scenario functionalities allow to analyze the effects of new infrastructure (paths, POIs, and/or buildings) and to determine the impact on accessibility.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'
         heading: 'Choose Number of Users'
-        text: 'By default, one user is included in the price. If you would like to use GOAT in a team, you are welcome to add more users.'
+        text: 'By default, two user are included in the price. If you would like to use GOAT in a team, you are welcome to add more users.'
 
   - order: 5
     goat_contact_section:

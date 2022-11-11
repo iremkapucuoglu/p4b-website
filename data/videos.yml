@@ -48,6 +48,16 @@
       allows you to show accessiblity levels for many amenities on a grid level.
     de: Die dynamische Heatmap berechnet die gravitationsbasierte Erreichbarkeit und erlaubt es, die Erreichbarkeit zu verschiedenen Points-of-Interest in Form eines Rasters darzustellen.
   comments: ""
+- image: "/images/videos/public_transport_analysis.webp"
+  vimeoDe: 766394906
+  vimeoEn: 766394906
+  title:
+    en: Analyze the public transport quality
+    de: Analyse der Qualität des ÖV-Angebots
+  text:
+    en: Analyze the public transport benchmarks, visualize service frequencies and calculate public transport isochrones. 
+    de: Über verschiedene Funktionen können sowohl die ÖV-Güteklassen analysiert, die ÖV Abfahrten pro Station angezeigt und ÖV-Isochronen berechnet werden.
+  comments: ""
 - image: "/images/videos/multi_isochrones.webp"
   vimeoDe: 753891610
   vimeoEn: 754227700

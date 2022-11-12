@@ -64,25 +64,25 @@ sections:
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/411721219?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/411721219?loop=1&autopause=0"
         title: "Standortplanung"
         sub_title: "Analyse geeigneter Standorte für neue Bike-Sharing-Stationen"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/311547681?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/311547681?loop=1&autopause=0"
         title: "Isochronen berechnen"
         sub_title: "Berechnung von Reisezeit-Isochronen"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/370382250?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/370382250?loop=1&autopause=0"
         title: "Berechnung von Multi-Isochronen"
         sub_title: "Analysieren, wie gut ein Stadtviertel mit bestimmten Einrichtungen versorgt ist"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/422451126?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/422451126?loop=1&autopause=0"
         title: "Räumliche Daten visualisieren"
         sub_title: "Visualisierung zahlreicher Datensätze, wie z.B. Flächennutzung, Lärmpegel und Unfallzahlen"
         button:

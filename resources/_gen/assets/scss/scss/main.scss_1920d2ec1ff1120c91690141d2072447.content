@@ -10711,7 +10711,10 @@ html {
   max-width: 90%;
   margin: auto; }
 
-.discover-item.slick-slide.slick-current.slick-active.slick-center .discover-item-inner .discover-cont .discover-txt,
+.discover-item.slick-slide.slick-current.slick-active.slick-center
+.discover-item-inner
+.discover-cont
+.discover-txt,
 .discover-item.slick-slide.slick-current.slick-active.slick-center
 .discover-item-inner
 .discover-cont
@@ -10719,7 +10722,9 @@ html {
 a {
   opacity: 1 !important; }
 
-.discover-item.slick-slide.slick-current.slick-active.slick-center .discover-item-inner .discover-cont {
+.discover-item.slick-slide.slick-current.slick-active.slick-center
+.discover-item-inner
+.discover-cont {
   height: auto; }
 
 .discover-slider .slick-arrow {
@@ -10873,7 +10878,10 @@ a {
   opacity: 0.9;
   text-decoration: none; }
 
-.smart-tools-list .smart-tools-item:nth-child(2n + 2) .smart-tools-inner .smart-tools-img {
+.smart-tools-list
+.smart-tools-item:nth-child(2n + 2)
+.smart-tools-inner
+.smart-tools-img {
   order: 2;
   margin-left: 4%;
   margin-right: 0px; }
@@ -10908,7 +10916,8 @@ a {
   text-align: center;
   margin-bottom: 40px; }
 
-.award_section, .development_goals_section {
+.award_section,
+.development_goals_section {
   padding-bottom: 0; }
 
 .development_goals_section,
@@ -11181,9 +11190,12 @@ a {
 .goat-quote-item {
   padding: 50px 0; }
 
-.goat-quote-item.slick-current.slick-active.slick-center .goatquote-item-inner:after,
+.goat-quote-item.slick-current.slick-active.slick-center
+.goatquote-item-inner:after,
 .goat-quote-item.slick-current.slick-active.slick-center .goatquote-img,
-.goat-quote-item.slick-current.slick-active.slick-center .goatquote-item-inner .quote-cont {
+.goat-quote-item.slick-current.slick-active.slick-center
+.goatquote-item-inner
+.quote-cont {
   opacity: 1; }
 
 .goat-quote-item.slick-current.slick-active.slick-center .goatquote-item-inner {
@@ -11364,9 +11376,7 @@ a {
 .discoverVideoWrapper {
   position: relative;
   height: 480px;
-  width: 100%;
-  border-radius: 30px;
-  background-color: red; }
+  width: 100%; }
   .discoverVideoWrapper .spinner {
     position: absolute;
     height: 200px;
@@ -11377,12 +11387,15 @@ a {
     margin-left: -100px;
     z-index: 1; }
   .discoverVideoWrapper > iframe {
-    background-color: #000000;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 2; }
+    z-index: 2;
+    border-radius: 30px;
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat; }
 
 @media only screen and (max-width: 700px) {
   .slick-arrow {
@@ -11597,7 +11610,10 @@ a {
     background-color: transparent !important;
     position: static;
     width: 100%; }
-  .smart-tools-list .smart-tools-item:nth-child(2n + 2) .smart-tools-inner .smart-tools-img {
+  .smart-tools-list
+.smart-tools-item:nth-child(2n + 2)
+.smart-tools-inner
+.smart-tools-img {
     order: inherit;
     margin-left: 0;
     margin-right: 0px; }

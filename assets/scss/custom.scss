@@ -31,7 +31,11 @@ html {
     color: $inverse-global-color;
 
     .le-btn {
-      background: linear-gradient(0deg, $global-secondary-background, $global-secondary-background),
+      background: linear-gradient(
+          0deg,
+          $global-secondary-background,
+          $global-secondary-background
+        ),
         $global-secondary-background;
       border: 1px solid $global-secondary-background;
       color: $inverse-global-color;
@@ -43,7 +47,11 @@ html {
     color: $inverse-global-color;
 
     .le-btn {
-      background: linear-gradient(0deg, $global-primary-background, $global-primary-background),
+      background: linear-gradient(
+          0deg,
+          $global-primary-background,
+          $global-primary-background
+        ),
         $global-primary-background;
       border: 1px solid $global-primary-background;
       color: $inverse-global-color;
@@ -125,7 +133,6 @@ html {
 
   &.primary {
   }
-
 }
 
 .brandslider {
@@ -321,7 +328,10 @@ html {
   margin: auto;
 }
 
-.discover-item.slick-slide.slick-current.slick-active.slick-center .discover-item-inner .discover-cont .discover-txt,
+.discover-item.slick-slide.slick-current.slick-active.slick-center
+  .discover-item-inner
+  .discover-cont
+  .discover-txt,
 .discover-item.slick-slide.slick-current.slick-active.slick-center
   .discover-item-inner
   .discover-cont
@@ -330,7 +340,9 @@ html {
   opacity: 1 !important;
 }
 
-.discover-item.slick-slide.slick-current.slick-active.slick-center .discover-item-inner .discover-cont {
+.discover-item.slick-slide.slick-current.slick-active.slick-center
+  .discover-item-inner
+  .discover-cont {
   height: auto;
 }
 
@@ -520,7 +532,10 @@ html {
   text-decoration: none;
 }
 
-.smart-tools-list .smart-tools-item:nth-child(2n + 2) .smart-tools-inner .smart-tools-img {
+.smart-tools-list
+  .smart-tools-item:nth-child(2n + 2)
+  .smart-tools-inner
+  .smart-tools-img {
   order: 2;
   margin-left: 4%;
   margin-right: 0px;
@@ -567,7 +582,8 @@ html {
   margin-bottom: 40px;
 }
 
-.award_section, .development_goals_section {
+.award_section,
+.development_goals_section {
   padding-bottom: 0;
 }
 
@@ -886,9 +902,12 @@ html {
   padding: 50px 0;
 }
 
-.goat-quote-item.slick-current.slick-active.slick-center .goatquote-item-inner:after,
+.goat-quote-item.slick-current.slick-active.slick-center
+  .goatquote-item-inner:after,
 .goat-quote-item.slick-current.slick-active.slick-center .goatquote-img,
-.goat-quote-item.slick-current.slick-active.slick-center .goatquote-item-inner .quote-cont {
+.goat-quote-item.slick-current.slick-active.slick-center
+  .goatquote-item-inner
+  .quote-cont {
   opacity: 1;
 }
 
@@ -1104,8 +1123,6 @@ html {
   position: relative;
   height: 480px;
   width: 100%;
-  border-radius: 30px;
-  background-color: red;
   .spinner {
     position: absolute;
     height: 200px;
@@ -1117,25 +1134,28 @@ html {
     z-index: 1;
   }
   > iframe {
-    background-color: #000000;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     z-index: 2;
+    border-radius: 30px;
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
   }
 }
 
 @media only screen and (max-width: 700px) {
-    .slick-arrow {
-      display: none !important;
-    }
-    .slick-arrow.slick-next {
-      display: none !important;
-    }
-    .slick-arrow.slick-prev {
-      display: none !important;
-    }
+  .slick-arrow {
+    display: none !important;
+  }
+  .slick-arrow.slick-next {
+    display: none !important;
+  }
+  .slick-arrow.slick-prev {
+    display: none !important;
+  }
 }
 
 @media only screen and (max-width: 1600px) {
@@ -1161,7 +1181,6 @@ html {
 }
 
 @media only screen and (max-width: 1280px) {
-
   .b-item-inner img {
     padding: 0 40px;
   }
@@ -1299,7 +1318,6 @@ html {
 }
 
 @media only screen and (max-width: 1000px) {
-
   .brandslider {
     max-width: 100%;
   }
@@ -1414,7 +1432,6 @@ html {
 }
 
 @media only screen and (max-width: 767px) {
-
   .discoverVideoWrapper .spinner {
     height: 100px;
     width: 100px;
@@ -1492,7 +1509,10 @@ html {
     width: 100%;
   }
 
-  .smart-tools-list .smart-tools-item:nth-child(2n + 2) .smart-tools-inner .smart-tools-img {
+  .smart-tools-list
+    .smart-tools-item:nth-child(2n + 2)
+    .smart-tools-inner
+    .smart-tools-img {
     order: inherit;
     margin-left: 0;
     margin-right: 0px;
@@ -1712,7 +1732,13 @@ html {
   top: 100px;
   width: 1px;
   height: calc(100% - 200px);
-  background-image: linear-gradient(1800deg, transparent, transparent 50%, #fff 50%, #fff 100%),
+  background-image: linear-gradient(
+      1800deg,
+      transparent,
+      transparent 50%,
+      #fff 50%,
+      #fff 100%
+    ),
     linear-gradient(180deg, #c2c9d6, #c2c9d6, #c2c9d6, #c2c9d6, #c2c9d6);
   background-size: 3px 20px, 100% 20px;
   border: none;

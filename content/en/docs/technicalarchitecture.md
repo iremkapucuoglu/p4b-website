@@ -18,8 +18,7 @@ As API a Python server powered by FastAPI is used. The API serves geospatial dat
 
 
 
-![](/images/docs/about/server_client_arch.webp)
-
+![](\images\docs\about\server_client_arch.webp)
 
 
 The frontend is built with the common web stack like HTML, CSS, JavaScript. Vue.JS is used as a Javascript framework to develop of graphical interfaces of Web applications

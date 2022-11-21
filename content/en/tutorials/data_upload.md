@@ -70,7 +70,6 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 
 <img src="/images/tutorials/Data_upload/data_upload1_en.webp" alt="Select POI category" style="max-height:200px;"/>
 
-
 5. Click on "Browse your files".
    
 <img src="/images/tutorials/Data_upload/browse_files_en.webp" alt="Upload file" style="max-height:200px;"/>
@@ -86,5 +85,3 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 8. Switch to the menu "Filter Thematic Data", there your new data set is marked with a green dot. By clicking the checkbox, the layer is loaded into the map and you can see your uploaded data. 
 
 <img src="/images/tutorials/Data_upload/thematic_filter_en.webp" alt="Filter thematic data" style="max-height:400px;"/>
-
-[def]: images\docs\about\server_client_arch.webp

@@ -8,13 +8,14 @@ weight: 30
 ---
 #### System architecture
 
-GOAT is a WebGIS-application that can be used for various formal and informal planning processes.GOAT's architecture includes a variety of software, including libraries and programming languages.
+GOAT is a WebGIS-application that can be used for various formal and informal planning processes. GOAT's architecture includes a variety of software, including libraries and programming languages.
 
-The efficient interaction of software in GOAT is made possible by the popular classical server-client architecture of the web. Like many other applications today,the application has a database that allows for efficient information storage and organization. 
+The efficient interaction of the different software in GOAT is made possible by the popular classical server-client architecture of the web. Like many other applications today, GOAT has a database that allows for efficient information storage and organization. 
 
 As a result, information can be appropriately accessed, managed, and updated. The PostgreSQL database is used in conjunction with the PostGIS spatial extension.
 
 As API a Python server powered by FastAPI is used. The API serves geospatial data in different formats. Besides the GeoJSON format, compressed formats like Geobuf or Vector tiles allow for fast loading times. Besides endpoints serving spatial data, several endpoints are relevant for the application's business logic. 
+
 
 
 

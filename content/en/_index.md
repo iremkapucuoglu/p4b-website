@@ -25,6 +25,7 @@ sections:
       - logo: "/images/index/logo_lhm.webp"
       - logo: "/images/index/logo_freising.webp"
       - logo: "/images/index/logo_ffb.webp"
+      - logo: "/images/index/logo_eit.webp"
       - logo: "images/index/logo_werk1.webp"
       - logo: "/images/index/logo_xpreneurs.webp"
       - logo: "/images/index/GST_RGB.webp"
@@ -61,25 +62,25 @@ sections:
         button:
           url: "#"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/411721219?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/411721219?loop=1&autopause=0"
         title: "Location Planning"
         sub_title: "Finding the ideal location for a new bike sharing station"
         button:
           url: "#"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/311547681?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/311547681?loop=1&autopause=0"
         title: "Calculating Walking Isochrones"
         sub_title: "Calculation of travel-time isochrones"
         button:
           url: "#"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/370382250?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/370382250?loop=1&autopause=0"
         title: "Calculation of Multi-Isochrones"
         sub_title: "Assessing how good a neighboorhood is served with certain amenities"
         button:
           url: "#"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/311550100?loop=1&autopause=0"
         title: "Visualize extensive spatial data"
         sub_title: "Visualization of numerous datasets, such as land use, noise levels and accident numbers"
         button:

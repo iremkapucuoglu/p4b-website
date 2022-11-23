@@ -73,29 +73,19 @@
   <div class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>
     <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h2>
     <div class="discover-list discover-slider">
-      <!-- {{ range .slider_item }}
+      {{ range $index, $element := .slider_item }}
       <div class="discover-item">
         <div class="discover-item-inner" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
           <div class="discoverVideoWrapper">
-            <img class="spinner" src="/images/spinner.gif" alt="spinner" />
             <iframe class="lazy"
-              sandbox="allow-same-origin allow-scripts allow-popups" src="{{ .videoURL | absURL }}" loading="lazy"
-              title="{{.title}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen="" data-ll-status="loaded">
+              sandbox="allow-same-origin allow-scripts allow-popups" src="{{ $element.videoURL | absURL }}" loading="lazy"
+              title="{{$element.title}}" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen="" data-ll-status="loaded" style="border-radius: 23px;background-image: url(/images/spinner.gif);">
             </iframe>
-          </div>
-          <div class="discover-cont">
-            <div class="discover-txt">
-              <h5>{{.title}}</h5>
-              <p>{{.sub_title}}</p>
-            </div>
-            {{ with .button }}
-            <div class="btn learnmore-btn"><a href="{{.url | absURL }}">{{.label}}</a></div>
-            {{ end }}
           </div>
         </div>
       </div>
-      {{ end }} -->
+      {{ end }}
     </div>
   </div>
   <div class="uk-container">

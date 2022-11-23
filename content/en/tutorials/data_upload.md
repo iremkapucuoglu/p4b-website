@@ -14,7 +14,8 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 
 1. You can create your own point data from QGIS and upload it to GOAT. For this, you must create a new geopackage layer from the windows shown in the figure. It is recommended to use the GeoPackage layer because it can then be easily exported as a shapefile or geojson.
 
-<img src="\images\tutorials\Data_upload\qgis_data_upload1_en.webp" alt="Data Upload" style="max-height:400px;"/>
+<img src="\images\tutorials\Data_upload\qgis_data_upload10_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
 
 2. After specifying where to save the file and its name, you can add the column names you want to be in the attribute table of the dataset from the new field section.
 
@@ -86,3 +87,5 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 8. Switch to the menu "Filter Thematic Data", there your new data set is marked with a green dot. By clicking the checkbox, the layer is loaded into the map and you can see your uploaded data. 
 
 <img src="/images/tutorials/Data_upload/thematic_filter_en.webp" alt="Filter thematic data" style="max-height:400px;"/>
+
+[def]: images\docs\about\server_client_arch.webp

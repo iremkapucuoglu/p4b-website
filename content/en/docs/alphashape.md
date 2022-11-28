@@ -10,7 +10,7 @@ weight: 40
 
 An isochrone or travel time map is an indicator that provides users with a clear visualization of how far they can travel in a given time from a selected location. Isochrones can be calculated from one or more starting points for modes such as walking, biking, driving, or public transport. Each mode includes input factors such as speed, infrastructure network, and travel time.
 
-In GOAT, Isochrone shapes are dynamically created in the front end based on a travel time grid. Therefore, isochrone can be created fast and for different intervals on the, it allows to dynamically compute isochrone shapes and boundaries from the road network for each step in the front end.
+In GOAT, Isochrone shapes are dynamically created in the front end based on a travel time grid. Therefore, isochrone can be created fast and for different intervals on the fly, which allows to dynamically compute isochrone shapes and boundaries from the road network for each step in the front end.
 
 
 #### Routing Modes
@@ -54,7 +54,7 @@ As you can be seen in the figure users can adjust:
 -	The weekday (Monday to Sunday)
 -	From Time - To Time 
 -	Access Mode (How the user accesses the station, e.g., Walk, Bicycle),
--	Egress Mode (How the user changes the station e.g., Walk, Bicycle) 
+-	Egress Mode (How the user exists the station e.g., Walk, Bicycle) 
 -	Transit Modes (Tram,Rail,Bus or Rail).
 
 <img src="\images\docs\technical_documentation\alphashape\transit_en.webp" alt="transit isochrone" style="max-height:300px;"/>
@@ -115,9 +115,10 @@ Sao Paulo, Brazil: IEEE, Oct. 2016, pp. 305–312. isbn: 978-1-5090-3568-7. doi:
 
 [2]  https://fr.wikipedia.org/wiki/Marching_squares#/media/Fichier:Marching_Squares_Isoline.svg
 
-Content Source : 
-
 Majk Shkurti, "Spatio-temporal public transport accessibility analysis and benchmarking in an interactive WebGIS", Sep 2022. url: https://www.researchgate.net/publication/365790691_Spatio-temporal_public_transport_accessibility_analysis_and_benchmarking_in_an_interactive_WebGIS
+
+Matthew Wigginton Conway,Andrew Byrd,Marco Van Der Linden. "Evidence-Based Transit and Land Use Sketch Planning Using Interactive Accessibility Methods on Combined Schedule and Headway-Based Networks", 2017. url: https://journals.sagepub.com/doi/10.3141/2653-06
+
 
 
 

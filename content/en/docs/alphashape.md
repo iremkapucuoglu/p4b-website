@@ -54,7 +54,7 @@ As you can be seen in the figure users can adjust:
 -	The weekday (Monday to Sunday)
 -	Time of the day (0h to 24h)
 -	Access Mode (How the user accesses the station, e.g., Walk, Bicycle),
--	Egress Mode (How the user exists the station e.g., Walk, Bicycle) 
+-	Egress Mode (How the user exits the station e.g., Walk, Bicycle) 
 -	Transit Modes (Tram, Rail, Bus or Rail).
 
 <img src="\images\docs\technical_documentation\alphashape\transit_en.webp" alt="transit isochrone" style="max-height:300px;"/>

@@ -1,5 +1,5 @@
 +++
-description = "Plan4Better GmbH Atelierstraße 29 c/o WERK1 81671 München Deutschland Tel.: +49 89/200070830 E-Mail: info@plan4better.de"
+description = "Plan4Better GmbH Am Kartoffelgarten 14 c/o WERK1 81671 München Deutschland Tel.: +49 89/200070830 E-Mail: info@plan4better.de"
 layout = "blocks"
 title = "Imprint"
 translationKey = ""
@@ -26,7 +26,7 @@ text = ""
 Angaben gemäß § 5 TMG:
 
 **Plan4Better GmbH**  
-Atelierstraße 29 c/o WERK1  
+Am Kartoffelgarten 14 c/o WERK1  
 81671 München  
 Deutschland
 

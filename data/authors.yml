@@ -68,38 +68,6 @@
   bio:
     de: 'Als Backend-Entwickler ist er für die Implementierung von Algorithmen und APIs für GOAT zuständig. Seine Leidenschaft ist es, alles wie ein Uhrwerk zum Laufen zu bringen.'
     en: 'As a back end developer, he is in charge of implementing algorithms and APIs for GOAT. His passion is to bring everything to work like a clock and to develop and make space for new great features.'
-- username: farhadi
-  name: Sina Farhadi
-  title:
-    en: Software Developer
-    de: Software-Entwickler
-  image: ""
-  team_member: true
-  team_image: "/images/team/team_farhadi.webp"
-  github: 'https://github.com/cinaaaa'
-  website: 'https://sinafarhadi.medium.com'
-  mail: ''
-  linkedin: 'https://linkedin.com/in/sina-farhadi'
-  twitter: 'https://twitter.com/cinaaaaaaa_'
-  bio:
-    de: 'Begeisterter Frontend-Entwickler, der mit 15 Jahren mit dem Programmieren begonnen hat. Sina beschäftigt sich gerne mit Technik und schreibt derzeit auf Medium & FreeCodeCamp.'
-    en: 'Eager frontend developer who started coding already when he was 15. He likes to craft and write technology things, currently writing on Medium & FreeCodeCamp.'
-- username: koyunoglu
-  name: Dilan Koyunoglu
-  title:
-    en: GIS Engineer
-    de: GIS Ingenieurin
-  image: ""
-  team_member: true
-  team_image: "/images/team/team_koyunoglu.webp"
-  github: ''
-  website: ''
-  mail: ''
-  linkedin: 'https://www.linkedin.com/in/dilankoyunoglu/'
-  twitter: ''
-  bio:
-    de: 'Als Geoinformatikerin analysiert Dilan gerne komplexe Daten und löst Probleme. Sie sieht GIS als eine aufregende, sich schnell verändernde und coole Technologie und möchte diese für alle zugänglich machen.'
-    en: 'As a geomatics engineer, Dilan likes to analyze complex data and solve problems. She sees GIS as an exciting, rapidly changing, and cool technology and wants to make this technology accessible to everyone.'
 - username: kapucuoglu
   name: İrem Kapucuoğlu
   title:
@@ -116,6 +84,54 @@
   bio:
     de: 'Als Geomatikerin liebt Irem es, die Welt zu visualisieren. Sie schafft digitale Lösungen und kreiert nachhaltige Städte durch GIS-Technologien.'
     en: 'As a geomatics engineer, Irem likes visualising the earth. She likes to produce digital solutions and create sustainable cities full of technology with GIS.'
+- username: koyunoglu
+  name: Dilan Koyunoglu
+  title:
+    en: GIS Engineer
+    de: GIS Ingenieurin
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_koyunoglu.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/dilankoyunoglu/'
+  twitter: ''
+  bio:
+    de: 'Als Geoinformatikerin analysiert Dilan gerne komplexe Daten und löst Probleme. Sie sieht GIS als eine aufregende, sich schnell verändernde und coole Technologie und möchte diese für alle zugänglich machen.'
+    en: 'As a geomatics engineer, Dilan likes to analyze complex data and solve problems. She sees GIS as an exciting, rapidly changing, and cool technology and wants to make this technology accessible to everyone.'
+- username: farhadi
+  name: Sina Farhadi
+  title:
+    en: Software Developer
+    de: Software-Entwickler
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_farhadi.webp"
+  github: 'https://github.com/cinaaaa'
+  website: 'https://sinafarhadi.medium.com'
+  mail: ''
+  linkedin: 'https://linkedin.com/in/sina-farhadi'
+  twitter: 'https://twitter.com/cinaaaaaaa_'
+  bio:
+    de: 'Begeisterter Frontend-Entwickler, der mit 15 Jahren mit dem Programmieren begonnen hat. Sina beschäftigt sich gerne mit Technik und schreibt derzeit auf Medium & FreeCodeCamp.'
+    en: 'Eager frontend developer who started coding already when he was 15. He likes to craft and write technology things, currently writing on Medium & FreeCodeCamp.'
+- username: sasso
+  name: Ana Sasso
+  title:
+    en: UI/UX Designer
+    de: UI/UX Designer
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_sasso.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/analeesasso/'
+  twitter: ''
+  bio:
+    de: 'Ana ist eine ehemalige Architektin und Stadtplanerin. Sie setzt sich leidenschaftlich für die Anwendung von Technologie ein, um das Leben der Menschen in Zusammenspiel mit der Umwelt zu verbessern.'
+    en: 'Ana is a former architect and urban designer. She is passionately committed to applying tech to improve peoples lives and our relationship with the planet.'
 - username: meining
   name: Sophie Meining
   title:

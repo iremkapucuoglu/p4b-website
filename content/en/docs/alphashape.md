@@ -76,11 +76,9 @@ While the routing network is saved in the PostgreSQL/PostGIS database, the routi
 
 ##### Routing algorithms- Public Transport:
 
-Since public transport isochrone requires a combination of different data types it has more complexity than the other isochrone modes. (the region’s sidewalks, bikeways, scheduled public transport services…).
+Since public transport isochrone requires a combination of different data types (sidewalks, bikeways, public transport schedules, etc.) it has more complexity than the other isochrone modes.
 
-You can think this dataset is a collection of GTFS and OSM data through the R5 engine(Rapid Realistic Routing on Real-world and Reimagined networks) and intersection with the GOAT Database for the POI’s and population. We require this intersection since the R5 does not provide any information about the reached amenities, such as point of interest and population, the grid is intersected with the amenity data from the GOAT database. 
-
-R5 is the routing engine for Conveyal, a web-based system that allows users to create transportation scenarios and evaluate them in terms of cumulative opportunities accessibility indicators. This figure on the below represents the grid interpolation with travel time cost from R5 engine:
+The data used is a combination of GTFS and OSM data through the R5 engine(Rapid Realistic Routing on Real-world and Reimagined networks). The routing results are intersected with population and POI’s from the GOAT database. R5 is the routing engine for Conveyal, a web-based system that allows users to create transportation scenarios and evaluate them in terms of cumulative opportunities accessibility indicators. This figure on the below represents the grid interpolation with travel time cost from the R5 engine:
 
 <img src="\images\docs\technical_documentation\alphashape\r5_en.webp" alt="r5 isochrone" style="max-height:350px;"/>
 
@@ -88,20 +86,16 @@ As a result, the grid will include accessibility information for all the ameniti
 
 <img src="\images\docs\technical_documentation\alphashape\grid_en.webp" alt="r5 isochrone" style="max-height:150px;"/>
 
-What we need to know about these grid cells, the resolution of the results depends on the Web Mercator zoom levels. Resolution is a trade-off between performance and accuracy. We require different zoom levels however walking and cycling have lower travel distances and therefore it is important to have the highest resolution possible. High zoom levels produce high-resolution results at the expense of computation time.
+The resolution of the grid cells depends on the Web Mercator zoom levels. Meanwhile, the resolution is a trade-off between performance and accuracy. Different zoom levels are implemented for walking/cycling and public transport. To consider the fact that walking and cycling is requiring analyses focusing on the local level. Generally speaking higher resolutions are producing high-resolution results but are paired with longer computations times.
 
 #### Visualization 
 
-This is visualized by using "Marching square contour line algorithm", a computer graphics algorithm that can generate two-dimensional contour lines from a rectangular array of values.[1] 
-
-This algorithm transforms the grid from a 2D array to a shape to visualize or analyzed.
-An illustration of 2D image processing is shown in the figure. 
+The isochrone itself is a shape that is derived from the routing grid using the "Marching square contour line algorithm", a computer graphics algorithm that can generate two-dimensional contour lines from a rectangular array of values [1]. This algorithm transforms the grid from a 2D array to a shape to visualize or analyzed. An illustration of 2D image processing is shown in the figure. 
 
 <img src="\images\docs\technical_documentation\alphashape\wiki.webp" alt="marching square" style="max-height:350px;"/>
 
 
-
-If you want to reach more detailed content about isochrones and how they work, it can be accessed on the tutorial and video sections on the website.
+If you want to learn how the isochrone can besued within GOAT, you can access the tutorial and video sections on the website.
 
 
 #### References

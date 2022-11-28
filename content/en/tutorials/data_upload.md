@@ -8,7 +8,7 @@ description: Step-by-step tutorial for uploading POI data
 
 ---
 #### Description of the feature
-In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provided by default. If you wish to integrate further POI data sets into GOAT, you can do so via the "Upload" function. In this tutorial you can see how to create your own POIs by using QGIS and display them via GOAT. A total of 500 MB of storage space is available to each user for this purpose. 
+In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provided by default. If you wish to integrate further POI data sets into GOAT, you can do so via the "Upload" function. In this tutorial you can see how to create your own POIs by using QGIS and display them via GOAT. 
 
 #### Step-by-step instructions for creating your own Point of Interest data sets via QGIS
 

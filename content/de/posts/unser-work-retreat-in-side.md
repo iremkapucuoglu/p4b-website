@@ -1,14 +1,14 @@
 +++
 author = ""
-categories = []
-date = ""
+categories = ["team"]
+date = 2022-12-01T23:00:00Z
 description = ""
 draft = true
 image = "/images/img_8082_900_450.webp"
 summary = ""
 thumbnail = "/images/img_8082_600_450.webp"
 title = "Unser Work Retreat in Side "
-translationKey = ""
+translationKey = "work-retreat-side-2022"
 
 +++
 Im Oktober hatten wir eine tolle Zeit auf unserem ersten Work Retreat in der Türkei. Da unser Team derzeit in 5 verschiedenen Ländern arbeitet, war dies eine großartige Gelegenheit uns persönlich zu treffen.
@@ -23,4 +23,6 @@ Genau das haben wir in mehreren Workshops während unserer Reise getan. Die geme
 
 Ein großer Höhepunkt unseres Retreats war unsere Rafting-Tour durch den Köprülü Kanyon, gefolgt von einem Spaziergang durch die antike Stadt Side. Bevor es am Freitag zurück ging, hatten wir weitere gemeinsame Arbeitssessions.
 
-Danke, dass ihr Teil unseres fantastischen Teams seid Ana, Dilan, Ebubeker, Elias, Irem, Majk, Mohammad, Philipp, Sina, Sophie und Ulrike. Auf ein baldiges persönliches Wiedersehen! 
+![](/images/img_20221005_121815-1.webp)
+
+Danke, dass ihr Teil unseres fantastischen Teams seid Ana, Dilan, Ebubeker, Elias, Irem, Majk, Mohammad, Philipp, Sina, Sophie und Ulrike. Auf ein baldiges persönliches Wiedersehen!

@@ -5,14 +5,12 @@ date = 2022-12-01T23:00:00Z
 description = ""
 draft = true
 image = "/images/img_8082_900_450.webp"
-summary = ""
+summary = "Im Oktober hatten wir eine tolle Zeit auf unserem ersten Work Retreat in der Türkei. Da unser Team derzeit in 5 verschiedenen Ländern arbeitet, war dies eine großartige Gelegenheit uns persönlich zu treffen.   "
 thumbnail = "/images/img_8082_600_450.webp"
 title = "Unser Work Retreat in Side "
 translationKey = "work-retreat-side-2022"
 
 +++
-Im Oktober hatten wir eine tolle Zeit auf unserem ersten Work Retreat in der Türkei. Da unser Team derzeit in 5 verschiedenen Ländern arbeitet, war dies eine großartige Gelegenheit uns persönlich zu treffen.
-
 Im Laufe des Sommers wuchs Plan4Better auf 11 tolle Teammitglieder an. Da unser Office in München ansässig ist, sehen wir uns normalerweise nur per Webcam. Ziemlich schnell hatten wir die Idee, ein Retreat zu organisieren. Es ist uns wichtig, uns gegenseitig besser kennenzulernen und gemeinsam an unserer Vision für Plan4Better zu arbeiten. Mit Hilfe unserer beiden türkischen Kolleginnen Dilan und Irem haben wir beschlossen, uns in Side zu treffen.
 
 Unsere Reise startete am Montag von unseren jeweiligen Heimatländern aus. Den ersten Abend konnten wir bei einem gemeinsamen Abendessen im Hotel ausklingen lassen.

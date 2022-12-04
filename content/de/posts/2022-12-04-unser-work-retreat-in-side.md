@@ -2,7 +2,7 @@
 author : "pajares"
 categories : ["Team", "News"]
 date : 2022-12-01T23:00:00Z
-description : "Im Oktober hatten wir eine tolle Zeit auf unserem ersten Work Retreat in der Türkei. Da unser Team derzeit in 5 verschiedenen Ländern arbeitet, war dies eine großartige Gelegenheit uns persönlich zu treffen.""
+description : "Im Oktober hatten wir eine tolle Zeit auf unserem ersten Work Retreat in der Türkei. Da unser Team derzeit in 5 verschiedenen Ländern arbeitet, war dies eine großartige Gelegenheit uns persönlich zu treffen."
 draft : false
 image : "/images/img_8082_900_450.webp"
 summary : "Im Oktober hatten wir eine tolle Zeit auf unserem ersten Work Retreat in der Türkei. Da unser Team derzeit in 5 verschiedenen Ländern arbeitet, war dies eine großartige Gelegenheit uns persönlich zu treffen."

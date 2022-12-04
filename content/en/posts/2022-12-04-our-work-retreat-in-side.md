@@ -2,7 +2,7 @@
 author : "pajares"
 categories : ["team", "news"]
 date : 2022-12-01T23:00:00Z
-description : ""
+description : "In October, we had a great time on our first work retreat to Turkey. Since our team is currently working in 5 different countries, this was a great opportunity to meet us in person."
 draft : false
 image : "/images/img_8082_900_450.webp"
 summary : "In October, we had a great time on our first work retreat to Turkey. Since our team is currently working in 5 different countries, this was a great opportunity to meet us in person."

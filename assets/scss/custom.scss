@@ -1840,6 +1840,7 @@ html {
 /* the slides */
 .slick-slide {
   opacity: 0.4;
+  z-index: 1;
 }
 
 .slick-active {

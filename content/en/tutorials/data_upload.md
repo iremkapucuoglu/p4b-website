@@ -8,11 +8,11 @@ description: Step-by-step tutorial for uploading POI data
 
 ---
 #### Description of the feature
-In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provided by default. If you wish to integrate further POI data sets into GOAT, you can do so via the "Upload" function. In this tutorial you can see how to create your own POIs by using QGIS and display them via GOAT. 
+In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provided by default. If you wish to integrate further POI data sets into GOAT, you can do so via the "Upload" function. In this tutorial you can see how to create your own POI layer by using QGIS and integrate it in GOAT. 
 
-#### Step-by-step instructions for creating your own Point of Interest data sets via QGIS
+#### Step-by-step guideline for creating your own Point of Interest data set
 
-1. You can create your own point data from QGIS and upload it to GOAT. For this, you must create a new geopackage layer from the windows shown in the figure. It is recommended to use the GeoPackage layer because it can then be easily exported as a shapefile or geojson.
+1. You can create your own point data from QGIS and upload it to GOAT. For this, you must create a new geopackage layer from the windows shown in the figure. It is recommended to use the GeoPackage layer because it can then be easily exported as a shapefile or .
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload10_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
@@ -33,7 +33,7 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload6_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
-6. After adding your point data, fill in its properties.(category,name,address etc.) Once you click OK, the point will be added.
+6. After adding your point data, fill in its properties(category,name,street,zipcode etc.). Once you click "OK", the point will be added.
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload5_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
@@ -41,31 +41,31 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload7_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
-8. As a result you can export the point data that you created as a shapefile or geojson. Right click on the layer and select "Save Feature As". 
+8. As a result you can export the point data that you created as a shapefile or GeoJSON. Right click on the layer and select "Save Feature As". 
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload8_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
-9. To export as a shapefile, select the shapefile option in the "format" section and clik OK.
+9. To export as a shapefile, select the shapefile option in the "format" section and click "OK".
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload9_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
-10. To export as a geojson, select the geojson option in the "format" section and click OK.
+10. To export as a GeoJSON, select the GeoJSON option in the "format" section and click "OK".
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload10_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
-#### Step-by-step instructions for uploading your own Point of Interest data sets to GOAT
+#### Step-by-step guideline for uploading your own Point of Interest data set to GOAT
 
 1. Click on "User Data Upload" in the right menu. 
 
 <img src="/images/tutorials/Data_upload/user-data-upload_en.webp" alt="Data Upload" style="max-height:400px;"/>
    
-2. If you want to upload multiple POI categories (e.g. youth centres, bikesharing stations), then create a separate file for each category (i.e. in this example a GeoJSON file with the youth centres and a GeoJSON with the bikesharing stations). 
+2. Prepare the POI data as a GeoJSON file. Templates for this are available in the interface. If you want to upload multiple POI categories (e.g. youth centres, bikesharing stations), then create a separate file for each category (i.e. in this example a GeoJSON file with the youth centres and a GeoJSON with the bikesharing stations).
 
-3. Click on the plus symbol.
+3. Click on the "plus" symbol.
 
 <img src="/images/tutorials/Data_upload/plus_en.webp" alt="Datenupload" style="max-height:400px;"/>
 
-4. Select the POI category of the dataset. You can either choose one of the predefined categories or create your own by using custom category option.
+4. Select the POI category of the dataset. You can either choose one of the predefined categories or create your own.
 
 <img src="/images/tutorials/Data_upload/poi_category_en.webp" alt="Select POI category" style="max-height:200px;"/>
 

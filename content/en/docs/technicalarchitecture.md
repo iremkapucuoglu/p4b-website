@@ -23,8 +23,8 @@ As API a Python server powered by FastAPI is used. The API serves geospatial dat
 
 
 
-The frontend is built with the common web stack like HTML, CSS, JavaScript. Vue.JS is used as a Javascript framework to develop of graphical interfaces of Web applications
-using an HTML syntax, and Openlayers is used as a geospatial library for manipulating vector data. 
+The common web stack apps like HTML, CSS and JavaScript built the frontend. To create graphical user interfaces for Web applications using HTML syntax, Vue.JS is utilized as a Javascript framework, while Openlayers is used as a geospatial library for working with vector data.
+ 
 
 On the server side, PostgreSQL and PostGIS are used to manage geospatial data, and the Conveyal-R5 Engine is used to perform trip analysis for public transportation.
 

@@ -8,9 +8,9 @@ weight: 40
 
 #### Isochrone Definition
 
-An isochrone or travel time map is an indicator that provides users with a clear visualization of how far they can travel in a given time from a selected location. Isochrones can be calculated from one or more starting points for modes such as walking, biking, driving, or public transport. Each mode includes input factors such as speed, infrastructure network, and travel time.
+An isochrone or catchment area is an indicator that provides users with a clear visualization of how far they can travel in a given time from a selected location. Isochrones can be calculated from one or more starting points for modes such as walking, cycling, car or public transport. Depending on the selected mode, the corresponding routing network is used. Travel speed as well as travel time can be selected by the user.
 
-In GOAT, Isochrone shapes are dynamically created in the front end based on a travel time grid. Therefore, isochrone can be created fast and for different intervals on the fly, which allows to dynamically compute isochrone shapes and boundaries from the road network for each step in the front end.
+In GOAT, Isochrone shapes are dynamically created in the front end based on a travel time grid. Therefore, isochrones can be created fast and for different intervals on the fly, which allows to dynamically compute isochrone shapes and boundaries from the routing network for each step in the front end.
 
 
 #### Routing Modes
@@ -78,7 +78,7 @@ While the routing network is saved in the PostgreSQL/PostGIS database, the routi
 
 Since public transport isochrone requires a combination of different data types (sidewalks, bikeways, public transport schedules, etc.) it has more complexity than the other isochrone modes.
 
-The data used is a combination of GTFS and OSM data through the R5 engine(Rapid Realistic Routing on Real-world and Reimagined networks). The routing results are intersected with population and POI’s from the GOAT database. R5 is the routing engine for Conveyal, a web-based system that allows users to create transportation scenarios and evaluate them in terms of cumulative opportunities accessibility indicators. This figure on the below represents the grid interpolation with travel time cost from the R5 engine:
+The data used is a combination of GTFS and OSM data through the R5 engine(Rapid Realistic Routing on Real-world and Reimagined networks). The routing results are intersected with population and POI’s from the GOAT database. R5 is the routing engine for Conveyal, a web-based system that allows users to create transportation scenarios and evaluate them in terms of cumulative opportunities and accessibility indicators. The figure on the below represents the grid interpolation with travel time cost from the R5 engine:
 
 <img src="\images\docs\technical_documentation\alphashape\r5_en.webp" alt="r5 isochrone" style="max-height:350px;"/>
 
@@ -86,7 +86,7 @@ As a result, the grid will include accessibility information for all the ameniti
 
 <img src="\images\docs\technical_documentation\alphashape\grid_en.webp" alt="r5 isochrone" style="max-height:150px;"/>
 
-The resolution of the grid cells depends on the Web Mercator zoom levels. Meanwhile, the resolution is a trade-off between performance and accuracy. Different zoom levels are implemented for walking/cycling and public transport. To consider the fact that walking and cycling is requiring analyses focusing on the local level. Generally speaking higher resolutions are producing high-resolution results but are paired with longer computations times.
+The resolution of the grid cells depends on the Web Mercator zoom levels. Meanwhile, the resolution is a trade-off between performance and accuracy. Different zoom levels are implemented for walking/cycling and public transport. To consider the fact that walking and cycling is requiring analyses focusing on the local level. Generally speaking, higher resolutions are producing high-resolution results but are paired with longer computation times.
 
 #### Visualization 
 
@@ -95,7 +95,7 @@ The isochrone itself is a shape that is derived from the routing grid using the 
 <img src="\images\docs\technical_documentation\alphashape\wiki.webp" alt="marching square" style="max-height:350px;"/>
 
 
-If you want to learn how the isochrone can besued within GOAT, you can access the tutorial and video sections on the website.
+If you want to learn more detailed examples of how the isochrone can be used within GOAT, you can access [the tutorials](https://plan4better.de/en/tutorials/isochrone/) and [video sections](https://plan4better.de/en/videos/) on the website.
 
 
 #### References

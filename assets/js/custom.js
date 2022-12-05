@@ -133,22 +133,10 @@ $(".slideshow").slick({
   slidesToShow: 1,
   slidesToScroll: 1,
   variableWidth: true,
-  responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1,
-      },
-    },
-    {
-      breakpoint: 600,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1,
-      },
-    },
-  ],
+  arrows: true,
+  swipeToSlide: true,
+  prevArrow: '<button type="button" class="slick-prev"></button>',
+  nextArrow: '<button type="button" class="slick-next"></button>',
 });
 
 $(".slideshow").on(
@@ -162,20 +150,26 @@ $(".slideshow").on(
     var bottom_of_screen = $(window).scrollTop() + $(window).innerHeight();
     var top_of_screen = $(window).scrollTop();
 
+    $(".carousel").slick("slickNext");
+
     if (
       bottom_of_screen > top_of_element &&
       top_of_screen < bottom_of_element
     ) {
       // Slider is visible
       // Pause the current slide
-      let currentSlideSrc = CurrentSlideDom.children("iframe");
-      currentSlideSrc.attr(
-        "src",
-        currentSlideSrc.attr("src").replace("&autoplay=1", "")
-      );
+      let currSlideSrc = CurrentSlideDom.children("div").children("iframe");
+      if (currSlideSrc.attr("src")) {
+        currSlideSrc.attr(
+          "src",
+          currSlideSrc.attr("src").replaceAll("&autoplay=1", "")
+        );
+      }
       // Autoplay next slide
-      let nextSlideSrc = NextSlideDom.children("iframe");
-      nextSlideSrc.attr("src", nextSlideSrc.attr("src") + "&autoplay=1");
+      let nextSlideSrc = NextSlideDom.children("div").children("iframe");
+      if (nextSlideSrc.attr("src")) {
+        nextSlideSrc.attr("src", nextSlideSrc.attr("src") + "&autoplay=1");
+      }
     }
   }
 );

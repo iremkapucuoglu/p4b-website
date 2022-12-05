@@ -70,58 +70,22 @@
 {{ end }}
 {{ with .action_section }}
 
-
-
-
-
-
-
-
 <section class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
   eq $order 1 }}id="next_section" {{end}}>
   <div class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>
     <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h2>
-    <!-- <div class="discover-list discover-slider"> -->
-    <!-- {{ range $index, $element := .slider_item }}
-      <div class="discover-item">
-        <div class="discover-item-inner" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
-          <div class="discoverVideoWrapper">
-            <iframe class="lazy"
-              sandbox="allow-same-origin allow-scripts allow-popups" src="{{ $element.videoURL | absURL }}" loading="lazy"
-              title="{{$element.title}}" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen="" data-ll-status="loaded" style="border-radius: 23px;background-image: url(/images/spinner.gif);">
-            </iframe>
-          </div>
-        </div>
-      </div>
-      {{ end }} -->
-    <div class="slideshow" onseeking="alert('test')">
+    <div class="slideshow">
       {{ range $index, $element := .slider_item }}
-      <!-- <iframe src="https://player.vimeo.com/video/10148173?title=0&byline=0&portrait=0&autoplay=1&loop=1" width="800" height="500px"
-        frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-      <div class="slideshow__slide video_wrapper">
-        <!-- <iframe
-          sandbox="allow-same-origin allow-scripts allow-popups" src="{{ $element.videoURL | absURL }}" width="800px" height="500px"
-          title="{{$element.title}}" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        >
-        </iframe> -->
-        <div style="padding:56.25% 0 0 0;position:relative;">
-          <iframe src="{{ $element.videoURL | absURL }}" style="position:absolute;top:0;left:0;width:100%;height:100%;"
-            frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-        </div>
+      <div class="video_wrapper">
+          <div class="slideshow__slide" style="padding:56.25% 0 0 0;position:relative;">
+            <iframe src="{{ $element.videoURL | absURL }}"
+              style="position:absolute;top:0;left:0;width:100%;height:100%;z-index: 1;" frameborder="0" webkitallowfullscreen
+              mozallowfullscreen allowfullscreen></iframe>
+            </div>
       </div>
       {{end}}
     </div>
   </div>
-
-  <!-- <script>
-    
-  </script> -->
-
-
-
-
-
 
   <div class="uk-container">
     <div class="discover-icons">

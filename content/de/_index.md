@@ -58,7 +58,7 @@ sections:
     action_section:
       heading: "Entdecken Sie die Vorteile von GOAT"
       slider_item:
-      - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/311550100?loop=1&&autopause=0&autoplay=1"
         title: "Brückenszenario"
         sub_title: "Interaktive Veränderung des Wegenetzes"
         button:

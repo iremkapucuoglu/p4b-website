@@ -10560,10 +10560,7 @@ html {
 .brandslider {
   max-width: 85%;
   margin: 0 auto;
-  padding: 0 50px;
-  height: 230px;
-  display: flex;
-  align-items: center; }
+  padding: 0 50px; }
 
 .brandslider .slick-arrow,
 .goat-quote-slide .slick-arrow {

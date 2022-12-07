@@ -4,7 +4,8 @@
 {{ range ( sort (.Params.sections) ".order" "ace") }}
 {{ $order := .order }}
 {{ with .plan_section }}
-<section class='mit-uns-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
+<section class='mit-uns-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
+  eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-container">
     <div class="mit-uns-inner">
       <div class="mit-uns-left" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
@@ -39,7 +40,8 @@
 </section>
 {{ end }}
 {{ with .planing_section }}
-<section class='planing-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
+<section class='planing-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
+  eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-container">
     <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{ .title }}</h2>
     <div class="planing-inner">
@@ -47,14 +49,12 @@
       <div class="planing-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
         <div class="planing-icon">
           {{ if .iconBack }}
-          <img class="planing-icon-back"
-            src="{{ .iconBack }}" alt="{{.title}}">
-          <img class="planing-icon-front"
-            src="{{ .icon }}" alt="{{.title}}">
+          <img class="planing-icon-back" src="{{ .iconBack }}" alt="{{.title}}">
+          <img class="planing-icon-front" src="{{ .icon }}" alt="{{.title}}">
           {{ else }}
-            {{ if .svg }}
-              {{ .svg | safeHTML }}
-            {{ end }}
+          {{ if .svg }}
+          {{ .svg | safeHTML }}
+          {{ end }}
           {{ end }}
 
         </div>
@@ -69,35 +69,24 @@
 </section>
 {{ end }}
 {{ with .action_section }}
-<section class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
+
+<section class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
+  eq $order 1 }}id="next_section" {{end}}>
   <div class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>
     <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h2>
-    <div class="discover-list discover-slider">
-      <!-- {{ range .slider_item }}
-      <div class="discover-item">
-        <div class="discover-item-inner" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
-          <div class="discoverVideoWrapper">
-            <img class="spinner" src="/images/spinner.gif" alt="spinner" />
-            <iframe class="lazy"
-              sandbox="allow-same-origin allow-scripts allow-popups" src="{{ .videoURL | absURL }}" loading="lazy"
-              title="{{.title}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen="" data-ll-status="loaded">
-            </iframe>
-          </div>
-          <div class="discover-cont">
-            <div class="discover-txt">
-              <h5>{{.title}}</h5>
-              <p>{{.sub_title}}</p>
+    <div class="slideshow">
+      {{ range $index, $element := .slider_item }}
+      <div class="video_wrapper">
+          <div class="slideshow__slide" style="padding:56.25% 0 0 0;position:relative;margin: 0 40px">
+            <iframe src="{{ $element.videoURL | absURL }}"
+              style="position:absolute;top:0;left:0;width:100%;height:100%;z-index: 1;" frameborder="0" webkitallowfullscreen
+              mozallowfullscreen allowfullscreen></iframe>
             </div>
-            {{ with .button }}
-            <div class="btn learnmore-btn"><a href="{{.url | absURL }}">{{.label}}</a></div>
-            {{ end }}
-          </div>
-        </div>
       </div>
-      {{ end }} -->
+      {{end}}
     </div>
   </div>
+
   <div class="uk-container">
     <div class="discover-icons">
       {{ range .action_list_item }}
@@ -113,6 +102,10 @@
     </div>
   </div>
 </section>
+
+
+
+
 {{ end }}
 {{ with .smart_tools_section }}
 <section class='smart-tools-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'
@@ -131,7 +124,8 @@
             <h4>{{.title}}</h4>
             <p>{{.description}}</p>
             {{ with .button }}
-            <a href="{{.url | absURL }}" class='cnt-btn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>
+            <a href="{{.url | absURL }}"
+              class='cnt-btn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>
               {{.label }}
             </a>
             {{ end }}
@@ -144,7 +138,8 @@
 </section>
 {{ end }}
 {{ with .contact_section }}
-<section class='interested-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
+<section class='interested-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'
+  {{if eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-contaner">
     <div data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
       {{.title}} <a href="{{.button.url | relURL }}">{{.button.label}}</a>
@@ -169,15 +164,14 @@
       data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
       {{ if .twitter_timeline }}
       <div class="twitter-feed">
-        <a data-tweet-limit="2" class="twitter-timeline"
-          href="{{.twitter_timeline | absURL}}">Tweets by plan4better</a>
+        <a data-tweet-limit="2" class="twitter-timeline" href="{{.twitter_timeline | absURL}}">Tweets by plan4better</a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
       {{end}}
       {{ if .linkedin_feed }}
       <div class="linked-in-feed">
-        <iframe src="{{.linkedin_feed | absURL}}" height="602"
-          width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+        <iframe src="{{.linkedin_feed | absURL}}" height="602" width="100%" frameborder="0" allowfullscreen=""
+          title="Embedded post"></iframe>
       </div>
       {{end}}
     </div>
@@ -229,7 +223,8 @@
 {{ end }}
 {{ with .funded_section }}
 <section
-  class='funded_section uk-section-large uk-section-default uk-padding-remove-top {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
+  class='funded_section uk-section-large uk-section-default uk-padding-remove-top {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'
+  {{if eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-container uk-container-small uk-text-center">
     <div class="uk-text-center uk-margin-medium-bottom uk-margin-medium-top uk-flex-center uk-flex"
       data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">

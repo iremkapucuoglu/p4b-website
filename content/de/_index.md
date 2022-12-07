@@ -26,6 +26,7 @@ sections:
       - logo: "/images/index/logo_lhm.webp"
       - logo: "/images/index/logo_freising.webp"
       - logo: "/images/index/logo_ffb.webp"
+      - logo: "/images/index/logo_eit.webp"
       - logo: "images/index/logo_werk1.webp"
       - logo: "/images/index/logo_xpreneurs.webp"
       - logo: "/images/index/GST_RGB.webp"
@@ -58,31 +59,43 @@ sections:
     action_section:
       heading: "Entdecken Sie die Vorteile von GOAT"
       slider_item:
-      - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/761428637?loop=1&&autopause=0&autoplay=1"
+        title: "Pitch"
+        sub_title: "Die Funktionen im Überblick"
+        button:
+          url: "#"
+          label: "Mehr erfahren"  
+      - videoURL: "https://player.vimeo.com/video/775782337?loop=1&&autopause=0&autoplay=1"
+        title: "ÖV-Analysen"
+        sub_title: "Analyse der Qualität des ÖV-Angebots"
+        button:
+          url: "#"
+          label: "Mehr erfahren"  
+      - videoURL: "https://player.vimeo.com/video/759803197?loop=1&&autopause=0&autoplay=1"
         title: "Brückenszenario"
         sub_title: "Interaktive Veränderung des Wegenetzes"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/411721219?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/411721219?loop=1&autopause=0"
         title: "Standortplanung"
         sub_title: "Analyse geeigneter Standorte für neue Bike-Sharing-Stationen"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/311547681?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/311547681?loop=1&autopause=0"
         title: "Isochronen berechnen"
         sub_title: "Berechnung von Reisezeit-Isochronen"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/370382250?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/753891610?loop=1&autopause=0"
         title: "Berechnung von Multi-Isochronen"
         sub_title: "Analysieren, wie gut ein Stadtviertel mit bestimmten Einrichtungen versorgt ist"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/422451126?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/755032628?loop=1&autopause=0"
         title: "Räumliche Daten visualisieren"
         sub_title: "Visualisierung zahlreicher Datensätze, wie z.B. Flächennutzung, Lärmpegel und Unfallzahlen"
         button:

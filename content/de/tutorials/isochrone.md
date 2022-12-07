@@ -20,7 +20,7 @@ description: Schritt-für-Schritt-Anleitung für beispielhafte Planungsfragen un
 
 #### Schritt-für-Schritt-Anleitung für die beispielhaften Planungsaufgaben
 
-#### 1 Erreichbarkeit von Supermärkten
+#### 1 Fußläufige Erreichbarkeit von Supermärkten
 
 ##### 1.1 Planungsfrage
 

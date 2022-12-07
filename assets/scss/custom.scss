@@ -110,6 +110,7 @@ html {
   text-decoration: none;
 }
 
+
 .b-item-inner {
   display: flex;
   flex-flow: row wrap;
@@ -117,7 +118,6 @@ html {
   justify-content: center;
   width: 100%;
   min-height: 178px;
-
   img {
     padding: 0 50px;
   }
@@ -157,6 +157,7 @@ html {
   margin-top: -8px;
   z-index: 1;
 }
+
 
 
 .brandslider .slick-arrow.slick-prev,
@@ -1837,9 +1838,7 @@ html {
 
 /* the slides */
 .slick-slide {
-  margin: 0 40px;
   opacity: 0.4;
-  z-index: 1;
 }
 
 .slick-active {

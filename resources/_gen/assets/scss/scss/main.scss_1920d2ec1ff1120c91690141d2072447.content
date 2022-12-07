@@ -11812,9 +11812,7 @@ a {
 
 /* the slides */
 .slick-slide {
-  margin: 0 40px;
-  opacity: 0.4;
-  z-index: 1; }
+  opacity: 0.4; }
 
 .slick-active {
   opacity: 1; }

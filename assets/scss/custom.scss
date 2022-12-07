@@ -136,6 +136,29 @@ html {
   }
 }
 
+.brandslider {
+  max-width: 85%;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+
+.brandslider .slick-arrow,
+.goat-quote-slide .slick-arrow {
+  width: 16px;
+  height: 26px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  font-size: 0px;
+  top: 50%;
+  margin-top: -8px;
+  z-index: 1;
+}
+
+
 .brandslider .slick-arrow.slick-prev,
 .goat-quote-slide .slick-arrow.slick-prev {
   background-image: url(/images/slider-arr-left.png);

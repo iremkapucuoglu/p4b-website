@@ -14,13 +14,17 @@ The efficient interaction of the different software in GOAT is made possible by 
 
 As a result, information can be appropriately accessed, managed, and updated. The PostgreSQL database is used in conjunction with the PostGIS spatial extension.
 
-![Used Libraries](/images/docs/about/libraries.webp)
-
 As API a Python server powered by FastAPI is used. The API serves geospatial data in different formats. Besides the GeoJSON format, compressed formats like Geobuf or Vector tiles allow for fast loading times. Besides endpoints serving spatial data, several endpoints are relevant for the application's business logic. 
 
-![Server Client Architecture](/images/docs/about/server_client_arch.webp)
 
-The frontend is built with the common web stack like HTML, CSS, JavaScript. Vue.JS is used as a Javascript framework to develop of graphical interfaces of Web applications using an HTML syntax, and Openlayers is used as a geospatial library for manipulating vector data. 
+
+
+<img src="\images\docs\about\server_client.webp" alt="Data Upload" style="max-height:400px;"/>
+
+
+
+The common web stack apps like HTML, CSS and JavaScript built the frontend. To create graphical user interfaces for Web applications using HTML syntax, Vue.JS is utilized as a Javascript framework, while Openlayers is used as a geospatial library for working with vector data.
+ 
 
 On the server side, PostgreSQL and PostGIS are used to manage geospatial data, and the Conveyal-R5 Engine is used to perform trip analysis for public transportation.
 

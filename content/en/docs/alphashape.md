@@ -46,16 +46,16 @@ For Pedelecs, slopes are considered with a lower impedance than for Standard bic
 <img src="\images\docs\technical_documentation\alphashape\pedelec_en.webp" alt="pedelec isochrone" style="max-height:80px;"/>
 
 
-#### 3. Transit
+#### 3. Public transport
 
-In this routing mode users can compute intermodal accessibility centered around public transport.
+In this routing mode, users can compute intermodal accessibility centered around public transport.
 As you can be seen in the figure users can adjust: 
 
 -	The weekday (Monday to Sunday)
--	From Time - To Time 
+-	Time of the day (0h to 24h)
 -	Access Mode (How the user accesses the station, e.g., Walk, Bicycle),
 -	Egress Mode (How the user exists the station e.g., Walk, Bicycle) 
--	Transit Modes (Tram,Rail,Bus or Rail).
+-	Transit Modes (Tram, Rail, Bus or Rail).
 
 <img src="\images\docs\technical_documentation\alphashape\transit_en.webp" alt="transit isochrone" style="max-height:300px;"/>
 
@@ -68,13 +68,13 @@ As you can be seen in the figure users can adjust:
 -   How many people can access a specific location within 20min by rail-based public transport (tram, underground, train)?
 
 #### How does the calculation work? 
-##### Routing algorithms- Walking and Cycling:
+##### Routing algorithms - Walking and Cycling:
 
 The routing for walking and cycling is based on a custom implementation of the widely used Dijkstra algorithm. In the implementation, the routing network is dynamically created and therefore allows the computation of scenarios. 
 
 While the routing network is saved in the PostgreSQL/PostGIS database, the routing is done in Python using the just-in-time compiler Numba.
 
-##### Routing algorithms- Public Transport:
+##### Routing algorithms - Public Transport:
 
 Since public transport isochrone requires a combination of different data types (sidewalks, bikeways, public transport schedules, etc.) it has more complexity than the other isochrone modes.
 
@@ -90,7 +90,7 @@ The resolution of the grid cells depends on the Web Mercator zoom levels. Meanwh
 
 #### Visualization 
 
-The isochrone itself is a shape that is derived from the routing grid using the "Marching square contour line algorithm", a computer graphics algorithm that can generate two-dimensional contour lines from a rectangular array of values [1]. This algorithm transforms the grid from a 2D array to a shape to visualize or analyzed. An illustration of 2D image processing is shown in the figure. 
+The isochrone itself is a shape that is derived from the routing grid using the "Marching square contour line algorithm", a computer graphics algorithm that can generate two-dimensional contour lines from a rectangular array of values (de Queiroz Neto et al. 2016). This algorithm transforms the grid from a 2D array to a shape to visualize or analyzed. An illustration of 2D image processing is shown in the figure. 
 
 <img src="\images\docs\technical_documentation\alphashape\wiki.webp" alt="marching square" style="max-height:350px;"/>
 
@@ -100,24 +100,16 @@ If you want to learn more detailed examples of how the isochrone can be used wit
 
 #### References
 
-[1]  J. F. de Queiroz Neto, E. M. d. Santos, and C. A. Vidal. “MSKDE - Using
+J. F. de Queiroz Neto, E. M. d. Santos, and C. A. Vidal. “MSKDE - Using
 Marching Squares to Quickly Make High Quality Crime Hotspot Maps”. en.
 In: 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI).
 Sao Paulo, Brazil: IEEE, Oct. 2016, pp. 305–312. isbn: 978-1-5090-3568-7. doi:
 10.1109/SIBGRAPI.2016.049. url: https://ieeexplore.ieee.org/document/
 7813048/
 
-[2]  https://fr.wikipedia.org/wiki/Marching_squares#/media/Fichier:Marching_Squares_Isoline.svg
+https://fr.wikipedia.org/wiki/Marching_squares#/media/Fichier:Marching_Squares_Isoline.svg
 
 Majk Shkurti, "Spatio-temporal public transport accessibility analysis and benchmarking in an interactive WebGIS", Sep 2022. url: https://www.researchgate.net/publication/365790691_Spatio-temporal_public_transport_accessibility_analysis_and_benchmarking_in_an_interactive_WebGIS
 
 Matthew Wigginton Conway,Andrew Byrd,Marco Van Der Linden. "Evidence-Based Transit and Land Use Sketch Planning Using Interactive Accessibility Methods on Combined Schedule and Headway-Based Networks", 2017. url: https://journals.sagepub.com/doi/10.3141/2653-06
-
-
-
-
-
-
-
-
 

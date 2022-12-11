@@ -47,7 +47,7 @@ GOAT ermöglicht es Ihnen, eigene externe Layer zu integrieren. Mit einer breite
 
 ##### 2 Einen Layer über eine URL hinzufügen
 
-1. Sie können eine Ebene mit Ihrer eigenen URL hinzufügen. Fügen Sie die URL für Ihren Layer in das Feld "Source Url" ein und klicken Sie auf "ADD". In dieser Abbildung wird eine URL aus dem Freiburger Geoportal verwendet.
+1. Sie können eigene WMS-Layer über die URL hinzufügen. Fügen Sie hierzu die URL in das Feld "Source Url" ein und klicken Sie auf "ADD". In dieser Abbildung wird eine URL aus dem Freiburger Geoportal verwendet.
 
 <img src="/images/tutorials/External-layers/external-layer5-url-de.webp" alt="external layer8" style="max-height:400px;"/>
 

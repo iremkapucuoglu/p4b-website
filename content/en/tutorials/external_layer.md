@@ -49,7 +49,7 @@ GOAT allows you to integrate your own external layers. With a huge selection of 
 
 ##### 2 Import a layer via URL
 
-1. You can add a layer by using your own url. Paste the URL for your layer in the field "source url" and click "add". A source URL for Freiburg is utilized in this illustration.
+1. You can add a WMS layer by using your own url. Paste the URL for your layer in the field "source url" and click "add". A source URL for Freiburg is utilized in this illustration.
 
 <img src="/images/tutorials/External-layers/external-layer5-url-en.webp" alt="external layer8" style="max-height:400px;"/>
 

@@ -11818,6 +11818,7 @@ a {
   opacity: 1; }
 
 .video_wrapper {
+  margin: 0 40px;
   width: 800px; }
   .video_wrapper iframe {
     border-radius: 20px; }

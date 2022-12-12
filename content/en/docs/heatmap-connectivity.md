@@ -10,7 +10,6 @@ Different indicators serve as benchmarks for street connectivity and local acces
 
 <img src="\images\docs\technical_documentation\connectivity\connectivity_en_2.webp" alt="GOAT connectivity heatmap" style="max-height:380px;"/>
 
-![GOAT connectivity heatmap](/images/docs/technical_documentation/connectivity/connectivity_en.webp "GOAT connectivity heatmap")
 
 #### Calculation
 

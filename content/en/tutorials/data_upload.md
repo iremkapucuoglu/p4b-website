@@ -70,6 +70,7 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 
 <img src="/images/tutorials/Data_upload/data_upload1_en.webp" alt="Select POI category" style="max-height:200px;"/>
 
+
 5. Click on "Browse your files".
    
 <img src="/images/tutorials/Data_upload/browse_files_en.webp" alt="Upload file" style="max-height:200px;"/>

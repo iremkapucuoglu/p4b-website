@@ -13,15 +13,15 @@ translationKey = "map4citizens"
 +++
 ## Map4Citizens
 
-In Zusammenarbeit mit dem[ TUM-Lehrstuhl für Stadtstruktur und Verkehrsplanung](https://www.mos.ed.tum.de/sv/startseite/ "Lehrstuhl für Stadtstruktur und Verkehrsplanung") und [Humankind](https://www.humankind.city/ "Humankind") freuen wir uns, die Veröffentlichung der Beta-Version einer neuen Anwendung bekannt zu geben: Map4Citizens.
+In Zusammenarbeit mit dem[ TUM-Lehrstuhl für Stadtstruktur und Verkehrsplanung](https://www.mos.ed.tum.de/sv/startseite/ "Lehrstuhl für Stadtstruktur und Verkehrsplanung") und [Humankind](https://www.humankind.city/ "Humankind") freuen wir uns, die Veröffentlichung der Beta-Version einer neuen Planungssoftware bekannt zu geben: Map4Citizens.
 
 Map4Citizens wird von [EIT Urban Mobility](https://www.eiturbanmobility.eu/ "EIT Urban Mobility") unterstützt, einer Initiative des European Institute of Innovation & Technology (EIT), einer Einrichtung der Europäischen Union.
 
-Innerhalb eines dreimonatigen Projekts wollten wir die Kluft zwischen Bürgern und Planern überbrücken, indem wir Daten öffnen und zuverlässige und leicht verständliche Stadt- und Mobilitätsanalysen für jedermann bereitstellen. Im Rahmen unseres Projekts entwickelten wir eine mobilfähige, webbasierte Anwendung, mit der sich die Nutzer schnell einen Überblick über wichtige mobilitätsbezogene Parameter in ihrer Stadt und ihrem Viertel verschaffen können. Das war die Geburtsstunde von Map4Citizens.
+Innerhalb eines dreimonatigen Projekts wollten wir die Kluft zwischen Bürger:innen und Planer:innen überbrücken, indem wir Daten öffnen und zuverlässige und leicht verständliche Stadt- und Mobilitätsanalysen für jedermann bereitstellen. Im Rahmen unseres Projekts entwickelten wir eine mobilfähige, webbasierte Anwendung, mit der sich die Nutzer:innen schnell einen Überblick über wichtige mobilitätsbezogene Parameter in ihrer Stadt und ihrem Viertel verschaffen können. So entstand die Idee zu Map4Citizens.
 
 ## Der Entwicklungsprozess
 
-Das im Oktober 2022 gestartete Projekt untersuchte die materielle Lücke zwischen den Informationen, die den Planern zur Verfügung stehen, und den Informationen, die die Bürger erhalten, sowie die kognitive Lücke und die Relevanzlücke zwischen Daten und Bürgern.
+Das im Oktober 2022 gestartete Projekt untersuchte die materielle Lücke zwischen den Informationen, die den Planer:innenn zur Verfügung stehen, und den Informationen, die die Bürger:innen erhalten, sowie die kognitive Lücke und die Relevanzlücke zwischen Daten und Bürgern.
 
 Obwohl zahlreiche Städte ihren Einwohnern eine Art CitizenGIS zur Verfügung stellen, mangelt es ihnen in der Regel an Informationen über Mobilitätsoptionen und lokale Erreichbarkeit - die für die Förderung einer nachhaltigen Mobilität von großer Bedeutung sind.
 

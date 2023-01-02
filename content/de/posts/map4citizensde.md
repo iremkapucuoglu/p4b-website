@@ -49,17 +49,17 @@ Die Anwendung ist rund um das Konzept der 15-Min-Stadt gestaltet und verfügt ü
 
 _Abbildung 2: Map4Citizens_
 
-Jetzt sind Sie dran! Wie sehr erfüllt Ihre Nachbarschaft Ihre Bedürfnisse? Egal, ob Sie ein Stadtplanungsprofi oder ein Einwohner sind, Sie können sich mit einem einfachen Klick einen Überblick über die Mobilitäts- und Erreichbarkeitsmöglichkeiten in Ihrer Stadt verschaffen.
+Jetzt sind Sie dran! Wie sehr erfüllt Ihre Nachbarschaft Ihre Bedürfnisse? Egal, ob Sie ein Stadtplanungsprofi oder ein Einwohner sind, Sie können sich mit einem einfachen [Klick ](https://citizens.plan4better.de/ "Map4Citizens")einen Überblick über die Mobilitäts- und Erreichbarkeitsmöglichkeiten in Ihrer Stadt verschaffen.
 
 Haben Sie Interesse, Pilotpartner zu werden?
 
-Ziel ist es, diese Beta-Version zu einem multifunktionalen CitizenGIS weiterzuentwickeln, das Kommunen, Landkreisen und anderen Behörden weltweit als Software-as-a-Service angeboten werden kann - und allen Bürgern zur Verfügung steht. Um die Anwendung nach den Wünschen und Bedürfnissen der Städte zu gestalten, suchen wir derzeit nach Pilotpartnern. Wenn Sie Interesse haben, nehmen Sie einfach Kontakt mit uns auf!
+Ziel ist es, diese Beta-Version zu einem multifunktionalen CitizenGIS weiterzuentwickeln, das Kommunen, Landkreisen und anderen Behörden weltweit als Software-as-a-Service angeboten werden kann - und allen Bürgern zur Verfügung steht. Um die Anwendung nach den Wünschen und Bedürfnissen der Städte zu gestalten, suchen wir derzeit nach Pilotpartnern. Wenn Sie Interesse haben, nehmen Sie einfach [Kontakt](/kontakt/ "Kontaktieren Sie uns") mit uns auf!
 
 Dankeschön!
 
 Vielen Dank an all die engagierten Bürgerinnen und Bürger, die an unseren Workshops und Usability-Tests teilgenommen haben!
 
-Vielen Dank auch an das gesamte Projektteam für den großen Einsatz: Dem Team der TUM, unter der Leitung von Dr.-Ing. Benjamin Büttner, für die Konzeption und Forschung; dem Humankind Collective, unter der Leitung von Lior Steinberg, für die Bürgerbeteiligung und das UI/UX-Design; und der Unterstützung von EIT Urban Mobility.
+Vielen Dank auch an das gesamte Projektteam für den großen Einsatz: Dem Team der TUM, unter der Leitung von [Dr.-Ing. Benjamin Büttner](https://www.linkedin.com/in/benjamin-b%C3%BCttner-3432ba52/ "Dr.-Ing. Benjamin Büttner auf Linkedin "), für die Konzeption und Forschung; dem Humankind Collective, unter der Leitung von [Lior Steinberg](https://www.linkedin.com/in/liorsteinberg/ "Lior Steinberg"), für die Bürgerbeteiligung und das UI/UX-Design; und der Unterstützung von EIT Urban Mobility.
 
 ![](/images/blog/map4citizens/eit.webp)
 

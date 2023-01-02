@@ -15,6 +15,10 @@ GOAT allows you to develop your own scenarios, such as network modifications or 
 * How does the construction of a new bicycle bridge across the river change accessibility?
 * Which variation of a new bike path provides access to the highest number of residents?
 
+#### Video Tutorial
+
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/754212535" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+
 #### Step-by-step tutorial for the exemplary planning task
 
 ##### 1 Scenario for a new bicycle bridge

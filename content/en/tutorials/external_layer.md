@@ -16,6 +16,9 @@ GOAT allows you to integrate your own external layers. With a huge selection of 
 * Adding layers with additional information, such as the broadband mobile communities 5G, from Geoportal as external layer.
 * Adding individual basemaps for your analyses.
 
+#### Video Tutorial
+
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/754248730" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 #### Step-by-step tutorials to work with external layers
 

@@ -16,6 +16,10 @@ GOAT allows you to develop your own location planning scenarios, for example, ad
 * How does accessibility to schools change when a new school is added?
 * How well are the kindergartens distributed throughout the city? Where would be a good location for a new kindergarten?
 
+#### Video Tutorial
+
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/754586552" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+
 #### Step-by-step tutorial for the exemplary planning task
 
 ##### 1 Scenario on accessibility to kindergartens

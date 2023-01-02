@@ -1,14 +1,14 @@
 +++
 author = ""
 categories = []
-date = ""
-description = ""
+date = 2023-01-01T23:00:00Z
+description = "In einem 3-monatigen Sprint haben wir eine neue Anwendung entwickelt: Map4Citizens. Probieren Sie es jetzt aus und prüfen Sie, wie gut Ihr Standort in München Ihren Bedürfnissen entspricht. Haben Sie Interesse, dieses Tool auch für Ihre Stadt zu bekommen? Nehmen Sie einfach Kontakt mit uns auf!"
 draft = true
 image = ""
-summary = ""
+summary = "In einem 3-monatigen Sprint haben wir eine neue Anwendung entwickelt: Map4Citizens. Probieren Sie es jetzt aus und prüfen Sie, wie gut Ihr Standort in München Ihren Bedürfnissen entspricht. Haben Sie Interesse, dieses Tool auch für Ihre Stadt zu bekommen? Nehmen Sie einfach Kontakt mit uns auf!"
 thumbnail = ""
 title = "Map4Citizens"
-translationKey = ""
+translationKey = "map4citizens"
 
 +++
 # Map4Citizens

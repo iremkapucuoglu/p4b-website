@@ -16,6 +16,9 @@ GOAT ermöglicht es Ihnen, eigene externe Layer zu integrieren. Mit einer breite
 * Hinzufügen von Layern mit zusätzlichen Informationen aus dem Geoportal, wie z.B. dem 5G Breitband-Mobilfunknetz 
 * Hinzufügen von individuellen Basiskarten für Ihre Analysen.
 
+#### Video Tutorial
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/755032628" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+
 #### Schritt-für-Schritt-Anleitung für das Hinzufügen eigener Layer
 
 ##### 1 Auswählen eines vordefinierten Layers aus dem Geoportal

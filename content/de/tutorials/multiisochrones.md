@@ -17,6 +17,9 @@ GOAT ermöglicht die Berechnung von Multi-Isochronen. In Verbindung mit Bevölke
 * Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadtteilen gibt es Erreichbarkeitsdefizite?
 * Wie viele Bewohner:innen können in einer bestimmten Reisezeit mit dem Fahrrad eine ÖV-Haltestelle erreichen?
 
+#### Video Tutorial
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/753891610" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+
 #### Schritt-für-Schritt-Anleitung für eine beispielhafte Planungsaufgabe
 
 #### 1 Erreichbarkeit von Supermärkten

@@ -21,7 +21,7 @@ Innerhalb eines dreimonatigen Projekts wollten wir die Kluft zwischen Bürger:in
 
 ## Der Entwicklungsprozess
 
-Das im Oktober 2022 gestartete Projekt untersuchte die materielle Lücke zwischen den Informationen, die den Planer:innenn zur Verfügung stehen, und den Informationen, die die Bürger:innen erhalten, sowie die kognitive Lücke und die Relevanzlücke zwischen Daten und Bürgern.
+Das im Oktober 2022 gestartete Projekt untersuchte die materielle Lücke zwischen den Informationen, die den Planer:innenn zur Verfügung stehen, und den Informationen, die die Bürger:innen erhalten, sowie die kognitive Lücke und die Relevanzlücke zwischen Daten und Bürger:innen.
 
 Obwohl zahlreiche Städte ihren Einwohner:innen eine Art CitizenGIS zur Verfügung stellen, mangelt es ihnen in der Regel an Informationen über Mobilitätsoptionen und lokale Erreichbarkeit - welche für die Förderung einer nachhaltigen Mobilität von großer Bedeutung sind.
 

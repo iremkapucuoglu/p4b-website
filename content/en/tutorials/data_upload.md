@@ -10,18 +10,17 @@ description: Step-by-step tutorial for uploading POI data
 #### Description of the feature
 In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provided by default. If you wish to integrate further POI data sets into GOAT, you can do so via the "Upload" function. In this tutorial you can see how to create your own POI layer by using QGIS and integrate it in GOAT. 
 
-#### Step-by-step guideline for creating your own Point of Interest data set
+#### Step-by-step guideline for creating your own Points-of-Interest data set
 
-1. You can create your own point data from QGIS and upload it to GOAT. For this, you must create a new geopackage layer from the windows shown in the figure. It is recommended to use the GeoPackage layer because it can then be easily exported as a shapefile or .
+1. You can create your own point data from QGIS and upload it to GOAT. For this, you must create a new geopackage layer from the windows shown in the figure. It is recommended to use the GeoPackage layer because it can then be easily exported as a shapefile.
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload10_en.webp" alt="Data Upload" style="max-height:400px;"/>
-
 
 2. After specifying where to save the file and its name, you can add the column names you want to be in the attribute table of the dataset from the new field section.
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload2_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
-3. To add point data for your table, make sure you activated the "toggle editing mode". 
+3. To add point data to your dataset, make sure you activated the "editing mode". 
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload3_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
@@ -33,7 +32,7 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload6_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
-6. After adding your point data, fill in its properties(category,name,street,zipcode etc.). Once you click "OK", the point will be added.
+6. After adding your point data, fill in its properties(category, name, street, zipcode etc.). Once you click "OK", the point will be added.
 
 <img src="\images\tutorials\Data_upload\qgis_data_upload5_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
@@ -87,5 +86,3 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 8. Switch to the menu "Filter Thematic Data", there your new data set is marked with a green dot. By clicking the checkbox, the layer is loaded into the map and you can see your uploaded data. 
 
 <img src="/images/tutorials/Data_upload/thematic_filter_en.webp" alt="Filter thematic data" style="max-height:400px;"/>
-
-[def]: images\docs\about\server_client_arch.webp

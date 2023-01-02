@@ -15,11 +15,12 @@ Die effiziente Interaktion der verschiedenen Software in GOAT wird durch die bel
 
 Auf diese Weise können Informationen in geeigneter Weise abgerufen, verwaltet und aktualisiert werden. Die PostgreSQL-Datenbank wird in Verbindung mit der räumlichen Erweiterung PostGIS verwendet.
 
-![Genutzte Libraries](/images/docs/about/libraries.webp)
-
 Als API wird ein Python Server unter Nutzung des Framworks FastAPI verwendet. So werden Schnittstellen für Geodienste bereitgestellt. Es werden verschiedene Formate unterstützt. Neben dem GeoJSON format werden auch komprimierte Formate wie Geobuf oder Vector tiles verwendet, die eine schnelle Ladezeit im Frontend ermöglichen. Neben den Geodiensten gibt es mehrere Schnittstellen, die für die Business-Logik der Anwendung relevant sind. 
 
-![Server-Client-Architektur](/images/docs/about/server_client_arch.webp)
+![Server-Client-Architektur](/images/docs/about/server_client.webp)
 
-Das Frontend ist mit dem üblichen Webstack (HTML, CSS, JavaScript) geschrieben. Als Javascript-Framework wird Vue.JS und als räumliche Bibliothek Openlayers verwendet. Auf der Serverseite werden PostgreSQL und PostGIS zur Verwaltung von Geodaten verwendet, und die Conveyal-R5-Engine wird zur Durchführung von Fahrtenanalysen für den öffentlichen Verkehr eingesetzt.
+Die üblichen Web-Stack-Anwendungen wie HTML, CSS und JavaScript bilden das Frontend. Um grafische Benutzeroberflächen für Webanwendungen mit HTML-Syntax zu erstellen, wird Vue.JS als Javascript-Framework eingesetzt, während Openlayers als Geospatial-Bibliothek für die Verarbeitung von Vektordaten verwendet wird.
+
+Auf der Serverseite werden PostgreSQL und PostGIS zur Verwaltung von Geodaten verwendet, und die Conveyal-R5-Engine wird zur Durchführung von Fahrtenanalysen für den öffentlichen Verkehr eingesetzt.
+
 Die gesamte Software, die in GOAT verwendet wird, ist Open Source und hat eine starke weltweite Akzeptanz und Reputation in der Community. 

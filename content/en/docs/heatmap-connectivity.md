@@ -6,7 +6,7 @@ sections:
 weight: 60
 ---
 
-Different indicators serve as benchmarks for street connectivity and accessibility of local amenities for planning walking infrastructure. One of these indicators is described as a connectivity heatmap. The connectivity heatmap in GOAT allows the user to understand the degree of street network connectivity in the study area. This is especially important for promoting active modes (i.e. walking and cycling), as these modes are sensitive to detours.
+Different indicators serve as benchmarks for street connectivity and local accessibility for planning walking- and cycling-friendly neighborhoods. One of these indicators is a connectivity heatmap. The connectivity heatmap in GOAT allows the user to understand the degree of street network connectivity in the study area. This is especially important for promoting active modes (i.e. walking and cycling), as these modes are sensitive to detours.
 
 
 #### Calculation
@@ -37,6 +37,14 @@ _Figure 2: Heatmap of Connectivity Indicator in GOAT_
 
 
 
+
+
+
+Three isochrones (5, 10, and 15 min) are pre-computed using the centroid as a starting point for each grid cell. The size in m² of all three isochrones is summarized per cell:
+<i>(average_reached_area = (isochrone1_area + isochrone2_area + isochrone3_area) / 3)</i>
+and compared with all other cells using statistical quintiles. 
+
+The grids are colored from high (green) to low connectivity (red). Changes in the street network are reflected by recomputing parts of the heatmap and updating the statistical classification. 
 
 
 

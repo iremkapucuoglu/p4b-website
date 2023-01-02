@@ -8,7 +8,48 @@ description: Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-
 
 ---
 #### Beschreibung des Features
-In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-of-Interest (POIs) bereitgestellt. Falls Sie weitere POI-Datensätze in GOAT integrieren möchten, können Sie dies über die „Hochladen“ Funktion tun. Insgesamt stehen jedem Nutzer hierfür 500 MB Speicherplatz zur Verfügung. 
+In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-of-Interest (POIs) bereitgestellt. Falls Sie weitere POI-Datensätze in GOAT integrieren möchten, können Sie dies über die Funktion "Hochladen" tun. In diesem Tutorial sehen Sie, wie Sie mit QGIS Ihren eigenen POI-Layer erstellen und in GOAT integrieren. 
+#### Anleitung zur Erstellung eines eigenen Point-of-Interest-Datensatzes
+
+1. Sie können Ihren eigenen Punktdatensatz in QGIS erstellen und in GOAT hochladen. Dazu müssen Sie einen neuen GeoPackage-Layer aus den in der Abbildung gezeigten Fenstern erstellen. Es empfiehlt sich, den GeoPackage-Layer zu verwenden, da er sich leicht als Shapefile exportieren lässt.
+
+<img src="\images\tutorials\Data_upload\qgis_data_upload10_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
+2. Nachdem Sie den Speicherort und den Namen der Datei festgelegt haben, können Sie die Spaltennamen, die in der Attributtabelle des Datensatzes enthalten sein sollen, im Abschnitt "Neue Felder" hinzufügen.
+   
+<img src="\images\tutorials\Data_upload\qgis_data_upload2_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
+3. Um Punktdaten zu Ihrer Tabelle hinzuzufügen, aktivieren Sie den "Bearbeitungsmodus". 
+
+<img src="\images\tutorials\Data_upload\qgis_data_upload3_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
+4. Nun können Sie neue Punkte über die Funktion "Punkt hinzufügen" hinzufügen.
+
+<img src="\images\tutorials\Data_upload\qgis_data_upload4_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
+5. Sie können einen Punkt erstellen, indem Sie in die Karte hineinzoomen und auf den entsprechenden Standort klicken.
+
+<img src="\images\tutorials\Data_upload\qgis_data_upload6_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
+6. Nachdem Sie Ihre Punktdaten hinzugefügt haben, geben Sie deren Attribute ein (Kategorie, Name, Straße, Postleitzahl usw.). Durch klicken auf "OK" bestätigen Sie ihre Eingabe.
+
+<img src="\images\tutorials\Data_upload\qgis_data_upload5_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
+7. Nachdem Sie Ihre Punkte hinzugefügt haben, können Sie über die Attributtabelle auf sie zugreifen und sie bearbeiten.
+
+<img src="\images\tutorials\Data_upload\qgis_data_upload7_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
+8. Sie können die Punktdaten, die Sie erstellt haben, als Shapefile oder GeoJSON exportieren. Klicken Sie dazu mit der rechten Maustaste auf den Layer und wählen Sie "Feature speichern unter". 
+
+<img src="\images\tutorials\Data_upload\qgis_data_upload8_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
+9. Um den Layer als Shapefile zu exportieren, wählen Sie im Bereich "Format" die Option "Shapefile" und klicken Sie auf "OK".
+
+<img src="\images\tutorials\Data_upload\qgis_data_upload9_en.webp" alt="Data Upload" style="max-height:400px;"/>
+
+10. Um den Layer als GeoJSON zu exportieren, wählen Sie im Bereich "Format" die Option "GeoJSON" und klicken Sie auf "OK".
+
+<img src="\images\tutorials\Data_upload\qgis_data_upload10_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
 #### Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-Interest-Datensätze
 
@@ -17,7 +58,6 @@ In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-
 <img src="/images/tutorials/Data_upload/user-data-upload.webp" alt="Datenupload" style="max-height:400px;"/>
 
 2. Bereiten Sie die POI Daten als GeoJSON- oder Shapefile-Datei vor. Im Interface stehen Ihnen Templates hierzu bereit. Falls Sie mehrere POI Kategorien (z.B. Jugendzentren, Bikesharing-Stationen) hochladen möchten, dann erstellen Sie je Kategorie eine eigene Datei (d.h. in diesem Beispiel eine GeoJSON Datei mit den Jugendzentren und eine GeoJSON Datei mit den Bikesharing-Stationen). 
-
 
 3. Klicken Sie auf das Plus-Symbol.
 

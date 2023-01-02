@@ -10739,7 +10739,7 @@ a {
   font-size: 0px;
   top: 50%;
   margin-top: -14px;
-  z-index: 11; }
+  z-index: 12; }
 
 .discover-slider .slick-arrow.slick-prev {
   background-image: url(/images/discover-arr-left.png);
@@ -11755,5 +11755,110 @@ a {
 .share {
   margin-top: 5px;
   color: #2BB381; }
+
+.slideshow {
+  position: relative; }
+  .slideshow__slide {
+    padding: 0 2px; }
+  .slideshow .slick-arrow {
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    color: transparent;
+    position: absolute;
+    z-index: 9999;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 30px;
+    width: 30px;
+    padding: 0; }
+    .slideshow .slick-arrow::before {
+      content: "";
+      height: 4px;
+      background: white;
+      width: 100%;
+      display: block;
+      position: absolute;
+      top: 50%;
+      width: 200%;
+      transform: translateY(-50%); }
+    .slideshow .slick-arrow::after {
+      content: "";
+      border-left: 4px solid white;
+      border-top: 4px solid white;
+      border-radius: 4px;
+      width: 100%;
+      height: 100%;
+      display: block;
+      position: absolute;
+      top: -2px;
+      transform: translateY(-50%); }
+  .slideshow .slick-prev {
+    left: 5%;
+    z-index: 10000; }
+    .slideshow .slick-prev::before {
+      left: -4px; }
+    .slideshow .slick-prev::after {
+      left: 0;
+      transform: rotate(-45deg); }
+  .slideshow .slick-next {
+    right: 5%;
+    z-index: 10000; }
+    .slideshow .slick-next::before {
+      right: -4px; }
+    .slideshow .slick-next::after {
+      right: 0;
+      transform: rotate(135deg); }
+
+/* the slides */
+.slick-slide {
+  opacity: 0.4; }
+
+.slick-active {
+  opacity: 1; }
+
+.video_wrapper {
+  margin: 0 40px;
+  width: 800px; }
+  .video_wrapper iframe {
+    border-radius: 20px; }
+
+@media only screen and (max-width: 800px) {
+  .video_wrapper {
+    width: 400px; } }
+
+button {
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  border-radius: 0;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none; }
+
+.slide-arrow {
+  position: absolute;
+  top: 50%;
+  margin-top: -15px; }
+
+.prev-arrow {
+  left: -40px;
+  width: 0;
+  height: 0;
+  border-left: 0 solid transparent;
+  border-right: 15px solid #113463;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent; }
+
+.next-arrow {
+  right: -40px;
+  width: 0;
+  height: 0;
+  border-right: 0 solid transparent;
+  border-left: 15px solid #113463;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent; }
 
 /*# sourceMappingURL=main.css.map */

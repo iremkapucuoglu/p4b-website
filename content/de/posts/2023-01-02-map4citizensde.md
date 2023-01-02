@@ -45,6 +45,8 @@ Die Anwendung ist rund um das Konzept der 15-Min-Stadt gestaltet und verfügt ü
 * Umweltinformationen: Zusätzliche Ebenen wie Lärmpegel, Bevölkerungsdichte und Flächennutzung.
 * ÖV-Güteklassen: Zeigt anhand eines stadtweiten Indikators an, wie gut das Angebot an öffentlichen Verkehrsmitteln ist.
 
+![](/images/blog/map4citizens/Mockups blog post.webp)
+
 _Abbildung 2: Map4Citizens_
 
 Jetzt sind Sie dran! Wie sehr erfüllt Ihre Nachbarschaft Ihre Bedürfnisse? Egal, ob Sie ein Stadtplanungsprofi oder ein:e Einwohner:in sind, Sie können sich mit einem einfachen [Klick ](https://citizens.plan4better.de/ "Map4Citizens")einen Überblick über die Mobilitäts- und Erreichbarkeitsmöglichkeiten in Ihrer Stadt verschaffen.

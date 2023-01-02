@@ -29,11 +29,11 @@ In einer Phase der Bürgerbeteiligung bestätigten die Teilnehmer:innen des Work
 
 ![/images/blog/map4citizens/workshop.webp](https://app.forestry.io/sites/cn-hdrhu1af3oa/body-media//images/blog/map4citizens/workshop.webp)
 
-_Abbildung 1: Verstehen der Bedürfnisse und Wünsche der Bürger_
+_Abbildung 1: Bedürfnisse und Wünsche der Bürger:innen verstehen_
 
 Nachdem wir die Wünsche und Bedürfnisse der Bürger:innen untersucht hatten, entwickelten wir sorgfältig ein Anwendungskonzept und begannen sofort mit der Entwicklung der ersten Alpha-Version. In einer Usability-Testphase erhielten wir sehr wertvolles Feedback und jede Menge Input für einen finalen Entwicklungssprint.
 
-Jetzt freuen wir uns, dass die Beta-Version für München online ist und von den Bürger:innen genutzt werden kann: [https://citizens.plan4better.de/.](https://citizens.plan4better.de/. "https://citizens.plan4better.de/.")
+Jetzt freuen wir uns, dass die Beta-Version für München online ist und von den Bürger:innen genutzt werden kann: [https://citizens.plan4better.de/](https://citizens.plan4better.de/. "https://citizens.plan4better.de/.").
 
 ## Funktionalitäten
 

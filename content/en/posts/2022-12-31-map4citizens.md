@@ -4,7 +4,7 @@ categories:
 - news
 - projects
 - development
-date: 2022-12-28T23:00:00.000+00:00
+date: 2022-12-31T10:00:00.000+00:00
 description: 'In a 3-month sprint we developed a new application: Map4Citizens. Try
   it out now and check how well your location in Munich meets your needs. Interested
   in also getting this tool for your city? Just get in contact with us!'

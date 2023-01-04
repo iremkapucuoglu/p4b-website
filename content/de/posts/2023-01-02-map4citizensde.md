@@ -45,7 +45,7 @@ Die Anwendung ist rund um das Konzept der 15-Min-Stadt gestaltet und verfügt ü
 * **Isochronen:** Berechnung von Einzugsgebieten mit verschiedenen Verkehrsmitteln (zu Fuß, mit dem Fahrrad, mit dem Öffentlichen Verkehr).
 * **POIs:** Visualisierung von Points-of-Interest (POIs), wie Supermärkte, Schulen und Freizeitmöglichkeiten.
 * **Umweltinformationen:** Zusätzliche Layer wie Lärmpegel, Bevölkerungsdichte und Flächennutzung.
-* **ÖV-Güteklassen:** Zeigt anhand eines stadtweiten Indikators an, wie gut das Angebot an öffentlichen Verkehrsmitteln ist.
+* **[ÖV-Güteklassen](/docs/oev_gueteklasse/ "Info zu ÖV-Güteklassen"):** Zeigt anhand eines stadtweiten Indikators an, wie gut das Angebot an öffentlichen Verkehrsmitteln ist.
 
 ![Screenshots BürgerGIS](/images/blog/map4citizens/Mockups.webp "BürgerGIS")
 

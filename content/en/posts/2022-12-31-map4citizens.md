@@ -44,11 +44,11 @@ Now, are happy to announce that the beta-version is online for Munich and ready 
 
 The application is shaped all around the concept of the 15-min-city and comes with multiple functionalities:
 
-* **15-Min-Score:** Tailored on first access, the user picks how long they'd maximum like to travel specific locations. The personalized score shows how well the cities meets those needs.
-* **Isochrones:** Calculation of catchment areas with different modes (walking, cycling, transit).
-* **POIs:** Visualization of Points-of-Interest (POIs), such as supermarkets, schools and leisure options.
-* **Environmental information:** Additional layers such as noise levels, population density, and land use.
-* **Public transport quality classes (German:** [**ÖV-Güteklassen**](/en/docs/oev_gueteklasse/)**):** Shows on a city-wide indicator, how good the public transport supply is.
+- **15-Min-Score:** Tailored on first access, the user picks how long they'd maximum like to travel specific locations. The personalized score shows how well the cities meets those needs.
+- **Isochrones:** Calculation of catchment areas with different modes (walking, cycling, transit).
+- **POIs:** Visualization of Points-of-Interest (POIs), such as supermarkets, schools and leisure options.
+- **Environmental information:** Additional layers such as noise levels, population density, and land use.
+- **Public transport quality classes (German: [ÖV-Güteklassen](/en/docs/oev_gueteklasse/ "About ÖV-Güteklassen")):** Shows on a city-wide indicator, how good the public transport supply is.
 
 ![Screenshots CitizenGIS](/images/blog/map4citizens/Mockups.webp "CitizenGIS")
 _Figure 2: Map4Citizens_

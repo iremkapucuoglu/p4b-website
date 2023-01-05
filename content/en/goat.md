@@ -63,7 +63,7 @@ sections:
   - order: 3
     goat_abo_section:
       heading: 'GOAT Subscription'
-      text: 'The GOAT subscription allows you to compose GOAT individually, tailored to your needs. Pricing is based on the selected area and number of inhabitants. Can be booked from as little as 3,000 € / year.'
+      text: 'The GOAT subscription allows you to compose GOAT individually, tailored to your needs. Pricing is based on the selected area and number of inhabitants. Can be booked from as little as 3,000 € / year excl. VAT.'
 
   - order: 4
     question_section:

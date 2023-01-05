@@ -10,7 +10,9 @@ description: Step-by-step guide for how to use the multi-isochrones feature in G
 ---
 #### Description of the feature
 
-GOAT enables the calculation of multi-isochrones, which show how many residents from a certain neighbourhood have access to a facility (e.g. supermarket, kindergarten, public transport stop) in a certain travel time. This is particularly useful for comparing different neighborhoods in terms of accessibility to identify potential differences.
+GOAT enables the calculation of multi-isochrones, which show how many residents from a certain neighbourhood have access to a facility (e.g. supermarket, kindergarten, public transport stop) in a certain travel time. The significant difference between multi-isochrone and single-isochrone is that multi-isochrone allows you to choose several starting points within a certain time interval and compute catchment areas. Additionally, you can also compare various activity results within isochrones. This is particularly useful for comparing different neighborhoods in terms of accessibility to identify potential differences.
+
+
 
 #### Possible use cases (planning questions)
 

@@ -16,6 +16,10 @@ GOAT allows the development of personalized scenarios for changes in the buildin
 * Is the population in a new residential area served with the everyday necessities?
 * Where is the potential for further settlement development?
 
+#### Video Tutorial
+
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/754585702" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+
 #### Step-by-step tutorial for the exemplary planning task
 
 ##### 1 Scenario on new residential development

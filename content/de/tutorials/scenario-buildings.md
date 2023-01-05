@@ -14,6 +14,8 @@ GOAT ermöglicht Veränderungen in der Bebauung, wie z.B. die Errichtung eines n
 - Wie verändert die Errichtung eines neuen Wohngebietes die Erreichbarkeit zu Kindergärten in einer bestimmten Nachbarschaft?
 - Ist die Bevölkerung in einem neuen Wohngebiet mit den Zielen des täglichen Bedarfs erschlossen?
 - Wo bestehen Potenziale für die weitere Siedlungsentwicklung?
+#### Video Tutorial
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/759823759" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 #### Schritt-für-Schritt-Anleitung für eine beispielhafte Planungsaufgabe
 #### 1 Szenario zu neuer Wohnbebauung

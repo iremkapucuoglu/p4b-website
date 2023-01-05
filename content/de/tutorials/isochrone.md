@@ -18,6 +18,10 @@ description: Schritt-für-Schritt-Anleitung für beispielhafte Planungsfragen un
 * Wie viele Menschen können eine ÖV-Haltestelle innerhalb von 5 Minuten mit dem Fahrrad erreichen?
 * Wie viele Personen können einen bestimmten Ort innerhalb von 20 Minuten mit schienengebundenen öffentlichen Verkehrsmitteln (Straßenbahn, U-Bahn, Zug) erreichen?
 
+#### Video Tutorial
+
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/311547681" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+
 #### Schritt-für-Schritt-Anleitung für die beispielhaften Planungsaufgaben
 
 #### 1 Fußläufige Erreichbarkeit von Supermärkten

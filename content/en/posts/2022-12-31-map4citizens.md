@@ -4,7 +4,7 @@ categories:
 - news
 - projects
 - development
-date: 2022-12-28T23:00:00.000+00:00
+date: 2022-12-31T10:00:00.000+00:00
 description: 'In a 3-month sprint we developed a new application: Map4Citizens. Try
   it out now and check how well your location in Munich meets your needs. Interested
   in also getting this tool for your city? Just get in contact with us!'
@@ -44,13 +44,13 @@ Now, are happy to announce that the beta-version is online for Munich and ready 
 
 The application is shaped all around the concept of the 15-min-city and comes with multiple functionalities:
 
-* **15-Min-Score:** Tailored on first access, the user picks how long they'd maximum like to travel specific locations. The personalized score shows how well the cities meets those needs.
-* **Isochrones:** Calculation of catchment areas with different modes (walking, cycling, transit).
-* **POIs:** Visualization of Points-of-Interest (POIs), such as supermarkets, schools and leisure options.
-* **Environmental information:** Additional layers such as noise levels, population density, and land use.
-* **Public transport quality classes (German:** [**ÖV-Güteklassen**](/en/docs/oev_gueteklasse/)**):** Shows on a city-wide indicator, how good the public transport supply is.
+- **15-Min-Score:** Tailored on first access, the user picks how long they'd maximum like to travel specific locations. The personalized score shows how well the cities meets those needs.
+- **Isochrones:** Calculation of catchment areas with different modes (walking, cycling, transit).
+- **POIs:** Visualization of Points-of-Interest (POIs), such as supermarkets, schools and leisure options.
+- **Environmental information:** Additional layers such as noise levels, population density, and land use.
+- **Public transport quality classes (German: [ÖV-Güteklassen](/en/docs/oev_gueteklasse/ "About ÖV-Güteklassen")):** Shows on a city-wide indicator, how good the public transport supply is.
 
-![](/images/blog/map4citizens/Mockups blog post.webp)
+![Screenshots CitizenGIS](/images/blog/map4citizens/Mockups.webp "CitizenGIS")
 _Figure 2: Map4Citizens_
 
 Now it's your turn! How much does your neighborhood fulfill your needs? Whether you are a city planning pro or a resident, you get to see your cities mobility and local accessibility options with a simple [click](https://citizens.plan4better.de/ "Visit Map4Citizens").
@@ -61,7 +61,7 @@ The aim is to develop this beta-version further into a multi-functional CitizenG
 
 ## Thanks!
 
-Many thanks to all the highly engaged citizens who participated in our workshops and usability tests!
+Many thanks to all the highly engaged citizens and practitioners who participated in our workshops and usability tests!
 Thanks as well to the whole project team for the high efforts: TUM's team, led by [Dr.-Ing. Benjamin Büttner](https://www.linkedin.com/in/benjamin-b%C3%BCttner-3432ba52/), on conceptualization and research; Humankind Collective, led by [Lior Steinberg](https://www.linkedin.com/in/liorsteinberg/), on citizen engagement and UI/UX design; and the support from EIT Urban Mobility.
 
 ![EIT Urban Mobility](/images/blog/map4citizens/eit.webp "EIT Urban Mobility")

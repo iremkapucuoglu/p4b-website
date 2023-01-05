@@ -16,6 +16,9 @@ GOAT ermöglicht die Entwicklung eigener Szenarien zur Standortplanung, so kann 
 * Wie verändert sich die Erreichbarkeit zu Schulen, wenn eine neue Schule hinzugefügt wird?
 * Wie gut sind die Kindergärten über die Stadt verteilt? Wo wäre eine gute Position für einen neuen Kindergarten?
 
+#### Video Tutorial
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/411721219" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+
 #### Schritt-für-Schritt-Anleitung für eine beispielhafte Planungsaufgabe
 
 ##### 1 Szenario zum Bau eines neuen Kindergartens

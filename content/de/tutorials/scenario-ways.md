@@ -15,6 +15,9 @@ GOAT ermöglicht die Entwicklung eigener Szenarien, wie z.B. der Modifikation de
 * Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke über einen Fluss?
 * Welche Variante eines neuen Radweges erschließt die höchste Anzahl an Anwohnern?
 
+#### Video Tutorial
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/759803197" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+
 #### Schritt-für-Schritt-Anleitung für eine beispielhafte Planungsaufgabe
 
 #### 1 Szenario zu neuer Fahrradbrücke

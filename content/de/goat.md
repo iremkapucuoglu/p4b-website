@@ -63,7 +63,7 @@ sections:
   - order: 3
     goat_abo_section:
       heading: 'GOAT Abo'
-      text: 'Das GOAT-Abo ermöglicht Ihnen die individuelle Zusammensetzung von GOAT, zugeschnitten auf Ihre Bedürfnisse. Die Preisgestaltung richten sich nach der gewählten Gebietsgröße und der Einwohnerzahl. Schon ab 3.000 € / Jahr buchbar.'
+      text: 'Das GOAT-Abo ermöglicht Ihnen die individuelle Zusammensetzung von GOAT, zugeschnitten auf Ihre Bedürfnisse. Die Preisgestaltung richten sich nach der gewählten Gebietsgröße und der Einwohnerzahl. Schon ab 3.000 € / Jahr zzgl. MWSt buchbar.'
 
   - order: 4
     question_section:

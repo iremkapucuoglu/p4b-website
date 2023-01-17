@@ -1,7 +1,7 @@
 ---
 title: Add External Layers
 permalink: "/tutorials/external-layers/"
-weight: 60
+weight: 70
 sections:
 - training
 description: Step-by-step tutorial for adding external layers

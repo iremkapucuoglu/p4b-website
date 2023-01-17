@@ -11861,4 +11861,15 @@ button {
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent; }
 
+table, th, td {
+  border: 1px solid black;
+  font-size: 13px; }
+
+th {
+  font-weight: bolder;
+  font-size: 15px; }
+
+td {
+  padding: 10px; }
+
 /*# sourceMappingURL=main.css.map */

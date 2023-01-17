@@ -1,7 +1,7 @@
 ---
 title: Upload of custom POI-data
 permalink: "/de/tutorials/data_upload/"
-weight: 60
+weight: 70
 sections:
 - training
 description: Step-by-step tutorial for uploading POI data

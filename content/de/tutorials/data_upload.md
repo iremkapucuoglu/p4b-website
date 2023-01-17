@@ -1,7 +1,7 @@
 ---
 title: Hochladen eigener POI-Daten
 permalink: "/de/tutorials/data_upload/"
-weight: 60
+weight: 80
 sections:
 - training
 description: Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-Interest-Datensätze.

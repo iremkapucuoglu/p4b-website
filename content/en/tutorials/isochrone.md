@@ -1,7 +1,7 @@
 ---
 title: Isochrones
 permalink: "/tutorials/isochrone/"
-weight: 10
+weight: 20
 sections:
 - training
 description: Possible use cases and step-by-step tutorials for exemplary planning

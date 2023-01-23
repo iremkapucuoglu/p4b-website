@@ -11862,15 +11862,16 @@ button {
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent; }
 
-table, th, td {
+table {
+  border-collapse: collapse;
+  font-size: 12px; }
+
+th, td {
   border: 1px solid black;
-  font-size: 13px; }
+  padding: 10px; }
 
 th {
   font-weight: bolder;
   font-size: 15px; }
-
-td {
-  padding: 10px; }
 
 /*# sourceMappingURL=main.css.map */

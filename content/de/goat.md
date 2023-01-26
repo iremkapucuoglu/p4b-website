@@ -78,7 +78,7 @@ sections:
         text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad und/oder ÖPNV) durchzuführen.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'
         heading: 'Anzahl der Benutzer:innen wählen'
-        text: 'Standardmäßig ind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
+        text: 'Standardmäßig sind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
 
   - order: 5
     goat_contact_section:

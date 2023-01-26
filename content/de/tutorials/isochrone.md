@@ -1,7 +1,7 @@
 ---
 title: Isochronen
 permalink: "/de/tutorials/isochrone/"
-weight: 10
+weight: 11
 sections:
 - training
 description: Schritt-für-Schritt-Anleitung für beispielhafte Planungsfragen unter

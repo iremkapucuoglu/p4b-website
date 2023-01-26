@@ -296,40 +296,14 @@ Außerdem werden folgende Web Analyse-Tools eingesetzt:
 
 ### Webanalyse mittels Matomo 
 
-Umfang der Verarbeitung personenbezogener Daten:
+Wir verwenden Matomo, um die Nutzung unserer Website analysieren und verbessern zu können. Matomo ist ein Webanalysedienst. Auf Ihrem Computer werden Cookies gespeichert, um eine Analyse der Benutzung der Website durch Sie zu ermöglichen. Die so erhobenen Informationen werden ausschließlich auf Servern in Deutschland gespeichert.
 
-Wir nutzen auf dieser Website die Software „Matomo“ (www.matomo.org), einem Dienst des Anbieters InnoCraft Ltd., 150 Willis St, 6011 Wellington, Neuseeland. Die Software setzt ein Cookie (eine Textdatei) auf ihren Recher, mit dem Ihr Browser wiedererkannt werden kann. Werden Unterseiten unserer Webseite aufgerufen, so werden folgende Daten gespeichert:
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Die Verhinderung des Einsatzes von Piwik ist möglich, indem Sie das Opt-out-Plug-in aktivieren. 
+Wir verwenden Matomo mit der Erweiterung „AnonymizeIP“. Damit werden die IP-Adressen gekürzt (sog. IP-Masking). Ein Bezug zu bestimmten Personen kann damit ausgeschlossen werden.
 
-- die IP-Adresse des Nutzers, gekürzt um die letzten zwei Bytes (anonymisiert)
-- die aufgerufene Unterseite und Zeitpunkt des Aufrufs
-- die Seite, von der der Nutzer auf unsere Webseite gelangt ist (Referrer)
-- welcher Browser mit welchen Plugins, welches Betriebssystem und welche Bildschirmauflösung genutzt wird
-- die Verweildauer auf der Website
-- die Seiten, die von der aufgerufenen Unterseite aus angesteuert werden
+Rechtsgrundlage für die Verarbeitung von Daten mit Hilfe von Matomo ist Art. 6 Abs. 1 lit. f DS-GVO.
 
-Die mit Matomo erhobenen Daten werden werden auf unseren eigenen Servern gespeichert. Eine Weitergabe an Dritte erfolgt nicht.
-
-#### Rechtsgrundlage
-
-Die Rechtsgrundlage, auf der wir mittels Matomo personenbezogene Daten verarbeiten, ist Art. 6 Abs. 1 lit. f der DSGVO.
-
-#### Zweck der Datenverarbeitung
-
-Wir benötigen die Daten, um das Surfverhalten der Nutzer zu analysieren und Informationen über Nutzung der einzelnen Komponenten der Website zu erhalten. Das ermöglicht uns, die Website und ihre Nutzerfreundlichkeit stetig zu optimieren. In diesen Zwecken liegt unser berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO begründet. Durch die Anonymisierung der IP-Adresse tragen wir dem Interesse der Nutzer am Schutz personenbezogener Daten Rechnung. Die Daten werden nie dazu genutzt, den Nutzer der Website persönlich zu identifizieren und werden nicht mit anderen Daten zusammengeführt.
-
-#### Dauer der Speicherung:
-
-Die Daten werden gelöscht, wenn sie für unsere Zwecke nicht mehr benötigt werden.
-
-#### Widerspruchsmöglichkeit
-
-Gegen die Aufzeichnung der Daten in der oben beschriebenen Weise können Sie auf drei verschiedene Weisen Widerspruch einlegen:
-
-1. Sie können die Ablage von Cookies in ihrem Browser ganz unterbinden. Das führt allerdings dazu, dass Sie möglicherweise manche Funktionen unserer Website nicht mehr nutzen können, die zwingend eine Identifizierung voraussetzen (persönliche Einstellungen o.ä.)
-
-2. Sie können die Einstellung „Do-not-Track“ in Ihrem Browser aktivieren. Unser Matomo-System ist so konfiguriert, dass es diese Einstellung respektiert.
-
-3. Sie können ein so genanntes Opt-Out-Cookie anlegen, das zwei Jahre Gültigkeit hat. Es hat zur Folge, dass Matomo Ihre weiteren Besuche nicht registrieren wird. Beachten Sie allerdings, dass das Opt-Out-Cookie gelöscht wird, wenn Sie alle Cookies löschen.
+Informationen zum Datenschutz finden Sie unter: https://matomo.org/privacy-policy/
    
 ## 15. Datensicherheit und Sicherungsmaßnahmen 
 Wir verpflichten uns, Ihre Privatsphäre zu schützen und Ihre personenbezogenen Daten vertraulich zu behandeln. Dazu treffen wir umfangreiche technische und organisatorische Sicherheitsvorkehrungen, welche regelmäßig überprüft und dem technologischen Fortschritt angepasst werden.  

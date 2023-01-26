@@ -71,14 +71,14 @@ sections:
       - img: '/images/index/undraw_map_re_60yf.png'
         heading: 'Gebietsgröße wählen'
         sub_heading: 'Kommune - Landkreis - Verkehrsverbund - ...'
-        text: 'Wählen Sie ihr Wunschgebiet für GOAT.​ Die Preisgestaltung richtet sich nach der Anzahl der Einwohner. '
+        text: 'Wählen Sie ihr Wunschgebiet für GOAT.​ Die Preisgestaltung richtet sich nach der Anzahl der Einwohner:innen. '
       - img: '/images/index/undraw_pitching_re_fpgk.png'
         heading: 'Module wählen'
-        sub_heading: 'Fußverkehr  - Radverkehr - ÖPNV'
+        sub_heading: 'Fußverkehr - Radverkehr - ÖPNV'
         text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad und/oder ÖPNV) durchzuführen.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'
         heading: 'Anzahl der Benutzer:innen wählen'
-        text: 'Standardmäßig ind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
+        text: 'Standardmäßig sind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
 
   - order: 5
     goat_contact_section:

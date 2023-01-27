@@ -1169,6 +1169,7 @@ button.uk-icon:not(:disabled) {
   display: inline-flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: -35px;
   transition: 0.1s ease-in-out;
   transition-property: color, background-color; }
 
@@ -11861,15 +11862,16 @@ button {
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent; }
 
-table, th, td {
+table {
+  border-collapse: collapse;
+  font-size: 12px; }
+
+th, td {
   border: 1px solid black;
-  font-size: 13px; }
+  padding: 10px; }
 
 th {
   font-weight: bolder;
   font-size: 15px; }
-
-td {
-  padding: 10px; }
 
 /*# sourceMappingURL=main.css.map */

@@ -15,7 +15,7 @@ https://doi.org/10.1016/j.urbmob.2022.100033
 
 <b>Autor/-innen</b>: Elias Pajares, Ulrike Jehle, Joelean Hall, Montserrat Miramontes, Gebhard Wulfhorst
 
-<b>Datum</b>: 4 October 2022
+<b>Datum</b>: 4. Oktober 2022
 
 <b>Schlüsselwörter</b>: Accessibility ; Active mobility ; PSS
 

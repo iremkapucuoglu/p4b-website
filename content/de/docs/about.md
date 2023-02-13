@@ -52,10 +52,10 @@ Mit GOAT können damit verschiedene Planungsfragen beantwortet werden. Einige Be
 
 Die GOAT-Architektur ist komplett auf Open-Source-Software aufgebaut, außerdem ist sie selbst Open Source (Lizenz GPL-3.0). Somit kann jeder zur Verbesserung der Funktionalität und der Funktionsweise von GOAT beitragen.
 
-![](/images/docs/about/love_osm_os.webp)
+![Open Source Software GOAT](/images/docs/about/love_osm_os.webp "Open Source Software GOAT")
 
 GOAT wird mit OpenStreetMap (OSM), sowie einer Vielzahl weiterer (offener sowie propriotärer) Daten bestückt. OSM wird als äußerst wertvolle Quelle angesehen, aber es ist hervorzuheben, dass es nicht nur darauf abzielt die Daten zu konsumieren, sondern auch aktiv Teil der OSM-Community zu sein. Diese Entscheidung wird als wesentlich für die Erhaltung dieses und anderer Projekte angesehen.
 
 Außerdem können weitere individuelle Datenquellen bequem hinzugefügt werden. Aufgrund des modularen Charakters ermöglicht GOAT eine einfache Erweiterung und Skalierbarkeit. Hierbei kommen innovative Ansätze zum Einsatz.
 
-Jeder ist herzlich eingeladen, GOAT zu nutzen und dazu beizutragen. Wenn sie daran interessiert sind einen Beitrag zu leisten, besuchen sie einfach unser [GitHub](https://github.com/goat-community/goat).
+Jeder ist herzlich eingeladen, GOAT zu nutzen und dazu beizutragen. Wenn sie daran interessiert sind einen Beitrag zu leisten, besuchen sie einfach unser [GitHub](https://github.com/goat-community/goat "GOAT GitHub").

@@ -29,13 +29,13 @@ Obwohl zahlreiche Städte ihren Einwohner:innen eine Art BürgerGIS zur Verfügu
 
 In einer Phase der Bürgerbeteiligung bestätigten die Teilnehmer:innen des Workshops ihr Interesse an einem besseren Verständnis unserer Städte. Sie sind begeistert von der "[15-Minuten-Stadt](https://www.eiturbanmobility.eu/wp-content/uploads/2022/11/EIT-UrbanMobilityNext9_15-min-City_144dpi.pdf "Urban Mobility Next 9")" und wollen wissen, wie gut ihr Stadtteil abschneidet.
 
-![/images/blog/map4citizens/workshop.webp](https://app.forestry.io/sites/cn-hdrhu1af3oa/body-media//images/blog/map4citizens/workshop.webp)
+![Bürgerworkshop](/images/blog/map4citizens/workshop.webp "Bürgerworkshop")
 
 _Abbildung 1: Bedürfnisse und Wünsche der Bürger:innen verstehen_
 
 Nachdem wir die Wünsche und Bedürfnisse der Bürger:innen untersucht hatten, entwickelten wir ein Konzept und begannen sofort mit der Entwicklung der ersten Alpha-Version. In einer Usability-Testphase erhielten wir sehr wertvolles Feedback und jede Menge Input für einen finalen Entwicklungssprint.
 
-Jetzt freuen wir uns, dass die Beta-Version für München online ist und von den Bürger:innen genutzt werden kann: [https://citizens.plan4better.de/](https://citizens.plan4better.de/. "https://citizens.plan4better.de/.").
+Jetzt freuen wir uns, dass die Beta-Version für München online ist und von den Bürger:innen genutzt werden kann: [https://citizens.plan4better.de/](https://citizens.plan4better.de/ "https://citizens.plan4better.de/").
 
 ## Funktionalitäten
 
@@ -47,7 +47,7 @@ Die Anwendung ist rund um das Konzept der 15-Min-Stadt gestaltet und verfügt ü
 * **Umweltinformationen:** Zusätzliche Layer wie Lärmpegel, Bevölkerungsdichte und Flächennutzung.
 * **[ÖV-Güteklassen](/docs/oev_gueteklasse/ "Info zu ÖV-Güteklassen"):** Zeigt anhand eines stadtweiten Indikators an, wie gut das Angebot an öffentlichen Verkehrsmitteln ist.
 
-![Screenshots BürgerGIS](/images/blog/map4citizens/Mockups.webp "BürgerGIS")
+![Screenshots BürgerGIS Map4Citizens](/images/blog/map4citizens/Mockups.webp "Screenshots BürgerGIS Map4Citizens")
 
 _Abbildung 2: Map4Citizens_
 

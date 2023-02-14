@@ -38,6 +38,13 @@ text = ""
 load_more_button_text = "Mehr laden"
 
 [[blocks.news]]
+heading = "Die Bessermacher*innen"
+thumbnail = "/images/presse/G+L.webp"
+source = "G+L Magazin für Landschaftarchitektur und Stadtplanung"
+url = "https://www.garten-landschaft.de"
+date = "Februar 2023"
+
+[[blocks.news]]
 heading = "Alles ums Eck: Die 15-Minuten-Stadt"
 thumbnail = "/images/presse/ews.webp"
 source = "EWS Energiewende Magazin"

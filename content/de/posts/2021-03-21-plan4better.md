@@ -16,13 +16,13 @@ description: 'Wir gehen aufs Ganze und gründen ein Start-up: Plan4Better! Hier 
 ---
 ## Wie alles begann 
 
-Unser gemeinsamer Weg begann als Wissenschaftler an der TUM, genauer gesagt, am [Lehrstuhl für Siedlungsstruktur und Verkehrsplanung](https://www.bgu.tum.de/sv/startseite/). Dort haben wir seit über 3 Jahren voller Enthusiasmus an der Entwicklung von [GOAT](../../goat) gearbeitet. Mit Hilfe des Erreichbarkeitsansatzes und einer Vielzahl an Daten konnten wir eine praxistaugliche Version von GOAT entwickeln, die PlanerInnen und EntscheidungsträgerInnen dabei hilft, effektiver für den Fuß- und Radverkehr zu planen. 
+Unser gemeinsamer Weg begann als Wissenschaftler an der TUM, genauer gesagt, am [Lehrstuhl für Siedlungsstruktur und Verkehrsplanung](https://www.bgu.tum.de/sv/startseite/ "Lehrstuhl für Siedlungsstruktur und Verkehrsplanung"). Dort haben wir seit über 3 Jahren voller Enthusiasmus an der Entwicklung von [GOAT](../../goat "GOAT") gearbeitet. Mit Hilfe des Erreichbarkeitsansatzes und einer Vielzahl an Daten konnten wir eine praxistaugliche Version von GOAT entwickeln, die PlanerInnen und EntscheidungsträgerInnen dabei hilft, effektiver für den Fuß- und Radverkehr zu planen. 
 
 Um auch weiterhin eine kontinuierliche Entwicklung von GOAT zu gewährleisten und das Tool gleichzeitig in die breite Praxisanwendung zu bringen, haben wir uns kürzlich dazu entschieden, unsere Aktivitäten neu auszurichten und ein Start-up zu gründen: Plan4Better!
 
-![](/images/blog/plan4better/team.webp)
+![Plan4Better Gründerteam](/images/blog/plan4better/team.webp "Plan4Better Gründerteam")
 
-Wir [Gründer](../../team) sind Elias Pajares, Ulrike Jehle und Majk Shkurti und gemeinsam vereinen wir vielseitige Talente in den Bereichen Umweltingenieurwesen, Stadt- und Verkehrsplanung, GIS und Softwareentwicklung. Wir sind Teil des [TUM Venture Lab Built Environment](https://www.tum.de/en/innovation/entrepreneurship/venture-labs/), das uns das perfekte Umfeld zum Aufbau unseres Unternehmens bietet.
+Wir [Gründer](../../team "Team") sind Elias Pajares, Ulrike Jehle und Majk Shkurti und gemeinsam vereinen wir vielseitige Talente in den Bereichen Umweltingenieurwesen, Stadt- und Verkehrsplanung, GIS und Softwareentwicklung. Wir sind Teil des [TUM Venture Lab Built Environment](https://www.tum.de/en/innovation/entrepreneurship/venture-labs/ "TUM Venture Lab Built Environment"), das uns das perfekte Umfeld zum Aufbau unseres Unternehmens bietet.
 
 ## Unsere Motivation
 
@@ -34,9 +34,9 @@ Unsere Vision ist es, Plan4Better als Vorreiter in der Entwicklung von Planungsi
 
 Das Geschäftsmodell sieht vor, GOAT als Software-as-a-Service (SaaS) zu vertreiben, indem wir individualisierte Versionen von GOAT weltweit anbieten. Darüber hinaus werden wir GOAT in Zukunft großflächig übertragen. Beginnend mit Regionen in Deutschland wollen wir mit einem Abo-Modell einen einfachen Zugriff auf die Analysen für möglichst viele Regionen unmittelbar bereitstellen.
 
-![](/images/blog/plan4better/goat_impression.webp)
+![GOAT - Planungsinstrument nachhaltige Mobilität](/images/blog/plan4better/goat_impression.webp "GOAT - Planungsinstrument nachhaltige Mobilität")
 
-Unser Leistungsspektrum umfasst zusätzliche Angebote im Zusammenhang mit Datenmanagement und -bereitstellung sowie WebGIS-Entwicklung und Beratung. Außerdem werden wir professionelle Schulungen zur Nutzung von GOAT und zu innovativen Methoden der Datenerfassung ([OSM](https://www.openstreetmap.de/), [Mapillary](https://www.mapillary.com/)) für unsere Kunden anbieten - diese sind in erster Linie ExpertInnen aus Kommunen, Planungsbüros, der Standortplanung und der Immobilienentwicklung. 
+Unser Leistungsspektrum umfasst zusätzliche Angebote im Zusammenhang mit Datenmanagement und -bereitstellung sowie WebGIS-Entwicklung und Beratung. Außerdem werden wir professionelle Schulungen zur Nutzung von GOAT und zu innovativen Methoden der Datenerfassung ([OSM](https://www.openstreetmap.de/ "OSM"), [Mapillary](https://www.mapillary.com/ "Mapillary")) für unsere Kunden anbieten - diese sind in erster Linie ExpertInnen aus Kommunen, Planungsbüros, der Standortplanung und der Immobilienentwicklung. 
 
 ## Gemeinsam für eine bessere Zukunft
 

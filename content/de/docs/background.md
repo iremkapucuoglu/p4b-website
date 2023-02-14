@@ -11,9 +11,9 @@ weight: 10
 
 Während der Rad- und Fußverkehr in der Vergangenheit als unbedeutende Verkehrsmittel galten, wächst heutzutage immer mehr das Interesse daran Rahmenbedingungen zu schaffen, um diesen aktiv zu fördern. Dieser Wandel ist eine Folge der zahlreichen Vorteile, die aktive Mobilität unseren Städten, der lokalen Wirtschaft, der physischen Gesundheit und der Umwelt bringt.
 
-![Modal Split](/images/docs/background/modal_split.webp)
+![Modal Split Deutschland](/images/docs/background/modal_split.webp "Modal Split Deutschland")
 
-Aktive Mobilität nimmt bereits heute einen großen Teil der täglichen Verkehrsaktivitäten ein. Wie in vielen anderen Ländern spielt auch in Deutschland der Fuß- und Radverkehr eine wichtige Rolle für die alltägliche Mobilität (siehe: [Modal split in different cities worldwide](https://en.wikipedia.org/wiki/Modal_share)). Darüber hinaus trägt der Fuß- und Radverkehr einen entscheidenden Part als Zubringer für öffentliche Verkehrssysteme bei. In vielen Städten und Gemeinden auf der ganzen Welt nutzen Fußgänger:innen und Radfahrer:innen bereits einen größeren Anteil an Verkehrsmitteln. Es besteht jedoch ein großes Potenzial darin ihren Anteil weiter zu erhöhen, um in Folge dessen das Spektrum an positiven Auswirkungen umfassender nutzen zu können.
+Aktive Mobilität nimmt bereits heute einen großen Teil der täglichen Verkehrsaktivitäten ein. Wie in vielen anderen Ländern spielt auch in Deutschland der Fuß- und Radverkehr eine wichtige Rolle für die alltägliche Mobilität (siehe: [Modal split in different cities worldwide](https://en.wikipedia.org/wiki/Modal_share "Wikipedia: Modal split in different cities worldwide")). Darüber hinaus trägt der Fuß- und Radverkehr einen entscheidenden Part als Zubringer für öffentliche Verkehrssysteme bei. In vielen Städten und Gemeinden auf der ganzen Welt nutzen Fußgänger:innen und Radfahrer:innen bereits einen größeren Anteil an Verkehrsmitteln. Es besteht jedoch ein großes Potenzial darin ihren Anteil weiter zu erhöhen, um in Folge dessen das Spektrum an positiven Auswirkungen umfassender nutzen zu können.
 
 Gute Voraussetzungen für einen aktiven Verkehr sind in der Regel das Ergebnis ausgearbeiteter Planungsstrategien, allerdings kann die Ausarbeitung sich oftmals als kompliziert herausstellen. Neben einer attraktiven Infrastruktur, einem sicheren Umfeld und einer ausgeprägten aktiven Mobilitätsstruktur ist es wichtig, nahe gelegene Destinationen zu bieten. Dies unterstreicht, dass die Förderung des Fuß- und Radverkehrs nicht allein durch Infrastrukturprojekte erreicht werden kann, sondern auch ein integriertes Konzept der Stadt- und Verkehrsplanung erfordert.
 
@@ -36,7 +36,7 @@ Im Gegensatz zu Verkehrsmodellen zeigen Erreichbarkeitsmodelle Potenziale auf, z
 
 **Komponenten der Erreichbarkeit**
 
-![Die vier Erreichbarkeitskomponenten](/images/docs/background/accessibility_components.webp)
+![Die vier Erreichbarkeitskomponenten](/images/docs/background/accessibility_components.webp "Die vier Erreichbarkeitskomponenten")
 
 Mit den sogenannten Erreichbarkeitskomponenten (Geurs und van Wee 2004) kann das Erreichbarkeitskonzept konkretisiert werden. Jede Komponente kann einen Einfluss auf die Erreichbarkeit haben, daher werden idealerweise alle vier Komponenten berücksichtigt. Der Zugang zu Supermärkten könnte z.B. durch die Anzahl der verfügbaren Geschäfte (Landnutzung), die Qualität des Verkehrsnetzes (Verkehr), die Öffnungszeiten der Supermärkte (zeitlich begrenzt) und schlussendlich durch das finanzielle Budget der Menschen (individuell) beeinflusst werden.
 

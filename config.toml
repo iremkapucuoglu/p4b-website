@@ -25,7 +25,7 @@ parent = "GOAT"
 url = "/goat-references/"
 weight = 3
 [[languages.de.menu.center]]
-name = "Anwendung"
+name = "Einsatzmöglichkeiten"
 parent = "GOAT"
 url = "/goat-anwendung/"
 weight = 3
@@ -167,7 +167,7 @@ parent = "GOAT"
 url = "/goat-references/"
 weight = 3
 [[languages.en.menu.center]]
-name = "Application"
+name = "Use Cases"
 parent = "GOAT"
 url = "/goat-application"
 weight = 3

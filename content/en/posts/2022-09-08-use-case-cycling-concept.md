@@ -61,7 +61,7 @@ As a supplement, data from bicycle counting stations, air and repair stations, b
 
 ## Test GOAT!
 
-You also want to perform analyses of bicycle traffic concepts with GOAT or are interested in further functions? [Contact us](/en/contact "Contact") or test the free [GOAT demo](/en/request-demo/ "Request demo")!
+You also want to perform analyses of bicycle traffic concepts with GOAT or are interested in further functions? [Contact us](/en/contact "Contact") or test the free [GOAT demo](/en/request-demo/ "Get demo")!
 
 Further use cases for GOAT can be found [here](/en/goat-application/ "Application of GOAT in planning practice").
 

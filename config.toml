@@ -25,7 +25,7 @@ parent = "GOAT"
 url = "/goat-references/"
 weight = 3
 [[languages.de.menu.center]]
-name = "Anwendung"
+name = "Einsatzmöglichkeiten"
 parent = "GOAT"
 url = "/goat-anwendung/"
 weight = 3
@@ -89,13 +89,14 @@ parent = "Über uns"
 url = "/mission/"
 weight = 5
 [[languages.de.menu.center]]
+name = "Presse"
+parent = "Über uns"
+url = "/presse/"
+weight = 7
+[[languages.de.menu.center]]
 name = "Blog"
 url = "/blog/"
 weight = 6
-[[languages.de.menu.center]]
-name = "Presse"
-url = "/presse/"
-weight = 7
 [[languages.de.menu.center]]
 name = "Kontakt"
 url = "/kontakt/"
@@ -167,7 +168,7 @@ parent = "GOAT"
 url = "/goat-references/"
 weight = 3
 [[languages.en.menu.center]]
-name = "Application"
+name = "Use Cases"
 parent = "GOAT"
 url = "/goat-application"
 weight = 3
@@ -258,13 +259,14 @@ parent = "About us"
 url = "/mission/"
 weight = 5
 [[languages.en.menu.center]]
+name = "Press"
+parent = "About us"
+url = "/press/"
+weight = 7
+[[languages.en.menu.center]]
 name = "Blog"
 url = "/blog/"
 weight = 6
-[[languages.en.menu.center]]
-name = "Press"
-url = "/press/"
-weight = 7
 [[languages.en.menu.center]]
 name = "Contact"
 url = "/en/contact/"

@@ -31,7 +31,7 @@ Urban vibrancy in our case, can be the level of “intensity of people’s conce
 
 By looking at Munich through the lens of ‘sub-centralities’ a better analysis of the 15-minute city is achievable (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Sub-centralities, in our case, take the form of designated districts within Munich. We chose the districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach to compare the distribution of POIs across the district populations that fall within a 15-minute walking radius.
 
-![15-minute walking radius](/images/blog/muc-15mincity/districts.webp)
+![15-minute walking radius](/images/blog/muc-15mincity/districts.webp "15-minute-city with GOAT")
 
 _Image 1: 15-minute walking radius’ in districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
 
@@ -39,17 +39,17 @@ _Image 1: 15-minute walking radius’ in districts Giesing, Neuperlach, Sendling
 
 GOAT offers helpful features to perform 15-minute city analyses. Image 2 shows the summarized results of the POI analysis per district. It shows how many destinations are each accessible within the 15 minute walking radius.
 
-![Aggregated POI results](/images/blog/muc-15mincity/amenities.webp)
+![Aggregated POI results](/images/blog/muc-15mincity/amenities.webp "15 minute city analysis")
 
 _Image 2: Accessible destinations within 15 minutes_
 
 Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing has a higher population count but four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities.
 
-![Accessibility to Schools](/images/blog/muc-15mincity/schools.webp)
+![Accessibility to Schools](/images/blog/muc-15mincity/schools.webp "Accessibility to Schools")
 
 _Image 3: Screenshot of School Accessibility in Munich_
 
-![Accessibility to Bars](/images/blog/muc-15mincity/bars.webp)
+![Accessibility to Bars](/images/blog/muc-15mincity/bars.webp "Accessibility to Bars")
 
 _Image 4: Screenshot of Bars and other recreational activities in the city_
 

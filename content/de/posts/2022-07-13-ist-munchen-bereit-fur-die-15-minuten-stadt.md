@@ -29,7 +29,7 @@ Points of Interest (POIs) können als Maßeinheit für funktionale urbane Fläch
 
 Durch die Betrachtung Münchens aus dem Blickwinkel der «Sub-Zentren» ist eine bessere Analyse der 15-Minuten-Stadt möglich (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Wir haben hierzu die Stadtteile Giesing, Neuperlach, Sendling, Schwabing und Moosach ausgewählt, um die Verteilung der POIs den Bevölkerungszahlen im Umkreis von 15 Minuten zu Fuß gegenüberzustellen.
 
-![15-Minuten-Gehradien](/images/blog/muc-15mincity/districts.webp)
+![15-Minuten-Gehradien](/images/blog/muc-15mincity/districts.webp "15-Minuten-Stadt Analyse")
 
 _Abbildung 1: 15-Minuten-Gehradien um die Ortszentren Giesing, Neuperlach, Sendling, Schwabing und Moosach_
 
@@ -37,17 +37,17 @@ _Abbildung 1: 15-Minuten-Gehradien um die Ortszentren Giesing, Neuperlach, Sendl
 
 GOAT bietet zahlreiche Funktionen, um 15-Minuten-Stadt Analysen durchzuführen. In Abbildung 2 sind die Ergebnisse der POI-Auswertungen je Stadtteil zusammengefasst. Diese zeigt, wie viele Einrichtungen jeweils innerhalb der 15-Minuten Radien erreichbar sind.
 
-![Erreichbare POIs](/images/blog/muc-15mincity/amenities.webp)
+![Erreichbare POIs](/images/blog/muc-15mincity/amenities.webp "15 Minuten Stadt mit GOAT planen")
 
 _Abbildung 2: Erreichbare Einrichtungen innerhalb von 15 Minuten_
 
 Schwabing hat die höchste Zahl an Einrichtungen, die innerhalb von 15 Minuten erreichbar sind. Da Schwabing eines der dichtesten Wohngebiete der Stadt ist, profitiert es auch von einer integrierten Mischnutzung aus Bars, Restaurants und weiteren Geschäften in Straßennähe. Giesing hat eine höhere Einwohnerzahl als Schwabing, jedoch viermal weniger Einrichtungen. Dadurch müssen sich die Bewohner:innen über die Bezirksgrenzen hinweg bewegen, um die gewünschten Ziele zu erreichen.
 
-![Erreichbarkeit zu Schulen](/images/blog/muc-15mincity/schools.webp)
+![Erreichbarkeit zu Schulen](/images/blog/muc-15mincity/schools.webp "Erreichbarkeit zu Schulen")
 
 _Abbildung 3: Screenshot der Erreichbarkeit von Schulen in München_
 
-![Erreichbarkeit zu Bars](/images/blog/muc-15mincity/bars.webp)
+![Erreichbarkeit zu Bars](/images/blog/muc-15mincity/bars.webp "Erreichbarkeit zu Bars")
 
 _Abbildung 4: Screenshot von Bars und anderen Freizeitaktivitäten in der Stadt_
 

@@ -16,7 +16,7 @@ translationKey : ""
 
 387 Gründer-Ideen wurden eingereicht – unsere Idee war eine der besten. Wir freuen uns sehr und sagen DANKE! Beim [Gründungswettbewerb des BMWi](https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Veranstaltungen/2021/24112021_GW_Preisverleihung_Sommerrunde_2021.html "Gründungswettbewerb BMWi") wurden wir heute aus eben diesem großen Teilnehmerfeld ausgewählt und mit dem Gründungspreis im Wert von 7.000 Euro ausgezeichnet.
 
-![](/images/blog/gruendungspreis/moderatoren.webp)
+![Moderation Gründungswettbewerb BMWi](/images/blog/gruendungspreis/moderatoren.webp "Moderation Gründungswettbewerb BMWi")
 
 _Bild 1: Alexa von Busse, BMWi-Referent Dr. Alexander Tettenborn Start-up-Beauftragter Thomas Jarzombek_
 
@@ -28,7 +28,7 @@ Die Veranstaltung wurde Corona-konform virtuell gehalten und konnte über den [Y
 
 Die Gewinner-Teams konnten sich und ihre Innovationen in Form von One-Minute-Pitches vorstellen. Unsere Co-CEO Ulrike Jehle hat für Plan4Better in einer Minute die Funktionalität, den Entwicklungsprozess sowie den Mehrwert von unserem digitalen Erreichbarkeitsinstrument [GOAT](https://plan4better.de/goat/ "Was ist GOAT") kurz und knapp auf den Punkt gebracht.
 
-![](/images/blog/gruendungspreis/pitch.webp)
+![Verleihung Gründungspreis](/images/blog/gruendungspreis/pitch.webp "Verleihung Gründungspreis")
 
 _Bild 2: Ulrike Jehle nimmt den Gründungspreis virtuell entgegen_
 

@@ -39,9 +39,9 @@ _Figure 1: Scenario for the construction of a bicycle bridge in GOAT_
 
 The improved connectivity of the paths also results in higher accessibility to various POIs such as supermarkets or kindergartens. The comparison of accessibility before and after the creation of a new path connection can be displayed in GOAT using [isochrones](/en/docs/alphashape/ "Isochrones") (see Figure 2).
 
-![](/images/ist-zustand-1.webp)
+![Accessbility analysis bicycle bridge](/images/ist-zustand-1.webp "Accessibility analysis bicycle bridge")
 
-_Figure 2: Accessibility Comparision -- current state vs. scenario_
+_Figure 2: Accessibility Comparison -- current state vs. scenario_
 
 For example, 16 kindergartens can be reached by bicycle within 10 minutes travel time in the current state (red isochrones) and 25 in the scenario (green isochrones). When considering a 5-minute travel time (the inner isochrones), not a single kindergarten can be reached in the current condition, but two can be reached with the new bicycle bridge.
 

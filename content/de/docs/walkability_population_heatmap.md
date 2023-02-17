@@ -34,4 +34,4 @@ Die Vergleichs-Heatmap wird wie folgt berechnet:
 
 und zeigt folgendes Ergebnis:
 
-![Legende](/images/docs/walkability_population_heatmap/legende-DE.webp)
+<img src="/images/docs/walkability_population_heatmap/DE-LEGEND_.webp"  alt="legend deutch" style="max-height:300px;"/>

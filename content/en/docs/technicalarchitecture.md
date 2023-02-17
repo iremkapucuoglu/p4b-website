@@ -16,7 +16,7 @@ As a result, information can be appropriately accessed, managed, and updated. Th
 
 As API, a Python server powered by FastAPI is used. The API serves geospatial data in different formats. Besides the GeoJSON format, compressed formats like Geobuf or Vector tiles allow for fast loading times. Besides endpoints serving spatial data, several endpoints are relevant for the application's business logic. 
 
-<img src="\images\docs\about\server_client.webp" alt="Server-Client architecture" style="max-height:400px;"/>
+<img src="\images\docs\about\server-client-architecture.webp" alt="Server-Client architecture" style="max-height:400px;"/>
 
 The common web stack apps like HTML, CSS and JavaScript built the frontend. To create graphical user interfaces for Web applications using HTML syntax, Vue.JS is utilized as a Javascript framework, while Openlayers is used as a geospatial library for working with vector data.
  

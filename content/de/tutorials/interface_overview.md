@@ -19,36 +19,36 @@ Dieser Abschnitt bietet einen Überblick über die GOAT-Benutzeroberfläche und 
   </thead>
   <tbody>
     <tr class="success">
-      <td><b></b><img src="/images/tutorials/Tool Interface Overview/isochrone_tab.webp" alt="isochrone tab" style="max-height:100px;"/></td>
+      <td><b></b><img src="/images/tutorials/Tool Interface Overview/isochronen_tab_de.webp" alt="isochrone tab de" style="max-height:100px;"/></td>
       <td><b>Isochrones Tab</b></td>
       <td>Isochrones are isolines connecting all points that can be reached from a specific starting point within a certain time interval. GOAT allows the calculation of isochrones that take factors such as speed, infrastructure network, and travel time into account. This can be adjusted automatically by choosing between the modes “Walking”, “Bike”, “Pedelec”, “Transit” or “Car”. Isochrones can be used as an indicator of accessibility in one specific location.</td>
     </tr>
     <tr class="success">
-      <td><b><img src="/images/tutorials/Tool Interface Overview/indicator_tab.webp" alt="indicator tab" style="max-height:100px;"/></b></td>
+      <td><b><img src="/images/tutorials/Tool Interface Overview/indikatoren_tab.webp" alt="indicator tab de" style="max-height:100px;"/></b></td>
       <td><b>Indicators Tab</b></td>
       <td>Here, you are finding all our indicators, such as the heatmaps on connectivity, local accessibility, population density, etc.
 </td>
     </tr>
     <tr class="success">
-      <td><b><img src="/images/tutorials/Tool Interface Overview/otherlayers_tab.webp" alt="otherlayers tab" style="max-height:100px;"/></b></td>
+      <td><b><img src="/images/tutorials/Tool Interface Overview/weitere_layer_de.webp" alt="otherlayers tab de" style="max-height:100px;"/></b></td>
       <td><b>Other Layers Tab</b></td>
       <td>In this panel, you can switch on and off different layers, such as environmental data, buildings and land use. You can also integrate your own external layers from geoportals.
 </td>
     </tr>
     <tr class="warning">
-      <td><b><img src="/images/tutorials/Tool Interface Overview/options_tab.webp" alt="options tab" style="max-height:100px;"/></b></td>
+      <td><b><img src="/images/tutorials/Tool Interface Overview/optionen_tab_de.webp" alt="options tab de" style="max-height:100px;"/></b></td>
       <td><b>Isochrone Options</b></td>
       <td>Here, you can adjust the routing options and travel speed for the isochrone calculation.</td>
     </tr>
     <tr class="warning">
-      <td><b><img src="/images/tutorials/Tool Interface Overview/isochrone_calculation_tab.webp" alt="indicator tab" style="max-height:100px;"/></b></td>
+      <td><b><img src="/images/tutorials/Tool Interface Overview/isochrone_calculation_tab_de.webp" alt="indicator tab de" style="max-height:100px;"/></b></td>
       <td><b>Isochrone Tool
 </td>
       <td>In this tab, you can switch between single and multi isochrones and start the calculation.
 </td>
     </tr>
     <tr class="danger">
-      <td><b><img src="/images/tutorials/Tool Interface Overview/results_tab.webp" alt="results tab" style="max-height:100px;"/></b></td>
+      <td><b><img src="/images/tutorials/Tool Interface Overview/results_tab_de.webp" alt="results tab" style="max-height:100px;"/></b></td>
       <td><b>Isochrone Results</b></td>
       <td>Here, the result of the calculation for the isochrones can be found. Furthermore, the isochrone styling and travel time can dynamically be adjusted.</td>
     </tr>

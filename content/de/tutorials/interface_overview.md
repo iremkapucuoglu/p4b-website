@@ -1,5 +1,5 @@
 ---
-title: Benutzeroberfläche
+title: Überblick Benutzeroberfläche
 permalink: "/de/tutorials/interface_overview/"
 weight: 10
 sections:

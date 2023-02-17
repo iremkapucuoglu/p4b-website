@@ -82,13 +82,13 @@ Diese Seite bietet einen Überblick über die GOAT-Benutzeroberfläche und ihre 
     </tr>
     <tr class="danger">
       <td><b><center><img src="/images/tutorials/Tool_Interface_Overview/user_icon.webp" alt="user icon" style="max-height:33px;"/></center></b></td>
-      <td><b>Persönliches Profil</b></td>
+      <td><b>Einstellungen</b></td>
       <td>In diesem Bereich finden Sie alle Benutzereinstellungen, wie z.B. das gewählte Untersuchungsgebiet, die Spracheinstellung (Englisch/Deutsch) und den genutzten Datenspeicher. Außerdem können Sie hier den Support kontaktieren.
 </td>
     </tr>
     <tr class="danger">
       <td><b><center><img src="/images/tutorials/Tool_Interface_Overview/upload_icon.webp" alt="upload icon" style="max-height:38px;"/></center></b></td>
-      <td><b>Datenupload / Datenmanager</b></td>
+      <td><b>Daten hochladen</b></td>
       <td>Hier können Sie Ihre eigenen Point-of-Interest-Datensätze hochladen und die hochgeladenen Dateien verwalten.</td>
     </tr>
 </td>
@@ -102,7 +102,7 @@ Diese Seite bietet einen Überblick über die GOAT-Benutzeroberfläche und ihre 
     </tr>
     <tr class="danger">
       <td><b><center><img src="/images/tutorials/Tool_Interface_Overview/scenario_icon.webp" alt="scenario icon" style="max-height:38px;"/></center></b></td>
-      <td><b>Szenarien</b></td>
+      <td><b>Szenarien entwickeln</b></td>
       <td>Hier können Sie Ihre erstellten Szenarien anzeigen und verwalten sowie neue Szenarien erstellen.</td>
     </tr>
 </td>
@@ -116,7 +116,7 @@ Diese Seite bietet einen Überblick über die GOAT-Benutzeroberfläche und ihre 
     </tr>
     <tr class="danger">
       <td><b><center><img src="/images/tutorials/Tool_Interface_Overview/about_icon.webp" alt="about icon" style="max-height:30px;"/></center></b></td>
-      <td><b>Über</b></td>
+      <td><b>About</b></td>
       <td>Informationen über GOAT, die verwendeten Datensätze und Lizenzen.</td>
     </tr>
   </tbody>

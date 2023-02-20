@@ -77,7 +77,7 @@ sections:
         sub_heading: 'Fußverkehr - Radverkehr - ÖPNV'
         text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad und/oder ÖPNV) durchzuführen.'
       - img: '/images/index/undraw_select_option_re_u4qn.png'
-        heading: 'Dauer wählen'
+        heading: 'Nutzungsdauer wählen'
         sub_heading: 'Monat - Jahr'
         text: 'Wählen Sie selbst, ob Sie GOAT nur für ein paar schnelle Analysen oder für eien langfristige Konzepterstellung benötigen. Je nachdem können Sie die Nutzungsdauer festlegen.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'

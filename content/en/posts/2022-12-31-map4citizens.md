@@ -21,7 +21,7 @@ translationKey: map4citizens
 
 In partnership with the [TUM Chair of Urban Structure and Transport Planning](https://www.mos.ed.tum.de/sv/startseite/ "TUM Chair of Urban Structure and Transport Planning") and [Humankind](https://www.humankind.city/ "Humankind"), we're happy to announce the release of the beta-version of a new application: [Map4Citizens](https://citizens.plan4better.de/ "Try it out!").
 
-Map4Citizens is supported by [EIT Urban Mobility](https://www.eiturbanmobility.eu/), an initiative of the European Institute of Innovation & Technology (EIT), a body of the European Union.
+Map4Citizens is supported by [EIT Urban Mobility](https://www.eiturbanmobility.eu/ "EIT Urban Mobility"), an initiative of the European Institute of Innovation & Technology (EIT), a body of the European Union.
 
 Within a 3-month project, we aimed to bridge the gap between citizens and planners, by opening data and providing reliable and easy-understandable urban and mobility analysis to everyone. Our project addressed this by developing a mobile-ready web-based application that allows users to quickly get an overview of important mobility-related parameters in their city and neighbourhood. That's how Map4Citizens was born.
 

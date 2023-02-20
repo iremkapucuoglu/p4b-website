@@ -122,7 +122,7 @@ name = "Nutzungsbedingungen"
 url = "/nutzungsbedingungen/"
 weight = 5
 [[languages.de.menu.right]]
-name = "Login / Demo anfragen"
+name = "Login / Für Demo registrieren"
 url = "/request-demo/"
 weight = 1
 [languages.de.menu.right.params]
@@ -292,7 +292,7 @@ name = "Terms of use"
 url = "/nutzungsbedingungen/"
 weight = 5
 [[languages.en.menu.right]]
-name = "Login / Request Demo"
+name = "Login / Get Demo"
 url = "/request-demo/"
 weight = 1
 [languages.en.menu.right.params]

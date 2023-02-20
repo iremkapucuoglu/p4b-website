@@ -1,8 +1,8 @@
 ---
 description : "Geo Open Accessibility Tool (GOAT) ist ein Open-Source-Webtool zur Erreichbarkeitsplanung mit Fokus auf Nachhaltigkeit."
 layout : "what_is_goat"
-title : "GOAT für Kommunen, Landkreise und Regionen"
-translationKey: "goat"
+title : "GOAT für Planungsbüros und Consultants"
+translationKey: "goat-consulting"
 ogimage : "/images/request-demo/request_demo_ogimage.png"
 hero_section:
   layout: left
@@ -20,15 +20,15 @@ sections:
   - order: 1
     quote_section:
       quote_items:
+      - quote_image: "/images/index/logo_psu.webp"
+        quote_text: '„GOAT hat entscheidende Vorteile für eine umweltgerechte Stadt-, Orts- und Raumplanung, da es von vornherein die Nutzerperspektive beinhaltet und nicht zuerst die Expertensicht repräsentiert. Das ist neu!“​'
+        author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
       - quote_image: "/images/index/digital-freiburg.png"
         quote_text: '„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.“​'
         author_name: "Dr. Michael Bauder, Stadt Freiburg"
       - quote_image: "/images/index/logo_lhm.webp"
         quote_text: '„GOAT ist ein sehr gutes Tool zur Berechnung und Darstellung von Erreichbarkeiten in der Verkehrs- und Stadtplanung.“​'
         author_name: "Attila Lüttmerding, Abteilungsleiter Grundlagen und Daten, Mobilitätsreferat, Landeshauptstadt München"
-      - quote_image: "/images/index/logo_psu.webp"
-        quote_text: '„GOAT hat entscheidende Vorteile für eine umweltgerechte Stadt-, Orts- und Raumplanung, da es von vornherein die Nutzerperspektive beinhaltet und nicht zuerst die Expertensicht repräsentiert. Das ist neu!“​'
-        author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
       - quote_image: "/images/index/logo_freising.webp"
         quote_text: '„Eine richtungsweisende Unterstützung bei der Umsetzung der 15-Minuten-Stadt!“​'
         author_name: "Jonas Bellingrodt, Amt für Stadtplanung und Umwelt, Stadt Freising"
@@ -55,7 +55,7 @@ sections:
         text: 'GOAT ist mit einer Fülle an komplexen räumlichen Daten ausgestattet. Im GOAT-Abo sind u.a. Points-of-Interests, Gebäude, Bevölkerungsdaten, Flächennutzung, Umweltdaten und verschiedene Hintergrundkarten enthalten. Außerdem können problemlos eigene Datensätze integriert werden.'
         img: '/images/GOAT/data_gif.gif'
       - heading: "Faktenbasierte Erreichbarkeitsanalysen"
-        text: 'Mit GOAT steigert sich nicht nur die Effizienz, sondern die faktenbasierten Analysen unterstützen in bisher oft subjektiven Entscheidungs- und Investitionsprozessen.'
+        text: 'Mit GOAT können in minutenschelle Erreichbarkeitsdefizite aufgezeigt und potentielle Maßnahmen bewertet werden. Damit steigert sich nicht nur die Effizienz, sondern die faktenbasierten Analysen unterstützen in bisher oft subjektiven Entscheidungs- und Investitionsprozessen.'
         video:
           video_bg: '/images/index/mockuper-4.png'
           video_url: ''
@@ -63,7 +63,7 @@ sections:
   - order: 3
     goat_abo_section:
       heading: 'GOAT Abo'
-      text: 'Das GOAT-Abo ermöglicht Ihnen die individuelle Zusammensetzung von GOAT, zugeschnitten auf Ihre Bedürfnisse. Die Preisgestaltung richten sich nach der gewählten Gebietsgröße und der Einwohnerzahl. Schon ab 3.000 € / Jahr zzgl. MWSt buchbar.'
+      text: 'Das GOAT-Abo ermöglicht Ihnen die individuelle Zusammensetzung von GOAT, zugeschnitten auf Ihre Bedürfnisse. Die Preisgestaltung richten sich nach der gewählten Gebietsgröße und der Einwohnerzahl. Schon ab 800 € / Monat zzgl. MWSt buchbar.'
 
   - order: 4
     question_section:
@@ -76,6 +76,10 @@ sections:
         heading: 'Module wählen'
         sub_heading: 'Fußverkehr - Radverkehr - ÖPNV'
         text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad und/oder ÖPNV) durchzuführen.'
+      - img: '/images/index/undraw_select_option_re_u4qn.png'
+        heading: 'Dauer wählen'
+        sub_heading: 'Monat - Jahr'
+        text: 'Wählen Sie selbst, ob Sie GOAT nur für ein paar schnelle Analysen oder für eien langfristige Konzepterstellung benötigen. Je nachdem können Sie die Nutzungsdauer festlegen.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'
         heading: 'Anzahl der Benutzer:innen wählen'
         text: 'Standardmäßig sind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
@@ -111,7 +115,7 @@ sections:
   - order: 7
     service_section:
       heading: 'Weitere Services'
-      text: 'Wir unterstützen Sie gerne bei der bestmöglichen Umsetzung Ihres Vorhabens durch:​ Workshops und Schulungen, Implementierung von individuellen Funktionen (z.B. Barrierefreiheitscheck, Schulwegcheck)​, weitere WebGIS-Entwicklung ​und Beratungsleistungen.'
+      text: 'Wir unterstützen Sie gerne bei der bestmöglichen Umsetzung Ihres Vorhabens durch:​ auftragsbezogene Beratungsleistungen, individuelle WebGIS-Entwicklung, personalisierte Anpassungen an GOAT, Workshops und Schulungen.'
       list_items: 
       - url: '#'
         heading: ''

@@ -1,16 +1,18 @@
 ---
-author : "meining"
-categories : ["News"]
-date : 2022-02-17T15:00:00Z
-description : ""
-draft : false
-image : "/images/movewerk1_9006450.webp"
-summary : "Wir sind umgezogen - Vom Munich Urban Colab ins WERK1! Das neue Office befindet sich im Münchner Werksviertel: Dort haben wir eine super fußläufige Erreichbarkeit zum ÖPNV und zu zahlreichen Essensoptionen."
-thumbnail : "/images/movewerk1_6007450.webp"
-title : "Unser neues Büro im WERK1"
-translationKey : ""
----
+author: meining
+categories:
+- News
+date: 2022-02-17T15:00:00.000+00:00
+description: ''
+image: "/images/movewerk1_9006450.webp"
+summary: 'Wir sind umgezogen - Vom Munich Urban Colab ins WERK1! Das neue Office befindet
+  sich im Münchner Werksviertel: Dort haben wir eine super fußläufige Erreichbarkeit
+  zum ÖPNV und zu zahlreichen Essensoptionen.'
+thumbnail: "/images/movewerk1_6007450.webp"
+title: Unser neues Büro im WERK1
+translationKey: ''
 
+---
 ## Die Umgebung: Das Münchner Werksviertel
 
 Unser neues Büro befindet sich im Münchner Werksviertel – zentral gelegen am Ostbahnhof und der perfekte Ort für Start-ups. Neben einem Zentrum für digitale Wirtschaft und Innovation, bietet das Werksviertel auch Raum für Kreativität, Kultur, soziales Engagement und Freizeit. Wir freuen uns insbesondere über den Fokus auf nachhaltige Stadtentwicklung, denn das [Werksviertel](https://werksviertel-mitte.de/ "Werksviertel") setzt auf die Kombination aus umfunktionierten Industriegebäuden und Neubauten.
@@ -29,7 +31,7 @@ Mit jedem Neuanfang kommt leider auch ein kleiner Abschied: Wir verlassen das Mu
 
 Selbstverständlich haben wir schon die Erreichbarkeit vom WERK1 in GOAT überprüft. Trotz der großen Gleisachse am Ostbahnhof, weist das Gebiet eine gute Konnektivität für den Fuß- und Radverkehr auf. Unser täglicher Weg zum Büro führt, vorbei an vielen Läden, Restaurants und Veranstaltungsorten, durch eine attraktive Fußgängerzone. Außerdem sind wir durch den Ostbahnhof optimal an öffentliche Verkehrsmittel angebunden.
 
-![15-Min-City Map](/images/movewerk1_15minmap.webp "15-Min-City Map")
+![15-Minuten-Stadt Karte München](/images/movewerk1_15minmap.webp "15-Minuten-Stadt Karte München ")
 
 _Abbildung 2: Wie weit wir innerhalb von 15 Minuten zu Fuß vom WERK1 kommen._
 

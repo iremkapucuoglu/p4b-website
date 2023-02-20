@@ -1,15 +1,18 @@
 ---
-author : "meining"
-categories : ["Other"]
-date : 2022-02-04
-lang : de
-tags: [de]
-description : ""
-draft : false
-image : "/images/sustainability_banner.webp"
-summary : "Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung fördern."
-thumbnail : "/images/sustainability_thumbnail.webp"
-title : "Nachhaltigkeit bei GOAT – Unser Beitrag"
+author: meining
+categories:
+- Other
+date: 2022-02-04
+lang: de
+tags:
+- de
+description: ''
+image: "/images/sustainability_banner.webp"
+summary: Mit GOAT wollen wir einen Beitrag zu den SDG leisten. Doch was bedeutet das
+  konkret? In diesem Blogartikel erklären wir, wie wir eine nachhaltige Entwicklung
+  fördern.
+thumbnail: "/images/sustainability_thumbnail.webp"
+title: Nachhaltigkeit bei GOAT – Unser Beitrag
 
 ---
 ## Was bedeutet Nachhaltigkeit?
@@ -48,7 +51,7 @@ Mit GOAT fördern wir Planungsentscheidungen, welche die aktive Mobilität, d.h.
 
 Zufußgehen und Radfahren fördern die körperliche und mentale Gesundheit und tragen zu einer positiven Verfassung bei. Zudem können Risiken vermeidbarer Krankheiten, wie Übergewicht und Herzprobleme gemindert werden. Wussten Sie zum Beispiel schon, dass die Lebenserwartung um 0,7 Jahre steigt, wenn wir uns täglich bewegen ([Oberhofer 2015](https://www.aerztezeitung.de/Medizin/Spazierengehen-verlaengert-das-Leben-250822.html))?
 
-![Förderung aktiver Mobilität](/images/undraw_ride_a_bicycle_re_6tjy.webp "Förderung aktiver Mobilität")
+![Graphik zu Förderung aktiver Mobilität](/images/undraw_ride_a_bicycle_re_6tjy.webp "GOAT: Förderung aktiver Mobilität")
 
 ### Identifizierung und Adressierung benachteiligter Gebiete
 
@@ -65,7 +68,7 @@ Der Kern von GOAT ist die Planung von nachhaltigen Städten und Gemeinden. Indem
 
 Hierfür haben wir bereits einige Pilotprojekte in Städten wie München, Istanbul und Freiburg durchgeführt. Weitere Informationen finden Sie [hier](/goat-references/ "GOAT live").
 
-![Lebenswerte Städte](/images/undraw_a_day_at_the_park_re_9kxj.webp "Lebenswerte Städte")
+![Graphik zu lebenswerte Städten](/images/undraw_a_day_at_the_park_re_9kxj.webp "GOAT: Lebenswerte Städte")
 
 ### Förderung umweltschonender Mobilitätsformen
 

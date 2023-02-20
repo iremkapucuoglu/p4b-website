@@ -9,6 +9,19 @@ weight: 40
 Hier finden Sie einen Überblick über die veröffentlichten wissenschaftlichen Publikationen zur Entwicklung und Anwendung von GOAT.
 ________________________________
 
+### Erreichbarkeits- und Analyseinstrumente für die Daseinsvorsorgeplanung: Potenziale und Hindernisse
+
+https://doi.org/10.26084/14dfns-p032
+
+<b>Autor/-innen</b>: Robert Hecht, Benjamin Büttner, Ulrike Jehle, Manfred Klaus, Falko Krügel,  Bartosz McCormick, Elias Pajares,  Denis Reiter, Theodor Rieche, Sebastian Seisenberger,  Mathias Jehling
+
+<b>Datum</b>: 2022
+
+<b>Schlüsselwörter</b>: spatial planning; supply; mobility; infrastructure; settlement; development; planning instrument; Lower Saxony; Federal Republic of Germany; 15-Minuten Stadt; Anforderungsanalyse; Web-GIS
+
+<b>Zusammenfassung</b>: Systeme zur Entscheidungsunterstützung haben große Potenziale, Planungsprozesse im Rahmen der Daseinsvorsorge zu verbessern. Allerdings werden mit zunehmenden technischen Möglichkeiten Fragen nach verbesserter Anwendungsorientierung und Nutzbarkeit für Akteure der Planung deutlich. In einem Workshop haben Akteure aus Planungspraxis, Wissenschaft und Wirtschaft anhand von konkreten Fragen aus der Planung die Anwendung der web-basierten Tools „Daseinsvorsorgeatlas Niedersachsen“ und „GOAT 3.0“ diskutiert. Im Rahmen von Arbeitsgruppen wurden die Anwendbarkeit, Indikatoren und Modellierungen sowie Hindernisse für eine Integration in Verfahren erarbeitet.
+________________________________
+
 ### Assessment of the usefulness of the accessibility instrument GOAT for the planning practice
 
 https://doi.org/10.1016/j.urbmob.2022.100033

@@ -33,4 +33,4 @@ The "Comparison of Accessibility and Population Density" heatmap is calculated a
 
 and shows following result:
 
-![](/images/docs/technical_documentation/walkability_population_index/calculated_index.webp)
+<img src="/images/docs/walkability_population_heatmap/EN-LEGEND.webp"  alt="legend english" style="max-height:300px;"/>

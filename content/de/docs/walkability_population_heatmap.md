@@ -26,7 +26,7 @@ Die Vergleichs-Heatmap von Erreichbarkeit und Bevölkerungsdichte ergibt sich au
 
 Zur Klassifizierung der Erreichbarkeitswerte, die für jedes Hexagon berechnet wurden, wird eine Einteilung basierend auf Perzentilen verwendet. Die folgende Tabelle zeigt examplarisch, wie sich die Erreichbarkeitswerte zusammensetzen.
 
-![Klassifizierung](/images/docs/walkability_population_heatmap/classification-DE.webp)            
+![Klassifizierung](/images/docs/walkability_population_heatmap/classification-DE.webp "Klassifizierung Heatmap")            
 
 Die Vergleichs-Heatmap wird wie folgt berechnet:
 
@@ -34,4 +34,4 @@ Die Vergleichs-Heatmap wird wie folgt berechnet:
 
 und zeigt folgendes Ergebnis:
 
-![Legende](/images/docs/walkability_population_heatmap/legende-DE.webp)
+<img src="/images/docs/walkability_population_heatmap/DE-LEGEND_.webp"  alt="Legende" style="max-height:300px;"/>

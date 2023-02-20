@@ -17,7 +17,7 @@ Auf diese Weise können Informationen in geeigneter Weise abgerufen, verwaltet u
 
 Als API wird ein Python Server unter Nutzung des Framworks FastAPI verwendet. So werden Schnittstellen für Geodienste bereitgestellt. Es werden verschiedene Formate unterstützt. Neben dem GeoJSON format werden auch komprimierte Formate wie Geobuf oder Vector tiles verwendet, die eine schnelle Ladezeit im Frontend ermöglichen. Neben den Geodiensten gibt es mehrere Schnittstellen, die für die Business-Logik der Anwendung relevant sind. 
 
-![GOAT Server-Client-Architektur](/images/docs/about/server_client.webp "GOAT Server-Client-Architektur")
+![GOAT Server-Client-Architektur](/images/docs/about/server-client-architecture.webp "Server-Client-Architektur")
 
 Die üblichen Web-Stack-Anwendungen wie HTML, CSS und JavaScript bilden das Frontend. Um grafische Benutzeroberflächen für Webanwendungen mit HTML-Syntax zu erstellen, wird Vue.JS als Javascript-Framework eingesetzt, während Openlayers als Geospatial-Bibliothek für die Verarbeitung von Vektordaten verwendet wird.
 

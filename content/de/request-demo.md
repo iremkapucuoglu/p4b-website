@@ -24,7 +24,7 @@ page = ""
 text = ""
 url = "https://goat.plan4better.de/"
 [[blocks.links]]
-heading = "Demo anfragen"
+heading = "Für Demo registrieren"
 icon = "chevron-double-right"
 page = ""
 text = ""

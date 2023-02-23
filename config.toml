@@ -30,6 +30,16 @@ parent = "GOAT"
 url = "/goat-references/"
 weight = 4
 [[languages.de.menu.center]]
+name = "Referenzen"
+parent = "GOAT"
+url = "/reference/"
+weight = 4
+[[languages.en.menu.center]]
+name = "Referenzen"
+parent = "GOAT"
+url = "/reference/"
+weight = 4
+[[languages.de.menu.center]]
 name = "Einsatzmöglichkeiten"
 parent = "GOAT"
 url = "/goat-anwendung/"
@@ -326,7 +336,7 @@ weight = 3
 [languages.en.menu.social.params]
 icon = "github"
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 [markup.highlight]
 style = "monokai"
 [markup.tableOfContents]

@@ -1910,3 +1910,84 @@ th {
   font-weight: bolder;
   font-size: 15px;
 }
+
+.text-center {
+  text-align: center;
+}
+
+.jumbotron {
+  @include jumbotron-bg;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.font-48 {
+  font-size: 48px;
+}
+
+.font-weight-400 {
+  font-weight: 400;
+}
+
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.reference-header {
+  padding: 60px 10px;
+}
+
+.reference-bg {
+  width: 100vw;
+  height: 30vh;
+
+  div {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    height: 30vh;
+  }
+}
+
+.reference-information {
+  @include jumbotron-bg;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 60px 0;
+
+  section {
+    flex: 50%;
+    font-size: 16px;
+  }
+
+  .rf-planning-cases {
+
+    li {
+      font-weight: 400;
+      padding: 15px 15px 0 0;
+    }
+  }
+
+  .rf-information {
+    div {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      padding: 15px 15px 0 0;
+    }
+
+    h6 {
+      width: 30%;
+    }
+    
+    span {
+      width: 40%;
+      align-self: flex-start;
+    }
+  }
+}

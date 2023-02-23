@@ -11874,4 +11874,59 @@ th {
   font-weight: bolder;
   font-size: 15px; }
 
+.text-center {
+  text-align: center; }
+
+.jumbotron {
+  background-color: #F4F4F4; }
+
+.font-20 {
+  font-size: 20px; }
+
+.font-48 {
+  font-size: 48px; }
+
+.font-weight-400 {
+  font-weight: 400; }
+
+.font-weight-600 {
+  font-weight: 600; }
+
+.reference-header {
+  padding: 60px 10px; }
+
+.reference-bg {
+  width: 100vw;
+  height: 30vh; }
+  .reference-bg div {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    height: 30vh; }
+
+.reference-information {
+  background-color: #F4F4F4;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 60px 0; }
+  .reference-information section {
+    flex: 50%;
+    font-size: 16px; }
+  .reference-information .rf-planning-cases li {
+    font-weight: 400;
+    padding: 15px 15px 0 0; }
+  .reference-information .rf-information div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 15px 15px 0 0; }
+  .reference-information .rf-information h6 {
+    width: 30%; }
+  .reference-information .rf-information span {
+    width: 40%;
+    align-self: flex-start; }
+
 /*# sourceMappingURL=main.css.map */

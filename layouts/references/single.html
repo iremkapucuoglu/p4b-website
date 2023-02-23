@@ -1,0 +1,93 @@
+{{ define "main" }}
+<section class="uk-section">
+    <section class="jumbotron text-center uk-padding-medium reference-header">
+        <div class="uk-container">
+            <h5 class="uk-text-uppercase uk-text-spacing-small">{{ i18n "reference" }}</h5>
+            {{ with .Title }}
+            <h1 class="font-48 font-weight-600">{{ . }}</h1>
+            {{ end }}
+            {{ with .Summary }}
+            <h4 class="uk-margin-remove-top font-20 font-weight-400">{{ . }}</h4>
+            {{ end }}
+        </div>
+    </section>
+    <section class="reference-bg">
+        <div style="background-image: url('{{ .Params.image }}');"></div>
+    </section>
+    <section class="jumbotron">
+        <div class="uk-container reference-information">
+            <section class="rf-information">
+                <h2>Allgemeine Informationen</h2>
+                {{ if .Params.information }}
+                    <div>
+                        <h6>Auftraggeber: </h6> 
+                        <span>{{ index .Params.information 0 }}</span>
+                    </div>
+                    <div>
+                        <h6>Zeitspanne: </h6> 
+                        <span>{{ index .Params.information 1 }}</span>
+                    </div>
+                    <div>
+                        <h6>Anprechpartnerin: </h6> 
+                        <span>{{ index .Params.information 2 }}</span>
+                    </div>
+                {{ end }}
+            </section>
+            <section>
+                <h2>Planning Cases</h2>
+                {{ if .Params.planning_cases }}
+                    <ul class="rf-planning-cases">
+                    {{ range .Params.planning_cases }}
+                        <li>{{ . }}</li>
+                    {{ end }}
+                    </ul>
+                {{ end }}
+            </section>
+        </div>
+    </section>
+    
+    <div class="uk-container">
+        <div class="uk-grid-large" data-uk-grid>
+            <!-- <div class="uk-width-1-3@l uk-visible@l uk-article-toc">
+				<div class="uk-background-muted uk-padding-medium uk-border-rounded" data-uk-sticky="offset: 70; media: @l; bottom: true" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 60">
+					<h6 class="uk-margin-small-top uk-text-uppercase uk-text-spacing-small">{{ i18n "table_of_contents" }}</h6>
+					<hr>
+					<ul class="uk-nav uk-nav-default uk-nav-parent-icon" data-uk-nav>
+						{{ $section := where $.Site.RegularPages "Section" "references" }}
+						{{ range site.Data.references }}
+							{{ $references := where $section ".Params.sections" "intersect" (slice .category) }}
+						{{ end }}
+					</ul>
+				</div>
+			</div> -->
+            <div class="uk-width-expand@l">
+                <div class="uk-docs-content uk-position-relative">
+                    <div class="uk-back-top-top uk-text-right"
+                        uk-sticky="animation: uk-animation-fade; bottom: true; offset: 90vh; cls-inactive: uk-invisible">
+                        <a href="#" class="uk-icon-button" uk-totop="ratio: 1.1" uk-scroll></a>
+                    </div>
+                    <div class="uk-hidden@l">
+                        <button class="uk-button uk-button-secondary uk-margin-medium-bottom uk-button-small"
+                            type="button">{{ i18n "navigate_references" }}</button>
+                        <div uk-dropdown="mode: click">
+                            <ul class="uk-nav uk-dropdown-nav">
+                                {{ range site.Data.references }}
+                                {{ $references := where $section ".Params.sections" "intersect" (slice .category) }}
+                                <li class="uk-h4 uk-margin-small">{{ index .heading site.Language.Lang }}</li>
+                                {{ range $references.ByWeight }}
+                                <li{{ if eq .Title $.Title }} class="uk-active" {{ end }}><a href="{{ .Permalink }}">{{
+                                        .Title }}</a></li>
+                                    {{ end }}
+                                    {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="uk-article-content uk-text-m uk-margin-medium-top">
+                        {{ .Content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

@@ -31,6 +31,13 @@ sections:
   templates:
   - blog-post
 - type: directory
+  path: content/en/references
+  label: References EN
+  create: documents
+  match: "*"
+  templates:
+  - blog-post
+- type: directory
   path: content/de/posts
   label: Posts DE
   create: documents
@@ -61,6 +68,20 @@ sections:
 - type: directory
   path: content/de/tutorials
   label: Tutorials DE
+  create: documents
+  match: "*"
+  templates:
+  - documentation-post
+- type: directory
+  path: content/en/references
+  label: references EN
+  create: documents
+  match: "*"
+  templates:
+  - documentation-post
+- type: directory
+  path: content/de/references
+  label: references DE
   create: documents
   match: "*"
   templates:

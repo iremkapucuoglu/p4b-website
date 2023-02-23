@@ -1,5 +1,6 @@
 {{ define "main" }}
 <section class="uk-section">
+
     <section class="jumbotron text-center uk-padding-medium reference-header">
         <div class="uk-container">
             <h5 class="uk-text-uppercase uk-text-spacing-small">{{ i18n "reference" }}</h5>
@@ -11,9 +12,11 @@
             {{ end }}
         </div>
     </section>
+
     <section class="reference-bg">
         <div style="background-image: url('{{ .Params.image }}');"></div>
     </section>
+
     <section class="jumbotron">
         <div class="uk-container reference-information">
             <section class="rf-information">
@@ -46,48 +49,57 @@
         </div>
     </section>
     
-    <div class="uk-container">
+    
+    <div class="uk-container uk-margin-medium-top">
         <div class="uk-grid-large" data-uk-grid>
-            <!-- <div class="uk-width-1-3@l uk-visible@l uk-article-toc">
-				<div class="uk-background-muted uk-padding-medium uk-border-rounded" data-uk-sticky="offset: 70; media: @l; bottom: true" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 60">
-					<h6 class="uk-margin-small-top uk-text-uppercase uk-text-spacing-small">{{ i18n "table_of_contents" }}</h6>
-					<hr>
-					<ul class="uk-nav uk-nav-default uk-nav-parent-icon" data-uk-nav>
-						{{ $section := where $.Site.RegularPages "Section" "references" }}
-						{{ range site.Data.references }}
-							{{ $references := where $section ".Params.sections" "intersect" (slice .category) }}
-						{{ end }}
-					</ul>
-				</div>
-			</div> -->
             <div class="uk-width-expand@l">
                 <div class="uk-docs-content uk-position-relative">
-                    <div class="uk-back-top-top uk-text-right"
-                        uk-sticky="animation: uk-animation-fade; bottom: true; offset: 90vh; cls-inactive: uk-invisible">
-                        <a href="#" class="uk-icon-button" uk-totop="ratio: 1.1" uk-scroll></a>
-                    </div>
-                    <div class="uk-hidden@l">
-                        <button class="uk-button uk-button-secondary uk-margin-medium-bottom uk-button-small"
-                            type="button">{{ i18n "navigate_references" }}</button>
-                        <div uk-dropdown="mode: click">
-                            <ul class="uk-nav uk-dropdown-nav">
-                                {{ range site.Data.references }}
-                                {{ $references := where $section ".Params.sections" "intersect" (slice .category) }}
-                                <li class="uk-h4 uk-margin-small">{{ index .heading site.Language.Lang }}</li>
-                                {{ range $references.ByWeight }}
-                                <li{{ if eq .Title $.Title }} class="uk-active" {{ end }}><a href="{{ .Permalink }}">{{
-                                        .Title }}</a></li>
-                                    {{ end }}
-                                    {{ end }}
-                            </ul>
-                        </div>
-                    </div>
                     <div class="uk-article-content uk-text-m uk-margin-medium-top">
+                        <section>
+                            <h1>Overview</h1>
+                            {{ .Params.overview }}
+                        </section>
+                        <br />
+                        <div class="rf-slider uk-margin-medium-top">
+                            {{ range $index, $element := .Params.slider_items }}
+                                <li>
+                                    <img src="{{ $element.image }}" />
+                                    <div class="overlay uk-margin-small-top">
+                                        <span>{{ $element.title }}</span>
+                                    </div>
+                                </li>
+                            {{end}}
+                        </div>
+                        <br />
+                        <br />
+                        <section class="uk-margin-medium-top">
                         {{ .Content }}
+                        </section>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <section class="abo-goat-quote uk-margin-large-top jumbotron">
+        <div class="goat-quote-slide" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+            {{range $index, $element := .Params.reviews}}
+                <div class="reference-quote-item">
+                    <div style="background-image: url('{{$element.image}}')" class="img"></div>
+                    <div>
+                        <h4>{{ $element.text }}</h4>
+                        <p>{{ $element.person }}</p>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    </section>
+
+    <section class="reference-goat-promotion uk-margin-large-top" style="background-image: url('{{ .Params.image }}');">
+        <div class="reference-overlay-btn">
+            <img src="/images/GOAT/GOAT_Logo_Single.png" />
+            <button type="submit" class="uk-button uk-button-primary">Get GOAT for your city</button>
+        </div>
+    </section>
+
 </section>
 {{ end }}

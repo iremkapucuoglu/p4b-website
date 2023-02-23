@@ -173,3 +173,21 @@ $(".slideshow").on(
     }
   }
 );
+
+
+
+$(".rf-slider").slick({
+  autoplay: false,
+  autoplaySpeed: 7000,
+  infinite: true,
+  speed: 600,
+  cssEase: "linear",
+  centerMode: true,
+  slidesToShow: 3,
+  slidesToScroll: 3,
+  variableWidth: true,
+  arrows: true,
+  swipeToSlide: true,
+  prevArrow: '<button type="button" class="slick-prev"></button>',
+  nextArrow: '<button type="button" class="slick-next"></button>',
+});

@@ -176,15 +176,12 @@ $(".slideshow").on(
 
 
 
-$(".rf-slider").slick({
+$(".rf-slider-mobile").slick({
   autoplay: false,
-  autoplaySpeed: 7000,
-  infinite: true,
-  speed: 600,
   cssEase: "linear",
   centerMode: true,
   slidesToShow: 3,
-  slidesToScroll: 3,
+  slidesToScroll: 1,
   variableWidth: true,
   arrows: true,
   swipeToSlide: true,

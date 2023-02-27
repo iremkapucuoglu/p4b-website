@@ -1960,6 +1960,8 @@ th {
   justify-content: space-between;
   align-items: flex-start;
   padding: 60px 0;
+  padding-left: 80px;
+  padding-right: 80px;
 
   section {
     flex: 50%;
@@ -1982,6 +1984,7 @@ th {
       align-content: center;
       padding: 15px 15px 0 0;
       margin: 0;
+      flex-wrap: wrap;
     }
 
     h6 {
@@ -2000,9 +2003,11 @@ th {
   flex-flow: row nowrap;
   justify-content: space-between;
   align-items: center;
+  gap: 30px;
+  list-style: none !important;
 
   li {
-    flex-basis: 330px;
+    flex-basis: 35%;
     text-align: center;
     font-size: 11px;
   }
@@ -2023,21 +2028,6 @@ th {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  column-gap: 120px;
-
-  .img {
-    width: 550px;
-    height: 230px;
-    border-radius: 12px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: 0 30px;
-  }
-
-  h4 {
-    max-width: 70%;
-  }
 }
 
 .reference-goat-promotion {
@@ -2063,4 +2053,75 @@ th {
   img {
     max-height: 30vh;
   }
+}
+
+
+.references-related {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  list-style: none !important;
+}
+
+.no-style-link-scale {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+    // transform scale and delay
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1);
+  }
+}
+
+.rf-slider-mobile {
+  display: none;
+
+  img {
+    border-radius: 30px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .reference-information {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 !important;
+
+    li, div {
+      padding: 0 !important;
+    }
+  }
+
+  .rf-slider {
+    display: none;
+  }
+
+  .rf-slider-mobile {
+    display: block;
+  }
+
+  .reference-quote-item {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .references-related {
+    flex-wrap: wrap;
+  }
+
+  .rf-information {
+    div {
+      flex-direction: column;
+    }
+  }
+
+  .references-related {
+    display: none;
+  }
+
 }

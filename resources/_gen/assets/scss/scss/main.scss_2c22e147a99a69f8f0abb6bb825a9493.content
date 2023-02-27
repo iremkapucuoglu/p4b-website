@@ -11912,7 +11912,9 @@ th {
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 60px 0; }
+  padding: 60px 0;
+  padding-left: 80px;
+  padding-right: 80px; }
   .reference-information section {
     flex: 50%;
     font-size: 17px; }
@@ -11925,7 +11927,8 @@ th {
     align-items: center;
     align-content: center;
     padding: 15px 15px 0 0;
-    margin: 0; }
+    margin: 0;
+    flex-wrap: wrap; }
   .reference-information .rf-information h6 {
     width: 30%;
     margin: 0; }
@@ -11936,9 +11939,11 @@ th {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
-  align-items: center; }
+  align-items: center;
+  gap: 30px;
+  list-style: none !important; }
   .rf-slider li {
-    flex-basis: 330px;
+    flex-basis: 35%;
     text-align: center;
     font-size: 11px; }
   .rf-slider li img {
@@ -11953,18 +11958,7 @@ th {
   padding: 50px 50px;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
-  column-gap: 120px; }
-  .reference-quote-item .img {
-    width: 550px;
-    height: 230px;
-    border-radius: 12px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: 0 30px; }
-  .reference-quote-item h4 {
-    max-width: 70%; }
+  align-items: center; }
 
 .reference-goat-promotion {
   display: flex;
@@ -11985,5 +11979,48 @@ th {
     background: rgba(255, 247, 245, 0.8); }
   .reference-goat-promotion img {
     max-height: 30vh; }
+
+.references-related {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  list-style: none !important; }
+
+.no-style-link-scale {
+  text-decoration: none; }
+  .no-style-link-scale:hover {
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1); }
+
+.rf-slider-mobile {
+  display: none; }
+  .rf-slider-mobile img {
+    border-radius: 30px; }
+
+@media only screen and (max-width: 900px) {
+  .reference-information {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 !important; }
+    .reference-information li, .reference-information div {
+      padding: 0 !important; }
+  .rf-slider {
+    display: none; }
+  .rf-slider-mobile {
+    display: block; }
+  .reference-quote-item {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; }
+  .references-related {
+    flex-wrap: wrap; }
+  .rf-information div {
+    flex-direction: column; }
+  .references-related {
+    display: none; } }
 
 /*# sourceMappingURL=main.css.map */

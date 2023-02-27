@@ -18,8 +18,8 @@
     </section>
 
     <section class="jumbotron">
-        <div class="uk-container reference-information">
-            <section class="rf-information">
+        <div class="reference-information">
+            <section class="rf-information uk-container">
                 <h2>Allgemeine Informationen</h2>
                 {{ if .Params.information }}
                     <div>
@@ -51,46 +51,51 @@
     
     
     <div class="uk-container uk-margin-medium-top">
-        <div class="uk-grid-large" data-uk-grid>
-            <div class="uk-width-expand@l">
-                <div class="uk-docs-content uk-position-relative">
-                    <div class="uk-article-content uk-text-m uk-margin-medium-top">
-                        <section>
-                            <h1>Overview</h1>
-                            {{ .Params.overview }}
-                        </section>
-                        <br />
-                        <div class="rf-slider uk-margin-medium-top">
-                            {{ range $index, $element := .Params.slider_items }}
-                                <li>
-                                    <img src="{{ $element.image }}" />
-                                    <div class="overlay uk-margin-small-top">
-                                        <span>{{ $element.title }}</span>
-                                    </div>
-                                </li>
-                            {{end}}
-                        </div>
-                        <br />
-                        <br />
-                        <section class="uk-margin-medium-top">
-                        {{ .Content }}
-                        </section>
+        <div class="uk-width-expand@l">
+            <div class="uk-docs-content uk-position-relative">
+                <div class="uk-article-content uk-text-m uk-margin-medium-top">
+                    <section>
+                        <h1>Overview</h1>
+                        {{ .Params.overview }}
+                    </section>
+                    <br />
+                    <div class="rf-slider uk-margin-medium-top">
+                        {{ range $index, $element := .Params.slider_items }}
+                            <li>
+                                <img src="{{ $element.image }}" />
+                                <div class="overlay uk-margin-small-top">
+                                    <span>{{ $element.title }}</span>
+                                </div>
+                            </li>
+                        {{end}}
                     </div>
+                    <div class="rf-slider-mobile uk-margin-medium-top slideshow">
+                        {{ range $index, $element := .Params.slider_items }}
+                            <li class="slideshow__slide">
+                                <img src="{{ $element.image }}" />
+                                <div class="overlay uk-margin-small-top">
+                                    <span>{{ $element.title }}</span>
+                                </div>
+                            </li>
+                        {{end}}
+                    </div>
+                    <br />
+                    <br />
+                    <section class="uk-margin-medium-top">
+                    {{ .Content }}
+                    </section>
                 </div>
             </div>
         </div>
     </div>
-    <section class="abo-goat-quote uk-margin-large-top jumbotron">
-        <div class="goat-quote-slide" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
-            {{range $index, $element := .Params.reviews}}
-                <div class="reference-quote-item">
-                    <div style="background-image: url('{{$element.image}}')" class="img"></div>
-                    <div>
-                        <h4>{{ $element.text }}</h4>
-                        <p>{{ $element.person }}</p>
-                    </div>
-                </div>
-            {{ end }}
+
+    <section class="uk-margin-large-top jumbotron">
+        <div class="reference-quote-item uk-container">
+            <img src="{{ .Params.review_image }}" width="250px" height="250px" />
+            <div>
+                <h4>{{ .Params.review_text }}</h4>
+                <p>{{ .Params.review_person }}</p>
+            </div>
         </div>
     </section>
 
@@ -100,6 +105,39 @@
             <button type="submit" class="uk-button uk-button-primary">Get GOAT for your city</button>
         </div>
     </section>
+
+    <h2 class="text-center uk-margin-large-top">More references</h2>
+    <div class="references-related uk-margin-medium-top uk-container">
+        {{ range $index, $element := .Params.other_cities }}
+            <a href="../{{ $element.name }}" class="no-style-link-scale">
+                <div class="uk-card uk-card-default uk-border-rounded-large uk-postion-relative">
+                  <div class="uk-card-media-top">
+                    <img class="uk-border-rounded-large-top" src="{{ $element.image | absURL }}" alt="{{ $element.name }}">
+                  </div>
+                  <div class="uk-card-body">
+                    <h4 class="uk-margin-small-bottom uk-text-primary">{{ $element.name }}</h4>
+                    <div>{{ $element.description }}</div>
+                  </div>
+                </div>
+            </a>
+        {{end}}
+    </div>
+
+    <div class="rf-slider-mobile slideshow">
+        {{ range $index, $element := .Params.other_cities }}
+            <a href="../{{ $element.name }}" class="no-style-link-scale slideshow__slide">
+                <div class="uk-card uk-card-default uk-border-rounded-large uk-postion-relative">
+                    <div class="uk-card-media-top">
+                    <img class="uk-border-rounded-large-top" src="{{ $element.image | absURL }}" alt="{{ $element.name }}">
+                    </div>
+                    <div class="uk-card-body">
+                    <h4 class="uk-margin-small-bottom uk-text-primary">{{ $element.name }}</h4>
+                    <div>{{ $element.description }}</div>
+                    </div>
+                </div>
+            </a>
+        {{end}}
+    </div>
 
 </section>
 {{ end }}

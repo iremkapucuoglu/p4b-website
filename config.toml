@@ -101,6 +101,14 @@ weight = 6
 name = "Kontakt"
 url = "/kontakt/"
 weight = 8
+[[languages.de.menu.center]]
+name = "Referenzen"
+url = "/goat-references/"
+weight = 7
+[[languages.en.menu.center]]
+name = "References"
+url = "/goat-references/"
+weight = 7
 [[languages.de.menu.footer]]
 name = "Kontakt"
 url = "/kontakt/"
@@ -167,11 +175,6 @@ name = "GOAT for planning offices"
 parent = "GOAT"
 url = "/en/goat-consulting/"
 weight = 3
-[[languages.en.menu.center]]
-name = "References"
-parent = "GOAT"
-url = "/goat-references/"
-weight = 4
 [[languages.en.menu.center]]
 name = "Use Cases"
 parent = "GOAT"

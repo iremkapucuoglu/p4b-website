@@ -1941,15 +1941,14 @@ th {
 
 .reference-bg {
   width: 100vw;
-  height: 30vh;
+  height: 40vh;
 
   div {
+    all: inherit;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    filter: grayscale(60%);
-    width: 100vw;
-    height: 30vh;
+    filter: grayscale(10%);
   }
 }
 
@@ -2078,9 +2077,15 @@ th {
 
 .rf-slider-mobile {
   display: none;
+  
+  .slideshow__slide {
+    padding: 40px 50px;
+    width: 70vw !important;
+  }
 
   img {
     border-radius: 30px;
+    width: 250px;
   }
 }
 
@@ -2114,11 +2119,11 @@ th {
     flex-wrap: wrap;
   }
 
-  .rf-information {
-    div {
-      flex-direction: column;
-    }
-  }
+  // .rf-information {
+  //   div {
+  //     flex-direction: column;
+  //   }
+  // }
 
   .references-related {
     display: none;

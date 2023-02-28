@@ -23,15 +23,15 @@
                 <h2>Allgemeine Informationen</h2>
                 {{ if .Params.information }}
                     <div>
-                        <h6>Auftraggeber: </h6> 
+                        <h6>Client: </h6> 
                         <span>{{ index .Params.information 0 }}</span>
                     </div>
                     <div>
-                        <h6>Zeitspanne: </h6> 
+                        <h6>Period of time: </h6> 
                         <span>{{ index .Params.information 1 }}</span>
                     </div>
                     <div>
-                        <h6>Anprechpartnerin: </h6> 
+                        <h6>Contact person: </h6> 
                         <span>{{ index .Params.information 2 }}</span>
                     </div>
                 {{ end }}
@@ -128,11 +128,11 @@
             <a href="../{{ $element.name }}" class="no-style-link-scale slideshow__slide">
                 <div class="uk-card uk-card-default uk-border-rounded-large uk-postion-relative">
                     <div class="uk-card-media-top">
-                    <img class="uk-border-rounded-large-top" src="{{ $element.image | absURL }}" alt="{{ $element.name }}">
+                        <img class="uk-border-rounded-large-top" src="{{ $element.image | absURL }}" alt="{{ $element.name }}">
                     </div>
                     <div class="uk-card-body">
-                    <h4 class="uk-margin-small-bottom uk-text-primary">{{ $element.name }}</h4>
-                    <div>{{ $element.description }}</div>
+                        <h4 class="uk-margin-small-bottom uk-text-primary">{{ $element.name }}</h4>
+                        <p>{{ $element.description }}</p>
                     </div>
                 </div>
             </a>

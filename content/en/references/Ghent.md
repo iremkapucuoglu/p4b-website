@@ -1,9 +1,9 @@
 ---
 layout: reference
-title: Einsatz von GOAT in Ghent
+title: Use of GOAT in Ghent
 lang: en
-thumbnail: "/images/blog/development_path/thumbnail.webp"
-image: "/images/blog/goat3.0/freiburg_goat3_banner.webp"
+thumbnail: "/images/blog/goat3.0/ghent.png"
+image: "/images/blog/goat3.0/ghent.png"
 summary: GOAT for urban planning and transportation analysis - Freiburg, Germany
 information:
   - Stadt Freiburg und Freiburger Verkehrs AG (VAG)
@@ -21,11 +21,11 @@ description:
 overview: In 2021, GOAT was implemented to the city of Freiburg, where it was developed with new features as part of an innovation project. Since then, the software has been used by the City of Freiburg's Urban Planning Department and the VAG, among others, to conduct needs and location analyses for new bike-sharing stations. A wide range of spatial data, including socio-demographic data, is used for this purpose.
 
 slider_items:
-  - image: "/images/blog/goat3.0/freiburg_goat3_banner.webp"
+  - image: "/images/blog/goat3.0/placeholderImage.png"
     title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-  - image: "/images/blog/goat3.0/freiburg_goat3_banner.webp"
+  - image: "/images/blog/goat3.0/placeholderImage.png"
     title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-  - image: "/images/blog/goat3.0/freiburg_goat3_banner.webp"
+  - image: "/images/blog/goat3.0/placeholderImage.png"
     title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
 
 review_text: "Es war einst ein Stadtplaner so fein, der wollt' die Stadt schöner und sicherer sein.Er baute eine Straße, zwei und drei, doch seine Pläne waren am Ende nie.Jetzt lebt er in einem Verkehrsalbtraum allein."
@@ -35,15 +35,15 @@ review_image: "/images/index/BMDV_Logo.webp"
 other_cities:
   - name: "Freiburg"
     link: "/en/references/freiburg"
-    image: "/images/blog/goat3.0/freiburg_goat3_banner.webp"
+    image: "/images/blog/goat3.0/placeholderImage.png"
     description: "Munich is our home base! As part of various projects, GOAT was used by the City of Munich to analyse the impact of new walking and cycling connections and to identify suitable locations for bike-sharing stations."
   - name: "München"
     link: "/en/references/munich"
-    image: "/images/blog/goat3.0/freiburg_goat3_banner.webp"
+    image: "/images/blog/goat3.0/placeholderImage.png"
     description: "Munich is our home base! As part of various projects, GOAT was used by the City of Munich to analyse the impact of new walking and cycling connections and to identify suitable locations for bike-sharing stations."
   - name: "Berlin"
     link: "/en/references/berlin"
-    image: "/images/blog/goat3.0/freiburg_goat3_banner.webp"
+    image: "/images/blog/goat3.0/placeholderImage.png"
     description: "Munich is our home base! As part of various projects, GOAT was used by the City of Munich to analyse the impact of new walking and cycling connections and to identify suitable locations for bike-sharing stations."
 ---
 

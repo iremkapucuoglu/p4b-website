@@ -11897,14 +11897,13 @@ th {
 
 .reference-bg {
   width: 100vw;
-  height: 30vh; }
+  height: 40vh; }
   .reference-bg div {
+    all: inherit;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    filter: grayscale(60%);
-    width: 100vw;
-    height: 30vh; }
+    filter: grayscale(10%); }
 
 .reference-information {
   background-color: #F4F4F4;
@@ -11997,8 +11996,12 @@ th {
 
 .rf-slider-mobile {
   display: none; }
+  .rf-slider-mobile .slideshow__slide {
+    padding: 40px 50px;
+    width: 70vw !important; }
   .rf-slider-mobile img {
-    border-radius: 30px; }
+    border-radius: 30px;
+    width: 250px; }
 
 @media only screen and (max-width: 900px) {
   .reference-information {
@@ -12018,8 +12021,6 @@ th {
     align-items: center; }
   .references-related {
     flex-wrap: wrap; }
-  .rf-information div {
-    flex-direction: column; }
   .references-related {
     display: none; } }
 

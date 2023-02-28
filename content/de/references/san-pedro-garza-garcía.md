@@ -1,7 +1,7 @@
 ---
 layout: reference
-title: Madrid
-lang: en
+title: san pedro garza garcía
+lang: de
 thumbnail: "/images/blog/goat3.0/ghent.png"
 image: "/images/blog/goat3.0/ghent.png"
 summary: GOAT for urban planning and transportation analysis - Freiburg, Germany
@@ -31,20 +31,6 @@ slider_items:
 review_text: "Es war einst ein Stadtplaner so fein, der wollt' die Stadt schöner und sicherer sein.Er baute eine Straße, zwei und drei, doch seine Pläne waren am Ende nie.Jetzt lebt er in einem Verkehrsalbtraum allein."
 review_person: "Name, Position"
 review_image: "/images/index/BMDV_Logo.webp"
-
-other_cities:
-  - name: "Freiburg"
-    link: "/en/references/freiburg"
-    image: "/images/blog/goat3.0/placeholderImage.png"
-    description: "Munich is our home base! As part of various projects, GOAT was used by the City of Munich to analyse the impact of new walking and cycling connections and to identify suitable locations for bike-sharing stations."
-  - name: "München"
-    link: "/en/references/munich"
-    image: "/images/blog/goat3.0/placeholderImage.png"
-    description: "Munich is our home base! As part of various projects, GOAT was used by the City of Munich to analyse the impact of new walking and cycling connections and to identify suitable locations for bike-sharing stations."
-  - name: "Berlin"
-    link: "/en/references/berlin"
-    image: "/images/blog/goat3.0/placeholderImage.png"
-    description: "Munich is our home base! As part of various projects, GOAT was used by the City of Munich to analyse the impact of new walking and cycling connections and to identify suitable locations for bike-sharing stations."
 ---
 
 We provide a comprehensive set of services utilizing GOAT software, helping urban planners and transportation officials in the City of Freiburg to make informed decisions on a wide range of planning and transportation projects. Our expertise in analyzing spatial data, including socio-demographic data, allows us to provide high-quality insights and recommendations for any project we work on.

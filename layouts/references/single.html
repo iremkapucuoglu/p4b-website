@@ -147,7 +147,7 @@
             {{ $posts := where site.RegularPages "Section" "references" }}
             {{ $posts_related := first 3 (where $posts "Title" "!=" .Title) }}
             {{ $section_count := len $posts_related }}
-            {{ if ge $section_count 1 }}
+            {{ if ge $section_count 3 }}
               {{ range $posts_related }}
                  <div>{{ partial "card-post-partial.html" . }}</div>
               {{ end }}

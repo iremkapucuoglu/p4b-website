@@ -63,3 +63,6 @@ other = "By"
 
 [all_posts]
 other = "All Posts"
+
+[reference]
+other = "reference"

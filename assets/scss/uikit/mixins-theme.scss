@@ -2130,3 +2130,7 @@
 @mixin hook-inverse-logo-hover(){}
 @mixin hook-visibility-misc(){}
 @mixin hook-width-misc(){}
+
+@mixin jumbotron-bg() {
+    background-color: #F4F4F4;
+}

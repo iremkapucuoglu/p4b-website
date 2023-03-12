@@ -65,4 +65,28 @@ other = "By"
 other = "All Posts"
 
 [reference]
-other = "reference"
+other = "Referenz"
+
+[planning_cases]
+other = "Bearbeitete Planungsfälle"
+
+[overview]
+other =  "Inhalt"
+
+[client]
+other = "Auftraggeber"
+
+[period_of_time]
+other = "Laufzeit"
+
+[contact_person]
+other = "Ansprechperson"
+
+[get_GOAT_for_your_city]
+other = "Mehr zu GOAT erfahren"
+
+[general_information]
+other = "Allgemeine Informationen"
+
+[other_cities]
+other = "Andere Städte"

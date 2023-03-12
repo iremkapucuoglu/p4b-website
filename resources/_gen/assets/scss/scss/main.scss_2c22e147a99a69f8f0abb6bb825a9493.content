@@ -11976,23 +11976,6 @@ th {
     flex-direction: column;
     justify-content: center;
     background: rgba(255, 247, 245, 0.8); }
-  .reference-goat-promotion img {
-    max-height: 30vh; }
-
-.references-related {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
-  align-items: center;
-  gap: 30px;
-  list-style: none !important; }
-
-.no-style-link-scale {
-  text-decoration: none; }
-  .no-style-link-scale:hover {
-    text-decoration: none;
-    transition: all 0.2s ease-in-out;
-    transform: scale(1.1); }
 
 .rf-slider-mobile {
   display: none; }
@@ -12016,7 +11999,19 @@ th {
     align-items: center;
     margin: 0 !important; }
     .reference-information li, .reference-information div {
-      padding: 0 !important; }
+      font-size: 14px !important;
+      padding: 0 !important;
+      width: 100%;
+      column-gap: 40px;
+      margin-top: 10px; }
+    .reference-information h6 {
+      width: 250px !important; }
+    .reference-information section {
+      margin-bottom: 30px; }
+    .reference-information span {
+      width: 250px !important;
+      padding: 0 !important;
+      margin: 10px; }
   .rf-slider {
     display: none; }
   .rf-slider-mobile {

@@ -2,9 +2,10 @@
 layout: reference
 title: WALKIE
 lang: de
-thumbnail: "/images/references/freiburg/thumbnail.webp"
-image: "/images/references/freiburg/banner.webp"
-summary: Im Rahmen eines Innovationsprojektes wurde ein Walkability Index zum Aufzeigen der Fußgängerfreundlichkeit für die Pilotkommune Freiburg entwickelt.
+thumbnail: "/images/references/walkie/thumbnail.webp"
+image: "/images/references/walkie/banner.webp"
+summary: Im Rahmen eines Innovationsprojektes wurde ein Walkability Index zum Aufzeigen der Fußgängerfreundlichkeit für die Pilotkommune Freiburg entwickelt und für die Schulwegeplanung eingesetzt.
+
 information:
   - MobiDataBW und Verkehrsministerium Baden-Württemberg
   - 2021 - 2022

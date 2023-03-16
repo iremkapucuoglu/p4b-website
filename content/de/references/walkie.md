@@ -4,17 +4,20 @@ title: WALKIE
 lang: de
 thumbnail: "/images/references/freiburg/thumbnail.webp"
 image: "/images/references/freiburg/banner.webp"
-summary: TODO
+summary: Im Rahmen eines Innovationsprojektes wurde ein Walkability Index zum Aufzeigen der Fußgängerfreundlichkeit für die Pilotkommune Freiburg entwickelt.
 information:
   - MobiDataBW und Verkehrsministerium Baden-Württemberg
   - 2021 - 2022
   - Ulrike Jehle
 planning_cases:
-  - TODO
+  - Übertragung der Software GOAT auf die Stadt Freiburg
+  - Entwicklung eines Walkability Index
+  - Entwicklung von Fußgängerpotentialströmen
+  - Piloteinsatz zur Schulwegeplanung
 description:
 
 
-overview: Im Rahmen des Projektes WALKIE („WALKability IndEx“) haben wir eine dreimonatige Förderung durch das Verkehrsministerium Baden-Württemberg im Rahmen der Anschlussförderung des MobiDataBW Hackathons 2020 erhalten. Diese ermöglichte uns den Index in enger Zusammenarbeit mit der Pilotkommune Freiburg zu konkretisieren und im Anschluss erfolgreich auf diese zu übertragen.
+overview: Im November 2020 konnten wir mit unserem „Walkability Index“ zur Fußgängerfreundlichkeit als eines der Gewinner-Teams beim MobiDataBW Hackathon überzeugen. Im Rahmen einer dreimonatigen Anschlussförderung durch das Verkehrsministerium Baden-Württemberg konnten wir den entwickelten Protypen in einem Innovationsprojekt weiterentwickeln. Unter dem Namen WALKIE („WALKability IndEx“) haben wir den Index auf die Pilotkommune Freiburg angewandt. Der Walkability Index kombiniert eine Vielzahl an Attributen (Oberflächenbeschaffenheit, Beleuchtung, Verkehrssicherheit, Umgebung, etc.) zu einem aggregierten Index, der aufzeigt wie attraktiv die Fußwege sind. Somit können Schwachstellen im Fußwegenetz identifiziert werden. 
 
 slider_items:
   - image: "/images/blog/goat3.0/placeholderImage.png"
@@ -29,10 +32,19 @@ review_person: "Dr. Michael Bauder, Stadt Freiburg"
 review_image: "/images/index/digital-freiburg.png"
 ---
 
-TODO: weitere infos zu walkie ... 
+Für die Priorisierung der Verbesserungsmaßnahmen ist die Frequentierung der Straßen ebenfalls ein wichtiger Anhaltspunkt. Dafür wurde ein weiterer Indikator entwickelt, der die Fußgängerpotenzialströme aufzeigt. 
+
+Als Anwendungsbeispiel wurden für die Stadt Freiburg Fußgängerpotenzialströme für Schulwege zu Grundschulen berechnet. Der Anteil an Kindern zwischen 6 und 9 Jahren war bekannt, dadurch konnte pro Wohnhaus abgeschätzt werden, wie viele Kinder in diesem wohnen. Im nächsten Schritt wurde von allen Wohnhäusern aus der kürzeste Weg zur jeweiligen Bezirksgrundschule berechnet. Die einzelnen Ströme wurden aufsummiert und ergeben die aggregierten Fußgängerpotenzialströme.
+
+Durch die Gegenüberstellung des Walkability Index mit den Fußgängerpotentialströmen wurde analysiert, welche Wege eine hohe Frequentierung und zeitgleich eine geringe Walkability haben. Diese sollten bei der Planung priorisiert werden.
 
 
-Blogposts zu diesem Projekt:
+**Blogposts zu diesem Projekt:**
 - [Hackathon: Entwicklung eines Walkability-Index](../../posts/2021-04-06-walkability-index/ "Blogpost Hackathon: Entwicklung eines Walkability-Index")
-- [WALKIE Projekt erfolgreich abgeschlossen](../../posts/2021-08-06-walkie/Blogpost "WALKIE Projekt erfolgreich abgeschlossen") 
+- [WALKIE Projekt erfolgreich abgeschlossen](../../posts/2021-08-06-walkie/ "Blogpost WALKIE Projekt erfolgreich abgeschlossen") 
+
+
+**Wissenschaftliche Veröffentlichung:**
+- [Analyse der Fußwegequalitäten zu Schulen: Entwicklung von Indikatoren auf Basis von OpenData](https://www.ssoar.info/ssoar/handle/document/79047 "Analyse der Fußwegequalitäten zu Schulen: Entwicklung von Indikatoren auf Basis von OpenData")
+
 

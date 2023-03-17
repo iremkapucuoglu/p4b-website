@@ -15,7 +15,6 @@ planning_cases:
   - Entwicklung eines Walkability Index
   - Entwicklung von Fußgängerpotentialströmen
   - Piloteinsatz zur Schulwegeplanung
-description:
 
 
 overview: Im November 2020 konnten wir mit unserem „Walkability Index“ zur Fußgängerfreundlichkeit als eines der Gewinner-Teams beim MobiDataBW Hackathon überzeugen. Im Rahmen einer dreimonatigen Anschlussförderung durch das Verkehrsministerium Baden-Württemberg konnten wir den entwickelten Protypen in einem Innovationsprojekt weiterentwickeln. Unter dem Namen WALKIE („WALKability IndEx“) haben wir den Index auf die Pilotkommune Freiburg angewandt. Der Walkability Index kombiniert eine Vielzahl an Attributen (Oberflächenbeschaffenheit, Beleuchtung, Verkehrssicherheit, Umgebung, etc.) zu einem aggregierten Index, der aufzeigt wie attraktiv die Fußwege sind. Somit können Schwachstellen im Fußwegenetz identifiziert werden. 

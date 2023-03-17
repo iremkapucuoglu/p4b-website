@@ -16,9 +16,6 @@ planning_cases:
   - Analysen zur 15-Minuten-Stadt 
   - uvm. 
   
-description:
-  "GOAT's development process. Many functions of a useful planning tool
-  are already implemented, others will follow. This is how it all started:"
 
 overview: Im Kontext des Entwicklungsvorhabens GOAT 1.0 wurde GOAT erstmals 2020 intensiv gemeinsam mit der Stadt München eingesetzt. Darauf folgte eine 1-jährige Innovationsphase, in der GOAT in verschiedenen Referaten der Landeshauptstadt München eingesetzt wurde. Erst kürzlich kam GOAT im Rahmen des “Citizen Mobility” Projekts bei der Planung neuer Mobilitätsstationen zum Einsatz.
 

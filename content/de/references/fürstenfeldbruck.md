@@ -16,9 +16,6 @@ planning_cases:
   - Standortfindung für Mobilitätsstationen
   - uvm. 
   
-description:
-  "GOAT's development process. Many functions of a useful planning tool
-  are already implemented, others will follow. This is how it all started:"
 
 overview: Fürstenfeldbruck ist einer unserer Haupt-Entwicklungspartner und war am GOAT1.0-Entwicklungsprozess beteiligt. GOAT wurde von den lokalen Planer:innen u.a. eingesetzt, um die Effekte neuer Wegeverbindungen zu berechnen und die Verteilung der Supermärkte zu überprüfen.
 

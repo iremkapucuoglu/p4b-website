@@ -14,9 +14,6 @@ planning_cases:
   - Planning of new residential areas
   - Analysis of pedestrian walkway qualities
   - Evaluation of new pedestrian and cycling bridges
-description:
-  "GOAT's development process. Many functions of a useful planning tool
-  are already implemented, others will follow. This is how it all started:"
 
 overview: In 2021, GOAT was implemented to the city of Freiburg, where it was developed with new features as part of an innovation project. Since then, the software has been used by the City of Freiburg's Urban Planning Department and the VAG, among others, to conduct needs and location analyses for new bike-sharing stations. A wide range of spatial data, including socio-demographic data, is used for this purpose.
 

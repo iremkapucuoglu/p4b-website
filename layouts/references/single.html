@@ -76,7 +76,8 @@
                             <!-- The modal that will show when the image is clicked -->
                             <div id="image-{{ $index }}-modal" class="modals">
                                 <span class="close" onclick="close_modal('image-{{$index}}')">&times;</span>
-                                <img class="modal-content" id="image-{{$index}}-modal-image">
+                                <img class="modal-content" id="image-{{$index}}-modal-image" />
+                                <h4>{{ $element.title }}</h4>
                             </div>
                         {{end}}
                         <script>

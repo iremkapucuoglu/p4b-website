@@ -2213,11 +2213,12 @@ th {
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: scroll; /* Enable scroll if needed */
-  background-color: rgb(136, 136, 136); /* Fallback color */
-  background-color: rgba(154, 154, 154, 0.9); /* Black w/ opacity */
+  background-color: rgb(65, 65, 65); /* Fallback color */
+  background-color: rgba(39, 39, 39, 0.9); /* Black w/ opacity */
   display: flex;
   align-items: center;
   justify-content: center;
+  color: white;
 }
 
 /* Modal Content (image) */

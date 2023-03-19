@@ -12097,13 +12097,14 @@ th {
   /* Full height */
   overflow: scroll;
   /* Enable scroll if needed */
-  background-color: #888888;
+  background-color: #414141;
   /* Fallback color */
-  background-color: rgba(154, 154, 154, 0.9);
+  background-color: rgba(39, 39, 39, 0.9);
   /* Black w/ opacity */
   display: flex;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  color: white; }
 
 /* Modal Content (image) */
 .modal-content {

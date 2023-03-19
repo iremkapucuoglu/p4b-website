@@ -77,7 +77,7 @@
                             <div id="image-{{ $index }}-modal" class="modals">
                                 <span class="close" onclick="close_modal('image-{{$index}}')">&times;</span>
                                 <img class="modal-content" id="image-{{$index}}-modal-image" />
-                                <h4>{{ $element.title }}</h4>
+                                <h4 style="color: white">{{ $element.title }}</h4>
                             </div>
                         {{end}}
                         <script>
@@ -87,6 +87,8 @@
                                 var modalImg = document.getElementById(image_id + "-modal-image");
                                 modal.style.visibility = "visible";
                                 modalImg.src = img.src;
+                                // disable window scroll
+                                document.body.style.overflow = "hidden";
                             };
                             function close_modal(image_id) {
                                 // enable overflow again

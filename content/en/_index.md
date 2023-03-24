@@ -182,7 +182,6 @@ sections:
       background_color_content: default
       heading: News
       twitter_timeline: 'https://twitter.com/plan4better?ref_src=twsrc%5Etfw'
-      linkedin_feed: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6930160726909034496'
 
   - order: 10
     funded_section:

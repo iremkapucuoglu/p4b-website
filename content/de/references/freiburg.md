@@ -13,6 +13,7 @@ planning_cases:
   - Standortbestimmung neuer Bikesharing Stationen
   - Planung eines neuen Wohngebiets
   - Bewertung neuer Fuß- und Radverkehrsbrücken
+  - ÖPNV-Analysen
   - uvw.
 
 overview: Seit 2022 wird GOAT als SaaS-Abo vom Stadtplanungsamt der Stadt Freiburg und der VAG genutzt und für eine Vielzahl an Planungfragen eingesetzt. Kürzlich wurden 5 weitere GOAT-Lizenzen durch die Stadt Freiburg erworben.

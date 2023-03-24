@@ -1,10 +1,10 @@
 ---
 layout: reference
-title: San Pedro Garza García
+title: Map4Citizens / ....
 lang: de
 thumbnail: "/images/blog/goat3.0/ghent.png"
 image: "/images/blog/goat3.0/ghent.png"
-summary: Im Rahmen einer Pilotstudie wurde GOAT auf San Pedro Garza García in Mexiko übertragen und trug zum städtischen Fußverkehrs-Masterplan bei.
+summary: TODO
 information:
   - Stadt San Pedro Garza García
   - 2021

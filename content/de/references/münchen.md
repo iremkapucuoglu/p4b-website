@@ -4,7 +4,7 @@ title: Innovationsphase München
 lang: de
 thumbnail: "/images/references/munich/thumbnail.webp"
 image: "/images/references/munich/banner.webp"
-summary: GOAT wurde in der Landeshauptstadt München eingesetzt, um Analysen rund um die 15-Minuten-Stadt durchzuführen. 
+summary: GOAT wurde von der Landeshauptstadt München eingesetzt, um Analysen rund um die 15-Minuten-Stadt durchzuführen. 
 information:
   - Stadt München
   - 2021 - 2022

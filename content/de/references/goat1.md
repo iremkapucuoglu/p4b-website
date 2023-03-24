@@ -2,9 +2,9 @@
 layout: reference
 title: GOAT 1.0 
 lang: de
-thumbnail: "/images/references/ffb/thumbnail.webp"
-image: "/images/references/ffb/banner.webp"
-summary: Entwicklung neuer GOAT-Funktionen im ko-kreativen Prozess mit den Städten Fürstenfeldbruck, Freising und München.
+thumbnail: "/images/references/goat1/thumbnail.webp"
+image: "/images/references/goat1/banner.webp"
+summary: Entwicklung neuer GOAT-Funktionen zum Fuß- und Radverkehr im ko-kreativen Prozess mit den Städten Fürstenfeldbruck, Freising und München.
 information:
   - Bundesministerium für Digitales und Verkehr
   - 2019 - 2021

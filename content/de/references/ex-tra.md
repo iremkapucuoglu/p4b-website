@@ -21,8 +21,8 @@ slider_items:
     title: "Evaluierung der Effekte einer neuer Leefstraat (Umgestaltete Spielstraße) in Ghent"
   - image: "/images/blog/goat3.0/placeholderImage.png"
     title: "Erreichbarkeit zu Supermärkten in Amsterdam"
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: " ... London (maybe access to green spaces)"
+  - image: "/images/references/ex-tra/London.png"
+    title: " ... London ..."
 
 review_text: ""
 review_person: "Ana Rivas, Wissenschaftliche Mitarbeiterin & Promovierende zum Thema Straßenraumexperimente"

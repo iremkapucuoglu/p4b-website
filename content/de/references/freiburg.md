@@ -18,12 +18,12 @@ planning_cases:
 overview: Seit 2022 wird GOAT als SaaS-Abo vom Stadtplanungsamt der Stadt Freiburg und der VAG genutzt und für eine Vielzahl an Planungfragen eingesetzt. Kürzlich wurden 5 weitere GOAT-Lizenzen durch die Stadt Freiburg erworben.
 
 slider_items:
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  - image: "/images/references/freiburg/GOATLärm2601.png"
+    title: "Darstellung der Lärmpegel in Freiburg"
+  - image: "/images/references/freiburg/supermärkte.png"
+    title: "Erreichbarkeit zu Supermärkten"
+  - image: "/images/references/freiburg/radverkehr.png"
+    title: "Heatmap Radverkehr und Bikesharing-Stationen"
 
 review_text: "„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.”"
 review_person: "Dr. Michael Bauder, Stadt Freiburg"

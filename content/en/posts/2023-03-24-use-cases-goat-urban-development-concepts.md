@@ -4,9 +4,9 @@ categories : ["use cases"]
 date : 2023-02-28T23:00:00Z
 description : "GOAT is a versatile planning tool that can be used in site planning, among other things. In this blog post we give a closer look at the use of GOAT in urban development concepts."
 draft : false
-image : "/images/stadtplanung_900450.webp"
+image : "/images/blog/use-cases-development-concepts/stadtplanung_900450.webp"
 summary : "GOAT is a versatile planning tool that can be used in site planning, among other things. In this blog post we give a closer look at the use of GOAT in urban development concepts."
-thumbnail : "/images/stadtplanung_600450.webp"
+thumbnail : "/images/blog/use-cases-development-concepts/stadtplanung_600450.webp"
 title : "GOAT Use Cases: urban development concepts"
 translationKey : "use-cases-development-concepts"
 ---
@@ -20,7 +20,7 @@ An urban development concept seeks to support and develop the characteristics of
 
 GOAT is a WebGIS and contains a variety of spatial data. For example, buildings, population densities, land uses, points-of-interest (POIs), neighborhoods, noise pollution, and much more information can be overlaid (see Figure 1).
 
-![](/images/abb1-en.png)
+![GOAT: Landuse Freiburg](/images/blog/use-cases-development-concepts/abb1-en.webp "GOAT: Landuse Freiburg")
 
 _Figure 1: Representation of the land use map in GOAT._
 
@@ -40,7 +40,7 @@ Our open source planning software GOAT contains various POIs like sports facilit
 
 A good benchmark for accessibility is the results of [multi-isochrones](/en/tutorials/multiisochrones/ "tutorial on multi-isochrones"). This form of isochrones calculate what proportion of residents inside a neighborhood have access to a particular daily amenity. Different means of transport as well as travel time can be chosen. Figure 2 shows an exemplary accessibility analysis with isochrones to supermarkets within 10 minutes.
 
-![](/images/abb2-en.png)
+![GOAT: Accessibility to supermarkets](/images/blog/use-cases-development-concepts/abb2-en.webp "GOAT: Accessibility to supermarkets")
 
 _Figure 2: Multi-isochrones showing accessibility to supermarkets in GOAT._
 

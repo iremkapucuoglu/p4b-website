@@ -20,13 +20,13 @@ Ein Stadtentwicklungskonzept versucht die Charakteristika einer Stadt zukunftsf�
 
 GOAT ist ein WebGIS und enthält eine Vielzahl an räumlichen Daten. So können u.a. die Gebäue, Bevölkerungsdichten, Flächennutzungen, Points-of-Interest (POIs), Stadtteile, Lärmbelastungen und viele weitere Informationen eingeblendet werden (siehe Abbildung 1).
 
-![](/images/abb1-de.png)
+![GOAT: Flächennutzungsplan Freiburg](/images/blog/use-cases-development-concepts/abb1-de.webp "GOAT: Flächennutzungsplan Freiburg")
 
 _Abbildung 1: Darstellung des Flächennutzungsplans in GOAT_
 
 ### Konnektivität und Qualität des Wegenetzes
 
-Für den Fuß- und Radverkehr ist eine gute Vernetzung der Stadtquartiere essenziell. In GOAT kann das vorhandene Wegenetz für die verschiedenen Verkehrsträger eingeblendet werden. Mithilfe der [Heatmap der Konnektivität](/docs/heatmap-connectivity/ "Dokumentation über Heatmap der Konnektivität") kann analysiert werden, wie gut die Netze für Fuß- und Radwege miteinander verknüpft sind und so Verbesserungspotentiale identifiziert werden. Mittels der Szenario-Erstellung kann außerdem die Auswirkung neuer Wegeverbindungen (z.B. Radverkehrsbrücke) auf die Erreichbarkeit analysiert werden.
+Für den Fuß- und Radverkehr ist eine gute Vernetzung der Stadtquartiere essenziell. In GOAT kann das vorhandene Wegenetz für die verschiedenen Verkehrsträger eingeblendet werden. Mithilfe der [Konnektivitäts-Heatmap](/docs/heatmap-connectivity/ "Dokumentation zur Konnektivitäts-Heatmap") kann analysiert werden, wie gut die Netze für Fuß- und Radwege miteinander verknüpft sind und so Verbesserungspotentiale identifiziert werden. Mittels der Szenario-Erstellung kann außerdem die Auswirkung neuer Wegeverbindungen (z.B. Radverkehrsbrücke) auf die Erreichbarkeit analysiert werden.
 
 Da nicht nur eine Wegeverfügbarkeit, sondern v.a. auch die Wegeattraktivität entscheidend ist, sind weitere Informationen, wie Oberflächenbeschaffenheit der Wege, Steigungen und Unfallstatistiken hinterlegt. Zur gesamtheitlichen Analyse des Radverkehrsangebots können außerdem benötigte Fahrradinfrastruktur, wie Fahrradanlagen und Fahrradreparaturstationen, in GOAT integriert werden.
 
@@ -36,11 +36,11 @@ Falls lokal vorhanden können auch Daten zur Barrierefreiheit von Fußwegen in G
 
 Um das Ziel einer dezentralen Daseinsvorsorge zu erreichen, ist eine faire Verteilung der wichtigen Einrichtungen des täglichen Bedarfs über die Stadtfläche essenziell. Um zu ermitteln, ob alle Bürger:innen innerhalb einer angemessenen Zeit alle wichtigen Einrichtungen erreichen können (im Idealfall mit nachhaltigen Modi), sind Erreichbarkeitsanalysen eine geeignete Methode.
 
-In unserer Open Source Planungssoftware GOAT sind verschiedenste POIs wie Sportstätten, Supermärkte, Kindergärten und Parkanlagen enthalten. Diese können visualisiert und deren räumliche Verteilung mit verschiedenen Erreichbarkeitsindikatoren analysiert und mit den Bevölkerungsdaten verschnitten werden. Mittels [Isochronen](/docs/alphashape/ "Dokumentation über Isochronen") und [Heatmaps](/docs/heatmap/ "Dokumentation über Heatmaps") können Lücken in der Erreichbarkeit gefunden, Nachverdichtungsmöglichkeiten erkannt und so Missstände behoben werden.
+In unserer Open Source Planungssoftware GOAT sind verschiedenste POIs wie Sportstätten, Supermärkte, Kindergärten und Parkanlagen enthalten. Diese können visualisiert und deren räumliche Verteilung mit verschiedenen Erreichbarkeitsindikatoren analysiert und mit den Bevölkerungsdaten verschnitten werden. Mittels [Isochronen](/docs/alphashape/ "Dokumentation zu Isochronen") und [Heatmaps](/docs/heatmap/ "Dokumentation zu Heatmaps") können Lücken in der Erreichbarkeit gefunden, Nachverdichtungsmöglichkeiten erkannt und so Missstände behoben werden.
 
 Ein guter Benchmark für die Erreichbarkeit sind die Ergebnisse der [Multi-Isochronen](/tutorials/multiisochrones/ "Tutorial zu Multi-Isochronen"). Diese Form der Isochronen berechnen, welcher Anteil der Bewohner:innen eines Stadtviertels Zugang zu einer bestimmten Einrichtung des täglichen Bedarfs haben. Dabei können sowohl unterschiedliche Verkehrsmittel als auch die Reisezeit gewählt werden. Abbildung 2 zeigt eine exemplarische Erreichbarkeitsanalyse mit Isochronen zu Supermärkten innerhalb von 10 Minuten.
 
-![](/images/abb2-de.png)
+![GOAT: Erreichbarkeitsanalyse Supermärkte](/images/blog/use-cases-development-concepts/abb2-de.webp "GOAT: Erreichbarkeitsanalyse Supermärkte")
 
 _Abbildung 2: Erreichbarkeitsisochronen zu Supermärkten in GOAT_
 
@@ -54,7 +54,7 @@ Zudem können Standorte alternativer und nachhaltiger Mobilität wie Carsharing,
 
 ## Testen Sie GOAT!
 
-Sie wollen auch Analysen zur Standortplanung mit GOAT durchführen oder interessieren sich für weitere Funktionen? [Kontaktieren sie uns](/kontakt/ "Kontakt zu Plan4Better") oder testen sie die [kostenlose GOAT Demo](/request-demo/ "Unverbindliche Anmeldung zur kostenlosen Demoversion")!
+Sie wollen auch Analysen zur Standortplanung mit GOAT durchführen oder interessieren sich für weitere Funktionen? [Kontaktieren Sie uns](/kontakt/ "Kontakt zu Plan4Better") oder testen Sie die [kostenlose GOAT Demo](/request-demo/ "Unverbindliche Anmeldung zur kostenlosen Demoversion")!
 
 ## Referenzen
 

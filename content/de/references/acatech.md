@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: Räumliche Datenanalyse zur integrierte Stadtentwicklung und Mobilitätsplanung 
+title: Räumliche Datenanalyse zur integrierten Stadtentwicklung und Mobilitätsplanung 
 lang: de
 thumbnail: "/images/blog/goat3.0/ghent.png"
 image: "/images/blog/goat3.0/ghent.png"

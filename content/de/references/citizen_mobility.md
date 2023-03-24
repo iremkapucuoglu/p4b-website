@@ -2,9 +2,9 @@
 layout: reference
 title: Citizen Mobility
 lang: de
-thumbnail: "/images/references/citizen_mobility/bikesharing-station-munchen.jpg"
-image: "/images/references/citizen_mobility/bikesharing-station-munchen.jpg"
-summary: GOAT im Einsatz zur Standortfindung für Mobilitätsstationen
+thumbnail: "/images/references/citizen_mobility/thumbnail.webp"
+image: "/images/references/citizen_mobility/banner.webp"
+summary: GOAT wurde im Rahmen des “Citizen Mobility” Projekts zur Planung neuer Mobilitätsstationen in München eingesetzt.
 information:
   - UnternehmerTUM
   - 2022
@@ -13,20 +13,23 @@ planning_cases:
   - Standortbestimmung neuer Mobilitätsstationen
 
 
-overview: GOAT wurde im Rahmen des “Citizen Mobility” Projekts bei der Planung neuer Mobilitätsstationen eingesetzt.
+overview: In einem interdisziplinären Team wurde prototypisch unter Einbindung von Bürgerinnen und Bürgern ein Prozess für eine bürgerzentrierte Planung und Evaluation von Mobilitätspunkten (Carsharing, Bikesharing) entwickelt. Hierbei wurde GOAT zur datenbasieren Untersuchung der Mobilitäts- und Angebotsbedürfnisse in einem Münchner Quartier eingesetzt und daraus konkrete Mobilitätsangebote und sonstige Bedarfe/Wünsche für die Planung und Einrichtung von bürgerzentrierten Mobilitätspunkten abgeleitet.
 
 slider_items:
+  - image: "/images/references/citizen_mobility/image1.png"
+    title: "Sichtbarkeitsanalyse Mobilitätspunkt"
   - image: "/images/references/munich/bikesharing.webp"
     title: "Erreichbarkeit zu Bikesharing Stationen"
+  - image: "/images/references/citizen_mobility/image2.png"
+    title: "Ausleihen MVG-Rad"
 
-review_text: "GOAT ist ein sehr gutes Tool zur Berechnung und Darstellung von Erreichbarkeiten in der Verkehrs- und Stadtplanung."
-review_person: "Attila Lüttmerding, Abteilungsleiter Grundlagen und Daten, Mobilitätsreferat, Landeshauptstadt München"
+
+review_text: ""
+review_person: "Teresa Wagner, Landeshauptstadt München"
 review_image: "/images/index/logo_lhm.webp"
 ---
 
 
-
-... add more text here ... 
 
 
 **Zur Projektwebseite:**

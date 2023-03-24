@@ -25,7 +25,7 @@ slider_items:
   - image: "/images/references/walkie/abb2.webp"
     title: "Gegenüberstellung von Fußgängerpotentialströmen und Walkability Index"
 
-review_text: "Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte."
+review_text: "„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.”"
 review_person: "Dr. Michael Bauder, Stadt Freiburg"
 review_image: "/images/index/digital-freiburg.png"
 ---

@@ -36,7 +36,7 @@
                     </div>
                 {{ end }}
             </section>
-            <section>
+            <section {{if not .Params.planning_cases}} style="visibility: hidden;" {{end}}>
                 <h2>{{ i18n "planning_cases" }}</h2>
                 {{ if .Params.planning_cases }}
                     <ul class="rf-planning-cases">
@@ -56,9 +56,22 @@
                 <div class="uk-article-content uk-text-m uk-margin-medium-top">
                     <section>
                         <h1>{{ i18n "overview" }}</h1>
-                        {{ .Params.overview }}
+                        <p id="section__overview">{{ .Params.overview }}</p>
                     </section>
+                    <script>
+                        const overview = document.getElementById("section__overview");
+                        const sentences = overview.textContent.split('[linebreak]');
+
+                        let newContent = '';
+
+                        for (let i = 0; i < sentences.length; i++) {
+                        newContent += sentences[i] + '<br>';
+                        }
+
+                        overview.innerHTML = newContent;
+                    </script>
                     <br />
+                    {{if .Params.slider_items}}
                     <div class="rf-slider uk-margin-medium-top {{ if gt (len .Params.slider_items) 2}} space-between {{end}}">
                         {{ range $index, $element := .Params.slider_items }}
                             <div>
@@ -97,6 +110,10 @@
                             };
                         </script>
                     </div>
+                    <br />
+                    <br />
+                    {{end}}
+                    {{if .Params.slider_items}}
                     <div class="rf-slider-mobile uk-margin-medium-top slideshow">
                         {{ range $index, $element := .Params.slider_items }}
                             <li class="slideshow__slide card-slider-mobile">
@@ -109,6 +126,7 @@
                     </div>
                     <br />
                     <br />
+                    {{end}}
                     <section class="uk-margin-medium-top">
                     {{ .Content }}
                     </section>

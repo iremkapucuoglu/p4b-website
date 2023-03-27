@@ -12,17 +12,37 @@
 		<div class="uk-margin-top" data-uk-grid>
 			<div class="uk-width-expand@m uk-flex uk-flex-middle">
 				<ul class="uk-subnav">
-					<li><a class="uk-text-bold" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_posts" }}</a></li>
-					{{range (.Site.GetPage "taxonomyTerm" "categories").Pages }}
-						<li><a class="uk-text-bold" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-				  {{ end }}
+
+					{{if eq .Title "Blog" }}
+						<li>
+							<a class="uk-text-bold" href="{{ "/blog/" | relLangURL }}">{{ i18n "all_posts" }}</a>
+						</li>
+					{{else}}
+						<li>
+							<a class="uk-text-bold" href="{{ "/references/" | relLangURL }}">All posts</a>
+						</li>
+					{{end}}
+
+					{{if eq .Title "Blog" }}
+						{{range (.Site.GetPage "taxonomyTerm" "categories").Pages }}
+							<li><a class="uk-text-bold" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+						{{ end }}
+				  	{{end}}
 			  </div>
 			<div class="uk-width-1-3@m">
 				<div class="uk-position-relative">
+					{{if eq .Title "Blog" }}
 					<div class="uk-search uk-search-default uk-width-1-1">
 						<span uk-search-icon></span>
-						<input class="uk-search-input uk-border-pill" type="search" id="search-input" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off">
+						<input 
+							class="uk-search-input uk-border-pill" 
+							type="search" 
+							id="search-input" 
+							placeholder="{{if eq .Title "Blog" }}{{ i18n "search_placeholder_blog" }}{{ else }}{{ i18n "search_placeholder_references" }}{{ end}}"
+							autocomplete="off"
+						/>
 					</div>
+					{{end}}
 					<ul class="uk-list uk-list-search uk-position-absolute uk-width-1-1" id="results-container"></ul>
 				</div>
 			</div>
@@ -35,16 +55,15 @@
 				searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
 				noResultsText: '<li class="no-results">{{ i18n "search_noresults" }}</li>',
 				{{ if eq site.Language.Lang "en" }}
-				json: '{{ "index.json" | relURL }}'
+				json: '{{ "/en/index.json" | relURL }}'
 				{{ else }}
-				json: '{{ (printf "%s%s" site.Language.Lang "/index.json" ) | relURL }}'
+				json: '{{ "/index.json" | relURL }}'
 				{{ end }}
 			});
 			
 			searchResults();
 
 			function searchResults() {
-
 				var currentItem = null;
 				var search = document.getElementById("search-input");
 				var results = document.getElementById( "results-container");
@@ -57,43 +76,32 @@
 
 				// Detect all clicks on the document
 				document.addEventListener("click", function(event) {
-
 					var isClickSearch = false;
 					var isClickResults = false;
-
 					if (search !== null) {
 						isClickSearch = search.contains(event.target);
 					}
-
 					if (results !== null) {
 						isClickResults = results.contains(event.target);
 					}
-
 					if (isClickSearch) {
 						results.style.display = "block";
 					}
-
 					if (!isClickResults && !isClickSearch ) {
 						results.style.display = "none";
 					}
-
 				});
-
 				results.addEventListener("mouseover", function(event) {
-
 					removeActive();
 					event.target.parentElement.classList.add("uk-background-muted");
 					currentItem = null;
-
 				});
-
 				results.addEventListener("mouseout", function(event) {
 					event.target.parentElement.classList.remove("uk-background-muted");
 				});
-
-
 				search.addEventListener("keyup", function(event) {
 
+					// console.log(results)
 					var resultItems = results.children;
 					var resultCount = results.children.length;
 
@@ -124,11 +132,8 @@
 
 					} else if (event.keyCode === 13) {
 						resultItems[currentItem].children[0].click();
-
 					}
-
 				});
-
 			}
 		</script>
 

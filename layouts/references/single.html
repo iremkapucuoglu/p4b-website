@@ -135,6 +135,7 @@
         </div>
     </div>
 
+    {{ if .Params.review_text }}
     <section class="uk-margin-large-top jumbotron">
         <div class="reference-quote-item container-v2">
             <img src="{{ .Params.review_image }}" width="250px" height="250px" />
@@ -144,6 +145,7 @@
             </div>
         </div>
     </section>
+    {{ end }}
 
     <section class="reference-goat-promotion uk-margin-large-top" style="background-image: url('{{ .Params.image }}');">
         <div class="reference-overlay-btn">

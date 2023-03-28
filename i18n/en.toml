@@ -90,3 +90,9 @@ other = "General information"
 
 [other_cities]
 other = "Other cities"
+
+[search_placeholder_blog]
+other = "Search blog"
+
+[search_placeholder_references]
+other = "Search references"

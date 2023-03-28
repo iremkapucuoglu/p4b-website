@@ -90,3 +90,9 @@ other = "Allgemeine Informationen"
 
 [other_cities]
 other = "Weitere Referenzen"
+
+[search_placeholder_blog]
+other = "Blog durchsuchen"
+
+[search_placeholder_references]
+other = "Referenzen durchsuchen"

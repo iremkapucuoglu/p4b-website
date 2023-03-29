@@ -5,8 +5,8 @@ lang: en
 categories:
 - Research$
 - GOAT$
-thumbnail: "/images/references/san pedro graza garcia/San Pedro Graza GarcíaThumbnail.webp"
-image: "/images/references/san pedro graza garcia/San Pedro Graza GarcíaThumbnail.webp"
+thumbnail: "/images/references/san pedro graza garcia/San Pedro Graza GarciaThumbnail.webp"
+image: "/images/references/san pedro graza garcia/San Pedro Graza GarciaBanner.webp"
 summary: As part of a pilot study, GOAT was applied to San Pedro Garza García in Mexico and contributed to the urban pedestrian master plan.
 information:
   - Stadt San Pedro Garza García

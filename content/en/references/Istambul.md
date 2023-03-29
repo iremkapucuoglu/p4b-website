@@ -2,7 +2,7 @@
 layout: reference
 title: Istambul
 lang: en
-thumbnail: "/images/references/istanbul/IstambulThumbnail.webpg"
+thumbnail: "/images/references/istanbul/IstambulThumbnail.webp"
 image: "/images/references/istanbul/IstambulBanner.webp"
 summary: GOAT for urban planning and transportation analysis - Deerfield Beach, Florida
 information:
@@ -21,12 +21,12 @@ description:
 overview: In 2021, GOAT was implemented to the city of Freiburg, where it was developed with new features as part of an innovation project. Since then, the software has been used by the City of Freiburg's Urban Planning Department and the VAG, among others, to conduct needs and location analyses for new bike-sharing stations. A wide range of spatial data, including socio-demographic data, is used for this purpose.
 
 slider_items:
-  - image: "/images/references/deerfield_beach/DeerfieldBeach Gallery01.webp"
-    title: "Accessibility analysis for supermarket"
-  - image: "/images/references/deerfield_beach/DeerfieldBeach Gallery02.webp"
-    title: "Comparison: Accessibility for supermarket and Population density."
-  - image: "/images/references/deerfield_beach/DeerfieldBeach Gallery03.webp"
-    title: "Population density."
+  - image: "/images/blog/goat3.0/placeholderImage.png"
+    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  - image: "/images/blog/goat3.0/placeholderImage.png"
+    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+  - image: "/images/blog/goat3.0/placeholderImage.png"
+    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
 
 review_text: ""
 review_person: "Louis Merlin, Florida Atlantic University"

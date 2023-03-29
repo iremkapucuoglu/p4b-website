@@ -3,7 +3,7 @@ layout: reference
 title: Urban Mobility Score (Map4Citizens)
 lang: de
 categories:
-- research$
+- Forschung$
 thumbnail: "/images/references/map4citizens/thumbnail.webp"
 image: "/images/references/map4citizens/banner.webp"
 summary: Um Bürger:innen in nachhaltigen Mobilitätsentscheidungen zu unterstützen, wurde ein BürgerGIS zum Thema 15-Minuten-Stadt entwickelt.

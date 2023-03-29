@@ -2,8 +2,8 @@
 layout: reference
 title: san pedro garza garcía
 lang: en
-thumbnail: "/images/blog/goat3.0/ghent.png"
-image: "/images/blog/goat3.0/ghent.png"
+thumbnail: "static/images/references/san pedro graza garcia/San Pedro Graza GarcíaThumbnail.webp"
+image: "/images/references/san pedro graza garcia/San Pedro Graza GarcíaBanner.webp"
 summary: GOAT for urban planning and transportation analysis - Freiburg, Germany
 information:
   - Stadt Freiburg und Freiburger Verkehrs AG (VAG)

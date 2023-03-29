@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: Deerfield Beach
+title: Deerfield Beach - GOAT Subscription
 lang: en
 thumbnail: "/images/references/deerfield_beach/DerfieldBeachThumbnail.webp"
 image: "/images/references/deerfield_beach/DerfieldBeachBanner.webp"

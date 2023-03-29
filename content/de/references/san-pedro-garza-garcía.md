@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: San Pedro Garza García
+title: San Pedro Garza García - Mexico
 lang: de
 categories:
 - Forschung$

@@ -165,11 +165,31 @@
             {{ $section_count := len $posts_related }}
             {{ if ge $section_count 3 }}
               {{ range $posts_related }}
-                 <div>{{ partial "card-post.html" . }}</div>
+                <a href="{{.Permalink}}" class="no-text-decoration">
+                    <div class="uk-card uk-card-default uk-border-rounded-large uk-postion-relative no-style-link-scale">
+                    <div class="uk-card-media-top">
+                        <img class="uk-border-rounded-large-top" src="{{ .Params.thumbnail | absURL}}" alt="{{ .Params.title }}">
+                    </div>
+                        <div class="uk-card-body">
+                        <h4 class="uk-margin-small-bottom uk-text-primary">{{ .Params.Title }}</h4>
+                        <div>{{ .Params.Summary }}</div>
+                        </div>
+                    </div>
+                </a>
               {{ end }}
             {{ else }}
               {{ range first 3 }}
-                <div>{{ partial "card-post.html" . }}</div>
+                <a href="{{.Permalink}}" class="no-text-decoration">
+                    <div class="uk-card uk-card-default uk-border-rounded-large uk-postion-relative no-style-link-scale">
+                    <div class="uk-card-media-top">
+                        <img class="uk-border-rounded-large-top" src="{{ .Params.thumbnail | absURL}}" alt="{{ .Params.title }}">
+                    </div>
+                        <div class="uk-card-body">
+                        <h4 class="uk-margin-small-bottom uk-text-primary">{{ .Params.Title }}</h4>
+                        <div>{{ .Params.Summary }}</div>
+                        </div>
+                    </div>
+                </a>
               {{ end }}
             {{ end }}
           </div>

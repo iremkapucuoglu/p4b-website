@@ -96,3 +96,9 @@ other = "Search blog"
 
 [search_placeholder_references]
 other = "Search references"
+
+[References]
+other = "References"
+
+[Blog]
+other = "Blog"

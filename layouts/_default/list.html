@@ -6,7 +6,7 @@
 				{{ $user := where .Site.Data.authors "username" .Title }}
 				{{ index $user 0 "name" }}
 			{{ else }}
-				{{ .Title }}
+				{{ i18n .Title | lower }}
 			{{ end }}
 		</h2>
 		<div class="uk-margin-top" data-uk-grid>

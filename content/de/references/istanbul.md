@@ -4,8 +4,8 @@ title: Walkability Analysen Istanbul
 lang: de
 categories:
 - Consulting$
-thumbnail: "/images/blog/goat3.0/ghent.png"
-image: "/images/blog/goat3.0/ghent.png"
+thumbnail: "/images/references/istanbul/IstambulThumbnail.webpg"
+image: "/images/references/istanbul/IstambulBanner.webp"
 summary: Als Planungsgrundlage für die Umgestaltung von sechs Nachbarschaften in Istanbul wurden GIS-basierte Erreichbarkeits- und Walkability-Analysen durchgeführt.
 information:
   - Super Eight / Stadt Istanbul

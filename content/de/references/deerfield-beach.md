@@ -4,8 +4,8 @@ title: Deerfield Beach - GOAT Abo
 lang: de
 categories:
 - GOAT$
-thumbnail: "static/images/references/deerfield_beach/DerfieldBeachThumbnail.webp"
-image: "static/images/references/deerfield_beach/DerfieldBeachBanner.webp"
+thumbnail: "/images/references/deerfield_beach/DerfieldBeachThumbnail.webp"
+image: "/images/references/deerfield_beach/DerfieldBeachBanner.webp"
 summary: Mit dem GOAT-Abo erstellen die Planer:innen der Stadt Deerfield Beach Erreichbarkeitsanalysen für eine Vielzahl an Planungsfragen. 
 information:
   - Stadt Deerfield Beach

@@ -1,20 +1,20 @@
 ---
 layout: reference
-title: Berechnung ÖV Güteklassen Österreich
+title: Berechnung ÖV Güteklassen Bayern
 lang: de
 categories:
 - Consulting$
 - GOAT$
 thumbnail: "/images/blog/goat3.0/ghent.png"
 image: "/images/blog/goat3.0/ghent.png"
-summary: In Kooperation mit der TU Wien wurden die ÖV-Güteklassen für das gesamte Land Österreich berechnet.
+summary: TODO.
 information:
-  - KCW GmbH und Österreichischer Städtebund
-  - 2022 – 2023 
+  - TODO
+  - 2022 
   - Elias Pajares
 
 
-overview: In Kooperation mit der TU Wien wurden die ÖV-Güteklassen für das gesamte Land Österreich berechnet. Die von uns gelieferten Analysen dienen als Grundlage, um die ÖV-Güte von Städten und Ländern finanzierter Verkehre zu vergleichen.
+overview: TODO
 
 slider_items:
   - image: "/images/blog/goat3.0/placeholderImage.png"
@@ -24,7 +24,7 @@ slider_items:
   - image: "/images/blog/goat3.0/placeholderImage.png"
     title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
 
-date: 2022-12-01
+date: 2022-04-01
 
 ---
 

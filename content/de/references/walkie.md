@@ -31,6 +31,7 @@ slider_items:
 review_text: "„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.”"
 review_person: "Dr. Michael Bauder, Stadt Freiburg"
 review_image: "/images/index/digital-freiburg.png"
+date: 2021-02-01
 ---
 
 Für die Priorisierung der Verbesserungsmaßnahmen ist die Frequentierung der Straßen ebenfalls ein wichtiger Anhaltspunkt. Dafür wurde ein weiterer Indikator entwickelt, der die Fußgängerpotenzialströme aufzeigt. 

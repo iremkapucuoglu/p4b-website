@@ -27,6 +27,7 @@ slider_items:
 review_text: "„GOAT ermöglicht es uns, die Erreichbarkeit von baulichen Vorhaben zielgerichtet und effizient zu analysieren. Die Ergebnisse der Analysen bilden eine klare Grundlage für die Entwicklung passgenauer Mobilitätskonzepte im Wohnungs- und Gewerbebau. Wichtig ist dabei für uns die Einbindung der Konzepte in den Kontext bestehender, zumeist öffentlicher Mobilitätsinfrastruktur.”"
 review_person: "Julia Korsten, stattbau münchen GmbH"
 review_image: "/images/index/stattbau_Logo.webp"
+date: 2023-01-01
 ---
 
 

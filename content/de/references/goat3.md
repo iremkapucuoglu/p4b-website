@@ -30,6 +30,7 @@ slider_items:
 review_text: "„GOAT bringt durch intuitive und schnelle Analysen mit optisch ansprechenden und leicht verständlichen Ergebnissen einen großen Mehrwert zur Beantwortung komplexer Planungsprobleme im Mobilitätssektor.”"
 review_person: "Shravan Shinde, Bereich Konzeption & Consulting, Münchner Verkehrs- und Tarifverbund GmbH"
 review_image: "/images/index/logo_mvv.webp"
+date: 2023-03-01
 ---
 
 Mit GOAT 3.0 werden Analysen mit zusätzlichen Verkehrsmitteln und zu neuen Zielen ermöglicht, weitere Daten eingespielt und die Visualisierungsoptionen erweitert. Dazu arbeiten wir sehr eng mit unseren Projektpartnern - der Technische Universität München (TUM), dem Leibniz-Institut für ökologische Raumentwicklung Dresden (IÖR), der Prof. Schaller UmweltConsult GmbH (PSU) und dem Münchner Verkehrs- und Tarifverbund GmbH (MVV) - zusammen. 

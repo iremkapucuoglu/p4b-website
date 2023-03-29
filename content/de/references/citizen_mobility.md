@@ -30,7 +30,7 @@ slider_items:
 review_text: ""
 review_person: "Teresa Wagner, Landeshauptstadt München"
 review_image: "/images/index/logo_lhm.webp"
-date: 2022-01-01
+date: 2022-09-01
 ---
 
 

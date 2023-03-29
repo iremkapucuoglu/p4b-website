@@ -29,6 +29,7 @@ slider_items:
 review_text: "„GOAT ist ein sehr gutes Tool zur Berechnung und Darstellung von Erreichbarkeiten in der Verkehrs- und Stadtplanung.”"
 review_person: "Attila Lüttmerding, Abteilungsleiter Grundlagen und Daten, Mobilitätsreferat, Landeshauptstadt München"
 review_image: "/images/index/logo_lhm.webp"
+date: 2022-04-01
 ---
 
 

@@ -24,7 +24,7 @@ slider_items:
   - image: "/images/references/map4citizens/flower.webp"
     title: "Individuelle Analysen zur 15-Min-Stadt"
 
-
+date: 2023-01-01
 ---
 
 **Link zur Anwendung:**

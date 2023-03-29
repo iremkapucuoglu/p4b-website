@@ -11,8 +11,7 @@ information:
   - Stadt Deerfield Beach
   - 2022 - heute
   - Elias Pajares
-planning_cases:
-  - TODO
+
 
 overview: Seit 2022 wird GOAT als SaaS-Abo von den Planer:innen der Stadt Deerfield Beach, sowie den Wissenschaftlern an der Florida Atlantic University eingesetzt. 
 
@@ -27,6 +26,7 @@ slider_items:
 review_text: ""
 review_person: "Louis Merlin, Florida Atlantic University"
 review_image: "/images/references/deerfield_beach/Florida_Atlantic_Owls_logo.webp"
+date: 2022-07-01
 ---
 
 

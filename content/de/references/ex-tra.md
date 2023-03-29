@@ -30,6 +30,7 @@ slider_items:
 review_text: ""
 review_person: "Ana Rivas, Wissenschaftliche Mitarbeiterin & Promovierende zum Thema Straßenraumexperimente"
 review_image: "/images/index/logo-tum.webp"
+date: 2023-01-01
 ---
 
 **Weitere Informationen:**

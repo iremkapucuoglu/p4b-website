@@ -26,6 +26,7 @@ slider_items:
   - image: "/images/blog/goat3.0/placeholderImage.png"
     title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
 
+date: 2021-01-01
 
 ---
 

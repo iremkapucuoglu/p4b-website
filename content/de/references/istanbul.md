@@ -25,6 +25,6 @@ slider_items:
   - image: "/images/references/istanbul/isochrone.webp"
     title: "Analyse der Effekte einer neuen Fußwegeverbindung"
 
-
+date: 2022-03-01
 ---
 

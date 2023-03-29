@@ -4,8 +4,8 @@ title: Räumliche Datenanalyse zur integrierten Stadtentwicklung und Mobilitäts
 lang: de
 categories:
 - Forschung$
-thumbnail: "/images/blog/goat3.0/ghent.png"
-image: "/images/blog/goat3.0/ghent.png"
+thumbnail: "/images/references/aachen/AachenThumbnail.webp"
+image: "/images/references/aachen/AachenBanner.webp"
 summary: Statistische Auswertungen von soziodemographischen Daten und Mobilitätsparametern für München, Aachen und Freiburg.
 information:
   - acatech – Deutsche Akademie der Technikwissenschaften e.V.

@@ -2,6 +2,8 @@
 layout: reference
 title: Innovationsphase München
 lang: de
+categories:
+- GOAT
 thumbnail: "/images/references/munich/thumbnail.webp"
 image: "/images/references/munich/banner.webp"
 summary: GOAT wurde von der Landeshauptstadt München eingesetzt, um Analysen rund um die 15-Minuten-Stadt durchzuführen. 

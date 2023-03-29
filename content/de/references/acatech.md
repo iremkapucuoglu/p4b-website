@@ -2,6 +2,8 @@
 layout: reference
 title: Räumliche Datenanalyse zur integrierten Stadtentwicklung und Mobilitätsplanung 
 lang: de
+categories:
+- Forschung
 thumbnail: "/images/blog/goat3.0/ghent.png"
 image: "/images/blog/goat3.0/ghent.png"
 summary: Statistische Auswertungen von soziodemographischen Daten und Mobilitätsparametern für München, Aachen und Freiburg.

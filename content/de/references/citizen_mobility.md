@@ -2,6 +2,9 @@
 layout: reference
 title: Citizen Mobility
 lang: de
+categories:
+- Forschung
+- GOAT
 thumbnail: "/images/references/citizen_mobility/thumbnail.webp"
 image: "/images/references/citizen_mobility/banner.webp"
 summary: GOAT wurde im Rahmen des “Citizen Mobility” Projekts zur Planung neuer Mobilitätsstationen in München eingesetzt.

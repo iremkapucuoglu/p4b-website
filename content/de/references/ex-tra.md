@@ -2,6 +2,9 @@
 layout: reference
 title: EX-TRA
 lang: de
+categories:
+- Forschung
+- GOAT
 thumbnail: "/images/references/ex-tra/thumbnail.webp"
 image: "/images/references/ex-tra/banner.webp"
 summary: Einsatz von GOAT in Ghent, Amsterdam, London, Bologna und München zur Analyse geeigneter Standorte für Straßenraumexperimente.

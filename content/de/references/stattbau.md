@@ -2,6 +2,8 @@
 layout: reference
 title: stattbau - GOAT Abo
 lang: de
+categories:
+- GOAT
 thumbnail: "/images/references/stattbau/thumbnail.webp"
 image: "/images/references/stattbau/banner.webp"
 summary: Mit dem GOAT-Abo erstellen die Planer:innen der stattbau München GmbH Erreichbarkeitsanalysen für zukunftsfähige Wohn- und Siedlungsprojekte. 

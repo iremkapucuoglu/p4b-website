@@ -2,6 +2,9 @@
 layout: reference
 title: GOAT 1.0 
 lang: de
+categories:
+- Forschung
+- GOAT
 thumbnail: "/images/references/goat1/thumbnail.webp"
 image: "/images/references/goat1/banner.webp"
 summary: Entwicklung neuer GOAT-Funktionen zum Fuß- und Radverkehr im ko-kreativen Prozess mit den Städten Fürstenfeldbruck, Freising und München.

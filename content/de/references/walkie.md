@@ -2,6 +2,9 @@
 layout: reference
 title: WALKIE
 lang: de
+categories:
+- Forschung
+- GOAT
 thumbnail: "/images/references/walkie/thumbnail.webp"
 image: "/images/references/walkie/banner.webp"
 summary: Im Rahmen eines Innovationsprojektes wurde ein Walkability Index zum Aufzeigen der Fußgängerfreundlichkeit für die Pilotkommune Freiburg entwickelt und für die Schulwegeplanung eingesetzt.

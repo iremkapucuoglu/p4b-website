@@ -2,6 +2,9 @@
 layout: reference
 title: GOAT 3.0 
 lang: de
+categories:
+- Forschung
+- GOAT
 thumbnail: "/images/references/goat3/thumbnail.webp"
 image: "/images/references/goat3/banner.webp"
 summary: Entwicklung neuer GOAT-Funktionen zur ÖPNV-Planung, Grünraumplanung, Daseinsvorsorge, sowie zur 15-Minuten-Stadt.

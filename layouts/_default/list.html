@@ -6,7 +6,11 @@
 				{{ $user := where .Site.Data.authors "username" .Title }}
 				{{ index $user 0 "name" }}
 			{{ else }}
-				{{ i18n .Title | lower }}
+				{{ if eq (i18n .Title) "" }}
+					{{ replace .Title "$" "" }}
+				{{else}}
+					{{ i18n .Title}}
+				{{end}}
 			{{ end }}
 		</h2>
 		<div class="uk-margin-top" data-uk-grid>
@@ -23,15 +27,35 @@
 						</li>
 					{{else}}
 						<li>
-							<a class="uk-text-bold" href="{{ "/blog/" | relLangURL }}">All posts</a>
+							<a class="uk-text-bold" href="#" onclick="window.location.href = document.referrer">All posts</a>
 						</li>
 					{{end}}
 
-					{{if eq .Title "Blog" }}
+					{{if eq .Title "Blog"}}
 						{{range (.Site.GetPage "taxonomyTerm" "categories").Pages }}
-							<li><a class="uk-text-bold" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-						{{ end }}
-				  	{{end}}
+							{{if in .LinkTitle "$"}}
+							{{else}}
+								<li><a class="uk-text-bold" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+							{{end}}
+						{{end}}
+					{{end}}
+
+					{{ if eq .Title "References"}}
+						{{range (.Site.GetPage "taxonomyTerm" "categories").Pages }}
+							{{if in .LinkTitle "$"}}
+								<li><a class="uk-text-bold" href="{{ replace .Permalink "fields" "categories" }}">{{ replace .LinkTitle "$" "" }}</a></li>
+							{{end}}
+						{{end}}
+					{{ end }}
+
+					<!-- {{if eq (substr .LinkTitle 0 1) "$"}}
+							{{ $linkTitle := substr .LinkTitle 1 }}
+							{{if eq .Title $linkTitle}}
+							<
+							{{end}}
+						{{else}}
+						<li><a class="uk-text-bold" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+						{{end}} -->
 			  </div>
 			<div class="uk-width-1-3@m">
 				<div class="uk-position-relative">

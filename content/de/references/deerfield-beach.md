@@ -3,7 +3,7 @@ layout: reference
 title: Deerfield Beach - GOAT Abo
 lang: de
 categories:
-- GOAT
+- GOAT$
 thumbnail: "/images/references/freiburg/thumbnail.webp"
 image: "/images/references/freiburg/banner.webp"
 summary: Mit dem GOAT-Abo erstellen die Planer:innen der Stadt Deerfield Beach Erreichbarkeitsanalysen für eine Vielzahl an Planungsfragen. 

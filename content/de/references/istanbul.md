@@ -3,7 +3,7 @@ layout: reference
 title: Walkability Analysen Istanbul
 lang: de
 categories:
-- Consulting
+- Consulting$
 thumbnail: "/images/blog/goat3.0/ghent.png"
 image: "/images/blog/goat3.0/ghent.png"
 summary: Als Planungsgrundlage für die Umgestaltung von sechs Nachbarschaften in Istanbul wurden GIS-basierte Erreichbarkeits- und Walkability-Analysen durchgeführt.

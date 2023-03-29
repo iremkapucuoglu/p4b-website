@@ -3,8 +3,8 @@ layout: reference
 title: San Pedro Garza García
 lang: de
 categories:
-- Forschung
-- GOAT
+- Forschung$
+- GOAT$
 thumbnail: "/images/blog/goat3.0/ghent.png"
 image: "/images/blog/goat3.0/ghent.png"
 summary: Im Rahmen einer Pilotstudie wurde GOAT auf San Pedro Garza García in Mexiko übertragen und trug zum städtischen Fußverkehrs-Masterplan bei.

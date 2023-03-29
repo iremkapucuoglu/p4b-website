@@ -7,8 +7,10 @@
   </div>
   <div class="uk-card-body">
     <div class="uk-text-uppercase uk-text-xsmall uk-text-semi-bold uk-text-spacing-small">
-      {{ range .Params.categories }}
-        <a class="uk-card-categories" href="{{ "/categories/" | absLangURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{if .Params.categories}}
+        {{ range .Params.categories }}
+          <a class="uk-card-categories" href="{{ "/categories/" | absLangURL }}{{ . | urlize }}/">{{ replace . "$" "" }}</a>
+        {{ end }}
       {{ end }}
     </div>
     <h4 class="uk-margin-small-bottom uk-margin-small-top"><a class="uk-card-title-link" href="{{.Permalink}}">{{ .Title }}</a></h4>

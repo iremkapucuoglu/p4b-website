@@ -1,19 +1,17 @@
 ---
 layout: reference
-title: Istambul
+title: Walkability Analyses Istanbul
 lang: en
 thumbnail: "/images/references/istanbul/IstambulThumbnail.webp"
 image: "/images/references/istanbul/IstambulBanner.webp"
-summary: GOAT for urban planning and transportation analysis - Deerfield Beach, Florida
+summary: GIS-based accessibility and walkability analyses were conducted as a basis for planning the redevelopment of six neighborhoods in Istanbul.
 information:
-  - Stadt Freiburg und Freiburger Verkehrs AG (VAG)
-  - 2021 - heute
-  - Ulrike Jehle
+  - Super Eight / City of Istanbul
+  - 2021 - 2022
+  - Elias Pajares
 planning_cases:
-  - Location determination for new bike-sharing stations
-  - Planning of new residential areas
-  - Analysis of pedestrian walkway qualities
-  - Evaluation of new pedestrian and cycling bridges
+  - Accessibility analyses for destinations of daily need
+  - Walkability analyses
 description:
   "GOAT's development process. Many functions of a useful planning tool
   are already implemented, others will follow. This is how it all started:"

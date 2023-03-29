@@ -4,7 +4,7 @@ title: Walkability Analysen Istanbul
 lang: de
 categories:
 - Consulting$
-thumbnail: "/images/references/istanbul/IstambulThumbnail.webpg"
+thumbnail: "/images/references/istanbul/IstambulThumbnail.webp"
 image: "/images/references/istanbul/IstambulBanner.webp"
 summary: Als Planungsgrundlage für die Umgestaltung von sechs Nachbarschaften in Istanbul wurden GIS-basierte Erreichbarkeits- und Walkability-Analysen durchgeführt.
 information:
@@ -15,7 +15,7 @@ planning_cases:
   - Erreichbarkeitsanalysen zu Zielen des täglichen Bedarfs
   - Walkability-Analysen
 
-overview: Als Planungsgrundlage für die Umgestaltung von sechs Nachbarschaften in Istanbul wurden GIS-basierte Erreichbarkeits- und Walkability-Analysen durchgeführt (u.a. Erreichbarkeit zu Zielen des täglichen Bedarfs, Darstellung von Wegequalitäten). Nach der Identifizierung von Schwachstellen wurden potenzielle Maßnahmen entwickelt und die Auswirkungen quantitativ ermittelt.
+overview: GIS-based accessibility and walkability analyses were conducted as a basis for planning the redesign of six neighborhoods in Istanbul (including accessibility to destinations for daily needs, representation of route qualities). After identifying weaknesses, potential measures were developed and impacts quantified.
 
 slider_items:
   - image: "/images/references/istanbul/pedestrian_flows.webp"

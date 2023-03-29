@@ -70,7 +70,17 @@
 			function searchResults() {
 				var currentItem = null;
 				var search = document.getElementById("search-input");
-				var results = document.getElementById( "results-container");
+				var resultsArray = document.getElementById( "results-container");
+				// remote duplicated results
+				var results = [];
+				for (var i = 0; i < resultsArray.children.length; i++) {
+					if (resultsArray.indexOf(resultsArray.children[i].innerText) === -1) {
+						resultsArray.push(resultsArray.children[i].innerText);
+					} else {
+						resultsArray.children[i].remove();
+					}
+				}
+
 
 				function removeActive() {
 					for (i = 0; i < results.children.length; i++) {

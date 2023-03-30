@@ -25,7 +25,7 @@ slider_items:
   - image: "/images/references/ex-tra/Bus Accessibility.webp"
     title: "Erreichbarkeitsübersicht für Busse im Großraum London"
   - image: "/images/references/ex-tra/London.png"
-    title: " ... London ..."
+    title: "Erreichbarkeit zum ÖPNV in London"
 
 review_text: ""
 review_person: "Ana Rivas, Wissenschaftliche Mitarbeiterin & Promovierende zum Thema Straßenraumexperimente"

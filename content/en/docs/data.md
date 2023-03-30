@@ -2,8 +2,8 @@
 title: Data   
 permalink: "/docs/data/"
 sections:
-- technical
-weight: 30
+- about
+weight: 40
 ---
 
 #### Data used in GOAT

@@ -1,4 +1,4 @@
-baseURL = "https://plan4better.de/"
+baseURL = "https://dev.plan4better.de/"
 defaultContentLanguage = "de"
 languageCode = "en-us"
 title = "Plan4Better"
@@ -15,35 +15,35 @@ weight = 1
 heading = "Geo Open Accessibility Tool - GOAT"
 text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen für den Fuß-, Radverkehr und ÖPNV, sowie die Stadt- und Quartiersplanung. Detaillierte Infos finden Sie auf den folgenden Seiten."
 [[languages.de.menu.center]]
-name = "GOAT-Abo"
+name = "GOAT für Städte und Regionen"
 parent = "GOAT"
 url = "/goat/"
 weight = 2
 [[languages.de.menu.center]]
-name = "Referenzen"
+name = "GOAT für Planungsbüros"
 parent = "GOAT"
-url = "/goat-references/"
+url = "/goat-consulting/"
 weight = 3
 [[languages.de.menu.center]]
-name = "Anwendung"
+name = "Einsatzmöglichkeiten"
 parent = "GOAT"
 url = "/goat-anwendung/"
-weight = 3
+weight = 5
 [[languages.de.menu.center]]
 name = "Videos"
 parent = "GOAT"
 url = "/videos/"
-weight = 4
+weight = 6
 [[languages.de.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
 url = "/tutorials/isochrone/"
-weight = 5
+weight = 7
 [[languages.de.menu.center]]
 name = "Docs"
 parent = "GOAT"
 url = "/docs/background/"
-weight = 6
+weight = 8
 [[languages.de.menu.center]]
 name = "Competences"
 weight = 2
@@ -89,17 +89,26 @@ parent = "Über uns"
 url = "/mission/"
 weight = 5
 [[languages.de.menu.center]]
+name = "Presse"
+parent = "Über uns"
+url = "/presse/"
+weight = 7
+[[languages.de.menu.center]]
 name = "Blog"
 url = "/blog/"
 weight = 6
 [[languages.de.menu.center]]
-name = "Presse"
-url = "/presse/"
-weight = 7
-[[languages.de.menu.center]]
 name = "Kontakt"
 url = "/kontakt/"
 weight = 8
+[[languages.de.menu.center]]
+name = "Referenzen"
+url = "/references/"
+weight = 7
+[[languages.en.menu.center]]
+name = "References"
+url = "/references/"
+weight = 7
 [[languages.de.menu.footer]]
 name = "Kontakt"
 url = "/kontakt/"
@@ -113,11 +122,15 @@ name = "Datenschutzerklärung"
 url = "/privacy/"
 weight = 3
 [[languages.de.menu.footer]]
+name = "Datenschutzhinweise Social Media"
+url = "/privacy_social_media/"
+weight = 4
+[[languages.de.menu.footer]]
 name = "Nutzungsbedingungen"
 url = "/nutzungsbedingungen/"
-weight = 4
+weight = 5
 [[languages.de.menu.right]]
-name = "Login / Demo anfragen"
+name = "Login / Für Demo registrieren"
 url = "/request-demo/"
 weight = 1
 [languages.de.menu.right.params]
@@ -153,35 +166,35 @@ weight = 1
 heading = "Geo Open Accessibility Tool - GOAT"
 text = "GOAT is an interactive webtool for accessibility analysis on walking and cycling. Find out more by visiting the subpages."
 [[languages.en.menu.center]]
-name = "GOAT-Subscription"
+name = "GOAT for cities and regions"
 parent = "GOAT"
 url = "/en/goat/"
 weight = 2
 [[languages.en.menu.center]]
-name = "References"
+name = "GOAT for planning offices"
 parent = "GOAT"
-url = "/goat-references/"
+url = "/en/goat-consulting/"
 weight = 3
 [[languages.en.menu.center]]
-name = "Application"
+name = "Use Cases"
 parent = "GOAT"
 url = "/goat-application"
-weight = 3
+weight = 5
 [[languages.en.menu.center]]
 name = "Videos"
 parent = "GOAT"
 url = "/videos/"
-weight = 4
+weight = 6
 [[languages.en.menu.center]]
 name = "Tutorials"
 parent = "GOAT"
 url = "/tutorials/isochrone/"
-weight = 5
+weight = 7
 [[languages.en.menu.center]]
 name = "Docs"
 parent = "GOAT"
 url = "/docs/background/"
-weight = 6
+weight = 8
 [[languages.en.menu.center]]
 name = "Competences"
 weight = 2
@@ -254,13 +267,14 @@ parent = "About us"
 url = "/mission/"
 weight = 5
 [[languages.en.menu.center]]
+name = "Press"
+parent = "About us"
+url = "/press/"
+weight = 7
+[[languages.en.menu.center]]
 name = "Blog"
 url = "/blog/"
 weight = 6
-[[languages.en.menu.center]]
-name = "Press"
-url = "/press/"
-weight = 7
 [[languages.en.menu.center]]
 name = "Contact"
 url = "/en/contact/"
@@ -278,11 +292,15 @@ name = "Privacy"
 url = "/privacy/"
 weight = 3
 [[languages.en.menu.footer]]
+name = "Privacy Social Media"
+url = "/privacy_social_media/"
+weight = 4
+[[languages.en.menu.footer]]
 name = "Terms of use"
 url = "/nutzungsbedingungen/"
-weight = 4
+weight = 5
 [[languages.en.menu.right]]
-name = "Login / Request Demo"
+name = "Login / Get Demo"
 url = "/request-demo/"
 weight = 1
 [languages.en.menu.right.params]
@@ -306,7 +324,7 @@ weight = 3
 [languages.en.menu.social.params]
 icon = "github"
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 [markup.highlight]
 style = "monokai"
 [markup.tableOfContents]

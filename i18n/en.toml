@@ -63,3 +63,42 @@ other = "By"
 
 [all_posts]
 other = "All Posts"
+
+[reference]
+other = "Reference"
+
+[planning_cases]
+other = "Planning Cases"
+
+[overview]
+other =  "Overview"
+
+[client]
+other = "Client"
+
+[period_of_time]
+other = "Period of time"
+
+[contact_person]
+other = "Contact person"
+
+[get_GOAT_for_your_city]
+other = "Get GOAT for your city"
+
+[general_information]
+other = "General information"
+
+[other_cities]
+other = "Other cities"
+
+[search_placeholder_blog]
+other = "Search blog"
+
+[search_placeholder_references]
+other = "Search references"
+
+[References]
+other = "References"
+
+[Blog]
+other = "Blog"

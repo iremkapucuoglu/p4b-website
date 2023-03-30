@@ -38,6 +38,34 @@ text = ""
 load_more_button_text = "Load more"
 
 [[blocks.news]]
+heading = "Die Bessermacher*innen"
+thumbnail = "/images/presse/G+L.webp"
+source = "G+L Magazin für Landschaftarchitektur und Stadtplanung"
+url = "https://www.garten-landschaft.de"
+date = "February 2023"
+
+[[blocks.news]]
+heading = "Alles ums Eck: Die 15-Minuten-Stadt"
+thumbnail = "/images/presse/ews.webp"
+source = "EWS Energiewende Magazin"
+url = "https://www.ews-schoenau.de/energiewende-magazin/zur-sache/die-15-minuten-stadt/"
+date = "19. December 2022"
+
+[[blocks.news]]
+heading = "Städte und Regionen lebenswerter machen"
+thumbnail = "/images/presse/innovative_verwaltung.webp"
+source = "Innovative Verwaltung"
+url = "https://www.springerprofessional.de/staedte-und-regionen-lebenswerter-machen/23828184"
+date = "01. December 2022"
+
+[[blocks.news]]
+heading = "All Daily Needs Within 15 Minutes"
+thumbnail = "/images/presse/tum.webp"
+source = "TUM Research Highlights"
+url = "https://portal.mytum.de/pressestelle/faszination-forschung/2022nr28/10_Faszination_Forschung_28_All_Daily_Needs_Within_15_Minutes_EN.pdf/download"
+date = "01. September 2022"
+
+[[blocks.news]]
 heading = "Marktlaunch bei Plan4Better: Planungssoftware nun deutschlandweit verfügbar"
 thumbnail = "/images/presse/BMWi_Logo.webp"
 source = "Federal Ministry for Economic Affairs and Climate Action"

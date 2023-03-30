@@ -51,7 +51,7 @@ Um Einschränkungen in Öffnungszeiten von beispielsweise Handwerksbetrieben ode
 
 ## Testen Sie GOAT!
 
-Sie wollen auch solche Analysen zur Daseinsvorsorge mit GOAT durchführen oder interessieren sich für weitere Funktionen? [Kontaktieren sie uns](/kontakt/ "Kontaktformular") oder testen sie die [kostenlose GOAT-Demo](/request-demo/ "Demo anfragen")!
+Sie wollen auch solche Analysen zur Daseinsvorsorge mit GOAT durchführen oder interessieren sich für weitere Funktionen? [Kontaktieren sie uns](/kontakt/ "Kontaktformular") oder testen sie die [kostenlose GOAT-Demo](/request-demo/ "Für Demo registrieren")!
 
 Weitere Anwendungsbeispiele für GOAT finden Sie [hier](/goat-anwendung/ "GOAT Anwendung").
 

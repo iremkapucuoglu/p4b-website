@@ -1,7 +1,7 @@
 ---
 description : "Geo Open Accessibility Tool (GOAT) ist ein Open-Source-Webtool zur Erreichbarkeitsplanung mit Fokus auf Nachhaltigkeit."
 layout : "what_is_goat"
-title : "GOAT-Abo"
+title : "GOAT für Kommunen, Landkreise und Regionen"
 translationKey: "goat"
 ogimage : "/images/request-demo/request_demo_ogimage.png"
 hero_section:
@@ -43,7 +43,7 @@ sections:
     discover_section:
       background_color_content: primary
       list_item:
-      - heading: "Das Tool für die integrierte Stadt- und Verkehrsplanung."
+      - heading: "Das Tool für die integrierte Stadt- und Verkehrsplanung"
         text: 'Wir bieten mit GOAT eine Planungssoftware, die es erlaubt mit Hilfe von Erreichbarkeitsanalysen mühelos den Ist-Zustand zu analysieren und neue Konzepte und Vorhaben, wie den Bau neuer Infrastruktur oder Einrichtungen (z.B. Kindergarten, Bikesharing Station) zu bewerten.'
         button:
           url: '#'
@@ -63,22 +63,22 @@ sections:
   - order: 3
     goat_abo_section:
       heading: 'GOAT Abo'
-      text: 'Das GOAT-Abo ermöglicht Ihnen die individuelle Zusammensetzung von GOAT, zugeschnitten auf Ihre Bedürfnisse. Die Preisgestaltung richten sich nach der gewählten Gebietsgröße und der Einwohnerzahl. Schon ab 3.000 € / Jahr buchbar.'
+      text: 'Das GOAT-Abo ermöglicht Ihnen die individuelle Zusammensetzung von GOAT, zugeschnitten auf Ihre Bedürfnisse. Die Preisgestaltung richten sich nach der gewählten Gebietsgröße und der Einwohnerzahl. Schon ab 3.000 € / Jahr zzgl. MWSt buchbar.'
 
   - order: 4
     question_section:
       list_item:
       - img: '/images/index/undraw_map_re_60yf.png'
         heading: 'Gebietsgröße wählen'
-        sub_heading: 'Kommune - Landkreis - Verkehrsverbund - ...'
-        text: 'Wählen Sie ihr Wunschgebiet für GOAT.​ Die Preisgestaltung richtet sich nach der Anzahl der Einwohner. '
+        sub_heading: 'Stadt - Landkreis - Verkehrsverbund - ...'
+        text: 'Wählen Sie ihr Wunschgebiet für GOAT.​ Die Preisgestaltung richtet sich nach der Anzahl der Einwohner:innen. '
       - img: '/images/index/undraw_pitching_re_fpgk.png'
         heading: 'Module wählen'
-        sub_heading: 'Fußverkehr  - Radverkehr - ÖPNV'
-        text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad und/oder ÖPNV) durchzuführen.'
+        sub_heading: 'Fuß- & Radverkehr - ÖPNV - MIV'
+        text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad, ÖPNV und/oder MIV) durchzuführen.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'
         heading: 'Anzahl der Benutzer:innen wählen'
-        text: 'Standardmäßig ind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
+        text: 'Standardmäßig sind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
 
   - order: 5
     goat_contact_section:
@@ -95,7 +95,7 @@ sections:
         heading: 'GOAT-Demo'
         text: 'Testen Sie alle GOAT Funktionen in unserer Demoversion.'
         icon: 'images/index/goat-icon.svg'
-      - url: '/goat-references/'
+      - url: '/references/'
         heading: 'Referenzen'
         text: 'Entdecken Sie bisherige Einsätze und Anwendungen von GOAT.'
         icon: images/index/code.svg

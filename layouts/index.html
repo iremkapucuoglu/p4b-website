@@ -157,20 +157,12 @@
         {{ end }}
       </div>
     </div>
-    <div class="uk-column-1-2@s uk-margin-large-top"
-      data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
-      {{ if .twitter_timeline }}
-      <div class="twitter-feed">
+    <div class="uk-column-1-2@s uk-margin-large-top uk-container"
+      data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100" style="display: flex; align-items: center; justify-content: center;">
+      <div class="twitter-feed" style="width: 100%">
         <a data-tweet-limit="2" class="twitter-timeline" href="{{.twitter_timeline | absURL}}">Tweets by plan4better</a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
-      {{end}}
-      {{ if .linkedin_feed }}
-      <div class="linked-in-feed">
-        <iframe src="{{.linkedin_feed | absURL}}" height="602" width="100%" frameborder="0" allowfullscreen=""
-          title="Embedded post"></iframe>
-      </div>
-      {{end}}
     </div>
   </div>
 </section>
@@ -250,5 +242,25 @@
 {{ end }}
 {{ end }}
 {{ end }}
+<script type="text/javascript">
+  function delete_script() {
+    // Remove the script with id matomo
+    var script = document.getElementById('matomo');
+    script.parentNode.removeChild(script);
+  }
 
+  function cookies_accepted() {
+    console.log('Cookies Accepted');
+  }
+
+  function cookies_rejected() {
+    console.log('Cookies Rejected');
+    delete_script();
+  }
+
+  var _iub = _iub || [];
+  _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"countryDetection":true,"enableLgpd":true,"enableUspr":true,"floatingPreferencesButtonDisplay":"bottom-right","lang":"en","lgpdAppliesGlobally":false,"perPurposeConsent":true,"siteId":2980772,"whitelabel":false,"cookiePolicyId":12274180,"floatingPreferencesButtonCaption":true, "callback":{ "onConsentGiven": cookies_accepted, "onConsentFirstRejected": cookies_rejected, "onConsentFirstGiven": cookies_accepted, "onConsentRejected": cookies_rejected }, "banner":{ "acceptButtonCaptionColor":"#FFFFFF","acceptButtonColor":"#0073CE","acceptButtonDisplay":true,"backgroundColor":"#FFFFFF","brandBackgroundColor":"#FFFFFF","brandTextColor":"#000000","closeButtonDisplay":false,"customizeButtonCaptionColor":"#4D4D4D","customizeButtonColor":"#DADADA","customizeButtonDisplay":true,"explicitWithdrawal":true,"listPurposes":true,"logo":"https://plan4better.de/images/logo.png","position":"bottom","prependOnBody":true,"rejectButtonCaptionColor":"#FFFFFF","rejectButtonColor":"#0073CE","rejectButtonDisplay":true,"textColor":"#000000" }};
+  </script>
+  <script type="text/javascript" src="//cdn.iubenda.com/cs/gpp/stub.js"></script>
+  <script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
 {{ end }}

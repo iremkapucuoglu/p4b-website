@@ -1,13 +1,13 @@
 +++
 description = "GOAT ist ein vielseitiges Planungstool, das für verschiedene formelle und informelle Planungen eingesetzt werden kann."
 layout = "blocks"
-title = "Application"
+title = "Use cases"
 ogimage = "/images/request-demo/request_demo_ogimage.png"
-translationKey = "application"
+translationKey = "usecases"
 [header]
 background = "muted"
 background_image = ""
-heading = "Anwendung in der Planungspraxis"
+heading = "Einsatzmöglichkeiten von GOAT in der Planungspraxis"
 image = ""
 layout = "center"
 text = "GOAT ist ein vielseitiges Planungstool, das für verschiedene formelle und informelle Planungen eingesetzt werden kann. Unter anderem können mit GOAT Nahverkehrsplanungen, Nahmobilitätskonzepte, Radverkehrskonzepte, Stadtentwicklungskonzepte, Daseinsvorsorge und viele weitere Themen bearbeitet werden."

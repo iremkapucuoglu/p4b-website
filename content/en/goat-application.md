@@ -1,13 +1,13 @@
 +++
 description = "GOAT ist ein vielseitiges Planungstool, das für verschiedene formelle und informelle Planungen eingesetzt werden kann."
 layout = "blocks"
-title = "Application"
+title = "Use Cases"
 ogimage = "/images/request-demo/request_demo_ogimage.png"
-translationKey = "application"
+translationKey = "usecases"
 [header]
 background = "muted"
 background_image = ""
-heading = "Application in planning practice"
+heading = "Use cases for GOAT in planning practice"
 image = ""
 layout = "center"
 text = "GOAT is a versatile planning instrument that can be used for various formal and informal planning processes. Among other things, GOAT can be used for local transport planning, local mobility concepts, cycling concepts, urban development plans, provision of public services and many other subjects."

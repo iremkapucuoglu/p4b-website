@@ -21,7 +21,7 @@ Munich is currently pressed with issues of traffic congestion and housing shorta
 
 Carlos Moreno coined the term <<**15-minute city**>> in planning projects with the City of Paris, which has taken his idea as a source of inspiration for a lot of rapid change in the city (Moreno, 2019). This shift is adhering to the transition from a “mono-functional” city to a “polycentric” city based on _proximity, diversity, density and ubiquity_ to bind and offer greater quality to six essential urban functions: **living, working, supplying, caring, learning, and enjoying** (Petzer, 2021).
 
-The **vision** of the 15-minute city is that all residents can reach basic needs and services within 15 minutes on foot or by bicycle (and, as a complement, by public transport). The challenge for a planner is to identify current service gaps and find suitable locations for new services and improved walking and cycling infrastructure. As developers of the digital planning tool [GOAT](/goat/ "What is GOAT?"), we are here for you!
+The **vision** of the 15-minute city is that all residents can reach basic needs and services within 15 minutes on foot or by bicycle (and, as a complement, by public transport). The challenge for a planner is to identify current service gaps and find suitable locations for new services and improved walking and cycling infrastructure. As developers of the digital planning tool [GOAT](/goat/ "What is the planning software GOAT?"), we are here for you!
 
 ## Sub-Centralities
 
@@ -31,7 +31,7 @@ Urban vibrancy in our case, can be the level of “intensity of people’s conce
 
 By looking at Munich through the lens of ‘sub-centralities’ a better analysis of the 15-minute city is achievable (Correa, Vergara-Perucich, & Aguirre-Nunez, 2020). Sub-centralities, in our case, take the form of designated districts within Munich. We chose the districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach to compare the distribution of POIs across the district populations that fall within a 15-minute walking radius.
 
-![15-minute walking radius](/images/blog/muc-15mincity/districts.webp)
+![Map of the 15-minute walking radius](/images/blog/muc-15mincity/districts.webp "Planning the 15-minute-city with GOAT")
 
 _Image 1: 15-minute walking radius’ in districts Giesing, Neuperlach, Sendling, Schwabing, and Moosach_
 
@@ -39,17 +39,17 @@ _Image 1: 15-minute walking radius’ in districts Giesing, Neuperlach, Sendling
 
 GOAT offers helpful features to perform 15-minute city analyses. Image 2 shows the summarized results of the POI analysis per district. It shows how many destinations are each accessible within the 15 minute walking radius.
 
-![Aggregated POI results](/images/blog/muc-15mincity/amenities.webp)
+![Aggregated POI results ](/images/blog/muc-15mincity/amenities.webp "15 minute city analysis of Munich ")
 
 _Image 2: Accessible destinations within 15 minutes_
 
 Schwabing takes the biggest slice of the cake in amenity distribution. Given Schwabing is one of the densest residential areas of the city, it also benefits from integrated mixed-use planning, with bars, restaurants, and other shops at street-level access. However, Giesing has a higher population count but four times less amenities than Schwabing. This poses a problem then, as residents from one district will likely need to travel outside of their district to find desired and needed amenities.
 
-![Accessibility to Schools](/images/blog/muc-15mincity/schools.webp)
+![Accessibility planning to new schools](/images/blog/muc-15mincity/schools.webp "Accessibility tool for planning new schools ")
 
 _Image 3: Screenshot of School Accessibility in Munich_
 
-![Accessibility to Bars](/images/blog/muc-15mincity/bars.webp)
+![Accessibility to points of interest ](/images/blog/muc-15mincity/bars.webp "Accessibility map for location planning in Munich")
 
 _Image 4: Screenshot of Bars and other recreational activities in the city_
 
@@ -61,9 +61,9 @@ The issue of uneven POI distribution can mean a lack of diverse options and may 
 
 In summary, Munich has the potential to become a 15-minute city. Some districts are already "readier" than others.
 
-The fact that near-by destinations in terms of the 15-minute city are part of the recently presented [Mobility Strategy 2035](https://www.mobilitaetsstrategie2035.de/sites/default/files/downloads/2035-magazin-web-final.pdf "Mobilitätsstrategie 2035") brings hope. The topic is on the agenda of the City of Munich and is to be tackled more intensively in the coming years. We are here to help with our planning software GOAT and are happy to provide support wherever possible!
+The fact that near-by destinations in terms of the 15-minute city are part of the recently presented [Mobility Strategy 2035](https://www.mobilitaetsstrategie2035.de/sites/default/files/downloads/2035-magazin-web-final.pdf "Mobility strategy of the city of Munich 2035") brings hope. The topic is on the agenda of the City of Munich and is to be tackled more intensively in the coming years. We are here to help with our planning software GOAT and are happy to provide support wherever possible!
 
-Would you also like to make your city more liveable and turn the vision of the 15-minute city into reality? Then [feel free to contact us!](/en/contact/ "Contact Plan4Better")
+Would you also like to make your city more liveable and turn the vision of the 15-minute city into reality? Then [feel free to contact us!](/en/contact/ "Contact to Plan4Better")
 
 ## References
 

@@ -6,6 +6,8 @@ sections:
 - training
 
 ---
+![Standortplanung in GOAT](/images/tutorials/Tutorial_banners/scenario_location_planning_banner.webp "Standortplanung in GOAT")
+
 #### Beschreibung des Features
 
 GOAT ermöglicht die Entwicklung eigener Szenarien zur Standortplanung, so kann bspw. ein neuer Supermarkt oder eine neue Schule hinzugefügt und die Auswirkungen auf die Erreichbarkeit mithilfe von Heatmaps und Multi-Isochronen ermittelt werden.
@@ -15,6 +17,9 @@ GOAT ermöglicht die Entwicklung eigener Szenarien zur Standortplanung, so kann 
 * Wie verändert sich die Erreichbarkeit zu Supermärkten in einer Nachbarschaft, wenn den Standort eines Supermarktes verändert wird?
 * Wie verändert sich die Erreichbarkeit zu Schulen, wenn eine neue Schule hinzugefügt wird?
 * Wie gut sind die Kindergärten über die Stadt verteilt? Wo wäre eine gute Position für einen neuen Kindergarten?
+
+#### Video Tutorial
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/411721219" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 #### Schritt-für-Schritt-Anleitung für eine beispielhafte Planungsaufgabe
 

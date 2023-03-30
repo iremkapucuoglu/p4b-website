@@ -18,12 +18,12 @@ style="max-height:300px;"/>
 <img src="\images\docs\technical_documentation\multi-isochrones\multi-isochrone_2_en.webp" alt="study area" 
 style="max-height:300px;"/>
 
-Figure 1. Defining  the study area. Draw a polygon (on the left) or select the several city districts (on the right).
+_Figure 1. For defining the study area, you can draw a polygon (on the left) or select city districts (on the right)._
    
- As a result, the multi-isochrones are displayed on the map along with a table listing the population that is situated in the selected study area, and the percentage of them who have access to the selected POIs in both relative and absolute terms (Figure 2).
+As a result, the multi-isochrones are displayed on the map along with a table listing the population that is situated in the selected study area, and the percentage of them who have access to the selected POIs in both relative and absolute terms (Figure 2).
+
+![Accessibility indicator: Multi-Isochrones](/images/docs/technical_documentation/multi-isochrones/multi-isochrone_3_en.webp "Accessibility indicator: Multi-isochrones")
+
+_Figure 2. Result of the Multi-isochrone calculation._
 
 Equivalent to the calculation of single [isochrones](/docs/alphashape/ "Documentation on isochrones"), multi-isochrones can be generated with all supported routing modes and represent all types of scenario building (network, points of interest, and buildings). The user can adjust travel times and speeds for the different routing modes.
-
-<img src="\images\docs\technical_documentation\multi-isochrones\multi-isochrone_3_en.webp" alt="study area" style="max-height:350px;"/>
-
-Figure 2. Multi-isochrone calculation results for drawing a polygon as an example.

@@ -1,12 +1,14 @@
 ---
 title: Upload of custom POI-data
 permalink: "/de/tutorials/data_upload/"
-weight: 60
+weight: 70
 sections:
 - training
 description: Step-by-step tutorial for uploading POI data
 
 ---
+![POIs in GOAT](/images/tutorials/Tutorial_banners/data_upload_banner.webp "POIs in GOAT")
+
 #### Description of the feature
 In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provided by default. If you wish to integrate further POI data sets into GOAT, you can do so via the "Upload" function. In this tutorial you can see how to create your own POI layer by using QGIS and integrate it in GOAT. 
 

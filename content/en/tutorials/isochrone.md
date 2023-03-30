@@ -1,7 +1,7 @@
 ---
 title: Isochrones
 permalink: "/tutorials/isochrone/"
-weight: 10
+weight: 20
 sections:
 - training
 description: Possible use cases and step-by-step tutorials for exemplary planning
@@ -9,6 +9,8 @@ description: Possible use cases and step-by-step tutorials for exemplary plannin
 
 
 ---
+![Isochrones in GOAT](/images/tutorials/Tutorial_banners/isochrone_banner.webp "Isochrones in GOAT")
+
 #### Description of the feature
 
 [Isochrones](/docs/alphashape/ "Documentation on isochrones") are isolines connecting all points that can be reached from a specific starting point within a certain time interval. GOAT allows the calculation of isochrones that take factors such as speed, infrastructure network, and traveling time into account. This can be adjusted automatically by choosing between the modes “Walking”, “Bike”, “Pedelec”, “Transit” or “Car”. Isochrones can be used as an indicator of accessibility in one specific location.
@@ -20,15 +22,11 @@ description: Possible use cases and step-by-step tutorials for exemplary plannin
 * How many people can access a specific location within 20min by rail-based public transport (tram, underground, train)?
 
 #### Video Tutorial
-<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/754252638" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/754209613" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 #### Step-by-step tutorials for exemplary planning tasks
 
 #### 1 Walking accessibility to supermarkets
-
-#### Video Tutorial
-
-<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/754209613" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 ##### 1.1 Planning question
 

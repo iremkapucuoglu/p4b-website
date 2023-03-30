@@ -37,7 +37,9 @@ Wir haben eine Challenge zur Verbesserung der Planungsgrundlagen für den Fußve
 
 <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/485063701" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
-Als einer der sieben Sieger-Teams erhielten wir die Möglichkeit, eine 3-monatige Förderung durch das Verkehrsministerium Baden-Württemberg im Rahmen der Anschlussförderung des Hackathon „MobiDataBW Hackathon 2020“ entgegen zu nehmen.![](/images/blog/hackathon/hackathon.webp)
+Als einer der sieben Sieger-Teams erhielten wir die Möglichkeit, eine 3-monatige Förderung durch das Verkehrsministerium Baden-Württemberg im Rahmen der Anschlussförderung des Hackathon „MobiDataBW Hackathon 2020“ entgegen zu nehmen.
+
+![MobiData BW Hackathon](/images/blog/hackathon/hackathon.webp "MobiData BW Hackathon")
 
 ## Die Innovationssphase
 

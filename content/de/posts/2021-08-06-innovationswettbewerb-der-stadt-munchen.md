@@ -33,8 +33,8 @@ Ein gemeinsamer Tagesabschluss bei ein paar Gläsern Wein zur Feier rundeten den
 
 In einer einjährigen „Umsetzungsphase“ werden wir GOAT weiterentwickeln und unseren Entwicklungsprozess mit der Stadt München festigen. In gemeinsamen Workshops zum Thema „ Wie können wir München in eine 15-Minuten-Stadt transformieren?“, soll unter Nutzung von GOAT untersucht werden, wie gut die Ziele des täglich Bedarfs über die Stadt verteilt sind und wo hier noch Verbesserungspotential besteht. Der intensive Austausch und die wertvollen Einblicken in die Planungsabläufe der Stadt helfen uns dabei, unsere Indikatoren und Analyse-Optionen in GOAT zu verbessern und diese so näher an den realen Bedarf unserer Nutzer zu bringen.
 
-Außerdem haben wir eine „Wildcard“ für ein Accelerator-Programm unserer Wahl gewonnen. Ein guter Zeitpunkt, da wir uns ohnehin gerade erst für den [XPRENEURS Batch #10](https://www.unternehmertum.de/en/services/xpreneurs) der [UnternehmerTUM](https://www.unternehmertum.de/en/) beworben hatten.
+Außerdem haben wir eine „Wildcard“ für ein Accelerator-Programm unserer Wahl gewonnen. Ein guter Zeitpunkt, da wir uns ohnehin gerade erst für den [XPRENEURS Batch #10](https://www.unternehmertum.de/en/services/xpreneurs "XPRENEURS Batch #10") der [UnternehmerTUM](https://www.unternehmertum.de/en/ "UnternehmerTUM") beworben hatten.
 
 Falls es weitere Neuigkeiten gibt, werden wird diese über unsere Social Media Kanäle teilen. Sollten Sie an diesen interessiert sein, folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/plan4better/) und [Twitter](https://twitter.com/plan4better). Bis dahin freuen wir uns schon einmal auf die nächsten Schritte und feiern unser erstes Award-Zertifikat an unserer Wand 😊.
 
-![](/images/blog/award/certif.webp)
+![Innovationspreis der Landeshauptstadt München](/images/blog/award/certif.webp "Innovationspreis der Landeshauptstadt München")

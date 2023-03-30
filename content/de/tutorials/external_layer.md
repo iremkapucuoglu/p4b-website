@@ -1,12 +1,14 @@
 ---
 title: Externe Layer hinzufügen
 permalink: "/tutorials/external-layers/"
-weight: 60
+weight: 70
 sections:
 - training
 description: Step-by-step tutorial for adding external layers
 
 ---
+![Umweltdaten in GOAT](/images/tutorials/Tutorial_banners/external_layer_banner.webp "Externe Umweltdaten in GOAT")
+
 #### Beschreibung des Features
 
 GOAT ermöglicht es Ihnen, eigene externe Layer zu integrieren. Mit einer breiten Auswahl an geografischen Karten können Sie Ihre Analyse individuell gestalten. Sie können entweder aus den voreingestellten Layern wählen oder Ihre eigenen Layer hinzufügen.
@@ -15,6 +17,9 @@ GOAT ermöglicht es Ihnen, eigene externe Layer zu integrieren. Mit einer breite
 
 * Hinzufügen von Layern mit zusätzlichen Informationen aus dem Geoportal, wie z.B. dem 5G Breitband-Mobilfunknetz 
 * Hinzufügen von individuellen Basiskarten für Ihre Analysen.
+
+#### Video Tutorial
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/755032628" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 #### Schritt-für-Schritt-Anleitung für das Hinzufügen eigener Layer
 

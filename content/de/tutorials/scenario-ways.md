@@ -6,6 +6,8 @@ sections:
 - training
 
 ---
+![Veränderungen am Wegenetz in GOAT](/images/tutorials/Tutorial_banners/scenario_ways_banner.webp "Veränderungen am Wegenetz in GOAT")
+
 #### Beschreibung des Features
 
 GOAT ermöglicht die Entwicklung eigener Szenarien, wie z.B. der Modifikation des Netzwerks oder der Bau einer neuen Brücke. Das entwickelte Szenario kann zu dem aktuellen Netzwerk hinzugefügt und Änderungen der Erreichbarkeit durch Isochronen bewertet werden.
@@ -14,6 +16,9 @@ GOAT ermöglicht die Entwicklung eigener Szenarien, wie z.B. der Modifikation de
 
 * Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke über einen Fluss?
 * Welche Variante eines neuen Radweges erschließt die höchste Anzahl an Anwohnern?
+
+#### Video Tutorial
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/759803197" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 #### Schritt-für-Schritt-Anleitung für eine beispielhafte Planungsaufgabe
 

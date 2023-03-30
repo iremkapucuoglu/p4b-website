@@ -17,6 +17,15 @@
     de: Mit der Stadt Freiburg haben wir im Rahmen der MobiDataBW-Innovationsphase neue Funktionen entwickelt. Außerdem wird GOAT heute im Regelbetrieb vom Stadtplanungsamt und von der Freiburger Verkehrs AG eingesetzt.
   url: 
   comments: Freiburg
+- image: "/images/GOAT/ghent.webp"
+  title:
+    en: Ghent
+    de: Ghent
+  text:
+    en: In a cooperation with the research project EX-TRA, GOAT was set up for the City of Ghent. The local planners and researchers use GOAT to analyze accessibility to daily needs and recreational areas. 
+    de: Im Rahmen des Forschungsprojektes EX-TRA wurde GOAT auf Ghent übertragen. Das Erreichbarkeitsinstrument wird von den lokalen PlanerInnen und ForscherInnen eingesetzt, um die Erreichbarkeit zu Zielen des täglichen Bedarfs und öffentlichen Erholungsräumen zu analysieren. 
+  url: 
+  comments: Ghent
 - image: "/images/GOAT/deerfield.webp"
   title:
     en: Deerfield Beach
@@ -25,7 +34,7 @@
     en: Deerfield Beach is our first city in the US! In the city of Deerfield Beach, GOAT is used to address network gaps in walking and cycling, as well as planning for public services, among other things. 
     de: Deerfield Beach ist unsere erste Stadt in den USA! In der Stadt Deerfield Beach wird GOAT unter anderem für die Schließung von Netzwerklücken im Fuß- und Radverkehr, sowie für die Planung von Daseinsvorsorgeeinrichtungen verwendet. 
   url: 
-  comments: Freiburg
+  comments: Deerfield Beach
 - image: "/images/GOAT/ffb.webp"
   title:
     en: Fürstenfeldbruck

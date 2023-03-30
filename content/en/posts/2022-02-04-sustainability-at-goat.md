@@ -34,11 +34,11 @@ Sustainable development can thus only work if we consider the dimensions as an i
 * Goal 11: Sustainable cities and communities
 * Goal 13: Climate action
 
-![](/images/e-sdg-poster-2019_without-un-emblem_web.webp)
+![Sustainable Development Goals by the United Nations](/images/e-sdg-poster-2019_without-un-emblem_web.webp "Sustainable Development Goals by the United Nations")
 
 _Figure 1: Sustainable Development Goals by the United Nations_
 
-More information about the SDG: [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/ "https://www.un.org/sustainabledevelopment/")
+More information about the SDG: [https://www.un.org/sustainabledevelopment/](https://www.un.org/sustainabledevelopment/ "SDGs")
 
 ## How is sustainability implemented at GOAT?
 
@@ -48,7 +48,7 @@ With GOAT, we encourage planning decisions that support active mobility, i.e., w
 
 Walking and cycling promote physical and mental health and contribute to a positive state of mind. It can also reduce risks of preventable diseases, such as obesity and heart problems. For example, did you know that life expectancy increases by 0.7 years when we exercise daily ([Oberhofer 2015](https://www.aerztezeitung.de/Medizin/Spazierengehen-verlaengert-das-Leben-250822.html "https://www.aerztezeitung.de/Medizin/Spazierengehen-verlaengert-das-Leben-250822.html"))?
 
-![](/images/undraw_ride_a_bicycle_re_6tjy.webp)
+![Sustainable mobility](/images/undraw_ride_a_bicycle_re_6tjy.webp "Sustainable mobility")
 
 ### Identifying and addressing disadvantaged areas
 
@@ -66,9 +66,9 @@ Our planning software GOAT makes it possible to locate significant infrastructur
 
 The core of GOAT is the planning of sustainable cities and communities. By providing an easy-to-use planning tool, we help planners evaluate measures to promote active mobility concepts, design vital spaces, create connected communities, and ensure easy access to daily needs and green spaces.
 
-With this in mind, we have already conducted several pilot projects in cities such as Munich, Istanbul and Freiburg. You can find more information [here](/goat-references/ "GOAT live").
+With this in mind, we have already conducted several pilot projects in cities such as Munich, Istanbul and Freiburg. You can find more information [here](/references/ "GOAT live").
 
-![](/images/undraw_a_day_at_the_park_re_9kxj.webp)
+![Liveable cities](/images/undraw_a_day_at_the_park_re_9kxj.webp "Liveable cities")
 
 ### Promoting environmentally friendly forms of mobility
 

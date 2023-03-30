@@ -9,13 +9,26 @@ weight: 40
 Hier finden Sie einen Überblick über die veröffentlichten wissenschaftlichen Publikationen zur Entwicklung und Anwendung von GOAT.
 ________________________________
 
+### Erreichbarkeits- und Analyseinstrumente für die Daseinsvorsorgeplanung: Potenziale und Hindernisse
+
+https://doi.org/10.26084/14dfns-p032
+
+<b>Autor/-innen</b>: Robert Hecht, Benjamin Büttner, Ulrike Jehle, Manfred Klaus, Falko Krügel,  Bartosz McCormick, Elias Pajares,  Denis Reiter, Theodor Rieche, Sebastian Seisenberger,  Mathias Jehling
+
+<b>Datum</b>: 2022
+
+<b>Schlüsselwörter</b>: spatial planning; supply; mobility; infrastructure; settlement; development; planning instrument; Lower Saxony; Federal Republic of Germany; 15-Minuten Stadt; Anforderungsanalyse; Web-GIS
+
+<b>Zusammenfassung</b>: Systeme zur Entscheidungsunterstützung haben große Potenziale, Planungsprozesse im Rahmen der Daseinsvorsorge zu verbessern. Allerdings werden mit zunehmenden technischen Möglichkeiten Fragen nach verbesserter Anwendungsorientierung und Nutzbarkeit für Akteure der Planung deutlich. In einem Workshop haben Akteure aus Planungspraxis, Wissenschaft und Wirtschaft anhand von konkreten Fragen aus der Planung die Anwendung der web-basierten Tools „Daseinsvorsorgeatlas Niedersachsen“ und „GOAT 3.0“ diskutiert. Im Rahmen von Arbeitsgruppen wurden die Anwendbarkeit, Indikatoren und Modellierungen sowie Hindernisse für eine Integration in Verfahren erarbeitet.
+________________________________
+
 ### Assessment of the usefulness of the accessibility instrument GOAT for the planning practice
 
 https://doi.org/10.1016/j.urbmob.2022.100033
 
 <b>Autor/-innen</b>: Elias Pajares, Ulrike Jehle, Joelean Hall, Montserrat Miramontes, Gebhard Wulfhorst
 
-<b>Datum</b>: 4 October 2022
+<b>Datum</b>: 4. Oktober 2022
 
 <b>Schlüsselwörter</b>: Accessibility ; Active mobility ; PSS
 
@@ -36,9 +49,7 @@ https://doi.org/10.26084/13dfns-p024
 
 <b>Schlüsselwörter</b>: Erreichbarkeit; Planungswerkzeug; Fußverkehr; Radverkehr
 
-<b>Zusammenfassung</b>: Die Sicherstellung einer hohen nahräumlichen Erreichbarkeit für den Fuß- und Radver -
-kehr erfährt mit dem Ansatz der 15-Minuten-Stadt einen enormen Bedeutungsgewinn. Erreichbarkeitsinstrumente als digitale Planungswerkzeuge können in der Praxis dabei unterstützen, Defizite sowie Potenziale im Raum aufzuzeigen. Der Beitrag untersucht, inwiefern das sich in Entwicklung befindliche, webbasierte Erreichbarkeitsinstrument GOAT unterstützen kann, evidenzbasiert im Sinne einer 15-Minuten-Stadt zu planen. Zum Einsatz kommen hierbei verschiedene Indikatoren wie Reisezeitisochronen, Heatmaps und räumliche Daten, welche zur Abbildung des Ist-Zustandes, aber auch für die interaktive Modellierung von Erreichbarkeitsszenarien eingesetzt werden. Trotz der bereits sehr guten Einsatzfähigkeit des Instrumentes besteht weiterhin die Herausforde-
-rung, einen ganzheitlichen Indikator für die 15-Minuten-Stadt zu entwickeln. Hiermit zusammenhängend gilt es zu klären, ob eine vielschichtige Vision wie die 15-Minuten-Stadt überhaupt ganzheitlich in digitalen Planungswerkzeugen bewertet werden kann oder ob gerade in der Nutzung mehrerer Indikatoren die Stärke liegt. Ebenso besteht der Bedarf, Lösungen und Zielvorgaben auch für suburbane und ländliche Räume zu entwickeln.
+<b>Zusammenfassung</b>: Die Sicherstellung einer hohen nahräumlichen Erreichbarkeit für den Fuß- und Radverkehr erfährt mit dem Ansatz der 15-Minuten-Stadt einen enormen Bedeutungsgewinn. Erreichbarkeitsinstrumente als digitale Planungswerkzeuge können in der Praxis dabei unterstützen, Defizite sowie Potenziale im Raum aufzuzeigen. Der Beitrag untersucht, inwiefern das sich in Entwicklung befindliche, webbasierte Erreichbarkeitsinstrument GOAT unterstützen kann, evidenzbasiert im Sinne einer 15-Minuten-Stadt zu planen. Zum Einsatz kommen hierbei verschiedene Indikatoren wie Reisezeitisochronen, Heatmaps und räumliche Daten, welche zur Abbildung des Ist-Zustandes, aber auch für die interaktive Modellierung von Erreichbarkeitsszenarien eingesetzt werden. Trotz der bereits sehr guten Einsatzfähigkeit des Instrumentes besteht weiterhin die Herausforderung, einen ganzheitlichen Indikator für die 15-Minuten-Stadt zu entwickeln. Hiermit zusammenhängend gilt es zu klären, ob eine vielschichtige Vision wie die 15-Minuten-Stadt überhaupt ganzheitlich in digitalen Planungswerkzeugen bewertet werden kann oder ob gerade in der Nutzung mehrerer Indikatoren die Stärke liegt. Ebenso besteht der Bedarf, Lösungen und Zielvorgaben auch für suburbane und ländliche Räume zu entwickeln.
 ________________________________
 
 ### Analyse der Fußwegequalitäten zu Schulen: Entwicklung von Indikatoren auf Basis von OpenData 

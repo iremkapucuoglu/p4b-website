@@ -1,12 +1,12 @@
 ---
 layout: reference
-title: San Pedro Garza García
+title: San Pedro Garza García - Mexico
 lang: de
 categories:
 - Forschung$
 - GOAT$
-thumbnail: "/images/blog/goat3.0/ghent.png"
-image: "/images/blog/goat3.0/ghent.png"
+thumbnail: "/images/references/san pedro graza garcia/San Pedro Graza GarciaThumbnail.webp"
+image: "/images/references/san pedro graza garcia/San Pedro Graza GarciaBanner.webp"
 summary: Im Rahmen einer Pilotstudie wurde GOAT auf San Pedro Garza García in Mexiko übertragen und trug zum städtischen Fußverkehrs-Masterplan bei.
 information:
   - Stadt San Pedro Garza García

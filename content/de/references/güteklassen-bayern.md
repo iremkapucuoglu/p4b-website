@@ -5,8 +5,8 @@ lang: de
 categories:
 - Consulting$
 - GOAT$
-thumbnail: "/images/blog/goat3.0/ghent.png"
-image: "/images/blog/goat3.0/ghent.png"
+thumbnail: "/images/references/Bayern/Bayern thumb.webp"
+image: "/images/references/Bayern/Bayern banner.webp"
 summary: TODO.
 information:
   - TODO

@@ -5,8 +5,8 @@ lang: de
 categories:
 - Consulting$
 - GOAT$
-thumbnail: "/images/blog/goat3.0/ghent.png"
-image: "/images/blog/goat3.0/ghent.png"
+thumbnail: "/images/references/Austria/AustrtiaThumbnail.webp"
+image: "/images/references/Austria/AustrtiaBanner.webp"
 summary: In Kooperation mit der TU Wien wurden die ÖV-Güteklassen für das gesamte Land Österreich berechnet.
 information:
   - KCW GmbH und Österreichischer Städtebund

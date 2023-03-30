@@ -5,24 +5,17 @@ lang: de
 categories:
 - Consulting$
 - GOAT$
-thumbnail: "/images/references/Bayern/Bayern thumb.webp"
-image: "/images/references/Bayern/Bayern banner.webp"
-summary: TODO.
+thumbnail: "/images/references/Bayern/thumbnail.webp"
+image: "/images/references/Bayern/banner.webp"
+summary: Zur Bewertung der ÖPNV-Angebotsqualität wurden die ÖV-Güteklassen für ganz Bayern berechnet. 
 information:
-  - TODO
+  - KCW GmbH
   - 2022 
   - Elias Pajares
 
 
-overview: TODO
+overview: Zur Bewertung der ÖPNV-Angebotsqualität wurden die ÖV-Güteklassen für ganz Bayern berechnet. 
 
-slider_items:
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
 
 date: 2022-04-01
 

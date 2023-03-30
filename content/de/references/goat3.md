@@ -14,17 +14,17 @@ information:
   - 2021 - 2024
   - Elias Pajares
 planning_cases:
-  - ... TODO
+  - Entwicklung neuer Funktionen u.a. zum ÖPNV, Grünraumplanung und zur 15-Min-Stadt
   
 
 overview: Ziel des 3-jährigen Projekts ist es, die Funktionen von GOAT in einem ko-kreativen Entwicklungsprozess maßgebend zu erweitern. Hierzu werden neue Erreichbarkeits-Indikatoren entwickelt und diverse partizipative Veranstaltungen, wie Workshops und Stadtteilsafaris, durchgeführt. 
 
 slider_items:
-  - image: "/images/blog/goat3.0/placeholderImage.png"
+  - image: "/images/references/goat3/hausärzte.webp"
     title: "Erreichbarkeit zu Hausärzten im ländlichen Raum"
   - image: "/images/references/goat3/öpnv.webp"
     title: "ÖV-Güteklassen zur Hauptverkehrszeit in München"
-  - image: "/images/blog/goat3.0/placeholderImage.png"
+  - image: "/images/references/goat3/grünflächen.webp"
     title: "Erreichbarkeit zu Grünräumen"
 
 review_text: "„GOAT bringt durch intuitive und schnelle Analysen mit optisch ansprechenden und leicht verständlichen Ergebnissen einen großen Mehrwert zur Beantwortung komplexer Planungsprobleme im Mobilitätssektor.”"

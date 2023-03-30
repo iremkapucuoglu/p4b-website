@@ -12,7 +12,7 @@ information:
   - 2022 - 2023
   - Ulrike Jehle
 planning_cases:
-  - TODO (/not needed?)
+  - Entwicklung eines BürgerGIS zum Thema 15-Min-Stadt
 
 overview: In Zusammenarbeit mit dem TUM-Lehrstuhl für Siedlungsstruktur und Verkehrsplanung und Humankind haben wir das BürgerGIS "Map4Citizens" entwickelt. Ziel des dreimonatigen Projekts war es, die Informationslücke zwischen Bürger:innen und Planer:innen zu schließen, indem wir Daten öffnen und zuverlässige und leicht verständliche Mobilitätsanalysen für Alle bereitstellen. Im Rahmen unseres Projekts haben wir eine mobilfähige, webbasierte Anwendung entwickelt, mit der sich die Nutzer:innen schnell einen Überblick über wichtige mobilitätsbezogene Parameter in ihrer Stadt und ihrem Viertel verschaffen können. 
 

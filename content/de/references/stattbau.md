@@ -16,13 +16,6 @@ planning_cases:
 
 overview: Seit 2022 wird GOAT als SaaS-Abo vom Planungsbüro stattbau münchen GmbH genutzt, um Erreichbarkeitsanalysen für zukunftsfähige Wohn- und Siedlungsprojekte in der Metropolregion München durchzuführen. 
 
-slider_items:
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: "TODO: remove images"
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-  - image: "/images/blog/goat3.0/placeholderImage.png"
-    title: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
 
 review_text: "„GOAT ermöglicht es uns, die Erreichbarkeit von baulichen Vorhaben zielgerichtet und effizient zu analysieren. Die Ergebnisse der Analysen bilden eine klare Grundlage für die Entwicklung passgenauer Mobilitätskonzepte im Wohnungs- und Gewerbebau. Wichtig ist dabei für uns die Einbindung der Konzepte in den Kontext bestehender, zumeist öffentlicher Mobilitätsinfrastruktur.”"
 review_person: "Julia Korsten, stattbau münchen GmbH"

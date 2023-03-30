@@ -8,7 +8,7 @@ weight: 40
 
 #### Data used in GOAT
 
-Data is generally defined as a set of discrete values that describe the amount, quality, fact, statistics, or other fundamental units of meaning, or simply a series of symbols that may be further understood. Data is the basis for any calculation and our most valuable asset. Therefore, GOAT uses various data sets from different sources as spatial and non-spatial. The aim of Plan4Better is to provide high-quality data with reasonable costs. Thus, the challenge of processing geospatial data, which comes inconsistently from different sources, is managed by developing diverse set of data integration, data disaggregation and data fusion workflow.
+Data is generally defined as a set of discrete values that describe the amount, quality, fact, statistics, or other fundamental units of meaning, or simply a series of symbols that may be further understood. Data is the basis for any calculation and our most valuable asset. Therefore, GOAT uses various data sets from different sources as spatial and non-spatial. The aim of Plan4Better is to provide high-quality data with reasonable costs. Thus, the challenge of processing geospatial data, which comes inconsistently from different sources, is managed by developing a diverse set of data integration, data disaggregation and data fusion workflows.
 
 #### Data collection and data processing
 

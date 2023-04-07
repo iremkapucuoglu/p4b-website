@@ -13,7 +13,8 @@ information:
   - Elias Pajares
 
 
-overview: Seit 2022 wird GOAT als SaaS-Abo von den Planer:innen der Stadt Deerfield Beach (Florida), sowie den Wissenschaftlern an der Florida Atlantic University eingesetzt. 
+overview: Seit 2022 setzen die Planer der Stadt Deerfield Beach in Florida sowie Wissenschaftler der Florida Atlantic University (FAU) GOAT als Software-as-a-Service-Abonnement ein. Das Ziel ist es, Analysen im Kontext des 15-Minuten-Stadt-Konzepts durchzuführen und Maßnahmen zur Verbesserung der Erreichbarkeit und Walkability in autoabhängigen Vororten zu identifizieren. Mit Hilfe von GOAT werden die Planer in Deerfield Beach und die Forscher an der Florida Atlantic University in der Lage sein, bessere Entscheidungen darüber zu treffen, wie sie die Infrastruktur ihrer Gemeinde verbessern und den Bedürfnissen ihrer Bürgerinnen und Bürger gerecht werden können.
+
 
 slider_items:
   - image: "/images/references/deerfield_beach/DeerfieldBeach Gallery03.webp"

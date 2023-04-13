@@ -22,8 +22,8 @@ overview: Im Rahmen des Forschungsprojektes EX-TRA ("Experimenting with city str
 slider_items:
   - image: "/images/references/ex-tra/Connectivity.webp"
     title: "Konnektivitäts-Heatmap für den Großraum London"
-  - image: "/images/references/ex-tra/Bus Accessibility.webp"
-    title: "Erreichbarkeitsübersicht für Busse im Großraum London"
+  - image: "/images/references/ex-tra/amsterdam_supermarkets_population.webp"
+    title: "Gegenüberstellung von Bevölkerungsdichte und Erreichbarkeit zu Supermärkten in Amsterdam"
   - image: "/images/references/ex-tra/London.png"
     title: "Erreichbarkeit zum ÖPNV in London"
 
@@ -32,6 +32,8 @@ review_person: "Ana Rivas, Wissenschaftliche Mitarbeiterin & Promovierende zum T
 review_image: "/images/index/logo-tum.webp"
 date: 2023-01-01
 ---
+
+Über die Planung von Straßenraumexperimenten hinaus wird die Erreichbarkeitssoftware für lokal anstehende Planungsprozesse eingesetzt. In Amsterdam kommt das Tool z.B. in der Erarbeitung des neuen Mobilitätsplanes des Stadtteils Nieuw West zum Einsatz. 
 
 **Weitere Informationen:**
 - [Projektwebseite](https://www.ex-tra-project.eu/ "Projektwebseite EX-TRA")

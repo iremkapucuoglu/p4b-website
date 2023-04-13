@@ -36,5 +36,5 @@ date: 2022-09-01
 
 
 
-**Zur Projektwebseite:**
-- https://mobility.unternehmertum.de/punkte
+**Weitere Informationen:**
+- [Projektwebseite](https://mobility.unternehmertum.de/punkte "Projektwebseite citizen mobility")

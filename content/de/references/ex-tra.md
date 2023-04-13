@@ -7,7 +7,7 @@ categories:
 - GOAT$
 thumbnail: "/images/references/ex-tra/thumbnail.webp"
 image: "/images/references/ex-tra/banner.webp"
-summary: Einsatz von GOAT in Ghent, Amsterdam, London, Bologna und München zur Analyse geeigneter Standorte für Straßenraumexperimente.
+summary: Einsatz von GOAT in Ghent, Amsterdam, London, Bologna und München zur Durchführung von Erreichbarkeitsanalysen und Identifizierung geeigneter Standorte für Straßenraumexperimente.
 information:
   - Technische Universität München
   - 2022 - 2023

@@ -21,7 +21,7 @@ overview: As part of the research project EX-TRA ("Experimenting with city stree
 
 slider_items:
   - image: "/images/references/ex-tra/Connectivity.webp"
-    title: "Connectivity heat map for Greater London"
+    title: "Connectivity heatmap for Greater London"
   - image: "/images/references/ex-tra/amsterdam_supermarkets_population.webp"
     title: "Comparison of population density and accessibility to supermarkets in Amsterdam"
   - image: "/images/references/ex-tra/London.png"

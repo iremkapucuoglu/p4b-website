@@ -1,20 +1,20 @@
 ---
 layout: reference
-title: Berechnung ÖV Güteklassen Österreich
-lang: de
+title: Calculation of public transport quality classes in Austria
+lang: en
 categories:
 - Consulting$
 - GOAT$
 thumbnail: "/images/references/Austria/AustrtiaThumbnail.webp"
 image: "/images/references/Austria/AustrtiaBanner.webp"
-summary: In Kooperation mit der TU Wien wurden die ÖV-Güteklassen für das gesamte Land Österreich berechnet.
+summary: In cooperation with the Technical University of Vienna, the public transport quality classes were calculated for the entire country of Austria.
 information:
   - KCW GmbH / TU Wien
   - 2022 – 2023 
   - Elias Pajares
 
 
-overview: In Kooperation mit der TU Wien und der KCW GmbH wurden die ÖV-Güteklassen für das gesamte Land Österreich berechnet. Die von uns gelieferten Analysen dienen als Grundlage, um darzustellen welche ÖV-Güte durch Kommunen und welche durch Länder beziehungsweise den Bund bereitgestellt wird. So wurden unter Berücksichtung verschiedener Szenarien die Stationskategorisierung berechnet und im Folgenden durch die TU Wien netzfeine Reisezeitisochronen berechnet. Die Ergebnisse wurden anschließend mit Bevölkerungsdaten verschnitten und auf Gemeindeebene dargestellt. 
+overview: In cooperation with the Technical University of Vienna and KCW GmbH, the public transport quality classes were calculated for the entire country of Austria. The analyses provided by us serve as a basis to show which public transport quality is provided by municipalities and which by the federal states or the federal government. Thus, the station categorisation was calculated taking into account various scenarios and subsequently network-specific travel time isochrones were calculated by the Vienna University of Technology. The results were then blended with population data and presented at municipality level.
 
 
 

@@ -1,35 +1,35 @@
 ---
 layout: reference
-title: Freiburg - GOAT Abo
-lang: de
+title: Freiburg - GOAT Subscription
+lang: en
 categories:
 - GOAT$
 thumbnail: "/images/references/freiburg/thumbnail.webp"
 image: "/images/references/freiburg/banner.webp"
-summary: Mit dem GOAT-Abo erstellen die Planer:innen der Stadt Freiburg und der Freiburger Verkehrs AG Erreichbarkeitsanalysen für eine Vielzahl an Planungsfragen. 
+summary: With the GOAT subscription, planners from the City of Freiburg and the local transport provider produce accessibility analyses for a wide range of planning issues.
 information:
-  - Stadt Freiburg und Freiburger Verkehrs AG (VAG)
-  - 2022 - heute
+  - City of Freiburg und Freiburger Verkehrs AG (VAG)
+  - 2022 - today
   - Ulrike Jehle
 planning_cases:
-  - Standortbestimmung neuer Bikesharing Stationen
-  - Planung eines neuen Wohngebiets
-  - Bewertung neuer Fuß- und Radverkehrsbrücken
-  - ÖPNV-Analysen
-  - uvw.
+  - Determining the location of new bikesharing stations
+  - Planning of a new residential area
+  - Evaluation of new pedestrian and cycle bridges
+  - Public transport analyses
+  - And many more ... 
 
-overview: Seit 2022 wird GOAT als SaaS-Abo vom Stadtplanungsamt der Stadt Freiburg und der VAG genutzt und für eine Vielzahl an Planungfragen eingesetzt. Kürzlich wurden 5 weitere GOAT-Lizenzen durch die Stadt Freiburg erworben.
+overview: Since 2022, GOAT has been used as a SaaS subscription by the City Planning Office of the City of Freiburg and the VAG and is used for a variety of planning issues. Recently, five additional GOAT licences were acquired by the City of Freiburg.
 
 slider_items:
   - image: "/images/references/freiburg/lärm.webp"
-    title: "Darstellung der Lärmpegel in Freiburg"
+    title: "Representation of noise levels in Freiburg"
   - image: "/images/references/freiburg/güteklassen_pois.webp"
-    title: "ÖV-Güteklassen"
+    title: "Public transport quality classes"
   - image: "/images/references/freiburg/radverkehr.webp"
-    title: "Heatmap Radverkehr und Bikesharing-Stationen"
+    title: "Heatmap cycling and bikesharing stations"
 
-review_text: "„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.”"
-review_person: "Dr. Michael Bauder, Stadt Freiburg"
+review_text: "„An excellent tool for data-driven, modern urban and mobility planning for ambitious 15-minute cities.“​"
+review_person: "Dr. Michael Bauder, City of Freiburg"
 review_image: "/images/index/freiburg_logo.webp"
 date: 2022-05-01
 ---

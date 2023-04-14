@@ -1,29 +1,29 @@
 ---
 layout: reference
-title: Walkability Analysen Istanbul
-lang: de
+title: Walkability Analyses Istanbul
+lang: en
 categories:
 - Consulting$
 thumbnail: "/images/references/istanbul/IstambulThumbnail.webp"
 image: "/images/references/istanbul/IstambulBanner.webp"
-summary: Als Planungsgrundlage für die Umgestaltung von sechs Quartieren in Istanbul wurden GIS-basierte Erreichbarkeits- und Walkability-Analysen durchgeführt.
+summary: GIS-based accessibility and walkability analyses were carried out as a planning basis for the redesign of six neighbourhoods in Istanbul.
 information:
-  - Super Eight / Stadt Istanbul
+  - Super Eight / City of Istanbul
   - 2021 - 2022
   - Elias Pajares
 planning_cases:
-  - Erreichbarkeitsanalysen zu Zielen des täglichen Bedarfs
-  - Walkability-Analysen
+  - Accessibility analyses for destinations of daily need
+  - Walkability analyses
 
-overview: Als Grundlage für die Planung der Neugestaltung von sechs Quartieren in der Metropole Istanbul wurden GIS-basierte Erreichbarkeits- und Walkability-Analysen durchgeführt (u.a. Erreichbarkeit von Zielen des täglichen Bedarfs, Darstellung von Wegequalitäten). Ziel war es Schwachstellen zu identifizieren und mögliche Maßnahmen zu entwickeln. Hierfür wurden diverse räumliche Daten miteinander fusioniert und mittels verschiedener GIS-basierten Methoden und Algorithmen analysiert. Zudem, wurde mittels gebäudescharfer Strukturdaten wie die Verteilung von Bevölkerung und Aktivitäten Personenströme berechnet, die als Grundlage für die weitere Maßnahmenpriorisierung dienten.
+overview: As a basis for planning the redesign of six neighbourhoods in the metropolis of Istanbul, GIS-based accessibility and walkability analyses were carried out (including accessibility of destinations for daily needs, illustration of path qualities). The aim was to identify weak points and develop possible measures. For this purpose, various spatial data were merged and analysed using different GIS-based methods and algorithms. In addition, building-specific structural data such as the distribution of population and activities was used to calculate pedestrian flows, which served as the basis for further prioritisation of measures.
 
 slider_items:
   - image: "/images/references/istanbul/pedestrian_flows.webp"
-    title: "Fußgängerpotentialströme"
+    title: "Potential pedestrian flows"
   - image: "/images/references/istanbul/speed.webp"
-    title: "Geschwindigkeiten MIV"
+    title: "Car speed"
   - image: "/images/references/istanbul/isochrone.webp"
-    title: "Analyse der Effekte einer neuen Fußwegeverbindung"
+    title: "Analysis of the effects of a new footpath connection"
 
 date: 2022-03-01
 ---

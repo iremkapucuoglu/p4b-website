@@ -1,39 +1,39 @@
 ---
 layout: reference
-title: Innovationsphase München
-lang: de
+title: Innovation Phase Munich
+lang: en
 categories:
 - GOAT$
 thumbnail: "/images/references/munich/thumbnail.webp"
 image: "/images/references/munich/banner.webp"
-summary: GOAT wurde von der Landeshauptstadt München eingesetzt, um Analysen rund um die 15-Minuten-Stadt durchzuführen. 
+summary: GOAT was used by the City of Munich to carry out analyses around the 15-minute city.
 information:
-  - Stadt München
+  - City of Munich
   - 2021 - 2022
   - Ulrike Jehle
 planning_cases:
-  - Analysen zur 15-Minuten-Stadt 
+  - Analyses on the 15-minute city
 
   
 
-overview: Im Sommer 2021 wurden wir mit dem Münchner Innovationspreis in der Kategorie „Emissionsfreie Mobilität in München“ ausgezeichnet. Im Anschluss folgte eine 1-jährige Innovationsphase, in der GOAT in verschiedenen Referaten der Landeshauptstadt München eingesetzt wurde, um verschiedenste Analysen rund um die 15-Minuten-Stadt durchzuführen. 
+overview: In summer 2021, we were awarded the Munich Innovation Prize in the category "Emission-free mobility in Munich". This was followed by a 1-year innovation phase in which GOAT was used in various departments of the City of Munich to carry out a wide range of analyses relating to the 15-minute city.
 
 slider_items:
   - image: "/images/references/munich/gesundheit.webp"
-    title: "Erreichbarkeit zu Gesundheitseinrichtungen"
+    title: "Accessibility to health facilities"
   - image: "/images/references/munich/supermärkte_multi.webp"
-    title: "Erreichbarkeit zu Supermärkten"
+    title: "Accessibility to supermarkets"
   - image: "/images/references/munich/green.webp"
-    title: "Grünflächen und Spielplätze"
+    title: "Green spaces and playgrounds"
 
-review_text: "„GOAT ist ein sehr gutes Tool zur Berechnung und Darstellung von Erreichbarkeiten in der Verkehrs- und Stadtplanung.”"
-review_person: "Attila Lüttmerding, Abteilungsleiter Grundlagen und Daten, Mobilitätsreferat, Landeshauptstadt München"
+review_text: '„GOAT is a very good tool for calculating and visualising accessibility in transport and urban planning.“​'
+review_person: "Attila Lüttmerding, Head of Mobility Data Unit, Department of Mobility, City of Munich"
 review_image: "/images/index/logo_lhm.webp"
 date: 2022-04-01
 ---
 
 
-**Blogpost zu diesem Projekt:**
-- [Innovationswettbewerb der Stadt München](../../posts/2021-08-06-innovationswettbewerb-der-stadt-munchen/ "Innovationswettbewerb der Stadt München")
-- [Ist München bereit für die 15-Min-Stadt?](../../posts/2022-07-13-is-munich-15-minute-city-ready/ "Ist München bereit für die 15-Min-Stadt?")
+**Blogpost about this project:**
+- [Innovation Contest by the City of Munich](../../posts/2021-08-06-innovationswettbewerb-der-stadt-munchen/ "Innovation Contest by the City of Munich")
+- [Is Munich 15-minute city ready? ](../../posts/2022-07-13-is-munich-15-minute-city-ready/ "Is Munich 15-minute city ready? ")
 

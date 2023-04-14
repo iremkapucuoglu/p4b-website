@@ -1,53 +1,53 @@
 ---
 layout: reference
 title: GOAT 3.0 
-lang: de
+lang: en
 categories:
-- Forschung$
+- Research$
 - GOAT$
 thumbnail: "/images/references/goat3/thumbnail.webp"
 image: "/images/references/goat3/banner.webp"
-summary: Entwicklung neuer GOAT-Funktionen zur ÖPNV-Planung, Grünraumplanung, Daseinsvorsorge, sowie zur 15-Minuten-Stadt.
+summary: Development of new GOAT functionalities for public transport planning, green space planning, essential services, and the 15-minute city.
 
 information:
-  - Bundesministerium für Digitales und Verkehr
+  - Federal Ministry for Digital and Transport
   - 2021 - 2024
   - Elias Pajares
 planning_cases:
-  - Entwicklung neuer Funktionen u.a. zum ÖPNV, Grünraumplanung und zur 15-Min-Stadt
+  - Development of new functionalities, including public transport, green space planning and the 15-minute city
   
 
-overview: Ziel des 3-jährigen Projekts ist es, die Funktionen von GOAT in einem ko-kreativen Entwicklungsprozess maßgebend zu erweitern. Hierzu werden neue Erreichbarkeits-Indikatoren entwickelt und diverse partizipative Veranstaltungen, wie Workshops und Stadtteilsafaris, durchgeführt. 
+overview: The aim of the 3-year project is to significantly expand the functionalities of GOAT in a co-creative development process. For this purpose, new accessibility indicators will be developed and various participatory events, such as workshops and district safaris, will be carried out.
 
 slider_items:
   - image: "/images/references/goat3/hausärzte.webp"
-    title: "Erreichbarkeit zu Hausärzten im ländlichen Raum"
+    title: "Accessibility to GPs in rural areas"
   - image: "/images/references/goat3/öpnv.webp"
-    title: "ÖV-Güteklassen zur Hauptverkehrszeit in München"
+    title: "Public transport quality classes at rush hour in Munich"
   - image: "/images/references/goat3/grünflächen.webp"
-    title: "Erreichbarkeit zu Grünräumen"
+    title: "Accessibility to green spaces"
 
-review_text: "„GOAT bringt durch intuitive und schnelle Analysen mit optisch ansprechenden und leicht verständlichen Ergebnissen einen großen Mehrwert zur Beantwortung komplexer Planungsprobleme im Mobilitätssektor.”"
+review_text: '„GOAT brings great added value to answering complex planning problems in the mobility sector through intuitive and fast analyses with visually appealing and easy-to-understand results."​'
 review_person: "Shravan Shinde, Bereich Konzeption & Consulting, Münchner Verkehrs- und Tarifverbund GmbH"
 review_image: "/images/index/logo_mvv.webp"
 date: 2023-03-01
 ---
 
-Mit GOAT 3.0 werden Analysen mit zusätzlichen Verkehrsmitteln und zu neuen Zielen ermöglicht, weitere Daten eingespielt und die Visualisierungsoptionen erweitert. Dazu arbeiten wir sehr eng mit unseren Projektpartnern - der Technische Universität München (TUM), dem Leibniz-Institut für ökologische Raumentwicklung Dresden (IÖR), der Prof. Schaller UmweltConsult GmbH (PSU) und dem Münchner Verkehrs- und Tarifverbund GmbH (MVV) - zusammen. 
+With GOAT 3.0, analyses with additional means of transport and to new destinations will be made possible, further data will be integrated and the visualisation options will be expanded. To this end, we are working very closely with our project partners - the Technical University of Munich (TUM), the Leibniz Institute of Ecological Urban and Regional Development Dresden (IÖR), Prof. Schaller UmweltConsult GmbH (PSU) and Münchner Verkehrs- und Tarifverbund GmbH (MVV). 
 
-In über 20 Test- und Anwendungsworkshops werden die neuen GOAT Funktionen zusammen mit unseren Praxispartnern (Stadt Fürstenfeldbruck, Stadt Freising, Stadt München, Stadt Bonn, Stadt Görlitz, Landkreis München, Metropolregion Rhein-Neckar u.v.m.) für reale Planungsfragen eingesetzt und intensiv getestet. Das dabei erlangte Feedback fließt aktiv in den weiteren Entwicklungsprozess ein und hilft uns dabei, unser Tool und seine Funktionen an die Bedürfnisse der AnwenderInnen anzupassen.
-
-
-**Blogposts zu diesem Projekt:**
-- [Neues Forschungsprojekt „GOAT 3.0”!](../../posts/2021-12-28-goat3_0/ "Neues Forschungsprojekt „GOAT 3.0”!")
-- [Blogpost: Umfrage zu GOAT 3.0 - Machen Sie mit!](../../posts/2022-03-26-survey-goat3-0/ "Blogpost: Umfrage zu GOAT 3.0 - Machen Sie mit!")
+In more than 20 test and application workshops, the new GOAT functionalities are used and intensively tested for real planning issues together with our practical partners (City of Fürstenfeldbruck, City of Freising, City of Munich, City of Bonn, City of Görlitz, District of Munich, Rhine-Neckar Metropolitan Region and many more). The feedback obtained in the process is actively incorporated into the further development process and helps us to adapt our tool and its functionality to the needs of the users.
 
 
-**Wissenschaftliche Veröffentlichungen:**
+**Blogposts about this project:**
+- [New research project “GOAT 3.0”!](../../posts/2021-12-28-goat3_0/ "New research project “GOAT 3.0”!")
+- [Survey on GOAT 3.0 - Join in!](../../posts/2022-03-26-survey-goat3-0/ "Survey on GOAT 3.0 - Join in!")
+
+
+**Scientific publications:**
 - [Erreichbarkeits- und Analyseinstrumente für die Daseinsvorsorgeplanung: Potenziale und Hindernisse](https://doi.org/10.26084/14dfns-p032 "Erreichbarkeits- und Analyseinstrumente für die Daseinsvorsorgeplanung: Potenziale und Hindernisse")
 
 
-**Weitere Informationen:**
-- [Projektwebseite](https://www.open-accessibility.org/ "Projektwebseite GOAT3.0")
-- [Projektsteckbrief BMDV](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/goat-3-0.html "Projektsteckbrief BMDV")
-- [Pressemitteilung: Startschuss für das Projekt GOAT 3.0](../../download/press/2021-11-03_Pressemitteilung_Start_Goat3.0.pdf "Pressemitteilung: Startschuss für das Projekt GOAT 3.0")
+**Further information:**
+- [Project website](https://www.open-accessibility.org/ "Project website GOAT3.0")
+- [Project Profile BMDV](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/goat-3-0.html "Project Profile BMDV")
+- [Press release: Start of the project GOAT 3.0](../../download/press/2021-11-03_Pressemitteilung_Start_Goat3.0.pdf "Press release: Start of the project GOAT 3.0")

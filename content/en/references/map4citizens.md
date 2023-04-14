@@ -1,35 +1,36 @@
 ---
 layout: reference
 title: Urban Mobility Score (Map4Citizens)
-lang: de
+lang: en
 categories:
-- Forschung$
+- Research$
+- Map4Citizens$
 thumbnail: "/images/references/map4citizens/thumbnail.webp"
 image: "/images/references/map4citizens/banner.webp"
-summary: Um Bürger:innen in nachhaltigen Mobilitätsentscheidungen zu unterstützen, wurde ein BürgerGIS zum Thema 15-Minuten-Stadt entwickelt.
+summary: In order to support citizens in making sustainable mobility decisions, a citizens' GIS was developed around the theme of the 15-minute city.
 information:
   - EIT Urban Mobility
   - 2022 - 2023
   - Ulrike Jehle
 planning_cases:
-  - Entwicklung eines BürgerGIS zum Thema 15-Min-Stadt
+  - Development of a citizens' GIS on the topic of the 15-minute city
 
-overview: In Zusammenarbeit mit dem TUM-Lehrstuhl für Siedlungsstruktur und Verkehrsplanung und Humankind haben wir das BürgerGIS "Map4Citizens" entwickelt. Ziel des dreimonatigen Projekts war es, die Informationslücke zwischen Bürger:innen und Planer:innen zu schließen, indem wir Daten öffnen und zuverlässige und leicht verständliche Mobilitätsanalysen für Alle bereitstellen. Im Rahmen unseres Projekts haben wir eine mobilfähige, webbasierte Anwendung entwickelt, mit der sich die Nutzer:innen schnell einen Überblick über wichtige mobilitätsbezogene Parameter in ihrer Stadt und ihrem Viertel verschaffen können. 
+overview: In cooperation with the TUM Chair of Urban Structure and Transport Planning and Humankind, we developed the citizen GIS "Map4Citizens". The aim of the three-month project was to close the information gap between citizens and planners by opening up data and providing reliable and easy-to-understand mobility analyses for everyone. As part of our project, we developed a mobile-enabled, web-based application that allows users to quickly get an overview of important mobility-related parameters in their city and neighbourhood.
 
 slider_items:
   - image: "/images/references/map4citizens/mockups.webp"
     title: "Map4Citizens"
   - image: "/images/references/map4citizens/pois.webp"
-    title: "15-Minuten-Stadt Score"
+    title: "15-Min-City Score"
   - image: "/images/references/map4citizens/flower.webp"
-    title: "Individuelle Analysen zur 15-Min-Stadt"
+    title: "Individual analyses for the 15-minute-city"
 
 date: 2023-01-01
 ---
 
-**Link zur Anwendung:**
+**Link to the application:**
 - [Map4Citizens Beta-Version München](https://citizens.plan4better.de/ "Map4Citizens Beta-Version München")
 
 
-**Blogpost zu diesem Projekt:**
-- [Map4Citizens-Beta: Jetzt online!](../../posts/2023-01-02-map4citizensde/ "Map4Citizens-Beta: Jetzt online!")
+**Blogpost about this project:**
+- [Map4Citizens-Beta goes public](../../posts/2023-01-02-map4citizensde/ "Map4Citizens-Beta goes public")

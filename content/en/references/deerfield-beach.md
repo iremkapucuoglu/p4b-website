@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: Deerfield Beach - GOAT Abo
+title: Deerfield Beach - GOAT Subscription
 lang: en
 categories:
 - GOAT$

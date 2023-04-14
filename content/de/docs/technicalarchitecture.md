@@ -9,18 +9,17 @@ weight: 30
 ---
 #### Systemarchitektur
 
-GOAT ist eine WebGIS-Anwendung, die für verschiedene formelle und informelle Planungsprozesse verwendet werden kann. Die Systemarchitektur von GOAT umfasst eine Vielzahl von Software, einschließlich Bibliotheken und Programmiersprachen.
-
-Die effiziente Interaktion der verschiedenen Software in GOAT wird durch die beliebte klassische Server-Client-Architektur des Webs ermöglicht. Wie viele andere Anwendungen heutzutage verfügt GOAT über eine Datenbank, die eine effiziente Speicherung und Organisation von Informationen ermöglicht. 
-
-Auf diese Weise können Informationen in geeigneter Weise abgerufen, verwaltet und aktualisiert werden. Die PostgreSQL-Datenbank wird in Verbindung mit der räumlichen Erweiterung PostGIS verwendet.
-
-Als API wird ein Python Server unter Nutzung des Framworks FastAPI verwendet. So werden Schnittstellen für Geodienste bereitgestellt. Es werden verschiedene Formate unterstützt. Neben dem GeoJSON format werden auch komprimierte Formate wie Geobuf oder Vector tiles verwendet, die eine schnelle Ladezeit im Frontend ermöglichen. Neben den Geodiensten gibt es mehrere Schnittstellen, die für die Business-Logik der Anwendung relevant sind. 
+GOAT ist eine WebGIS-Anwendung, die mit Open-Source-Programmiersprachen und -Bibliotheken erstellt wurde. Sie folgt der traditionellen Server-Client-Architektur, die von Webanwendungen verwendet wird. Dieses vielseitige Werkzeug kann für eine Vielzahl von Planungsfunktionen und -prozessen eingesetzt werden.
 
 ![GOAT Server-Client-Architektur](/images/docs/about/server-client-architecture.webp "Server-Client-Architektur")
 
-Die üblichen Web-Stack-Anwendungen wie HTML, CSS und JavaScript bilden das Frontend. Um grafische Benutzeroberflächen für Webanwendungen mit HTML-Syntax zu erstellen, wird Vue.JS als Javascript-Framework eingesetzt, während Openlayers als Geospatial-Bibliothek für die Verarbeitung von Vektordaten verwendet wird.
+Die Grundlage der Funktionalität von GOAT ist eine räumliche Datenbank, in der sowohl große räumliche als auch nicht-räumliche Datensätze gespeichert werden können. Eine robuste relationale Datenbank ist für die effiziente Verwaltung, Speicherung und Verarbeitung von Daten unerlässlich. Aus diesem Grund stützt sich GOAT auf PostgreSQL und PostGIS, beides weit verbreitete und ausgereifte Technologien.
 
-Auf der Serverseite werden PostgreSQL und PostGIS zur Verwaltung von Geodaten verwendet, und die Conveyal-R5-Engine wird zur Durchführung von Fahrtenanalysen für den öffentlichen Verkehr eingesetzt.
+GOAT verwendet einen Python-Server als API, unter der Nutzung von FastAPI. Über die API wird die Business-Logik gemanaget, sowie verschiedene Indikatoren in verschiedenen Formaten bereit gestellt. Während die meisten Schnittstellen Daten im JSON-Format bereitstellen, sind auch spezielle Geodatenformate wie Geobuf (z. B. für Heatmaps), eigene Binärformate (z. B. für Isochronen) und Vektor Tiles (z. B. für statische Layer) verfügbar. Insbesondere unterstützt GOAT weitere Geodienste wie WMS und WFS, die den OGC-Standards entsprechen und sich leicht in die Plattform integrieren lassen.
 
-Die gesamte Software, die in GOAT verwendet wird, ist Open Source und hat eine starke weltweite Akzeptanz und Reputation in der Community. 
+Routing-Funktionalitäten sind für das Backend von GOAT essentiell, da sie zur Berechnung von Reisezeiten für Erreichbarkeitsindikatoren verwendet werden. Für das Gehen und Radfahren implementiert GOAT einen eigens entwickelte Variante des Dijkstra-Algorithmus, während für das Routing von öffentlichen Verkehrsmitteln und Autos die Conveyal R5 Routing Engine verwendet wird. Diese Routing-Engine ist intermodal und kombiniert Straßennetze mit Fahrplandaten, was sie zu einem leistungsstarken Werkzeug für die Erstellung realistischer Reisezeiten macht.
+
+Das Frontend ist in Javascript unter Verwendung des Vue.js-Frameworks erstellt. Für die Bereitstellung von Geodaten wird die Openlayers-Bibliothek verwendet. Das Frontend kommuniziert mit dem Backend, indem es Daten an die API anfordert und sendet. Das Frontend verfügt über umfangreiche Funktionen zur Anzeige und Interaktion mit den Daten. Die gesamte Software, die in GOAT verwendet wird, ist quelloffen und genießt in der weltweiten Community breite Akzeptanz und Ansehen. 
+
+Für das Hosting wird Kubernetes verwendet. Kubernetes ist ein Open-Source-System zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von containerisierten Anwendungen. Es gruppiert die Container, aus denen eine Anwendung besteht, in logische Einheiten, um die Verwaltung und Skalierbarkeit zu erleichtern. Kubernetes ist eine portable, erweiterbare Open-Source-Plattform für die anbieterneutrale Verwaltung von containerisierten Diensten.
+

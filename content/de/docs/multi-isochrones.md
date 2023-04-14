@@ -7,7 +7,7 @@ weight: 40
 ---
 #### Definition of Multi-isochrones
 
-Multi-isochrones are a combination of multiple [isochrones](/docs/alphashape/ "Documentation on isochrones") to one (or several) larger polygons. The isochrones are calculated around Points-of-Interest (e.g. all supermarkets in the city). Therewith, it can be identified which share of inhabitants has access to important destinations of daily life within a specific travel time. 
+Multi-isochrones are a combination of multiple [isochrones](/docs/isochrone/ "Documentation on isochrones") to one (or several) larger polygons. The isochrones are calculated around Points-of-Interest (e.g. all supermarkets in the city). Therewith, it can be identified which share of inhabitants has access to important destinations of daily life within a specific travel time. 
 
 #### Implementation of Multi-isochrone Calculation
 
@@ -26,4 +26,4 @@ As a result, the multi-isochrones are displayed on the map along with a table li
 
 _Figure 2. Result of the Multi-isochrone calculation._
 
-Equivalent to the calculation of single [isochrones](/docs/alphashape/ "Documentation on isochrones"), multi-isochrones can be generated with all supported routing modes and represent all types of scenario building (network, points of interest, and buildings). The user can adjust travel times and speeds for the different routing modes.
+Equivalent to the calculation of single [isochrones](/docs/isochrone/ "Documentation on isochrones"), multi-isochrones can be generated with all supported routing modes and represent all types of scenario building (network, points of interest, and buildings). The user can adjust travel times and speeds for the different routing modes.

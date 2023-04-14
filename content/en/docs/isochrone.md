@@ -1,7 +1,6 @@
 ---
-title: Isochronen
-permalink: /de/docs/alphashape/
-lang: de
+title: Isochrones
+permalink: /docs/isochrone/
 sections:
 - technical
 weight: 40
@@ -27,7 +26,7 @@ Default routing profile for walking, considering all paths accessible by foot.
 
 Default walking speed: 5km/h
 
-<img src="\images\docs\technical_documentation\alphashape\walking_en.webp" alt="walking isochrone" style="max-height:85px;"/>
+<img src="\images\docs\technical_documentation\isochrone\walking_en.webp" alt="walking isochrone" style="max-height:85px;"/>
 
 #### 2. Cycling
 
@@ -37,14 +36,14 @@ Default routing profile for cycling, considering all paths accessible by bicycle
 
 Default cycling speed: 15km/h Depending on the surface, smoothness and slope of the different street segments, the cycling speed is adjusted accordingly.
 
-<img src="\images\docs\technical_documentation\alphashape\standard_en.webp" alt="standard isochrone" style="max-height:88px;"/>
+<img src="\images\docs\technical_documentation\isochrone\standard_en.webp" alt="standard isochrone" style="max-height:88px;"/>
 
 #### 2.2 Pedelec
 
 Same as the standard routing profile, but with an increased cycling speed of 23 km/h.
 For Pedelecs, slopes are considered with a lower impedance than for Standard bicycles.
 
-<img src="\images\docs\technical_documentation\alphashape\pedelec_en.webp" alt="pedelec isochrone" style="max-height:80px;"/>
+<img src="\images\docs\technical_documentation\isochrone\pedelec_en.webp" alt="pedelec isochrone" style="max-height:80px;"/>
 
 
 #### 3. Public transport
@@ -58,7 +57,7 @@ As you can be seen in the figure users can adjust:
 -	Egress Mode (How the user exists the station e.g., Walk, Bicycle) 
 -	Transit Modes (Tram, Rail, Bus or Rail).
 
-<img src="\images\docs\technical_documentation\alphashape\transit_en.webp" alt="transit isochrone" style="max-height:300px;"/>
+<img src="\images\docs\technical_documentation\isochrone\transit_en.webp" alt="transit isochrone" style="max-height:300px;"/>
 
 
 #### What planning questions can be answered?
@@ -81,11 +80,11 @@ Since public transport isochrone requires a combination of different data types 
 
 The data used is a combination of GTFS and OSM data through the R5 engine(Rapid Realistic Routing on Real-world and Reimagined networks). The routing results are intersected with population and POI’s from the GOAT database. R5 is the routing engine for Conveyal, a web-based system that allows users to create transportation scenarios and evaluate them in terms of cumulative opportunities and accessibility indicators. The figure on the below represents the grid interpolation with travel time cost from the R5 engine:
 
-<img src="\images\docs\technical_documentation\alphashape\r5_en.webp" alt="r5 isochrone" style="max-height:350px;"/>
+<img src="\images\docs\technical_documentation\isochrone\r5_en.webp" alt="r5 isochrone" style="max-height:350px;"/>
 
 As a result, the grid will include accessibility information for all the amenities for each minute of the travel-time window.
 
-<img src="\images\docs\technical_documentation\alphashape\grid_en.webp" alt="r5 isochrone" style="max-height:150px;"/>
+<img src="\images\docs\technical_documentation\isochrone\grid_en.webp" alt="r5 isochrone" style="max-height:150px;"/>
 
 The resolution of the grid cells depends on the Web Mercator zoom levels. Meanwhile, the resolution is a trade-off between performance and accuracy. Different zoom levels are implemented for walking/cycling and public transport. To consider the fact that walking and cycling is requiring analyses focusing on the local level. Generally speaking, higher resolutions are producing high-resolution results but are paired with longer computation times.
 
@@ -93,7 +92,7 @@ The resolution of the grid cells depends on the Web Mercator zoom levels. Meanwh
 
 The isochrone itself is a shape that is derived from the routing grid using the "Marching square contour line algorithm", a computer graphics algorithm that can generate two-dimensional contour lines from a rectangular array of values (de Queiroz Neto et al. 2016). This algorithm transforms the grid from a 2D array to a shape to visualize or analyzed. An illustration of 2D image processing is shown in the figure. 
 
-<img src="\images\docs\technical_documentation\alphashape\wiki.webp" alt="marching square" style="max-height:350px;"/>
+<img src="\images\docs\technical_documentation\isochrone\wiki.webp" alt="marching square" style="max-height:350px;"/>
 
 
 If you want to learn more detailed examples of how the isochrone can be used within GOAT, you can access [the tutorials](https://plan4better.de/en/tutorials/isochrone/) and [video sections](https://plan4better.de/en/videos/) on the website.
@@ -113,3 +112,4 @@ https://fr.wikipedia.org/wiki/Marching_squares#/media/Fichier:Marching_Squares_I
 Majk Shkurti, "Spatio-temporal public transport accessibility analysis and benchmarking in an interactive WebGIS", Sep 2022. url: https://www.researchgate.net/publication/365790691_Spatio-temporal_public_transport_accessibility_analysis_and_benchmarking_in_an_interactive_WebGIS
 
 Matthew Wigginton Conway,Andrew Byrd,Marco Van Der Linden. "Evidence-Based Transit and Land Use Sketch Planning Using Interactive Accessibility Methods on Combined Schedule and Headway-Based Networks", 2017. url: https://journals.sagepub.com/doi/10.3141/2653-06
+

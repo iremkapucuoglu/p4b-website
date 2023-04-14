@@ -37,7 +37,7 @@ The impact of closing gaps or connecting bike paths is dynamically displayed. Fi
 
 _Figure 1: Scenario for the construction of a bicycle bridge in GOAT_
 
-The improved connectivity of the paths also results in higher accessibility to various POIs such as supermarkets or kindergartens. The comparison of accessibility before and after the creation of a new path connection can be displayed in GOAT using [isochrones](/en/docs/alphashape/ "Isochrones") (see Figure 2).
+The improved connectivity of the paths also results in higher accessibility to various POIs such as supermarkets or kindergartens. The comparison of accessibility before and after the creation of a new path connection can be displayed in GOAT using [isochrones](/en/docs/isochrone/ "Isochrones") (see Figure 2).
 
 ![Accessbility analysis bicycle bridge](/images/ist-zustand-1.webp "Accessibility analysis bicycle bridge")
 

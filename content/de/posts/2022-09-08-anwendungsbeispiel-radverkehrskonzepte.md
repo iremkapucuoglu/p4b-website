@@ -33,7 +33,7 @@ Die Auswirkungen des Lückenschlusses beziehungsweise die Verbindung von Fahrrad
 
 _Abbildung 1: Szenario zum Bau einer Fahrradbrücke in GOAT_
 
-Durch die verbesserte Konnektivität der Wege entsteht zudem eine höhere Erreichbarkeit zu verschiedenen POIs wie beispielsweise Supermärkten oder Kindergärten. Der Vergleich der Erreichbarkeit vor und nach dem Erstellen einer neuen Wegeverbindung kann in GOAT mithilfe von [Isochronen](/docs/alphashape/ "Isochronen") dargestellt werden (siehe Abbildung 2).
+Durch die verbesserte Konnektivität der Wege entsteht zudem eine höhere Erreichbarkeit zu verschiedenen POIs wie beispielsweise Supermärkten oder Kindergärten. Der Vergleich der Erreichbarkeit vor und nach dem Erstellen einer neuen Wegeverbindung kann in GOAT mithilfe von [Isochronen](/docs/isochrone/ "Isochronen") dargestellt werden (siehe Abbildung 2).
 
 ![Erreichbarkeitsvergleich Ist-Zustand - Szenario](/images/ist-zustand.webp "Erreichbarkeitsvergleich Ist-Zustand - Szenario")
 

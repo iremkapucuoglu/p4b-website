@@ -3,7 +3,7 @@ layout: reference
 title: EX-TRA
 lang: en
 categories:
-- Reserach$
+- Research$
 - GOAT$
 thumbnail: "/images/references/ex-tra/thumbnail.webp"
 image: "/images/references/ex-tra/banner.webp"

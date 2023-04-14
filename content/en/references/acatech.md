@@ -3,7 +3,7 @@ layout: reference
 title: Spatial data analysis for integrated urban development and mobility planning 
 lang: en
 categories:
-- Reserach$
+- Research$
 thumbnail: "/images/references/acatech/thumbnail.webp"
 image: "/images/references/acatech/banner.webp"
 summary: Statistical analysis of socio-demographic data and mobility parameters for Munich, Aachen and Freiburg.

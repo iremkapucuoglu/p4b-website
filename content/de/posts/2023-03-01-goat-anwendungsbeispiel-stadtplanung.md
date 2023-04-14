@@ -46,7 +46,7 @@ _Abbildung 2: Erreichbarkeitsisochronen zu Supermärkten in GOAT_
 
 ### Szenarien zur Standortplanung
 
-Die Aufwertung und Stärkung von fußgängerfreundlichen Stadt- und Nahversorgungszentren wird als wichtiger Punkt in der Planung von Stadtentwicklungskonzepten angesehen (complan Kommunalberatung GmbH, 2017, p. 43). Mit GOAT können neben der Analyse des aktuellen Ist-Zustandes auch interaktive Szenarien zu neuen POIs und Gebäuden angelegt werden und deren Auswirkungen auf die Erreichbarkeit analysiert werden. In diesem Video zeigen wir, wie Szenarien in GOAT durchgeführt werden können.
+Die Aufwertung und Stärkung von fußgängerfreundlichen Stadt- und Nahversorgungszentren wird als wichtiger Punkt in der Planung von Stadtentwicklungskonzepten angesehen (complan Kommunalberatung GmbH, 2017, p. 43). Mit GOAT können neben der Analyse des aktuellen Ist-Zustandes auch interaktive Szenarien zu [neuen POIs](/tutorials/scenario-location/ "Tutorial zum Hinzufügen neuer POIs in GOAT"), [Wegeverbindungen](/tutorials/scenario-ways/ "Tutorial zum Hinzufügen neuer Wegeverbindungen in GOAT") und [Gebäuden](/tutorials/scenario-buildings/ "Tutorial zum Verändern der Gebäude in GOAT") angelegt werden und deren Auswirkungen auf die Erreichbarkeit analysiert werden. In diesem Video zeigen wir, wie Szenarien in GOAT durchgeführt werden können.
 
 <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/411721219" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 

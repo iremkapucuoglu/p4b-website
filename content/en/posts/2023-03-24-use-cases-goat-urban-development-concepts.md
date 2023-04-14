@@ -46,7 +46,7 @@ _Figure 2: Multi-isochrones showing accessibility to supermarkets in GOAT._
 
 ### Scenarios for location planning
 
-The enhancement and strengthening of pedestrian-friendly urban and local supply centers is considered an important point in the planning of urban development concepts (complan Kommunalberatung GmbH, 2017, p. 43). With GOAT, in addition to analyzing the current state, interactive scenarios can be created for new POIs and buildings and their impact on accessibility can be analyzed. In this video, we show how scenarios can be analyzed in GOAT.
+The enhancement and strengthening of pedestrian-friendly urban and local supply centers is considered an important point in the planning of urban development concepts (complan Kommunalberatung GmbH, 2017, p. 43). With GOAT, in addition to analyzing the current state, interactive scenarios can be created for [new POIs](/en/tutorials/scenario-location/ "Learn how to add new POIs in GOAT"), [path connections](/en/tutorials/scenario-ways/ "Learn how to modify paths in GOAT") and [buildings](/en/tutorials/scenario-buildings/ "Learn how to create building scenarios in GOAT") and their impact on accessibility can be analyzed. In this video, we show how scenarios can be analyzed in GOAT.
 
 <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/754586552?h=ebea094923" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 

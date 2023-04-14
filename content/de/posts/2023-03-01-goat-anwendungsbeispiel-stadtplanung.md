@@ -18,7 +18,7 @@ Ein Stadtentwicklungskonzept versucht die Charakteristika einer Stadt zukunftsf�
 
 ### Visualisierung von räumlichen Daten
 
-GOAT ist ein WebGIS und enthält eine Vielzahl an räumlichen Daten. So können u.a. die Gebäue, Bevölkerungsdichten, Flächennutzungen, Points-of-Interest (POIs), Stadtteile, Lärmbelastungen und viele weitere Informationen eingeblendet werden (siehe Abbildung 1).
+[GOAT](/../goat/ "Was ist GOAT?") ist ein WebGIS und enthält eine Vielzahl an räumlichen Daten. So können u.a. die Gebäue, Bevölkerungsdichten, Flächennutzungen, Points-of-Interest (POIs), Stadtteile, Lärmbelastungen und viele weitere Informationen eingeblendet werden (siehe Abbildung 1).
 
 ![GOAT: Flächennutzungsplan Freiburg](/images/blog/use-cases-development-concepts/abb1-de.webp "GOAT: Flächennutzungsplan Freiburg")
 
@@ -28,9 +28,9 @@ _Abbildung 1: Darstellung des Flächennutzungsplans in GOAT_
 
 Für den Fuß- und Radverkehr ist eine gute Vernetzung der Stadtquartiere essenziell. In GOAT kann das vorhandene Wegenetz für die verschiedenen Verkehrsträger eingeblendet werden. Mithilfe der [Konnektivitäts-Heatmap](/docs/heatmap-connectivity/ "Dokumentation zur Konnektivitäts-Heatmap") kann analysiert werden, wie gut die Netze für Fuß- und Radwege miteinander verknüpft sind und so Verbesserungspotentiale identifiziert werden. Mittels der Szenario-Erstellung kann außerdem die Auswirkung neuer Wegeverbindungen (z.B. Radverkehrsbrücke) auf die Erreichbarkeit analysiert werden.
 
-Da nicht nur eine Wegeverfügbarkeit, sondern v.a. auch die Wegeattraktivität entscheidend ist, sind weitere Informationen, wie Oberflächenbeschaffenheit der Wege, Steigungen und Unfallstatistiken hinterlegt. Zur gesamtheitlichen Analyse des Radverkehrsangebots können außerdem benötigte Fahrradinfrastruktur, wie Fahrradanlagen und Fahrradreparaturstationen, in GOAT integriert werden.
+Da nicht nur die Wegeverfügbarkeit, sondern v.a. auch die Wegeattraktivität entscheidend ist, sind weitere Informationen, wie Oberflächenbeschaffenheit der Wege, Steigungen und Unfallstatistiken hinterlegt. Zur gesamtheitlichen Analyse des Radverkehrsangebots können außerdem weitere Elemente, wie Fahrradabstellanlagen und Fahrradreparaturstationen, in GOAT integriert werden.
 
-Falls lokal vorhanden können auch Daten zur Barrierefreiheit von Fußwegen in GOAT hinterlegt und somit für den Ausbau der Barrierefreiheit im öffentlichen Raum genutzt werden.
+Falls lokal vorhanden, können auch Daten zur Barrierefreiheit von Fußwegen in GOAT integriert und somit für den Ausbau der Barrierefreiheit im öffentlichen Raum genutzt werden.
 
 ### Analyse der Erreichbarkeit
 

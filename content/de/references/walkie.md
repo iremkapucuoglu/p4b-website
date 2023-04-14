@@ -34,7 +34,7 @@ review_image: "/images/index/digital-freiburg.png"
 date: 2021-02-01
 ---
 
-Für die Priorisierung der Verbesserungsmaßnahmen ist die Frequentierung der Straßen ebenfalls ein wichtiger Anhaltspunkt. Dafür wurde ein weiterer Indikator entwickelt, der die Fußgängerpotenzialströme aufzeigt. 
+Für die Priorisierung der Verbesserungsmaßnahmen ist die Frequentierung der Fußwege ebenfalls ein wichtiger Anhaltspunkt. Dafür wurde ein weiterer Indikator entwickelt, der die Fußgängerpotenzialströme aufzeigt. 
 
 Als Anwendungsbeispiel wurden für die Stadt Freiburg Fußgängerpotenzialströme für Schulwege zu Grundschulen berechnet. Der Anteil an Kindern zwischen 6 und 9 Jahren war bekannt, dadurch konnte pro Wohnhaus abgeschätzt werden, wie viele Kinder in diesem wohnen. Im nächsten Schritt wurde von allen Wohnhäusern aus der kürzeste Weg zur jeweiligen Bezirksgrundschule berechnet. Die einzelnen Ströme wurden aufsummiert und ergeben die aggregierten Fußgängerpotenzialströme.
 

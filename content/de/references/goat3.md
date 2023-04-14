@@ -40,7 +40,7 @@ In über 20 Test- und Anwendungsworkshops werden die neuen GOAT Funktionen zusam
 
 **Blogposts zu diesem Projekt:**
 - [Neues Forschungsprojekt „GOAT 3.0”!](../../posts/2021-12-28-goat3_0/ "Neues Forschungsprojekt „GOAT 3.0”!")
-- [Blogpost: Umfrage zu GOAT 3.0 - Machen Sie mit!](../../posts/2022-03-26-survey-goat3-0/ "Blogpost: Umfrage zu GOAT 3.0 - Machen Sie mit!")
+- [Umfrage zu GOAT 3.0 - Machen Sie mit!](../../posts/2022-03-26-survey-goat3-0/ "Umfrage zu GOAT 3.0 - Machen Sie mit!")
 
 
 **Wissenschaftliche Veröffentlichungen:**

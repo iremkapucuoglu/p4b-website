@@ -67,8 +67,8 @@ template = "card-block"
 text = "The ''city of short distances'' as well as an expansion of local mobility and a strengthening of city and local supply centres are important points of an urban development concept. In GOAT, locations of alternative mobility, gaps in the route network, accident locations and the accessibility of local centres and various points of interest can be visualised and, with the help of scenario building, redensification and improvement options for these can be shown."
 video = ""
 [blocks.button]
-text = "Schedule a personal meeting"
-url = "/en/contact/"
+text = "Read the blogpost"
+url = "/en/posts/2023-03-24-use-cases-goat-urban-development-concepts/"
 [[blocks]]
 background = "default"
 background_color_content = "deafult"

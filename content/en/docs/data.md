@@ -6,9 +6,9 @@ sections:
 weight: 40
 ---
 
-#### Data used in GOAT
+#### Data as an important basis for our analysis
 
-At Plan4Better, we recognize that data is the fuel powering our analyses, making it our most valuable asset. To deliver accurate insights based on high-quality information at reasonable costs, GOAT integrates diverse sets of spatial and non-spatial data from various sources. However, processing inconsistent geospatial data from different sources with varying degrees of accuracy can pose a significant challenge. To address this issue, we leverage a range of techniques, including efficient data integration, disaggregation, and fusion workflows, to ensure seamless data handling.
+At Plan4Better, we recognize that data is the fuel powering our analyses, making it our most valuable asset. To deliver accurate insights based on high-quality information at reasonable costs, our applications [GOAT](/en/goat/ "What is GOAT?") and [Map4Citizens](/en/posts/2022-12-31-map4citizens/ "What is Map4Citzens?") integrates diverse sets of spatial and non-spatial data from various sources. However, processing inconsistent geospatial data from different sources with varying degrees of accuracy can pose a significant challenge. To address this issue, we leverage a range of techniques, including efficient data integration, disaggregation, and fusion workflows, to ensure seamless data handling.
 
 #### Data collection and data preparation
 

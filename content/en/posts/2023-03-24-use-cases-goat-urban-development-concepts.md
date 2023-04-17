@@ -1,7 +1,7 @@
 ---
 author : "meining"
 categories : ["use cases"]
-date : 2023-02-28T23:00:00Z
+date : 2023-04-17T09:00:00Z
 description : "GOAT is a versatile planning tool that can be used in location planning, among other things. In this blog post we give a closer look at the use of GOAT in urban development concepts."
 draft : false
 image : "/images/blog/use-cases-development-concepts/stadtplanung_900450.webp"

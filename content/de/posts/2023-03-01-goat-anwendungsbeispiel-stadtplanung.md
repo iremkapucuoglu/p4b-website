@@ -1,7 +1,7 @@
 ---
 author : "meining"
 categories : ["anwendung"]
-date : 2023-02-28T23:00:00Z
+date : 2023-04-17T09:00:00Z
 description : "GOAT ist ein vielseitiges Planungstool, das unter anderem in der Standortplanung eingesetzt werden kann. In diesem Blogpost geben wir einen näheren Einblick zum Einsatz von GOAT in Stadtentwicklungskonzepten."
 draft : false
 image : "/images/blog/use-cases-development-concepts/stadtplanung_900450.webp"

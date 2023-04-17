@@ -11930,9 +11930,9 @@ th {
     flex-wrap: wrap; }
   .reference-information .rf-information h6 {
     margin: 0;
-    width: 130px; }
+    width: 120px; }
   .reference-information .rf-information span {
-    width: 200px; }
+    width: 270px; }
 
 .rf-slider {
   display: flex;

@@ -20,11 +20,14 @@ sections:
     brand_slider:
       slider_img:
       - logo: "/images/index/freiburg_logo.webp"
+      - logo: "/images/index/logo_MOND_darkgrey_RGB.webp"
       - logo: "/images/index/mobidata_bw.webp"
       - logo: "/images/index/logo-tum.webp"
       - logo: "/images/index/logo_lhm.webp"
       - logo: "/images/index/logo_freising.webp"
       - logo: "/images/index/logo_ffb.webp"
+      - logo: "/images/index/stattbau_Logo.webp"
+      - logo: "/images/index/LOGO_Bicicli_CS_darkgrey_RGB.webp"
       - logo: "/images/index/logo_eit.webp"
       - logo: "images/index/logo_werk1.webp"
       - logo: "/images/index/logo_xpreneurs.webp"
@@ -179,7 +182,6 @@ sections:
       background_color_content: default
       heading: News
       twitter_timeline: 'https://twitter.com/plan4better?ref_src=twsrc%5Etfw'
-      linkedin_feed: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6930160726909034496'
 
   - order: 10
     funded_section:

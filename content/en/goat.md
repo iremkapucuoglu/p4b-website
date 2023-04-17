@@ -74,8 +74,8 @@ sections:
         text: 'Choose your desired area for GOAT. The pricing depends on the number of residents.'
       - img: '/images/index/undraw_pitching_re_fpgk.png'
         heading: 'Select Modules'
-        sub_heading: 'Walking - Cycling - Public Transport'
-        text: 'Each module allows you to perform accessibility analyses of the current state for the selected modes of transport (walking, cycling and/or public transport), regardless of the functions selected.'
+        sub_heading: 'Walking & Cycling - Public Transport - Car'
+        text: 'Each module allows you to perform accessibility analyses of the current state for the selected modes of transport (walking, cycling, public transport and/or car), regardless of the functions selected.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'
         heading: 'Choose Number of Users'
         text: 'By default, two user are included in the price. If you would like to use GOAT in a team, you are welcome to add more users.'
@@ -96,7 +96,7 @@ sections:
         heading: 'GOAT-Demo'
         text: 'Test all functionalities in our demo version.'
         icon : "images/index/goat-icon.svg"
-      - url: '/en/goat-references/'
+      - url: '/en/references/'
         heading: 'References'
         text: 'Explore previous projects and applications of GOAT.'
         icon : "images/index/code.svg"

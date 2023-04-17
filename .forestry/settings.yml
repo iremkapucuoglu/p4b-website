@@ -65,6 +65,20 @@ sections:
   match: "*"
   templates:
   - documentation-post
+- type: directory
+  path: content/en/references
+  label: references EN
+  create: documents
+  match: "*"
+  templates:
+  - documentation-post
+- type: directory
+  path: content/de/references
+  label: references DE
+  create: documents
+  match: "*"
+  templates:
+  - documentation-post
 - type: document
   path: data/authors.yml
   label: Authors
@@ -73,7 +87,7 @@ sections:
   label: Videos
 - type: document
   path: data/live.yml
-  label: goat-references
+  label: references
 - type: document
   path: data/docs.yml
   label: Docs Sections

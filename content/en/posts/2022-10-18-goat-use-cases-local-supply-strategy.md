@@ -28,7 +28,6 @@ The population density can be visualized with the help of a heatmap. If necessar
 [Accessibility heatmaps](/en/docs/heatmap/ "More information on heatmaps") help planners to quickly and easily identify supply gaps and development potential.
 
 ![Heatmap of local accessibility](/images/nahversorgung1de.webp "Heatmap of local accessibility")
-
 _Figure 1: Heatmap of local accessibility_
 
 ## Accessibility analyses
@@ -36,7 +35,6 @@ _Figure 1: Heatmap of local accessibility_
 An important point in the local supply strategy is the potential of the inhabitants to be reached, which can be represented with the help of isochrones of the POI (point-of-interest) to be considered. In addition, accessibility plays a decisive role in terms of transport connections: this can be calculated and visualized with GOAT for walking and cycling as well as public transport. This differentiated view of accessibility based on travel time allows for an exact representation of deficits and surpluses in intersected layers, such as accessibility and population density, as well as [single](/en/tutorials/isochrone/ "Single isochrone tutorials") and [multi-isochrones](/en//tutorials/multiisochrones/ "Multi-isochrone tutorials"). In this way, potential areas can be filtered out.
 
 ![Walking catchment areas of pharmacies (7min)](/images/nahversorgung2en.webp "Walking catchment areas of pharmacies (7min)")
-
 _Figure 2: Walking catchment areas of pharmacies (7min)_
 
 To get a visual overview of the required inhabitants to maintain a business, isochrones could be created that are just as large to capture just that.
@@ -44,7 +42,6 @@ To get a visual overview of the required inhabitants to maintain a business, iso
 Another point where GOAT can contribute is the creation of scenarios and their effects. By [creating new POIs](/en/tutorials/scenario-location/ "Tutorials on using GOAT for location planning"), such as a kindergarten, the impact on population accessibility can be outlined and gaps in coverage can be interactively changed or closed. Improvements can thus also be represented quantitatively.
 
 ![Scenario for the construction of a new kindergarten in GOAT](/images/nahversorgung3en.webp "Scenario for the construction of a new kindergarten in GOAT")
-
 _Figure 3: Scenario for the construction of a new kindergarten in GOAT_
 
 In order to take into account restrictions in opening hours of, for example, craft businesses or supermarkets, a temporal component can be added to the concept of accessibility. In this way, for example, temporarily restricted offers such as mobile stores can be taken into account appropriately.

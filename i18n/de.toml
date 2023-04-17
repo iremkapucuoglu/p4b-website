@@ -63,3 +63,42 @@ other = "By"
 
 [all_posts]
 other = "All Posts"
+
+[reference]
+other = "Referenz"
+
+[planning_cases]
+other = "Bearbeitete Planungsfälle"
+
+[overview]
+other =  "Inhalt"
+
+[client]
+other = "Auftraggeber"
+
+[period_of_time]
+other = "Laufzeit"
+
+[contact_person]
+other = "Ansprechperson"
+
+[get_GOAT_for_your_city]
+other = "Mehr zu GOAT erfahren"
+
+[general_information]
+other = "Allgemeine Informationen"
+
+[other_references]
+other = "Weitere Referenzen"
+
+[search_placeholder_blog]
+other = "Blog durchsuchen"
+
+[search_placeholder_references]
+other = "Referenzen durchsuchen"
+
+[References]
+other = "Referenzen"
+
+[Blog]
+other = "Blog"

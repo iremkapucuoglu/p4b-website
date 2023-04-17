@@ -1,0 +1,21 @@
+<a href="{{.Permalink}}">
+  <div class="uk-card uk-card-default uk-border-rounded-large no-style-link-scale" style="min-height: 500px;">
+    <div class="uk-card-media-top">
+        <img 
+          class="uk-border-rounded-large-top card-image-post" 
+          style="height: 250px;width: 100%;" 
+          src="{{ .Params.thumbnail | absURL }}" 
+          alt="{{ .Title }}"
+        />
+    </div>
+    <div class="uk-card-body">
+      <div class="uk-text-uppercase uk-text-xsmall uk-text-semi-bold uk-text-spacing-small">
+        {{ range .Params.categories }}
+          <a class="uk-card-categories" href="{{ "/categories/" | absLangURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end }}
+      </div>
+      <h4 class="uk-margin-small-bottom uk-margin-small-top"><a class="uk-card-title-link" href="{{.Permalink}}">{{ .Title }}</a></h4>
+      <div>{{ .Summary }}</div>
+    </div>
+  </div>
+</a>

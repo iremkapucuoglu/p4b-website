@@ -23,6 +23,9 @@ sections:
       - quote_image: "/images/index/logo_psu.webp"
         quote_text: '„GOAT hat entscheidende Vorteile für eine umweltgerechte Stadt-, Orts- und Raumplanung, da es von vornherein die Nutzerperspektive beinhaltet und nicht zuerst die Expertensicht repräsentiert. Das ist neu!“​'
         author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
+      - quote_image: "/images/index/stattbau_Logo.webp"
+        quote_text: '„GOAT ermöglicht es uns, die Erreichbarkeit von baulichen Vorhaben zielgerichtet und effizient zu analysieren. Die Ergebnisse der Analysen bilden eine klare Grundlage für die Entwicklung passgenauer Mobilitätskonzepte im Wohnungs- und Gewerbebau.“​'
+        author_name: "Julia Korsten, stattbau münchen GmbH"
       - quote_image: "/images/index/digital-freiburg.png"
         quote_text: '„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.“​'
         author_name: "Dr. Michael Bauder, Stadt Freiburg"
@@ -74,10 +77,10 @@ sections:
         text: 'Wählen Sie ihr Wunschgebiet für GOAT.​ Die Preisgestaltung richtet sich nach der Anzahl der Einwohner:innen. '
       - img: '/images/index/undraw_pitching_re_fpgk.png'
         heading: 'Module wählen'
-        sub_heading: 'Fußverkehr - Radverkehr - ÖPNV'
-        text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad und/oder ÖPNV) durchzuführen.'
+        sub_heading: 'Fuß- & Radverkehr - ÖPNV - MIV'
+        text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad, ÖPNV und/oder MIV) durchzuführen.'
       - img: '/images/index/undraw_select_option_re_u4qn.png'
-        heading: 'Dauer wählen'
+        heading: 'Nutzungsdauer wählen'
         sub_heading: 'Monat - Jahr'
         text: 'Wählen Sie selbst, ob Sie GOAT nur für ein paar schnelle Analysen oder für eien langfristige Konzepterstellung benötigen. Je nachdem können Sie die Nutzungsdauer festlegen.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'
@@ -99,7 +102,7 @@ sections:
         heading: 'GOAT-Demo'
         text: 'Testen Sie alle GOAT Funktionen in unserer Demoversion.'
         icon: 'images/index/goat-icon.svg'
-      - url: '/goat-references/'
+      - url: '/references/'
         heading: 'Referenzen'
         text: 'Entdecken Sie bisherige Einsätze und Anwendungen von GOAT.'
         icon: images/index/code.svg

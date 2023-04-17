@@ -157,20 +157,12 @@
         {{ end }}
       </div>
     </div>
-    <div class="uk-column-1-2@s uk-margin-large-top"
-      data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
-      {{ if .twitter_timeline }}
-      <div class="twitter-feed">
+    <div class="uk-column-1-2@s uk-margin-large-top uk-container"
+      data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100" style="display: flex; align-items: center; justify-content: center;">
+      <div class="twitter-feed" style="width: 100%">
         <a data-tweet-limit="2" class="twitter-timeline" href="{{.twitter_timeline | absURL}}">Tweets by plan4better</a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
-      {{end}}
-      {{ if .linkedin_feed }}
-      <div class="linked-in-feed">
-        <iframe src="{{.linkedin_feed | absURL}}" height="1000" width="100%" frameborder="1" allowfullscreen=""
-          title="Embedded post"></iframe>
-      </div>
-      {{end}}
     </div>
   </div>
 </section>

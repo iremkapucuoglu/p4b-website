@@ -6,6 +6,8 @@ sections:
 - training
 
 ---
+![Veränderungen am Wegenetz in GOAT](/images/tutorials/Tutorial_banners/scenario_ways_banner.webp "Veränderungen am Wegenetz in GOAT")
+
 #### Beschreibung des Features
 
 GOAT ermöglicht die Entwicklung eigener Szenarien, wie z.B. der Modifikation des Netzwerks oder der Bau einer neuen Brücke. Das entwickelte Szenario kann zu dem aktuellen Netzwerk hinzugefügt und Änderungen der Erreichbarkeit durch Isochronen bewertet werden.

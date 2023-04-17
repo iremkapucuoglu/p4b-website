@@ -6,8 +6,10 @@ sections:
 - training
 description: Possible use cases and step-by-step tutorials for public transport analysis
 ---
+![Public Transport Indicator in GOAT](/images/tutorials/Tutorial_banners/public_transport_banner.webp "Public Transport Indicator in GOAT")
+
 #### Description of the feature
-GOAT allows you to perform analyses on public transport quality and accessibility. Therefore, mainly two indicators are provided: “[ÖV Güteklassen](/en/docs/oev_gueteklasse/ "Documentation on ÖV Güteklassen")" and the “Average count of departures”. Moreover, GOAT also allows to calculate [Isochrones](/docs/alphashape/ "Learn how to calculate isochrones") for different transit modes by considering infrastructure network and traveling time. 
+GOAT allows you to perform analyses on public transport quality and accessibility. Therefore, mainly two indicators are provided: “[ÖV Güteklassen](/en/docs/oev_gueteklasse/ "Documentation on ÖV Güteklassen")" and the “Average count of departures”. Moreover, GOAT also allows to calculate [Isochrones](/docs/isochrone/ "Learn how to calculate isochrones") for different transit modes by considering infrastructure network and traveling time. 
 
 #### Possible use cases (planning questions)
 * How good is the public transport offer at a specific location? 

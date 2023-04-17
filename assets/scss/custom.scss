@@ -1910,3 +1910,369 @@ th {
   font-weight: bolder;
   font-size: 15px;
 }
+
+.text-center {
+  text-align: center;
+}
+
+.jumbotron {
+  @include jumbotron-bg;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.font-48 {
+  font-size: 48px;
+}
+
+.font-weight-400 {
+  font-weight: 400;
+}
+
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.reference-header {
+  padding: 60px 10px;
+}
+
+.reference-bg {
+  width: 100vw;
+  height: 40vh;
+
+  div {
+    all: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: grayscale(10%);
+  }
+}
+
+.reference-information {
+  @include jumbotron-bg;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 60px 0;
+  padding-left: 80px;
+  padding-right: 80px;
+
+  section {
+    flex: 50%;
+    font-size: 17px;
+  }
+
+  .rf-planning-cases {
+
+    li {
+      font-weight: 400;
+      padding: 15px 15px 0 0;
+    }
+  }
+
+  .rf-information {
+    div {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      align-content: center;
+      padding: 15px 0 0 0;
+      margin: 0;
+      flex-wrap: wrap;
+    }
+
+    h6 {
+      margin: 0;
+      width: 120px;
+    }
+    
+    span {
+      width: 270px;
+    }
+  }
+}
+
+.rf-slider {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 30px;
+  list-style: none !important;
+  position: relative;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+    div {
+      position: absolute;
+      top: 100%;
+      font-size: 12px;
+      text-align: center;
+      width: 430px;
+
+      span {
+        width: 80%;
+        text-align: center;
+      }
+    }
+  }
+
+  li {
+    text-align: center;
+    font-size: 11px;
+    height: 330px;
+  }
+  
+  li img {
+    object-fit: cover;
+    width: 100%;
+    height: 330px;
+    vertical-align: middle;
+    border-radius: 12px;
+  }
+}
+
+.hover-scale {
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+  transition: all .2s;
+
+  &:hover {
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+  }
+}
+
+.reference-quote-item {
+  display: flex !important;
+  padding: 50px 50px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  column-gap: 40px;
+
+  div {
+    max-width: 80%;
+  }
+
+  img {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+  }
+}
+
+.reference-goat-promotion {
+  display: flex;
+  width: 100vw;
+  height: 270px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+
+  .reference-overlay-btn {
+    width: 420px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(255, 247, 245, 0.8);
+  }
+}
+
+.card-image-post {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.card-slider-mobile {
+  padding: 0 10px;
+  max-width: 70vw;
+}
+
+.related-cards-mobile {
+  display: none;
+}
+
+.rf-slider-mobile {
+  display: none;
+}
+
+@media only screen and (max-width: 900px) {
+  .reference-information {
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 !important;
+
+    li, div {
+      font-size: 14px !important;
+      padding: 0 !important;
+      width: 100%;
+      column-gap: 40px;
+      margin-top: 10px;
+    }
+
+    h6 {
+      width: 250px !important;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    span {
+      width: 250px !important;
+      padding: 0 !important;
+      margin: 10px;
+    }
+  }
+
+  .rf-slider {
+    display: none;
+  }
+
+  .rf-slider-mobile {
+    display: block;
+  }
+
+  .reference-quote-item {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 0;
+
+    img {
+      margin-bottom: 30px;
+    }
+  }
+
+  .references-related {
+    display: none;
+  }
+
+  .related-cards-mobile {
+    display: block;
+  }
+
+  .related-cards-desktop {
+    display: none;
+  }
+
+}
+
+.uk-card-media-top div {
+  height: 250px;
+  width: 100%;
+  background-clip: content-box;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container-v2 {
+  padding-inline: 200px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .container-v2 {
+    padding-inline: 150px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .container-v2 {
+    padding-inline: 100px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .container-v2 {
+    padding-inline: 75px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .container-v2 {
+    padding-inline: 50px;
+  }
+}
+
+
+.space-between {
+  justify-content: space-between !important;
+}
+
+/* The modal (background) */
+.modals {
+  visibility: hidden;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the modal */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: scroll; /* Enable scroll if needed */
+  background-color: rgb(65, 65, 65); /* Fallback color */
+  background-color: rgba(39, 39, 39, 0.9); /* Black w/ opacity */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+/* Modal Content (image) */
+.modal-content {
+  width: 50%;
+  height: auto;
+  margin-top: -10%;
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.no-text-decoration {
+  text-decoration: none !important;
+}
+.no-style-link-scale {
+  &:hover {
+    // increase shadow by 4%
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
+  }
+}
+
+p {
+  em {
+    display: block;
+    margin-top: -15px;
+    font-style: italic;
+  }
+}

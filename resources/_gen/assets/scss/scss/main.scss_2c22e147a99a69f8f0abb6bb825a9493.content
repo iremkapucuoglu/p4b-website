@@ -11954,7 +11954,10 @@ th {
       top: 100%;
       font-size: 12px;
       text-align: center;
-      max-width: 220px; }
+      width: 430px; }
+      .rf-slider div div span {
+        width: 80%;
+        text-align: center; }
   .rf-slider li {
     text-align: center;
     font-size: 11px;
@@ -11965,6 +11968,11 @@ th {
     height: 330px;
     vertical-align: middle;
     border-radius: 12px; }
+
+.hover-scale {
+  transition: all .2s ease-in-out; }
+  .hover-scale:hover {
+    transform: scale(1.05); }
 
 .reference-quote-item {
   display: flex !important;

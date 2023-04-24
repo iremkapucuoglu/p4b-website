@@ -7,7 +7,7 @@ sections:
 weight: 60
 ---
 
-Verschiedene Indikatoren dienen als Benchmark für die Wegekonnektivität und die lokale Erreichbarkeit bei der Planung von fußgänger- und fahrradfreundlichen Quartieren. Einer dieser Indikatoren ist die Konnektivitäts-Heatmap. Die Konnektivitäts-Heatmap in GOAT ermöglicht es dem Benutzer, den Grad der Konnektivität des wegenetzes im Untersuchungsgebiet zu analysieren. Dies ist besonders wichtig für die Förderung aktiver Verkehrsträger (Zufußgehen und Fahrradfahren), da diese Verkehrsträger empfindlich auf Umwege reagieren.
+Verschiedene Indikatoren dienen als Benchmark für die Wegekonnektivität und die lokale Erreichbarkeit bei der Planung von fußgänger- und fahrradfreundlichen Quartieren. Einer dieser Indikatoren ist die Konnektivitäts-Heatmap. Die Konnektivitäts-Heatmap in GOAT ermöglicht es dem Benutzer, den Grad der Konnektivität des Wegenetzes im Untersuchungsgebiet zu analysieren. Dies ist besonders wichtig für die Förderung aktiver Verkehrsträger (Zufußgehen und Fahrradfahren), da diese Verkehrsträger empfindlich auf Umwege reagieren.
 
 #### Berechungsmethode
 

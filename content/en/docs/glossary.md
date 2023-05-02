@@ -41,7 +41,7 @@ _Image: [Uber](https://eng.uber.com/h3/ "Uber H3 grid")_
 #### Heatmap
 A heatmap is a graphical visualization form that uses different colors to indicate the different values of a dataset. This allows for a quick understanding of the data presented. 
 
-In GOAT, we, among others, use heatmaps to analyse the local accessibility (see [Heatmaps](/en/docs/heatmap/ "Indicator documenation on our heatmaps")) of different amenities, such as cafes, restaurants or supermarkets. The heatmap uses different colours to indicate the different accessibility values. This information can then be used to make decisions about aspects of planning. 
+In GOAT, we, among others, use heatmaps to analyse the local accessibility (see [Heatmaps](/en/docs/heatmap/ "Indicator documentation on our heatmaps")) of different amenities, such as cafes, restaurants or supermarkets. The heatmap uses different colours to indicate the different accessibility values. This information can then be used to make decisions about aspects of planning. 
 
 #### Indicator
 An indicator is a mean to analyze a specific attribute or topic in a quantitative way. Usually, a standardised procedure is applied for this, e.g. by using a formula. In planning, indicators can be used to assess the current situation, to compare different locations with each other, as well as to monitor the progress towards specific goals or objectives, such as improving accessibility. 

@@ -8,7 +8,7 @@ weight: 40
 
 #### Daten als wichtige Analysegrundlage 
 
-Gute Daten sind die Grundlage unserer Analysen und damit unser wertvollstes Gut. Um genaue Analysen auf der Grundlage qualitativ hochwertiger Daten zu angemessenen Kosten zu liefern, integrieren wir in unseren Anwendungen [GOAT](/goat/ "Was ist GOAT?") und [Map4Citizens](/posts/2023-01-02-map4citizensde/ "Was ist Map4Citizens?") verschiedene räumliche und nicht-räumliche Datensätze aus unterschiedlichen Quellen. Die Verarbeitung von Geodaten aus verschiedenen Quellen mit unterschiedlichen Genauigkeitsgraden kann eine große Herausforderung darstellen. Um eine nahtlose Datenverarbeitung zu gewährleisten, setzen wir eine Reihe von Techniken und Arbeitsabläufen ein, darunter effiziente Datenintegration, Disaggregation und Datenfusion.
+Gute Daten sind die Grundlage unserer Analysen und damit unser wertvollstes Gut. Um genaue Analysen auf der Grundlage qualitativ hochwertiger Daten zu angemessenen Kosten zu liefern, integrieren wir in unsere Anwendungen [GOAT](/goat/ "Was ist GOAT?") und [Map4Citizens](/posts/2023-01-02-map4citizensde/ "Was ist Map4Citizens?") verschiedene räumliche und nicht-räumliche Datensätze aus unterschiedlichen Quellen. Die Verarbeitung von Geodaten aus verschiedenen Quellen mit unterschiedlichen Genauigkeitsgraden kann eine große Herausforderung darstellen. Um eine nahtlose Datenverarbeitung zu gewährleisten, setzen wir eine Reihe von Techniken und Arbeitsabläufen ein, darunter effiziente Datenintegration, Disaggregation und Datenfusion.
 
 #### Datenerhebung und -aufbereitung
 

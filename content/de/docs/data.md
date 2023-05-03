@@ -1,5 +1,5 @@
 ---
-title: Data   
+title: Daten   
 permalink: "/de/docs/data/"
 sections:
 - about

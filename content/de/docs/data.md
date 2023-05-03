@@ -1,5 +1,5 @@
 ---
-title: Daten   
+title: Datengrundlage   
 permalink: "/de/docs/data/"
 sections:
 - about

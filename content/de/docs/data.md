@@ -26,7 +26,7 @@ Wir stellen sicher, dass die Daten in unseren Anwendungen auf dem neuesten Stand
 
 - **Verwaltungsgrenzen:** Die Daten werden verwendet, um die Grenzen eines geografischen Gebiets abzugrenzen, das in die Zuständigkeit von Regierungs- oder Verwaltungseinheiten wie Gemeinden, Bezirken oder Landkreisen fällt.
 
-- **Straßennetz:** Für den Fuß- und Radverkehr wird hauptsächlich OSM verwendet, aber die Straßennetzdaten sind flexibel, so dass auch andere Datensätze verwendet werden können. Für den MIV werden kalibrierte Routing-Netzwerke kommerzieller Anbieter verwendet, um Reisezeiten zu berechnen, einschließlich der unterschiedlichen Verkehrsdichte zu verschiedenen Tageszeiten.
+- **Wegenetz:** Für den Fuß- und Radverkehr wird hauptsächlich OSM verwendet, aber die Wegenetzdaten sind flexibel, so dass auch andere Datensätze verwendet werden können. Für den MIV werden kalibrierte Routing-Netzwerke kommerzieller Anbieter verwendet, um Reisezeiten zu berechnen, einschließlich der unterschiedlichen Verkehrsdichte zu verschiedenen Tageszeiten.
 
 - **Weitere Daten:** Eine Reihe weiterer Datensätze (Höhenmodelle, Straßenlärm- und Unfallpunktdatensätze etc.) sind in unseren Anwendungen integriert. Diese werden als Analysegrundlage verwendet und können in der Webkarte visualisiert werden. Darüber hinaus können die Nutzer Geoportale einbinden und die Visualisierung durch verschiedene Hintergrundkarten individualisieren.
 

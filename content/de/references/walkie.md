@@ -46,6 +46,9 @@ Durch die Gegenüberstellung des Walkability Index mit den Fußgängerpotentials
 - [Hackathon: Entwicklung eines Walkability-Index](../../posts/2021-04-06-walkability-index/ "Blogpost Hackathon: Entwicklung eines Walkability-Index")
 - [WALKIE Projekt erfolgreich abgeschlossen](../../posts/2021-08-06-walkie/ "Blogpost WALKIE Projekt erfolgreich abgeschlossen") 
 
+**Technische Dokumentation:**
+- [Walkability Index](../../docs/walkability_index/ "Walkability Index WALKIE")
+
 
 **Wissenschaftliche Veröffentlichung:**
 - [Analyse der Fußwegequalitäten zu Schulen: Entwicklung von Indikatoren auf Basis von OpenData](https://www.ssoar.info/ssoar/handle/document/79047 "Analyse der Fußwegequalitäten zu Schulen: Entwicklung von Indikatoren auf Basis von OpenData")

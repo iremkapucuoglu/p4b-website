@@ -1,5 +1,5 @@
 ---
-title: Routingprofile
+title: Routing Profile
 permalink: "/de/docs/routing_profiles/"
 lang: de
 sections:

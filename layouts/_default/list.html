@@ -19,32 +19,32 @@
 		<div class="uk-margin-top" data-uk-grid>
 			<div class="uk-width-expand@m uk-flex uk-flex-middle">
 				<ul class="uk-subnav">
-
-					{{if eq .Title "Blog" }}
+					{{ if eq .Title "Blog" }}
 					<li>
 						<a class="uk-text-bold" href="{{ " /blog/" | relLangURL }}">{{ i18n "all_posts" }}</a>
 					</li>
-					{{else if eq .Title "References"}}
+					{{ else if eq .Title "References" }}
 					<li>
 						<a class="uk-text-bold" href="{{ " /references/" | relLangURL }}">All posts</a>
 					</li>
-					{{else}}
+					{{ else }}
 					<li>
 						<a class="uk-text-bold" href="#" onclick="window.location.href = document.referrer">All
 							posts</a>
 					</li>
 					{{end}}
 
-					{{if eq .Title "Blog"}}
+					{{ if eq .Title "Blog" }}
 					{{range (.Site.GetPage "taxonomyTerm" "categories").Pages }}
 					{{if in .LinkTitle "$"}}
+					<i></i>
 					{{else}}
 					<li><a class="uk-text-bold" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
 					{{end}}
 					{{end}}
 					{{end}}
 
-					{{ if eq .Title "References"}}
+					{{ if eq .Title "References" }}
 					{{range (.Site.GetPage "taxonomyTerm" "categories").Pages }}
 					{{if in .LinkTitle "$"}}
 					<li><a class="uk-text-bold" href="{{ replace .Permalink " fields" "categories" }}">{{ replace
@@ -64,7 +64,6 @@
 							placeholder="{{if eq .Title " Blog" }}{{ i18n "search_placeholder_blog" }}{{ else }}{{
 							i18n "search_placeholder_references" }}{{ end}}" autocomplete="off" />
 						{{end}}
-
 						{{if eq .Title "References" }}
 						<span uk-search-icon></span>
 						<input class="uk-search-input uk-border-pill" type="search" id="search-input"

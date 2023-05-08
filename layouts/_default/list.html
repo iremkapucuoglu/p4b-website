@@ -58,17 +58,15 @@
 					<div class="uk-search uk-search-default uk-width-1-1">
 						<!-- Hide when we have categories in the url -->
 
-						{{if eq .Title "Blog" }}
+						{{ if eq .Title "Blog" }}
 						<span uk-search-icon></span>
 						<input class="uk-search-input uk-border-pill" type="search" id="search-input"
-							placeholder="{{if eq .Title " Blog" }}{{ i18n "search_placeholder_blog" }}{{ else }}{{
-							i18n "search_placeholder_references" }}{{ end}}" autocomplete="off" />
+							placeholder="{{ i18n "search_placeholder_blog" }}" autocomplete="off" />
 						{{end}}
-						{{if eq .Title "References" }}
+						{{if or (eq .Title "References") (eq .Title "Referenzen") }}
 						<span uk-search-icon></span>
 						<input class="uk-search-input uk-border-pill" type="search" id="search-input"
-							placeholder="{{if eq .Title " Blog" }}{{ i18n "search_placeholder_blog" }}{{ else }}{{
-							i18n "search_placeholder_references" }}{{ end}}" autocomplete="off" />
+							placeholder="{{ i18n "search_placeholder_references" }}" autocomplete="off" />
 						{{end}}
 					</div>
 					<ul class="uk-list uk-list-search uk-position-absolute uk-width-1-1" id="results-container"></ul>

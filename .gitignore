@@ -1,6 +1,5 @@
 # OS or Editor folders
 .DS_Store
 node_modules
-Grunfile.js
-package.json
-package-lock.json
+public/
+_gen/

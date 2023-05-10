@@ -11,12 +11,10 @@ heading = "Newsletter"
 image = ""
 layout = "center"
 text = "Melden Sie sich für unseren Newsletter an, damit Sie keine Neuigkeiten mehr verpassen. Er erscheint alle zwei Monate auf Deutsch und Englisch."
+
 [[blocks]]
 background = "muted"
-block = "links"
-heading = "Anmeldung"
-template = "links-block"
-text = "@SINA: add form here"
+block = "newsletter"
 
 [[blocks]]
 block = "news"

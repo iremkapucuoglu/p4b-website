@@ -11,12 +11,9 @@ heading = "Newsletter"
 image = ""
 layout = "center"
 text = "Subscribe to our newsletter to make sure you don't miss any news. It is published every two months in English and German. "
+
 [[blocks]]
-background = "muted"
-block = "links"
-heading = "Registration"
-template = "links-block"
-text = "@SINA: add form here"
+block = "newsletter"
 
 [[blocks]]
 block = "news"

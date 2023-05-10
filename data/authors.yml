@@ -138,7 +138,7 @@
     en: Working Student
     de: Werkstudentin
   image: "/images/sophie_meiningsw.webp"
-  team_member: true
+  team_member: false
   team_image: "/images/sophie_meining.webp"
   github: ''
   website: ''

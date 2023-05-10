@@ -76,7 +76,7 @@
 
 		<script>
 			let searchable_array = [];
-			let page_lang = window.location.href.split("/").includes("en") ? "en" : "de";
+			let page_lang = window.location.href.includes("/en/") ? "en" : "de";
 
 			// First retrieve the index file
 			$.getJSON("/js/lunr/PagesIndex.json")
@@ -91,7 +91,7 @@
 				searchable_array.forEach(function (item) {
 					// check for the en or de in the url of the page
 					// and get the results based on the language
-					if (item?.title.toLowerCase().includes(searchTerm) || item?.content.includes(searchTerm)) {
+					if (item?.title.toLowerCase().includes(searchTerm) || item?.content.toLowerCase().includes(searchTerm) || item?.summary.toLowerCase().includes(searchTerm) || item?.overview.toLowerCase().includes(searchTerm)) {
 						// check the results is in the blog path or references path
 						// and get the results based on the path
 						if (window.location.href.includes("blog") && !item?.href.includes("posts")) {

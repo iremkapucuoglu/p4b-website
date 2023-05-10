@@ -95,6 +95,7 @@ module.exports = function(grunt) {
                 title: frontMatter.title,
                 tags: frontMatter.tags,
                 href: href,
+                overview: frontMatter?.overview || "",
                 lang: extractLanguage(href),
                 summary: frontMatter.summary,
                 content: S(content[2]).trim().stripTags().stripPunctuation().s

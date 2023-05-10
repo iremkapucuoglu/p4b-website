@@ -1,6 +1,7 @@
 var toml = require("toml");
 var yaml = require("js-yaml"); // Add this line to import the YAML parser
 var S = require("string");
+const e = require("express");
 
 var CONTENT_PATHS = ["content/en/posts", "content/de/posts", "content/en/references", "content/de/references"]; // Example array of paths
 
@@ -60,7 +61,7 @@ module.exports = function(grunt) {
             var content = org_content;
             var href = S(abspath).chompLeft(contentPath).chompRight(".md").s;
             var pageIndex;
-            if (href.includes("index")) {
+            if (href.includes("_index")) {
                 return;
             }
             // First separate the Front Matter from the content and parse it
@@ -90,15 +91,13 @@ module.exports = function(grunt) {
                 href = S(abspath).chompLeft(contentPath).chompRight(filename).s;
             }
 
-            // Build Lunr index for this page
             pageIndex = {
-                title: frontMatter.title,
-                tags: frontMatter.tags,
+                title: frontMatter?.title,
                 href: href,
                 overview: frontMatter?.overview || "",
                 lang: extractLanguage(href),
-                summary: frontMatter.summary,
-                content: S(content[2]).trim().stripTags().stripPunctuation().s
+                summary: frontMatter?.summary,
+                content: S(content[2]).trim().stripTags().stripPunctuation().s || "",
             };
 
             return pageIndex;

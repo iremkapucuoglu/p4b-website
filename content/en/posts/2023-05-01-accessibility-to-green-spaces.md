@@ -1,6 +1,6 @@
 ---
 author : "sasso"
-categories : ["development"]
+categories : ["development", "use cases"]
 date : 2023-05-09T09:00:00Z
 description : "Discover how green spaces play a crucial role in creating resilient and sustainable cities and how accessibility analysis can optimize the planning process and promote inclusivity for green urban spaces."
 image : "/images/blog/green-spaces-resilient-cities/top_image.webp"
@@ -17,7 +17,7 @@ Cities are the engines of economic growth, innovation, and progress, but they al
 
 Green spaces provide numerous benefits to urban areas, including reducing heat islands, absorbing carbon dioxide and other pollutants, and providing habitats for urban wildlife. Additionally, green spaces can improve physical and mental health by providing opportunities for recreation and exercise and reducing stress and anxiety. Moreover, green spaces can enhance urban areas' beauty and aesthetic quality, increase property values, and boost tourism.   
 
-## Pioneering cities embracing green spaces.
+## Pioneering cities embracing green spaces
 
 Many cities have already embraced green spaces to enhance their resilience to climate change. For example, in Copenhagen, Denmark, the city has implemented a comprehensive plan to create green corridors that connect parks, gardens, and other green spaces. As a result, Copenhagen is now considered one of the world's most liveable cities, with high levels of air quality, low traffic congestion, and a high percentage of green space per capita. Similarly, the city has created a vast network of green spaces in Singapore, including parks, gardens, and even a botanic garden. This has resulted in a greener, more sustainable city with improved air quality, biodiversity, and recreational opportunities.
 
@@ -25,12 +25,12 @@ Many cities have already embraced green spaces to enhance their resilience to cl
 
 _Marina Barrage, Singapore 2022 - Photo by Aparna Johri on Unsplash._
 
-## Equitable distribution of green spaces.
+## Equitable distribution of green spaces
 
 While green spaces offer numerous benefits, their distribution across urban areas is only sometimes equitable. Lower-income communities often need more access to green spaces, as these areas tend to be concentrated in wealthier neighbourhoods. To tackle this issue effectively, cities must adopt policies prioritizing and promoting equitable access to green spaces. These policies should not only focus on providing funding for creating new green spaces in underprivileged neighbourhoods and investing in improved public transportation infrastructure to enhance access to existing green spaces but should also actively involve citizens in the planning process. Engaging with community groups and soliciting input from residents can ensure that green spaces are designed and managed to align with the needs and aspirations of diverse populations. By fostering a participatory approach, cities can create inclusive and democratic green spaces that are accessible to all members of the community, contributing to a more just and sustainable urban environment.  
 
 
-## Accessibility analysis for planning green spaces.
+## Accessibility analysis for planning green spaces
 
 Accessibility analysis are a useful method for the effective planning of green spaces. This process involves analyzing the ease people can access green spaces based on transportation options, distance, and physical barriers. By conducting accessibility analysis, city planners can identify areas where green spaces are needed, determine the best locations for new green spaces, and optimize the use of existing green spaces. Additionally, accessibility analysis can help ensure that green spaces are distributed equitably across urban areas and meet the needs of diverse populations. High accessibility to green spaces is essential for creating resilient, sustainable, and liveable cities. People with easy access to green spaces are more likely to use them for recreation, exercise, and relaxation, which can improve their physical and mental health. 
 
@@ -52,4 +52,4 @@ This latest GOAT update represents a significant step toward realizing our visio
 
 ## Try GOAT!
 
-Do you also want to perform location planning analyses with GOAT or are you interested in further information? [Contact us](/en/contact/ "Contact Plan4Better here!") or try the [free GOAT demo](/en/request-demo/ "Try GOAT for free!")!
+Do you also want to perform accessibility analyses with GOAT or are you interested in further information? [Contact us](/en/contact/ "Contact Plan4Better here!") or try the [free GOAT demo](/en/request-demo/ "Try GOAT for free!")!

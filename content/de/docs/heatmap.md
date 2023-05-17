@@ -37,7 +37,7 @@ Um die pro Hexagon berechneten Erreichbarkeitswerte zu interpretieren, wird eine
 
 ##### 3.1 Berechnung der Reisezeit
 
-Das folgende Beispiel veranschaulicht, wie die _lokale Erreichbarkeitsheatmap_ berechnet wird. Die Reisezeiten werden für jedes Hexagon zum jeweiligen Ziel im Straßennetz berechnet.
+Das folgende Beispiel veranschaulicht, wie die <i>lokale Erreichbarkeitsheatmap</i> berechnet wird. Die Reisezeiten werden für jedes Hexagon zum jeweiligen Ziel im Straßennetz berechnet.
 
 ![Vereinfachte Beispieldarstellung](/images/docs/technical_documentation/heatmap/grid_groceries.webp "Vereinfachte Beispieldarstellung")
 

@@ -34,7 +34,7 @@ In order to classify the accessibility levels that were computed for each grid c
 
 ##### 3.1 Calculation travel times
 
-The following example illustrates how the _local accessibility heatmap_ is computed. The travel times are calculated for each grid cell to the concerning destination on the street network.
+The following example illustrates how the <i>local accessibility heatmap</i> is computed. The travel times are calculated for each grid cell to the concerning destination on the street network.
 
 ![Simplified example](/images/docs/technical_documentation/heatmap/grid_groceries.webp "Simplified example")
 

@@ -17,10 +17,11 @@ An accessibility instrument is a tool used to calculate and analyze the accessib
 
 #### Active Mobility
 Active mobility refers to the use of human-powered modes of transport, such as walking, and cycling. It is an important part of sustainable transport as it reduces car dependency and is emission-free. Active mobility also has many health benefits, such as reducing the risk of obesity and cardiovascular disease. 
-
-<img src="/images/docs/technical_documentation/glossary/active_mobility_freepik.webp" alt="Active Mobility" style="max-height:500px;"/>  
-
-_Image: [Designed by pch.vector / Freepik](http://www.freepik.com "Freepik")_
+ 
+<p align="center">
+<img src="/images/docs/technical_documentation/glossary/active_mobility_freepik.webp" alt="active_mobility" style="max-height:400px;"/>  
+<p align="center">
+<a href="http://www.freepik.com">Designed by pch.vector / Freepik</a>
 
 #### Area of Interest (AOI)
 An Area of Interest (AOI) is a specific geographical region or boundary that is of particular interest or importance to a particular study or analysis. It can be a watershed, a forest, a park or any other geographic area relevant to the study. The AOI is usually defined by a set of coordinates or a polygonal boundary that encompasses the region of interest. 
@@ -33,10 +34,11 @@ Connectivity has a direct impact on accessibility, as it is decisive for the tra
 #### H3 Grid <img src="/images/docs/technical_documentation/glossary/H3_grid_logo.webp" alt="h3_grid_logo" style="max-height:80px;"/>  
 The H3 grid is a geospatial indexing system by Uber Technologies that partitions the Earth's surface into a hierarchical grid of hexagonal cells for more efficient and accurate representation and analysis of geospatial data. It uses a hexagonal tiling approach based on an icosahedron, creating a hierarchical structure with multiple levels of resolution. The hexagonal shape allows for equidistant and consistent spatial representation, with different resolutions. The resolution 10 (approx. 75m edge length) is used in GOAT for computing travel-times and resolution 9 (approx. 200m edge length) or higher is used for visualization of heatmaps. Values are aggregated from the higher to lower resolution by computing the mean. 
 <p align="center">
-<img src="/images/docs/technical_documentation/glossary/H3_grid.webp" alt="h3_grid" style="max-height:500px;center"/>  
+<img src="/images/docs/technical_documentation/glossary/H3_grid.webp" alt="h3_grid" style="max-height:250px;center"/>  
+<p align="center">
 
 _Image: [Uber](https://eng.uber.com/h3/ "Uber H3 grid")_ 
-<p>
+
 
 #### Heatmap
 A heatmap is a graphical visualization form that uses different colors to indicate the different values of a dataset. This allows for a quick understanding of the data presented. 
@@ -56,15 +58,27 @@ Land use is the categorization and management of land according to its functiona
 
 <p align="center">
 <img src="/images/docs/technical_documentation/glossary/landuse.webp" alt="land-use" style="max-height:300px;"/>  
+<p align="center">
 
 _Image: [Chatham House Sustainability Accelerator](https://accelerator.chathamhouse.org/article/land-use-challenges "Chatham House Sustainability Accelerator")_
-<p>
+
 
 #### Local Accessibility
 Local accessibility, also known as neighborhood-level accessibility, refers to the ease with which people can access essential services within a specific neighborhood or area ([Handy, 1992](http://www.jstor.org/stable/23288518 "Visit Reference")). It usually refers to active modes of transport and is focusing on short travel distances. 
 
-#### Open Source <img src="/images/docs/technical_documentation/glossary/open_source.webp" alt="open_source" style="max-height:80px;"/>  
-Open source refers to software or other products whose source code is freely available and can be viewed by independent third parties. Depending on the open source licence, the code can be used, modified and redistributed.
+#### Micromobility
+Micromobility is a growing trend in urban transportation, involving small, lightweight vehicles like electric scooters and bicycles. These compact modes of transport offer convenient, eco-friendly solutions for short-distance travel. 
+
+One of the key advantages of micromobility is its positive impact on the environment. By replacing traditional modes of transportation with electric scooters and bicycles, micromobility helps reduce air pollution and greenhouse gas emissions. Additionally, it promotes active mobility, contributing to healthier lifestyles and reducing the carbon footprint. 
+
+<p align="center">
+<img src="/images/docs/technical_documentation/glossary/micromobility_freepik.webp" alt="micromobility" style="max-height:300px;"/>  
+<p align="center">
+<a href="http://www.freepik.com">Designed by pch.vector / Freepik</a>
+
+
+#### Open Source <img src="/images/docs/technical_documentation/glossary/open_source.webp" alt="open_source" style="max-height:60px;"/>  
+Open source refers to software or other products that are made available to the public with their source code freely accessible and modifiable. This allows individuals and organizations to modify and improve the product as needed, without restrictions on use or distribution. 
 
 #### Planning Support System (PSS)
 A planning support system is a digital tool used to support the planning and decision-making process for urban and regional development. It uses data and models to provide information on various aspects of planning, such as land use, transportation, and environmental impact. A PPS allows planners to explore different scenarios and evaluate the potential outcomes of their decisions. 
@@ -73,12 +87,18 @@ A planning support system is a digital tool used to support the planning and dec
 A Point of Interest (POI) refers to a distinct location or site that holds significant relevance or value within a specific context, study, or analysis. In the context of GOAT, POIs mainly refer to amenities of daily need, such as supermarkets, kindergartens or restaurants. 
 
 #### Quintile Classification
-Quintile classification is a common method used in Geographic Information Systems (GIS) to divide data into equal groups based on their values. This method is useful for analysing and visualising patterns in data and can help to identify trends and patterns that may not be readily apparent.
+Quintile classification is a commonly used method in Geographic Information Systems (GIS) to divide data into equal groups based on their values. This method is useful for analyzing and visualizing patterns in data and can help identify trends and patterns that may not be obvious easily. 
 
-In GIS, quintile classification is often used to create choropleth maps, which are maps that use color to represent different values of a variable. For example, the [accessibility heatmaps in GOAT](/en/docs/heatmap/ "Indicator documentation on the GOAT heatmaps") use quintile classification to relatively determine what is high or low accessibility in the local context. For the classification, we first filter all zero values which have “no accessibility” and then we sort the remaining data from lowest to highest. We divide the data into 6 equal groups, each containing 20% of the total data, resulting in a ranking from "very low accessibility" to "very high accessibility". 
+In GIS, quintile classification is often used to create choropleth maps, which are maps that use color to represent different values of a variable. For example, a choropleth map of the population density of a city. The map would be divided into five color-coded categories, with each category representing a different range of population densities. 
 
-<!-- #### Regional Accessibility
-Regional accessibility refers to the ease with which people can access essential services across a larger region, such as a city or a county, usually with motorized modes, i.e. public transport and car. Based on panel data from the national travel survey, regional accessibility is determined by calculating the total number of residents who need access to and from a specific location within generally accepted travel times, such as 30 minutes by car and 45 minutes by public transportation for home-to-work travel and occasional shopping trips ([Straatemeier, 2008](https://doi.org/10.1016/j.tranpol.2007.10.002 "Visit Reference")).   -->
+The accessibility heatmaps in GOAT use quintile classification to determine what is high or low accessible. For the classification, we first assign all zero values which have “no accessibility” and then we sort the data from lowest to highest. We divide the data into 6 equal groups, each containing 20% of the total data. The values in each group are assigned a rank from 0 to 5, with 0 being the lowest (no accessibility) and 5 being the highest (very high accessibility). 
+
+#### Regional Accessibility
+Regional accessibility refers to the ease with which people can access essential services across a larger region, such as a city or a county, usually with motorized modes, i.e. public transport and car. Based on panel data from the national travel survey, regional accessibility is determined by calculating the total number of residents who need access to and from a specific location within generally accepted travel times, such as 30 minutes by car and 45 minutes by public transportation for home-to-work travel and occasional shopping trips ([Straatemeier, 2008](https://doi.org/10.1016/j.tranpol.2007.10.002 "Visit Reference")).   
+
+OR
+
+Regional accessibility is a fundamental aspect of urban and regional planning. It involves the deliberate design and implementation of transportation networks and infrastructure to ensure convenient and efficient travel within and between regions. Effective planning considers factors such as road networks, public transportation systems, pedestrian-friendly design, and digital connectivity to enhance accessibility for all residents. By incorporating regional accessibility into planning concepts, communities can foster equitable access to employment, education, healthcare, and other essential services, ultimately improving the overall livability and sustainability of the region.
 
 #### Routing <img src="/images/docs/technical_documentation/glossary/routing_logo.webp" alt="open_source" style="max-height:80px;"/>  
 Routing refers to the process of finding the fastest or shortest path from one location to another. This is commonly used in transportation planning and navigation systems to help people get from point A to point B but is also crucial to accessibility analysis.

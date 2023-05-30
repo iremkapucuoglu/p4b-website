@@ -8,7 +8,7 @@ weight: 10
 
 
 #### Accessibility
-Accessibility is defined first in 1959 as “the potential of opportunities for interaction”, which refers to the ease with which people or goods can reach a particular location ([Hansen, 1959](https://doi.org/10.1080/01944365908978307 "Visit Reference")). In the context of GIS and urban planning, it refers to the ease with which people can reach essential services, such as healthcare facilities, schools, or supermarkets. 
+Accessibility is defined first in 1959 as “the potential of opportunities for interaction”, which refers to the ease with which people or goods can be reached from a particular location ([Hansen, 1959](https://doi.org/10.1080/01944365908978307 "Visit Reference")). In the context of GIS and urban planning, it refers to the ease with which people can reach essential services, such as healthcare facilities, schools, or supermarkets. 
 
 Generally, ensuring appropriate accessibility is a critical aspect of urban and transport planning, as it profoundly influences individuals' quality of life and transportation decisions. Accessibility can be expressed through diverse indicators that aim modelling accessibility at different spatial scales and transport modes.
 

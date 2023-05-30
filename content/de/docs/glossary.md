@@ -7,16 +7,10 @@ weight: 10
 ---
 
 
-#### Erreichbarkeit
-Erreichbarkeit wurde erstmals 1959 als "das Potenzial an Interaktionsmöglichkeiten" definiert, was sich auf die Einfachheit bezieht, mit der Menschen oder Güter von einem bestimmten Ort aus erreicht werden können ([Hansen, 1959](https://doi.org/10.1080/01944365908978307 "Zur Referenz")). Im Kontext von GIS und Stadtplanung bezieht es sich auf die Einfachheit, mit der Menschen wichtige Dienstleistungen wie Gesundheitseinrichtungen, Schulen oder Supermärkte erreichen können. 
 
-Generell ist die Gewährleistung einer angemessenen Erreichbarkeit ein entscheidender Aspekt der Stadt- und Verkehrsplanung, da sie die Lebensqualität des Einzelnen und seine Mobilitätsentscheidungen maßgeblich beeinflusst. Erreichbarkeit kann durch verschiedene Indikatoren ausgedrückt werden, die darauf abzielen, die Erreichbarkeit auf verschiedenen räumlichen Ebenen und Verkehrsträgern zu modellieren.
-
-#### Erreichbarkeitsinstrument
-Ein Erreichbarkeitsinstrument ist ein digitales Werkzeug zur Berechnung und Analyse der Erreichbarkeit eines bestimmten Ortes oder einer Region. Es berücksichtigt Faktoren wie Mobilitätsoptionen, Entfernung und Reisezeit, um festzustellen, wie einfach die Menschen Zugang zu wichtigen Dienstleistungen wie Gesundheitsversorgung und Bildung haben. Technisch basiert ein Erreichbarkeitsinstrument in der Regel auf GIS-Technologie, Routing-Algorithmen und verschiedenen Datenquellen.
 
 #### Aktive Mobilität
-Aktive Mobilität bezieht sich auf die Nutzung von Verkehrsmitteln, die vom Menschen durch eigene Muskelkraft angetrieben werden, wie z.B. Gehen und Radfahren. Sie ist ein wichtiger Bestandteil der nachhaltigen Verkehrswende, da sie die Autoabhängigkeit verringert und emissionsfrei ist. Aktive Mobilität hat auch viele soziale Vorteile, denn sie ist für alle kostenlos zugänglich, fördert die soziale Interaktion und ist gut für die Gesundheit, da sie unter anderem das Risiko von Übergewicht und Herz-Kreislauf-Erkrankungen senkt.
+Aktive Mobilität bezieht sich auf Mobilitätsformen, die vom Menschen durch eigene Muskelkraft angetrieben werden, wie z.B. Gehen und Radfahren. Die Förderung der aktiven Mobilität ist ein wichtiger Bestandteil der nachhaltigen Verkehrswende, da sie die Autoabhängigkeit verringert und emissionsfrei ist. Aktive Mobilität hat auch viele soziale Vorteile, denn sie ist für alle kostenlos zugänglich, fördert die soziale Interaktion und ist gut für die Gesundheit, da sie unter anderem das Risiko von Übergewicht und Herz-Kreislauf-Erkrankungen senkt.
  
 <p align="center">
 <img src="/images/docs/technical_documentation/glossary/active_mobility_freepik.webp" alt="active_mobility" style="max-height:400px;"/>  
@@ -24,72 +18,81 @@ Aktive Mobilität bezieht sich auf die Nutzung von Verkehrsmitteln, die vom Mens
 <a href="http://www.freepik.com">Designed by pch.vector / Freepik</a>
 
 #### Area of Interest (AOI)
-Eine "Area of Interest" (AOI) ist eine bestimmte geografische Fläche, die für eine bestimmte Studie oder Analyse von besonderem Interesse oder Bedeutung ist. Dabei kann es sich z.B. um eine Wasserfläche, einen Wald, einen Park oder ein anderes für die Studie relevantes geografisches Gebiet handeln. Die AOI wird in der Regel durch ein Polygon definiert, welche die Region von Interesse umfasst.
+Eine "Area of Interest" (AOI) ist eine geografische Fläche, die für eine bestimmte Studie oder Analyse von besonderem Interesse oder Bedeutung ist. Dabei kann es sich z.B. um eine Wasserfläche, einen Wald oder einen Park handeln. Die AOIs werden in der Regel durch Polygone definiert.
+
+#### Digitales Planungswerkzeug
+Ein digitales Planungswerkzeug ist ein Werkzeug zur Unterstützung von Planungs- und Entscheidungsprozessen in der Stadt- und Verkehrsplanung. Es nutzt Daten und Modelle, um Informationen zu verschiedenen Aspekten der Planung wie Flächennutzung, Verkehrsinrastruktur und Umweltauswirkungen bereitzustellen. Mit einem digitalen Planungswerkzeug können verschiedene Szenarien untersucht und die möglichen Auswirkungen bewertet werden.
+
+#### Erreichbarkeit
+Erreichbarkeit wurde erstmals 1959 als "das Potenzial an Interaktionsmöglichkeiten" definiert und bezieht sich auf die Einfachheit, mit der verschiedene Ziele von einem bestimmten Ort aus erreicht werden können ([Hansen, 1959](https://doi.org/10.1080/01944365908978307 "Zur Referenz")). Im Kontext von GIS und Stadtplanung bezieht es sich auf die Einfachheit, mit der Menschen wichtige Dienstleistungen wie Gesundheitseinrichtungen, Schulen oder Supermärkte erreichen können. 
+
+Generell ist die Gewährleistung einer angemessenen Erreichbarkeit ein entscheidender Aspekt der Stadt- und Verkehrsplanung, da sie die Lebensqualität des Einzelnen und seine Mobilitätsentscheidungen maßgeblich beeinflusst. Erreichbarkeit kann durch verschiedene Indikatoren ausgedrückt werden, die darauf abzielen, die Erreichbarkeit auf verschiedenen räumlichen Ebenen und Verkehrsträgern zu modellieren.
+
+#### Erreichbarkeitsinstrument
+Ein Erreichbarkeitsinstrument ist ein digitales Werkzeug zur Berechnung und Analyse der Erreichbarkeit eines bestimmten Ortes oder einer Region. Es berücksichtigt Faktoren wie Mobilitätsoptionen, Entfernung und Reisezeit, um festzustellen, wie einfach die Menschen Zugang zu wichtigen Dienstleistungen wie Gesundheitsversorgung und Bildung haben. Technisch basiert ein Erreichbarkeitsinstrument in der Regel auf GIS-Technologie, Routing-Algorithmen und verschiedenen Datenquellen.
+
+#### Flächennutzung
+Flächennutzung ist die Kategorisierung und Verwaltung von Landflächen entsprechend ihrer funktionalen Rolle. Dies umfasst eine Reihe von Zwecken wie Wohnen, Gewerbe, Industrie, Natur und Freizeitflächen. Darüber hinaus umfasst die Flächennutzung auch Aspekte der Stadtplanung und des Umweltmanagements, da die Flächennutzung Faktoren wie die Bevölkerungsdichte und die Verteilung von Einrichtungen maßgeblich beeinflusst. Folglich hat die Flächennutzung eine direkte Auswirkung auf die Erreichbarkeit.
+
+<p align="center">
+<img src="/images/docs/technical_documentation/glossary/landuse.webp" alt="Flächennutzung" style="max-height:300px;"/>  
+<p align="center">
+
+_Graphik: [Chatham House Sustainability Accelerator](https://accelerator.chathamhouse.org/article/land-use-challenges "Chatham House Sustainability Accelerator")_
+
+
+#### H3-Gitter <img src="/images/docs/technical_documentation/glossary/H3_grid_logo.webp" alt="h3_grid_logo" style="max-height:80px;"/>  
+Das H3-Gitter ist ein räumliches Indexierungssystem, das von Uber Technologies entwickelt wurde. Es wurde entwickelt, um die Erdoberfläche in ein hierarchisches Gitter aus hexagonalen Zellen zu unterteilen, um eine effizientere und genauere Darstellung und Analyse räumlicher Daten zu ermöglichen. Es verwendet einen hexagonalen Kachelansatz, der auf einem Ikosaeder basiert und eine hierarchische Struktur mit mehreren Auflösungsebenen schafft. Die hexagonale Form ermöglicht eine äquidistante und konsistente räumliche Darstellung mit unterschiedlichen Auflösungen. Die Auflösung 10 (ca. 75m Kantenlänge) wird in GOAT für die Berechnung von Reisezeiten verwendet und die Auflösung 9 (ca. 200m Kantenlänge) oder höher für die Visualisierung von Heatmaps. Die Werte werden von der höheren zur niedrigeren Auflösung durch Mittelwertbildung aggregiert.
+<p align="center">
+<img src="/images/docs/technical_documentation/glossary/H3_grid.webp" alt="H3-Gitter von Uber" style="max-height:250px;center"/>  
+<p align="center">
+
+_Graphik: [Uber](https://eng.uber.com/h3/ "Uber H3-Gitter")_ 
+
+#### Heatmap
+Eine Heatmap ist eine grafische Visualisierungsform, die verschiedene Farben verwendet, um die unterschiedlichen Werte eines Datensatzes anzuzeigen. Dies ermöglicht ein schnelles Verständnis der dargestellten Daten. 
+
+In GOAT verwenden wir unter anderem Heatmaps, um die lokale Erreichbarkeit (siehe [Heatmaps](/de/docs/heatmap/ "Dokumentation zu unseren Heatmap-Indikatoren")) von verschiedenen Einrichtungen wie Cafés, Restaurants oder Supermärkten zu analysieren. Die Heatmap verwendet eine Reihe von Farben, um verschiedene Erreichbarkeitswerte darzustellen. Diese Analyse gibt Aufschluss über die Verteilung der Ziele und die verfügbare Verkehrsinfrastruktur.
+
+#### Indikator
+Ein Indikator ist ein Mittel zur quantitativen Analyse eines bestimmten Attributs oder Thematik. Dies geschieht in der Regel nach einem standardisierten Verfahren, z.B. durch die Verwendung einer Formel. In der Planung können Indikatoren verwendet werden, um die aktuelle Situation zu bewerten, verschiedene Standorte miteinander zu vergleichen und die Fortschritte bei der Umsetzung bestimmter Ziele zu überwachen, z.B. bei der Verbesserung der Erreichbarkeit.
+
+#### Isochrone
+Eine Isochrone oder ein Einzugsgebiet ist ein Indikator, der angibt, wie weit Personen in einer bestimmten Zeit mit einer bestimmten Geschwindigkeit von einem ausgewählten Ort aus gehen können. Isochronen können für jedes Verkehrsmittel berechnet werden, z.B. zu Fuß, mit dem Fahrrad, mit dem Auto oder mit öffentlichen Verkehrsmitteln. Je nach gewähltem Verkehrsmittel wird das entsprechende Streckennetz verwendet.  
+
+Weitere Informationen zur Isochronenberechnung finden Sie in unserer [Indikator-Dokumentation](/de/docs/isochrone/ "Isochronen-Dokumentation").
 
 #### Konnektivität
-Die Konnektivität bezieht sich auf den Grad der Vernetzung der Wege untereinander. Je höher die Dichte der Wege und Kreuzungen, desto höher die Konnektivität. Die größten Hindernisse für die Konnektivität sind u.a. Flüsse, Eisenbahnlinien und Autobahnen.
+Die Konnektivität bezieht sich auf den Grad der Vernetzung der Wege untereinander. Je höher die Dichte der Wege und Kreuzungen, desto höher die Konnektivität. Konnektivitätsbarrieren sind u.a. Flüsse, Eisenbahnlinien und Autobahnen.
 
 Die Erreichbarkeit hängt direkt von der Konnektivität ab, denn sie ist entscheidend für die Reisezeit, um ein bestimmtes Ziel zu erreichen. Eine hohe Konnektivität ist besonders wichtig für aktive Verkehrsträger, da diese besonders empfindlich auf Umwege reagieren. Daher ist eine gute Konnektivität eine Grundvoraussetzung zur Gewährleistung der Erreichbarkeit von Dienstleistungen und Einrichtungen und zur Förderung der nachhaltigen Mobilität.
 
-#### H3 Grid <img src="/images/docs/technical_documentation/glossary/H3_grid_logo.webp" alt="h3_grid_logo" style="max-height:80px;"/>  
-The H3 grid is a geospatial indexing system by Uber Technologies that partitions the Earth's surface into a hierarchical grid of hexagonal cells for more efficient and accurate representation and analysis of geospatial data. It uses a hexagonal tiling approach based on an icosahedron, creating a hierarchical structure with multiple levels of resolution. The hexagonal shape allows for equidistant and consistent spatial representation, with different resolutions. The resolution 10 (approx. 75m edge length) is used in GOAT for computing travel-times and resolution 9 (approx. 200m edge length) or higher is used for visualization of heatmaps. Values are aggregated from the higher to lower resolution by computing the mean. 
-<p align="center">
-<img src="/images/docs/technical_documentation/glossary/H3_grid.webp" alt="h3_grid" style="max-height:250px;center"/>  
-<p align="center">
 
-_Image: [Uber](https://eng.uber.com/h3/ "Uber H3 grid")_ 
+#### Lokale Erreichbarkeit
+Lokale Erreichbarkeit, auch bekannt als Nahmobilität, bezieht sich auf die Einfachheit, mit der Menschen Dienstleistungen und Einrichtungen in einem bestimmten Stadtteil oder Gebiet erreichen können ([Handy, 1992](http://www.jstor.org/stable/23288518 "Zur Referenz")). Sie bezieht sich in der Regel auf aktive Verkehrsmittel und kurze Entfernungen (vgl. Konzept "[Stadt der kurzen Wege](https://de.wikipedia.org/wiki/Stadt_der_kurzen_Wege "Was ist die Stadt der kurzen Wege?")"). 
 
-
-#### Heatmap
-A heatmap is a graphical visualization form that uses different colors to indicate the different values of a dataset. This allows for a quick understanding of the data presented. 
-
-In GOAT, we, among others, use heatmaps to analyse the local accessibility (see [Heatmaps](/en/docs/heatmap/ "Indicator documentation on our heatmaps")) of different amenities, such as cafes, restaurants or supermarkets. The heatmap utilizes a range of colors to represent various accessibility values. By analyzing this data, we can gain insights into the distribution of destinations and the quality of infrastructure available.
-
-#### Indicator
-An indicator is a mean to analyze a specific attribute or topic in a quantitative way. Usually, a standardised procedure is applied for this, e.g. by using a formula. In planning, indicators can be used to assess the current situation, to compare different locations with each other, as well as to monitor the progress towards specific goals or objectives, such as improving accessibility. 
-
-#### Isochrone
-An isochrone or catchment area is an indicator that shows how far people can travel in a given time with a given speed from a selected location. Isochrones can be calculated for any mode such as walking, cycling, car or public transport. Depending on the selected mode, the corresponding routing network is used.  
-
-You can find further information on how we perform isochrone calculations in our [indicator documentation](/en/docs/isochrone/ "Isochrone documentation"). 
-
-#### Land Use
-Land use is the categorization and management of land according to its functional role within a specific area. This includes a range of purposes such as residential, commercial, industrial, and natural or conservation uses. Additionally, land use incorporates aspects of urban planning and environmental management, as the manner in which land is utilized significantly influences factors like population density and the distribution of destinations. Consequently, land use has a direct and substantial impact on accessibility, affecting the availability of services, transport connectivity, and liveability of an area.
+#### Mikromobilität
+Mikromobilität ist ein wachsender Trend im Stadtverkehr, der die Nutzung von kleinen, leichten Fahrzeuge wie E-Roller und Skateboards umfasst. Diese Verkehrsmittel bieten komfortable Mobilität für kurze Strecken, u.a. für die Überwindung der "letzten Meile".
 
 <p align="center">
-<img src="/images/docs/technical_documentation/glossary/landuse.webp" alt="land-use" style="max-height:300px;"/>  
-<p align="center">
-
-_Image: [Chatham House Sustainability Accelerator](https://accelerator.chathamhouse.org/article/land-use-challenges "Chatham House Sustainability Accelerator")_
-
-
-#### Local Accessibility
-Local accessibility, also known as neighborhood-level accessibility, refers to the ease with which people can access essential services within a specific neighborhood or area ([Handy, 1992](http://www.jstor.org/stable/23288518 "Visit Reference")). It usually refers to active modes of transport and is focusing on short travel distances. 
-
-#### Micromobility
-Micromobility is a growing trend in urban transportation, involving small, lightweight vehicles like electric scooters and skateboards. These compact modes of transport offer convenient solutions for short-distance travel. 
-
-<p align="center">
-<img src="/images/docs/technical_documentation/glossary/micromobility_freepik.webp" alt="micromobility" style="max-height:300px;"/>  
+<img src="/images/docs/technical_documentation/glossary/micromobility_freepik.webp" alt="Mikromobilität" style="max-height:300px;"/>  
 <p align="center">
 <a href="http://www.freepik.com">Designed by pch.vector / Freepik</a>
 
 
-#### Open Source <img src="/images/docs/technical_documentation/glossary/open_source.webp" alt="open_source" style="max-height:60px;"/>  
-Open source refers to software or other products that are made available to the public with their source code freely accessible and modifiable. This allows individuals and organizations to modify and improve the product as needed, without restrictions on use or distribution. 
+#### Open Source <img src="/images/docs/technical_documentation/glossary/open_source.webp" alt="Open Source Entwicklung" style="max-height:60px;"/>  
+Open Source bezieht sich auf Software oder andere Produkte, die der Öffentlichkeit zur Verfügung gestellt werden und deren Quellcode frei zugänglich und modifizierbar ist. Dies ermöglicht es Einzelpersonen und Organisationen, das Produkt nach Bedarf zu ändern und zu verbessern, ohne Einschränkungen bei der Nutzung oder Verbreitung.
 
-#### Planning Support System (PSS)
-A planning support system is a digital tool used to support the planning and decision-making process for urban and regional development. It uses data and models to provide information on various aspects of planning, such as land use, transportation, and environmental impact. A PPS allows planners to explore different scenarios and evaluate the potential outcomes of their decisions. 
 
 #### Point of Interest (POI)
-A Point of Interest (POI) refers to a distinct location or site that holds significant relevance or value within a specific context, study, or analysis. In the context of GOAT, POIs mainly refer to amenities of daily need, such as supermarkets, kindergartens or restaurants. 
+Ein Point of Interest (POI) bezieht sich auf einen bestimmten Standort oder ein punktuelles Objekt, das für eine Untersuchung oder Analyse von Bedeutung ist. Im Kontext von GOAT beziehen sich POIs hauptsächlich auf Einrichtungen des täglichen Bedarfs wie Supermärkte, Kindergärten oder Restaurants.
 
-#### Quintile Classification
-Quintile classification is a commonly used method in Geographic Information Systems (GIS) to divide data into equal groups based on their values. This method is useful for analyzing and visualizing patterns in data and can help identify trends and patterns that may not be obvious easily. 
+#### Quintil-Klassifizierung
+Die Quintil-Klassifizierung ist eine in Geografischen Informationssystemen (GIS) häufig verwendete Methode zur Einteilung von Daten in gleichgroße Gruppen auf der Grundlage ihrer Werte. Diese Methode ist nützlich für die Visualisierung von Analyseergebnissen und zur Erkennung von Mustern.
 
-In GIS, quintile classification is often used to create choropleth maps, which are maps that use color to represent different values of a variable. For example, a choropleth map of the population density of a city. The map would be divided into five color-coded categories, with each category representing a different range of population densities. 
+In GIS wird die Quintil-Klassifizierung häufig zur Erstellung von Choropleth-Karten verwendet, d.h. von Karten, die verschiedene Werte einer Variablen farblich darstellen. Ein Beispiel hierfür ist eine Choroplethenkarte der Bevölkerungsdichte einer Stadt: die Karte wird in fünf farbcodierte Kategorien unterteilt, wobei jede Kategorie einen anderen Wertebereich der Bevölkerungsdichte darstellt. 
 
-The accessibility heatmaps in GOAT use quintile classification to determine what is high or low accessible. For the classification, we first assign all zero values which have “no accessibility” and then we sort the data from lowest to highest. We divide the data into 6 equal groups, each containing 20% of the total data. The values in each group are assigned a rank from 0 to 5, with 0 being the lowest (no accessibility) and 5 being the highest (very high accessibility). 
+Die Erreichbarkeits-Heatmaps in GOAT verwenden eine Quintil-Klassifizierung, um die Erreichbarkeitswerte in "hoch" und "niedrig" zu klassifizieren. Für die Klassifizierung werden zunächst alle NULL-Werte auf "keine Erreichbarkeit" gesetzt und dann die Daten vom niedrigsten zum höchsten Wert sortiert. Die Daten werden in 6 gleich große Gruppen mit jeweils 20% der Gesamtdaten eingeteilt. Jeder Gruppe wird ein Rang zwischen 0 und 5 zugewiesen, wobei 0 der niedrigste Wert (keine Zugänglichkeit) und 5 der höchste Wert (sehr hohe Zugänglichkeit) ist.
 
 <!--  #### Regional Accessibility
 Regional accessibility refers to the ease with which people can access essential services across a larger region, such as a city or a county, usually with motorized modes, i.e. public transport and car. Based on panel data from the national travel survey, regional accessibility is determined by calculating the total number of residents who need access to and from a specific location within generally accepted travel times, such as 30 minutes by car and 45 minutes by public transportation for home-to-work travel and occasional shopping trips ([Straatemeier, 2008](https://doi.org/10.1016/j.tranpol.2007.10.002 "Visit Reference")).   
@@ -98,18 +101,18 @@ OR
 
 Regional accessibility is a fundamental aspect of urban and regional planning. It involves the deliberate design and implementation of transportation networks and infrastructure to ensure convenient and efficient travel within and between regions. Effective planning considers factors such as road networks, public transportation systems, pedestrian-friendly design, and digital connectivity to enhance accessibility for all residents. By incorporating regional accessibility into planning concepts, communities can foster equitable access to employment, education, healthcare, and other essential services, ultimately improving the overall livability and sustainability of the region. -->
 
-#### Routing <img src="/images/docs/technical_documentation/glossary/routing_logo.webp" alt="open_source" style="max-height:80px;"/>  
-Routing refers to the process of finding the fastest or shortest path from one location to another. This is commonly used in transportation planning and navigation systems to help people get from point A to point B but is also crucial to accessibility analysis.
+#### Routing <img src="/images/docs/technical_documentation/glossary/routing_logo.webp" alt="Routing" style="max-height:80px;"/>  
+Routing ist der Prozess der Suche nach dem schnellsten oder kürzesten Weg von einem Ort zu einem anderen. Routing wird häufig in der Verkehrsplanung und in Navigationssystemen verwendet, um Menschen zu helfen, von Punkt A nach Punkt B zu gelangen, ist aber auch für Erreichbarkeitsanalysen von entscheidender Bedeutung.
 
-#### Sustainability <img src="/images/docs/technical_documentation/glossary/sustainability.webp" alt="open_source" style="max-height:80px;"/>  
-Sustainability refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. In the context of urban and regional development, sustainability involves balancing economic, social, and environmental factors to create livable and resilient communities. This includes reducing carbon emissions, promoting active mobility, and preserving natural resources. 
+#### Nachhaltigkeit <img src="/images/docs/technical_documentation/glossary/sustainability.webp" alt="Nachhaltigkeit" style="max-height:80px;"/>  
+Nachhaltigkeit bedeutet, die Bedürfnisse der Gegenwart so zu befriedigen, dass die Möglichkeiten zukünftiger Generationen nicht eingeschränkt werden. Im Kontext der Stadt- und Regionalentwicklung bedeutet Nachhaltigkeit ein Gleichgewicht zwischen wirtschaftlichen, sozialen und ökologischen Faktoren, um lebenswerte und resiliente Gemeinschaften zu schaffen. Dazu gehören die Verringerung von Emissionen, die Förderung aktiver Mobilität und die Erhaltung der natürlichen Ressourcen.
 
-#### Transport Mode
-Transport mode refers to the type of transportation used for a particular trip or journey. This can include modes such as transit (bus, train, subway), cycling (pedelec, bike), walking, and driving. The choice of transport mode can have a significant impact on factors such as travel time, cost, and environmental impact. 
+#### Verkehrsmittel
+Das Verkehrsmittel bezieht sich auf die Art der Fortbewegung, die für eine bestimmte Reise oder Fahrt gewählt wird. Dies können z.B. Bus, Zug, U-Bahn, Radfahren, Gehen oder Autofahren sein. Die Wahl des Verkehrsmittels kann erhebliche Auswirkungen auf Faktoren wie Reisezeit, Kosten und Umweltbelastung haben.
 
 
-### References
-Hansen, W.G. (1959). How accessibility shapes land use. Journal of the American Institue of Planners. 25, 73–76.
+### Referenzen
+Hansen, W.G. (1959). How accessibility shapes land use. Journal of the American Institute of Planners. 25, 73–76.
 https://doi.org/10.1080/01944365908978307 
 
 Handy, S. L. (1992). Regional Versus Local Accessibility: Neo-Traditional Development and its Implications for Non-work Travel. Built Environment (1978-), 18(4), 253–267. http://www.jstor.org/stable/23288518 

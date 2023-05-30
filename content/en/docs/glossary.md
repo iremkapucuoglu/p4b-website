@@ -75,7 +75,7 @@ Micromobility is a growing trend in urban transportation, involving small, light
 <a href="http://www.freepik.com">Designed by pch.vector / Freepik</a>
 
 
-#### Open Source <img src="/images/docs/technical_documentation/glossary/open_source.webp" alt="open_source" style="max-height:60px;"/>  
+#### Open Source <img src="/images/docs/technical_documentation/glossary/open_source.webp" alt="open source development" style="max-height:60px;"/>  
 Open source refers to software or other products that are made available to the public with their source code freely accessible and modifiable. This allows individuals and organizations to modify and improve the product as needed, without restrictions on use or distribution. 
 
 #### Planning Support System (PSS)
@@ -98,10 +98,10 @@ OR
 
 Regional accessibility is a fundamental aspect of urban and regional planning. It involves the deliberate design and implementation of transportation networks and infrastructure to ensure convenient and efficient travel within and between regions. Effective planning considers factors such as road networks, public transportation systems, pedestrian-friendly design, and digital connectivity to enhance accessibility for all residents. By incorporating regional accessibility into planning concepts, communities can foster equitable access to employment, education, healthcare, and other essential services, ultimately improving the overall livability and sustainability of the region. -->
 
-#### Routing <img src="/images/docs/technical_documentation/glossary/routing_logo.webp" alt="open_source" style="max-height:80px;"/>  
+#### Routing <img src="/images/docs/technical_documentation/glossary/routing_logo.webp" alt="routing" style="max-height:80px;"/>  
 Routing refers to the process of finding the fastest or shortest path from one location to another. This is commonly used in transportation planning and navigation systems to help people get from point A to point B but is also crucial to accessibility analysis.
 
-#### Sustainability <img src="/images/docs/technical_documentation/glossary/sustainability.webp" alt="open_source" style="max-height:80px;"/>  
+#### Sustainability <img src="/images/docs/technical_documentation/glossary/sustainability.webp" alt="sustainability" style="max-height:80px;"/>  
 Sustainability refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. In the context of urban and regional development, sustainability involves balancing economic, social, and environmental factors to create livable and resilient communities. This includes reducing carbon emissions, promoting active mobility, and preserving natural resources. 
 
 #### Transport Mode
@@ -109,7 +109,7 @@ Transport mode refers to the type of transportation used for a particular trip o
 
 
 ### References
-Hansen, W.G. (1959). How accessibility shapes land use. Journal of the American Institue of Planners. 25, 73–76.
+Hansen, W.G. (1959). How accessibility shapes land use. Journal of the American Institute of Planners. 25, 73–76.
 https://doi.org/10.1080/01944365908978307 
 
 Handy, S. L. (1992). Regional Versus Local Accessibility: Neo-Traditional Development and its Implications for Non-work Travel. Built Environment (1978-), 18(4), 253–267. http://www.jstor.org/stable/23288518 

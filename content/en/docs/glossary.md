@@ -67,9 +67,7 @@ _Image: [Chatham House Sustainability Accelerator](https://accelerator.chathamho
 Local accessibility, also known as neighborhood-level accessibility, refers to the ease with which people can access essential services within a specific neighborhood or area ([Handy, 1992](http://www.jstor.org/stable/23288518 "Visit Reference")). It usually refers to active modes of transport and is focusing on short travel distances. 
 
 #### Micromobility
-Micromobility is a growing trend in urban transportation, involving small, lightweight vehicles like electric scooters and bicycles. These compact modes of transport offer convenient, eco-friendly solutions for short-distance travel. 
-
-One of the key advantages of micromobility is its positive impact on the environment. By replacing traditional modes of transportation with electric scooters and bicycles, micromobility helps reduce air pollution and greenhouse gas emissions. Additionally, it promotes active mobility, contributing to healthier lifestyles and reducing the carbon footprint. 
+Micromobility is a growing trend in urban transportation, involving small, lightweight vehicles like electric scooters and skateboards. These compact modes of transport offer convenient solutions for short-distance travel. 
 
 <p align="center">
 <img src="/images/docs/technical_documentation/glossary/micromobility_freepik.webp" alt="micromobility" style="max-height:300px;"/>  
